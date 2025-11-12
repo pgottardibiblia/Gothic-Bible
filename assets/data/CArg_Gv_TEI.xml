@@ -208,189 +208,189 @@
 
          <!-- regular letters -->
 
-        <glyph xml:id='#amacr'>
+        <glyph xml:id='amacr'>
           <localProp name='Name' value='LATIN SMALL LETTER A WITH MACRON'/>
           <mapping subtype='MUFI' type='codepoint'>U+0101</mapping>
           <mapping type="diplomatic">ā</mapping>
           <mapping type="normalized">am</mapping>
         </glyph>
         
-        <glyph xml:id='#atild'>
+        <glyph xml:id='atild'>
           <localProp name='Name' value='LATIN SMALL LETTER A WITH TILDE'/>
           <mapping subtype='MUFI' type='codepoint'>U+	00E3</mapping>
           <mapping type="diplomatic">ã</mapping>
           <mapping type="normalized">an</mapping>
         </glyph>
         
-        <glyph xml:id='#esoveri'>
+        <glyph xml:id='esoveri'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized"></mapping>
         </glyph>
         
-        <glyph xml:id='#esuoverï'>
+        <glyph xml:id='esuoverï'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized"></mapping>
         </glyph>
         
-        <glyph xml:id='#etild'>
+        <glyph xml:id='etild'>
           <localProp name='Name' value='LATIN SMALL LETTER E WITH MACRON'/>
           <mapping subtype='MUFI' type='codepoint'>U+	0113</mapping>
           <mapping type="diplomatic">ē</mapping>
           <mapping type="normalized">en</mapping>
         </glyph>
         
-        <glyph xml:id='#fraujantachi'>
+        <glyph xml:id='fraujantachi'>
           <localProp name='Name' value='SHORTHAND OF FRAUJAN'/>
           <mapping subtype='MUFI' type='composite'></mapping>
           <mapping type="diplomatic">fan</mapping>
           <mapping type="normalized">fraujan</mapping>
         </glyph>
         
-        <glyph xml:id='#fraujatachi'>
+        <glyph xml:id='fraujatachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">fa</mapping>
           <mapping type="normalized">frauja</mapping>
         </glyph>
         
-        <glyph xml:id='#fraujinstachi'>
+        <glyph xml:id='fraujinstachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">fin</mapping>
           <mapping type="normalized">fraujin</mapping>
         </glyph>
         
-        <glyph xml:id='#guþatachi'>
+        <glyph xml:id='guþatachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">gþa</mapping>
           <mapping type="normalized">guþa</mapping>
         </glyph>
         
-        <glyph xml:id='#guþblostreistachi'>
+        <glyph xml:id='guþblostreistachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">gþblostreis</mapping>
           <mapping type="normalized">guþblostreis</mapping>
         </glyph>
         
-        <glyph xml:id='#guþistachi'>
+        <glyph xml:id='guþistachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">gþs</mapping>
           <mapping type="normalized">guþis</mapping>
         </glyph>
         
-        <glyph xml:id='#guþtachi'>
+        <glyph xml:id='guþtachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">gþ</mapping>
           <mapping type="normalized">guþ</mapping>
         </glyph>
         
-        <glyph xml:id='#htlig'>
+        <glyph xml:id='htlig'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">ħ</mapping>
           <mapping type="normalized">ht</mapping>
         </glyph>
         
-        <glyph xml:id='#iesuistachi'>
+        <glyph xml:id='iesuistachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">iis</mapping>
           <mapping type="normalized">iesuis</mapping>
         </glyph>
         
-        <glyph xml:id='#iesustachi'>
+        <glyph xml:id='iesustachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">is</mapping>
           <mapping type="normalized">iesus</mapping>
         </glyph>
         
-        <glyph xml:id='#iesutachi'>
+        <glyph xml:id='iesutachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">iu</mapping>
           <mapping type="normalized">iesu</mapping>
         </glyph>
         
-        <glyph xml:id='#imacr'>
+        <glyph xml:id='imacr'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">i</mapping>
           <mapping type="normalized">im</mapping>
         </glyph>
         
-        <glyph xml:id='#itild'>
+        <glyph xml:id='itild'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">i</mapping>
           <mapping type="normalized">in</mapping>
         </glyph>
         
-        <glyph xml:id='#mmacr'>
+        <glyph xml:id='mmacr'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">m</mapping>
           <mapping type="normalized">mm</mapping>
         </glyph>
         
-        <glyph xml:id='#ntild'>
+        <glyph xml:id='ntild'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">n</mapping>
           <mapping type="normalized">nn</mapping>
         </glyph>
         
-        <glyph xml:id='#otild'>
+        <glyph xml:id='otild'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">o</mapping>
           <mapping type="normalized">on</mapping>
         </glyph>
         
-        <glyph xml:id='#stild'>
+        <glyph xml:id='stild'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">s</mapping>
           <mapping type="normalized">sn</mapping>
         </glyph>
         
-        <glyph xml:id='#umacr'>
+        <glyph xml:id='umacr'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">u</mapping>
           <mapping type="normalized">um</mapping>
         </glyph>
         
-        <glyph xml:id='#utild'>
+        <glyph xml:id='utild'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">u̅</mapping>
           <mapping type="normalized">un</mapping>
         </glyph>
         
-        <glyph xml:id='#xristustachi'>
+        <glyph xml:id='xristustachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">xs</mapping>
           <mapping type="normalized">xristus</mapping>
         </glyph>
         
-        <glyph xml:id='#xristutachi'>
+        <glyph xml:id='xristutachi'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">xu</mapping>
           <mapping type="normalized">xristu</mapping>
         </glyph>
         
-        <glyph xml:id='#þtild'>
+        <glyph xml:id='þtild'>
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic">þ</mapping>
@@ -1078,7 +1078,7 @@
                      </table>
                   </fw>
                   <fw type="header" place="top_center" rend="silver_ink" xml:id="CArg_fw_88r_head">·ïoh(annes)·</fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_88r_1_1">anakumb<pb n='88r' xml:id='#CArg_pb_47_88r'/><lb n='1' xml:id='CArg_lb_88r_1'/>jandam</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_88r_1_1">anakumb<pb n='88r' xml:id='CArg_pb_47_88r'/><lb n='1' xml:id='CArg_lb_88r_1'/>jandam</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_88r_1_2">samaleiko</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_88r_1_3">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_88r_1_4">þize</w>
@@ -3625,7 +3625,7 @@
                         </note>
                      </table>
                   </fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_94v_1_1">bi<pb n='94v' xml:id='#CArg_pb_60_94v'/><lb n='1' xml:id='CArg_lb_94v_1'/>maitiþ</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_94v_1_1">bi<pb n='94v' xml:id='CArg_pb_60_94v'/><lb n='1' xml:id='CArg_lb_94v_1'/>maitiþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_94v_1_2">mannan</w>
                   <pc type="comma" xml:id="CArg_comma_94v_1_3">·</pc>
                </ab>
@@ -4150,7 +4150,7 @@
                      </table>
                   </fw>
                   <fw type="header" place="top_center" rend="silver_ink" xml:id="CArg_fw_96r_head">·ïoh(annes)·</fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_96r_1_1">liban<pb n='96r' xml:id='#CArg_pb_63_96r'/><lb n='1' xml:id='CArg_lb_96r_1'/>dins</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_96r_1_1">liban<pb n='96r' xml:id='CArg_pb_63_96r'/><lb n='1' xml:id='CArg_lb_96r_1'/>dins</w>
                   <pc type="comma" xml:id="CArg_comma_96r_1_2">·</pc>
                </ab>
                <ab type="verse" n="39" xml:id="CArg_Gv_7_verse_39">
@@ -7259,7 +7259,7 @@
                         </note>
                      </table>
                   </fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_82v_1_1">habai<pb n='82v' xml:id='#CArg_pb_80_82v'/><lb n='1' xml:id='CArg_lb_82v_1'/>dedeiþ</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_82v_1_1">habai<pb n='82v' xml:id='CArg_pb_80_82v'/><lb n='1' xml:id='CArg_lb_82v_1'/>dedeiþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_82v_1_2">frawaurhtais</w>
                   <pc type="comma" xml:id="CArg_comma_82v_1_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_82v_1_4">ïþ</w>
@@ -9918,7 +9918,7 @@
                         </note>
                      </table>
                   </fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_76r_1_1">wiþra<pb n='76r' xml:id='#CArg_pb_95_76r'/><lb n='1' xml:id='CArg_lb_76r_1'/>gamotjan</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_76r_1_1">wiþra<pb n='76r' xml:id='CArg_pb_95_76r'/><lb n='1' xml:id='CArg_lb_76r_1'/>gamotjan</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_76r_1_2">ïmma</w>
                   <pc type="comma" xml:id="CArg_comma_76r_1_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_76r_1_4">jah</w>
@@ -10501,7 +10501,7 @@
                         </note>
                      </table>
                   </fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_77v_1_1">uswairpa<pb n='77v' xml:id='#CArg_pb_98_77v'/><lb n='1' xml:id='CArg_lb_77v_1'/>da</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_77v_1_1">uswairpa<pb n='77v' xml:id='CArg_pb_98_77v'/><lb n='1' xml:id='CArg_lb_77v_1'/>da</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_77v_1_2">ut</w>
                   <pc type="comma" xml:id="CArg_comma_77v_1_3">·</pc>
                </ab>
@@ -11270,7 +11270,7 @@
                      </table>
                   </fw>
                   <fw type="header" place="top_center" rend="silver_ink" xml:id="CArg_fw_79v_head">·þairh·</fw>
-                  <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_79v_1_1">game<pb n='79v' xml:id='#CArg_pb_102_79v'/><lb n='1' xml:id='CArg_lb_79v_1'/>lido</w>
+                  <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_79v_1_1">game<pb n='79v' xml:id='CArg_pb_102_79v'/><lb n='1' xml:id='CArg_lb_79v_1'/>lido</w>
                   <ref type="Old_Testament_reference" corresp="Sal41,10" xml:id="CArg_AT_ref_13_18"/>
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_79v_1_2">saei</w>
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_79v_1_3">matida</w>
@@ -12815,7 +12815,7 @@
                      </table>
                   </fw>
                   <fw type="header" place="top_center" rend="silver_ink" xml:id="CArg_fw_68v_head">·þairh·</fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_68v_1_1">þana<pb n='68v' xml:id='#CArg_pb_110_68v'/><lb n='1' xml:id='CArg_lb_68v_1'/>seiþs</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_68v_1_1">þana<pb n='68v' xml:id='CArg_pb_110_68v'/><lb n='1' xml:id='CArg_lb_68v_1'/>seiþs</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_68v_1_2">filu</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_68v_1_3">ni</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_68v_1_4">maþlja</w>
@@ -15634,7 +15634,7 @@
                         </note>
                      </table>
                   </fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_113r_1_1">friaþ<pb n='113r' xml:id='#CArg_pb_125_113r'/><lb n='1' xml:id='CArg_lb_113r_1'/>wa</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_113r_1_1">friaþ<pb n='113r' xml:id='CArg_pb_125_113r'/><lb n='1' xml:id='CArg_lb_113r_1'/>wa</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_113r_1_2">þoei</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_113r_1_3">frijodes</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_113r_1_4">mik</w>
@@ -16475,7 +16475,7 @@
                         </note>
                      </table>
                   </fw>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_115r_1_1">rodided<pb n='115r' xml:id='#CArg_pb_129_115r'/><lb n='1' xml:id='CArg_lb_115r_1'/>jau</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_115r_1_1">rodided<pb n='115r' xml:id='CArg_pb_129_115r'/><lb n='1' xml:id='CArg_lb_115r_1'/>jau</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_115r_1_2">du</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_115r_1_3">ïm</w>
                   <pc type="comma" xml:id="CArg_comma_115r_1_4">·</pc>
@@ -17565,7 +17565,7 @@
                      </table>
                   </fw>
                   <fw type="header" place="top_center" rend="silver_ink" xml:id="CArg_fw_117v_head">·þairh·</fw>
-                  <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_117v_1_1">peila<pb n='117v' xml:id='#CArg_pb_134_117v'/><lb n='1' xml:id='CArg_lb_117v_1'/>tus</w>
+                  <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_117v_1_1">peila<pb n='117v' xml:id='CArg_pb_134_117v'/><lb n='1' xml:id='CArg_lb_117v_1'/>tus</w>
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_117v_1_2">þata</w>
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_117v_1_3">waurd</w>
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_117v_1_4">mais</w>
@@ -17734,4 +17734,5 @@
       </body>
    </text>
 </TEI>
+
 
