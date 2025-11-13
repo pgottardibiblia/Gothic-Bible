@@ -18,7 +18,7 @@
 		{
 			"id": "critical",
 			"label": "critical",
-			"enable": false,
+			"enable": true,
 			"hidden": false
 		},
 		{
