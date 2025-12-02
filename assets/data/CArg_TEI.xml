@@ -1,0 +1,438 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edizione digitale della <title>Bibbia gotica</title>: Uppsala, Biblioteca dell'Università di Uppsala Carolina Rediviva, Codex Argenteus</title>
+            <author>Wulfila</author>
+            <principal>Carla Falluomini</principal>
+            <principal>Antonio Piras</principal>
+            <principal>Roberto Rosselli Del Turco</principal>
+            <respStmt>
+               <resp>General overview: </resp>
+               <name>Carla Falluomini</name>
+               <name>Pierandrea Gottardi</name>
+               <name>Roberto Rosselli Del Turco</name>
+            </respStmt>
+            <respStmt>
+               <resp>Trascrizione e codifica TEI iniziale effettuata da</resp>
+               <name>Pierandrea Gottardi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Codifica TEI effettuata da</resp>
+               <name>Pierandrea Gottardi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revisione e finalizzazione della codifica TEI effettuata da</resp>
+               <name>Pierandrea Gottardi</name>
+               <name>Roberto Rosselli Del Turco</name>
+            </respStmt>
+         </titleStmt>
+
+         <editionStmt>
+            <edition>Edizioni cartacee precedenti</edition>
+            <respStmt xml:id="junius">
+               <resp>Editor</resp>
+               <name ref="#Junius1665">Franciscus Junius</name>
+            </respStmt>
+            <respStmt xml:id="gabelentz-loebe">
+               <resp>Editor</resp>
+               <name ref="#Gabelentz-Loebe1836">H.C. Gabelentz, J. Loebe</name>
+            </respStmt>
+            <respStmt xml:id="massmann">
+               <resp>Editor</resp>
+               <name ref="#Massmann1856">Hans Ferdinand Massmann</name>
+            </respStmt>
+            <respStmt xml:id="uppström">
+               <resp>Editor</resp>
+               <name ref="#Uppström1857">Anders Uppström</name>
+            </respStmt>
+            <respStmt xml:id="stamm-wrede">
+               <resp>Editor</resp>
+               <name ref="#Stamm-Wrede1903">F.L. Stamm, F. Wrede</name>
+            </respStmt>
+            <respStmt xml:id="bernhardt">
+               <resp>Editor</resp>
+               <name ref="#Bernhardt1875">Ernst Bernhardt</name>
+            </respStmt>
+            <respStmt xml:id="streitberg">
+               <resp>Editor</resp>
+               <name ref="#Streitberg2000">Wilhelm Streitberg</name>
+            </respStmt>
+            <respStmt xml:id="snædal">
+               <resp>Editor</resp>
+               <name ref="#Snædal1998">Magnus Snædal</name>
+            </respStmt>
+            <respStmt xml:id="francini">
+               <resp>Editor</resp>
+               <name ref="#Francini2009">Marusca Francini</name>
+            </respStmt>
+
+            <edition>Digitalizzazioni precedenti, pubblicate e non pubblicate</edition>
+            <respStmt xml:id="detollenaere-jones">
+               <resp>Editor</resp>
+               <name ref="#DeTollenaere-Jones1976">F. De Tollenaere, R.L. Jones</name>
+            </respStmt>
+            <respStmt xml:id="estabrook-marchand">
+               <resp>Editor</resp>
+               <name ref="#Estabrook-Marchand?">William Estabrook, James W. Marchand</name>
+            </respStmt>
+            <respStmt xml:id="griepentrog">
+               <resp>Editor</resp>
+               <name ref="#Griepentrog1988">Wolfgang Griepentrog</name>
+            </respStmt>
+            <respStmt xml:id="veselinova">
+               <resp>Editor</resp>
+               <name ref="#Veselinova?">Ljuba Veselinova</name>
+            </respStmt>
+            <respStmt xml:id="tannert-landau-deherdt">
+               <resp>Editor</resp>
+               <name ref="#Tannert-Landau-DeHerdt1997">R. Tannert, D. Landau, T. De Herdt</name>
+            </respStmt>
+            <respStmt xml:id="snædal">
+               <resp>Editor</resp>
+               <name ref="#Snædal1998">Magnus Snædal</name>
+            </respStmt>
+         </editionStmt>
+
+         <extent>[??] kilobytes</extent>
+
+         <publicationStmt>
+         <authority>The textual legacy of the Ostrogoths in Italy: The Bible version and other texts (Acronym: LegOst)</authority>
+         <date instant="false">2024-25</date>
+         <availability status="unknown">
+            <p>Not to ricirculate. Contact the LegOst Project researchers for more information.</p>
+         </availability>
+         </publicationStmt>
+
+         <sourceDesc>
+         <msDesc>
+            <msIdentifier>
+               <country>Sweden</country>
+               <settlement>Uppsala</settlement>
+               <repository>Biblioteca dell'Università di Uppsala Carolina Rediviva</repository>
+               <idno>Codex Argenteus</idno>
+               <altIdentifier>
+               <settlement>Uppsala</settlement>
+               <repository>Biblioteca dell'Università di Uppsala Carolina Rediviva</repository>
+               <idno>DG 1</idno>
+               </altIdentifier>
+            </msIdentifier>
+
+            <msContents>
+               <summary></summary>
+               <textLang mainLang="got">The primary language in the manuscript is Gothic</textLang>
+
+               <msItem>
+               <locus from="1r" to="15v">Ff. 1r - 15v</locus>
+               <title type="work">Gospel of Matthew</title>
+               </msItem>
+
+               <msItem>
+               <locus from="90r" to="117v">Ff. 90r - 117v</locus>
+               <title type="work">Gospel of John</title>
+               </msItem>
+               
+               <msItem>
+               <locus from="118r" to="108v">Ff. 118r - 108v</locus>
+               <title type="work">Gospel of Luke</title>
+               </msItem>
+
+               <msItem>
+               <locus from="57r" to="187v">Ff. 57r - 187v</locus>
+               <title type="work">Gospel of Mark</title>
+               </msItem>
+
+               <msItem>
+               <locus from="188r" to="188v">Ff. 188r - 188v</locus>
+               <title type="work">Gospel of Mark (Speyer's folio)</title>
+               </msItem>
+
+            </msContents>
+
+            <physDesc>
+               <objectDesc form="codex">
+               <supportDesc material="parchment">
+                  <support>Parchment</support>
+                  <extent>
+                     <measure type="leaves">Not complete. Originally, the manuscript had at least 336 ff.: of these, 187 are preserved in Uppsala, unbounded.
+                     A folio has also been found in Speyer, Germany and is kept at the Historisches Museum der Pfalz.</measure>
+                     <measure type="dimensions">Ca. 245 x 200 mm</measure>
+                     <measure type="lines">20 ll. per page</measure>
+                  </extent>
+               </supportDesc>
+               
+               </objectDesc>
+
+               <handDesc>
+               <handNote xml:id="handI">Scribe for the Gospels of Matthew and John</handNote>
+               <handNote xml:id="handII">Scribe for the Gospels of Luke and Mark</handNote>
+               </handDesc>
+
+            </physDesc>
+
+         </msDesc>
+         </sourceDesc>
+
+      </fileDesc>
+
+      <encodingDesc>
+         <projectDesc>
+         <p>Progetto PRIN 2022 PNRR - Missione 4 “Istruzione e Ricerca” del Piano Nazionale di Ripresa e Resilienza; componente C2 – investimento 1.1, Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante Interesse Nazionale (PRIN), dal titolo <title>The textual legacy of the Ostrogoths in Italy: The Bible version and other texts (Acronym: LegOst)</title> - CUP H53D23009340001 - finanziato dal Bando PRIN 2022 PNRR - D.D. n. 1409 del 14/09/2022.</p>
+
+         <p>Il progetto si compone di tre unità di ricerca:
+            
+            <list>
+               
+               <item>Unità di Perugia: prof.ssa Carla Falluomini (PI), dott. Pierandrea Gottardi, dott. John Gallagher</item>
+               
+               <item>Unità di Cagliari: prof. Antonio Piras, dott. Giacomo Bucci</item>
+
+               <item>Unità di Torino: prof. Roberto Rosselli Del Turco</item>
+               
+            </list>
+         </p>
+         
+         </projectDesc>
+
+         <editorialDecl>
+         <hyphenation eol="all">
+            <p>Physical line breaks are preserved in the encoded text.</p>
+         </hyphenation>
+         </editorialDecl>
+
+         <charDecl>
+
+         <!-- regular letters -->
+
+        <glyph xml:id='amacr'>
+          <localProp name='Name' value='LATIN SMALL LETTER A WITH MACRON'/>
+          <mapping subtype='MUFI' type='codepoint'>U+0101</mapping>
+          <mapping type="diplomatic">ā</mapping>
+          <mapping type="normalized">am</mapping>
+        </glyph>
+        
+        <glyph xml:id='atild'>
+          <localProp name='Name' value='LATIN SMALL LETTER A WITH TILDE'/>
+          <mapping subtype='MUFI' type='codepoint'>U+	00E3</mapping>
+          <mapping type="diplomatic">ã</mapping>
+          <mapping type="normalized">an</mapping>
+        </glyph>
+        
+        <glyph xml:id='esoveri'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic"></mapping>
+          <mapping type="normalized"></mapping>
+        </glyph>
+        
+        <glyph xml:id='esuoverï'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic"></mapping>
+          <mapping type="normalized"></mapping>
+        </glyph>
+        
+        <glyph xml:id='etild'>
+          <localProp name='Name' value='LATIN SMALL LETTER E WITH MACRON'/>
+          <mapping subtype='MUFI' type='codepoint'>U+	0113</mapping>
+          <mapping type="diplomatic">ē</mapping>
+          <mapping type="normalized">en</mapping>
+        </glyph>
+        
+        <glyph xml:id='fraujantachi'>
+          <localProp name='Name' value='SHORTHAND OF FRAUJAN'/>
+          <mapping subtype='MUFI' type='composite'></mapping>
+          <mapping type="diplomatic">fan</mapping>
+          <mapping type="normalized">fraujan</mapping>
+        </glyph>
+        
+        <glyph xml:id='fraujatachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">fa</mapping>
+          <mapping type="normalized">frauja</mapping>
+        </glyph>
+        
+        <glyph xml:id='fraujinstachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">fin</mapping>
+          <mapping type="normalized">fraujin</mapping>
+        </glyph>
+        
+        <glyph xml:id='guþatachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">gþa</mapping>
+          <mapping type="normalized">guþa</mapping>
+        </glyph>
+        
+        <glyph xml:id='guþblostreistachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">gþblostreis</mapping>
+          <mapping type="normalized">guþblostreis</mapping>
+        </glyph>
+        
+        <glyph xml:id='guþistachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">gþs</mapping>
+          <mapping type="normalized">guþis</mapping>
+        </glyph>
+        
+        <glyph xml:id='guþtachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">gþ</mapping>
+          <mapping type="normalized">guþ</mapping>
+        </glyph>
+        
+        <glyph xml:id='htlig'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">ħ</mapping>
+          <mapping type="normalized">ht</mapping>
+        </glyph>
+        
+        <glyph xml:id='iesuistachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">iis</mapping>
+          <mapping type="normalized">iesuis</mapping>
+        </glyph>
+        
+        <glyph xml:id='iesustachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">is</mapping>
+          <mapping type="normalized">iesus</mapping>
+        </glyph>
+        
+        <glyph xml:id='iesutachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">iu</mapping>
+          <mapping type="normalized">iesu</mapping>
+        </glyph>
+        
+        <glyph xml:id='imacr'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">i</mapping>
+          <mapping type="normalized">im</mapping>
+        </glyph>
+        
+        <glyph xml:id='itild'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">i</mapping>
+          <mapping type="normalized">in</mapping>
+        </glyph>
+        
+        <glyph xml:id='mmacr'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">m</mapping>
+          <mapping type="normalized">mm</mapping>
+        </glyph>
+        
+        <glyph xml:id='ntild'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">n</mapping>
+          <mapping type="normalized">nn</mapping>
+        </glyph>
+        
+        <glyph xml:id='otild'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">o</mapping>
+          <mapping type="normalized">on</mapping>
+        </glyph>
+        
+        <glyph xml:id='stild'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">s</mapping>
+          <mapping type="normalized">sn</mapping>
+        </glyph>
+        
+        <glyph xml:id='umacr'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">u</mapping>
+          <mapping type="normalized">um</mapping>
+        </glyph>
+        
+        <glyph xml:id='utild'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">u̅</mapping>
+          <mapping type="normalized">un</mapping>
+        </glyph>
+        
+        <glyph xml:id='xristustachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">xs</mapping>
+          <mapping type="normalized">xristus</mapping>
+        </glyph>
+        
+        <glyph xml:id='xristutachi'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">xu</mapping>
+          <mapping type="normalized">xristu</mapping>
+        </glyph>
+        
+        <glyph xml:id='þtild'>
+          <localProp name='Name' value='X'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic">þ</mapping>
+          <mapping type="normalized">þn</mapping>
+        </glyph>
+         
+         </charDecl>
+      </encodingDesc>
+
+      <profileDesc>
+         <langUsage>
+         <language ident="got">Gothic</language>
+         </langUsage>
+         <textClass>
+         <keywords>
+            <term type="form">Prose</term>
+            <term type="source">Sacred literature</term>
+            <term type="genre">Biblical text</term>
+         </keywords>
+         </textClass>
+      </profileDesc>
+
+      <revisionDesc status="draft">
+         <change from="2022" who="RRDT">Revisione e finalizzazione della codifica a cura di Roberto Rosselli Del
+         Turco</change>
+         <change when="2020-02" who="MG">Revision by Marianna Giardina [29-10-2018].</change>
+         <change when="2018-10" who="RRDT">First add to GitHub repository with minor changes.</change>
+         <change when="2018-10" who="MG">Encoding by Marianna Giardina [29-10-2018].</change>
+         <change when="2014-08" who="RRDT">First TEI encoding.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text n="CArg">
+      <group>
+
+         <xi:include href="CArg_Mt_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Mt_TEI"/>
+     
+         <xi:include href="CArg_Gv_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Gv_TEI"/>
+
+         <xi:include href="CArg_Lc_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Lc_TEI"/>
+
+         <xi:include href="CArg_Mc_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Mc_TEI"/>
+
+         <xi:include href="CArg_Sp_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Sp_TEI"/>
+
+      </group>
+   </text>
+</TEI>
+
