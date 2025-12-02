@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+     xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -419,20 +420,23 @@
          <change when="2014-08" who="RRDT">First TEI encoding.</change>
       </revisionDesc>
    </teiHeader>
+   <!-- FACSIMILE UNIFICATO: Un singolo elemento facsimile con tutti i contenuti -->
+   <facsimile xml:id="CArg_facs_all">
+      <!-- Include le <surface> di ciascun Vangelo usando xpath per selezionare i children -->
+      <xi:include href="CArg_Mt_TEI.xml" xpointer="xpointer(id('CArg_facs_Mt')/*)"/>
+      <xi:include href="CArg_Mc_TEI.xml" xpointer="xpointer(id('CArg_facs_Mc')/*)"/>
+      <xi:include href="CArg_Lc_TEI.xml" xpointer="xpointer(id('CArg_facs_Lc')/*)"/>
+      <xi:include href="CArg_Gv_TEI.xml" xpointer="xpointer(id('CArg_facs_Gv')/*)"/>
+   </facsimile>
+   
+   <!-- SEZIONE TESTO: Include tutti i testi dei 4 Vangeli -->
    <text n="CArg">
-      <group>
-
-         <xi:include href="CArg_Mt_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Mt_TEI"/>
-     
-         <xi:include href="CArg_Gv_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Gv_TEI"/>
-
-         <xi:include href="CArg_Lc_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Lc_TEI"/>
-
-         <xi:include href="CArg_Mc_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Mc_TEI"/>
-
-         <xi:include href="CArg_Sp_TEI.xml" xmlns:xi="http://www.w3.org/2001/XInclude" xpointer="CArg_Sp_TEI"/>
-
-      </group>
+      <body>
+         <xi:include href="CArg_Mt_TEI.xml" xpointer="CArg_book_Mt"/>
+         <xi:include href="CArg_Mc_TEI.xml" xpointer="CArg_book_Mc"/>
+         <xi:include href="CArg_Lc_TEI.xml" xpointer="CArg_book_Lc"/>
+         <xi:include href="CArg_Gv_TEI.xml" xpointer="CArg_book_Gv"/>
+      </body>
    </text>
 </TEI>
 
