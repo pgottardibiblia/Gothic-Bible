@@ -1,0 +1,537 @@
+/* ============================================
+   TEI TABLE RENDERING - EXTENDED VERSION
+   ============================================
+   
+   Project: EVT 3 (Edition Visualization Technology)
+   File: tei-tables-extended.css
+   Version: 1.1.0
+   Date: 2025-12-10
+   
+   Description:
+   Extended CSS for rendering TEI tables including:
+   1. Standard TEI structure (<row>/<cell>)
+   2. Custom structure with <note> elements (Codex Argenteus)
+   3. Eusebian Canons tables
+   4. Gold/silver ink rendering
+   
+   ============================================ */
+
+/* ============================================
+   IMPORT BASE TEI TABLES CSS
+   (Include all standard features)
+   ============================================ */
+
+@import url('tei-tables.css');
+
+/* OR include the base CSS inline if not using separate files */
+
+/* ============================================
+   CSS VARIABLES - CUSTOM ADDITIONS
+   ============================================ */
+
+:root {
+  /* Eusebian Canons specific colors */
+  --eusebian-gold: #d4af37;
+  --eusebian-silver: #c0c0c0;
+  --eusebian-bg: #faf8f3;
+  --eusebian-border: #8b7355;
+  
+  /* Codex Argenteus ink colors */
+  --gold-ink-color: #d4af37;
+  --silver-ink-color: #c0c0c0;
+  --purple-bg: #4a1850;
+  
+  /* Grid layout */
+  --canon-column-width: 1fr;
+  --canon-gap: 0.5rem;
+}
+
+/* Dark theme adjustments */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --eusebian-gold: #ffd700;
+    --eusebian-silver: #e8e8e8;
+    --eusebian-bg: #2d2420;
+    --eusebian-border: #a0826d;
+  }
+}
+
+/* ============================================
+   EUSEBIAN CANONS TABLES
+   Structure: <table type="eusebian_canons">
+              <note type="single_canon" cols="X">
+   ============================================ */
+
+/* Main table container for Eusebian Canons */
+table[type="eusebian_canons"],
+*[data-tei="table"][type="eusebian_canons"] {
+  display: grid !important;
+  grid-template-columns: repeat(4, var(--canon-column-width));
+  gap: var(--canon-gap);
+  width: 100%;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  background: var(--eusebian-bg);
+  border: 2px solid var(--eusebian-border);
+  border-radius: 4px;
+}
+
+/* Alternative: if you want automatic column sizing */
+table[type="eusebian_canons"].auto-columns {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+/* ============================================
+   NOTE ELEMENTS AS CELLS
+   <note type="single_canon" cols="X">
+   ============================================ */
+
+/* Single canon note (acts as table cell) */
+table[type="eusebian_canons"] note[type="single_canon"],
+table[type="eusebian_canons"] *[type="single_canon"] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border: 1px solid var(--eusebian-border);
+  background: white;
+  border-radius: 4px;
+  text-align: center;
+  min-height: 100px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* Hover effect on canon cells */
+table[type="eusebian_canons"] note[type="single_canon"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Support for cols attribute (column spanning) */
+table[type="eusebian_canons"] note[cols="1"] {
+  grid-column: span 1;
+}
+
+table[type="eusebian_canons"] note[cols="2"] {
+  grid-column: span 2;
+}
+
+table[type="eusebian_canons"] note[cols="3"] {
+  grid-column: span 3;
+}
+
+table[type="eusebian_canons"] note[cols="4"] {
+  grid-column: span 4;
+}
+
+/* Full width spanning */
+table[type="eusebian_canons"] note[cols="full"] {
+  grid-column: 1 / -1;
+}
+
+/* ============================================
+   GOLD AND SILVER INK RENDERING
+   @rend="gold_ink" | @rend="silver_ink"
+   ============================================ */
+
+/* Gold ink text */
+*[rend="gold_ink"],
+*[rend~="gold_ink"] {
+  color: var(--gold-ink-color);
+  font-weight: 600;
+  text-shadow: 0 0 1px rgba(212, 175, 55, 0.5);
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Silver ink text */
+*[rend="silver_ink"],
+*[rend~="silver_ink"] {
+  color: var(--silver-ink-color);
+  font-weight: 500;
+  text-shadow: 0 0 1px rgba(192, 192, 192, 0.5);
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Special rendering for num elements in canons */
+table[type="eusebian_canons"] num[rend="silver_ink"] {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+/* ============================================
+   EVANGELIST REFERENCES
+   @ana="Mc" | "Mt" | "Lc" | "Gv"
+   ============================================ */
+
+/* Color coding for evangelists */
+note[ana="Mc"],
+*[ana="Mc"] {
+  border-left: 4px solid #e74c3c; /* Mark - Red */
+}
+
+note[ana="Mt"],
+*[ana="Mt"] {
+  border-left: 4px solid #3498db; /* Matthew - Blue */
+}
+
+note[ana="Lc"],
+*[ana="Lc"] {
+  border-left: 4px solid #2ecc71; /* Luke - Green */
+}
+
+note[ana="Gv"],
+*[ana="Gv"] {
+  border-left: 4px solid #f39c12; /* John - Orange */
+}
+
+/* Icon/symbol before evangelist name (optional) */
+table[type="eusebian_canons"] note[ana]:before {
+  content: attr(ana);
+  display: block;
+  font-size: 0.8em;
+  font-weight: bold;
+  opacity: 0.6;
+  margin-bottom: 0.25rem;
+}
+
+/* Hide the prefix if text already contains evangelist name */
+table[type="eusebian_canons"] note[ana]:has(text):before {
+  display: none;
+}
+
+/* ============================================
+   RESPONSIVE LAYOUT FOR EUSEBIAN CANONS
+   ============================================ */
+
+/* Tablet: 2 columns */
+@media (max-width: 768px) {
+  table[type="eusebian_canons"] {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+  
+  /* Adjust column spans for smaller screens */
+  table[type="eusebian_canons"] note[cols="4"] {
+    grid-column: span 2;
+  }
+  
+  table[type="eusebian_canons"] note[cols="3"] {
+    grid-column: span 2;
+  }
+}
+
+/* Mobile: 1 column */
+@media (max-width: 480px) {
+  table[type="eusebian_canons"] {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+    padding: 0.5rem;
+  }
+  
+  /* All notes span full width on mobile */
+  table[type="eusebian_canons"] note[cols] {
+    grid-column: span 1;
+  }
+}
+
+/* ============================================
+   CODEX ARGENTEUS SPECIFIC STYLING
+   Purple parchment with gold/silver text
+   ============================================ */
+
+/* Purple parchment background (optional - enable if desired) */
+table[type="eusebian_canons"].codex-argenteus {
+  background: var(--purple-bg);
+  border-color: #6a2870;
+}
+
+table[type="eusebian_canons"].codex-argenteus note {
+  background: rgba(74, 24, 80, 0.3);
+  border-color: #8b4f99;
+}
+
+/* Enhanced gold/silver on purple background */
+.codex-argenteus *[rend="gold_ink"] {
+  color: #ffd700;
+  text-shadow: 0 0 3px rgba(255, 215, 0, 0.7);
+}
+
+.codex-argenteus *[rend="silver_ink"] {
+  color: #f0f0f0;
+  text-shadow: 0 0 3px rgba(240, 240, 240, 0.7);
+}
+
+/* ============================================
+   ABBREVIATIONS IN CANONS
+   e.g., m(a)r(kus) = marcus with abbreviation marks
+   ============================================ */
+
+/* Style parenthesized abbreviations */
+table[type="eusebian_canons"] note {
+  font-variant: small-caps;
+}
+
+/* If using <choice><abbr><expan> structure */
+table[type="eusebian_canons"] abbr {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+table[type="eusebian_canons"] expan {
+  font-size: 0.9em;
+  font-style: italic;
+  color: inherit;
+  opacity: 0.8;
+}
+
+/* ============================================
+   NUM ELEMENTS IN TABLES
+   <num value="X" rend="silver_ink">
+   ============================================ */
+
+/* Number styling in canon tables */
+table[type="eusebian_canons"] num {
+  display: block;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--eusebian-border);
+  font-size: 1.1em;
+}
+
+/* Empty num (value="·") */
+table[type="eusebian_canons"] num[value="·"] {
+  opacity: 0.5;
+}
+
+/* W elements inside num */
+table[type="eusebian_canons"] num w {
+  display: inline;
+  font-family: inherit;
+}
+
+/* ============================================
+   ALTERNATIVE GRID LAYOUTS
+   Different column configurations
+   ============================================ */
+
+/* 3-column layout */
+table[type="eusebian_canons"].cols-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* 2-column layout */
+table[type="eusebian_canons"].cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/* 5-column layout (for more evangelists or complex canons) */
+table[type="eusebian_canons"].cols-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+/* Asymmetric layout (different column widths) */
+table[type="eusebian_canons"].asymmetric {
+  grid-template-columns: 2fr 1fr 1fr 2fr;
+}
+
+/* ============================================
+   PRINT STYLES FOR CANONS
+   ============================================ */
+
+@media print {
+  table[type="eusebian_canons"] {
+    page-break-inside: avoid;
+    background: white;
+    border: 2px solid black;
+  }
+  
+  table[type="eusebian_canons"] note {
+    background: white !important;
+    border: 1px solid black !important;
+    box-shadow: none !important;
+  }
+  
+  /* Ensure gold/silver print with sufficient contrast */
+  *[rend="gold_ink"] {
+    color: #333 !important;
+    font-weight: bold !important;
+    text-shadow: none !important;
+    text-decoration: underline;
+  }
+  
+  *[rend="silver_ink"] {
+    color: #666 !important;
+    font-weight: normal !important;
+    text-shadow: none !important;
+  }
+  
+  /* Print evangelist colors as patterns */
+  note[ana="Mc"] { border-left: 4px solid black; }
+  note[ana="Mt"] { border-left: 4px double black; }
+  note[ana="Lc"] { border-left: 4px dotted black; }
+  note[ana="Gv"] { border-left: 4px dashed black; }
+}
+
+/* ============================================
+   UTILITY CLASSES FOR CANONS
+   ============================================ */
+
+/* Compact canon display */
+table[type="eusebian_canons"].compact note {
+  padding: 0.5rem;
+  min-height: 60px;
+  font-size: 0.9em;
+}
+
+/* Large canon display (for presentations) */
+table[type="eusebian_canons"].large note {
+  padding: 1.5rem;
+  min-height: 150px;
+  font-size: 1.2em;
+}
+
+/* Centered content in canon cells */
+table[type="eusebian_canons"].center-content note {
+  justify-content: center;
+  align-items: center;
+}
+
+/* ============================================
+   DECORATIVE ELEMENTS
+   ============================================ */
+
+/* Decorative border for canon tables */
+table[type="eusebian_canons"].decorated {
+  border-width: 3px;
+  border-style: double;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Ornamental corners (optional) */
+table[type="eusebian_canons"].decorated:before,
+table[type="eusebian_canons"].decorated:after {
+  content: "✦";
+  position: absolute;
+  color: var(--eusebian-border);
+  font-size: 1.5em;
+}
+
+/* ============================================
+   COMPATIBILITY WITH STANDARD TEI TABLES
+   Ensure custom styles don't break standard tables
+   ============================================ */
+
+/* Standard tables remain unaffected */
+table:not([type="eusebian_canons"]) {
+  /* Use standard table display from base CSS */
+}
+
+/* Notes in standard tables (non-canon) remain inline */
+table:not([type="eusebian_canons"]) note {
+  display: inline;
+  /* Reset any grid/flex properties */
+  grid-column: auto;
+}
+
+/* ============================================
+   DEBUG MODE (remove in production)
+   ============================================ */
+
+/* Uncomment to see grid lines */
+/*
+table[type="eusebian_canons"].debug {
+  outline: 2px solid red;
+}
+
+table[type="eusebian_canons"].debug note {
+  outline: 1px solid blue;
+}
+*/
+
+/* ============================================
+   ACCESSIBILITY ENHANCEMENTS FOR CANONS
+   ============================================ */
+
+/* Ensure sufficient contrast */
+table[type="eusebian_canons"] {
+  color: #333;
+}
+
+/* Focus states for keyboard navigation */
+table[type="eusebian_canons"] note:focus {
+  outline: 3px solid #0066cc;
+  outline-offset: 2px;
+  z-index: 1;
+}
+
+/* Screen reader announcements */
+table[type="eusebian_canons"]:before {
+  content: "Eusebian Canon Table:";
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+/* ============================================
+   JAVASCRIPT HOOKS
+   Classes for dynamic behavior
+   ============================================ */
+
+/* Highlightable canons */
+table[type="eusebian_canons"] note.highlighted {
+  background: rgba(255, 255, 0, 0.2);
+  transform: scale(1.05);
+  z-index: 2;
+}
+
+/* Selected canon */
+table[type="eusebian_canons"] note.selected {
+  border-color: #0066cc;
+  border-width: 2px;
+  box-shadow: 0 0 0 3px rgba(0, 102, 204, 0.2);
+}
+
+/* Filtered out canons */
+table[type="eusebian_canons"] note.filtered-out {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+/* ============================================
+   END OF EXTENDED STYLES
+   ============================================ */
+
+/*
+   USAGE SUMMARY:
+   
+   1. Include this file AFTER tei-tables.css:
+      <link rel="stylesheet" href="tei-tables.css">
+      <link rel="stylesheet" href="tei-tables-extended.css">
+   
+   2. Your table structure will work automatically:
+      <table type="eusebian_canons">
+        <note type="single_canon" cols="4" rend="gold_ink" ana="Mc">
+          m(a)r(kus)
+          <num rend="silver_ink" value="·">
+            <w>·</w>
+          </num>
+        </note>
+      </table>
+   
+   3. Optional classes for variations:
+      - .codex-argenteus (purple background)
+      - .compact (smaller cells)
+      - .large (bigger cells)
+      - .decorated (ornamental borders)
+      - .cols-2, .cols-3, .cols-5 (different layouts)
+   
+   4. Supports both:
+      - Standard TEI tables (row/cell)
+      - Custom canon tables (note with cols)
+*/
