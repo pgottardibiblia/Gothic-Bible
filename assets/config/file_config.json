@@ -21,8 +21,8 @@
 		"double": "assets/data/images/double/"
 	},
 	"configurationUrls": {
-		"edition": "assets/config/edition_config_CArg_Gv_TEI.json",
-		"ui": "assets/config/ui_config_CArg_Gv_TEI.json",
+		"edition": "assets/config/edition_config_CArg_TEI.json",
+		"ui": "assets/config/ui_config_CArg_TEI.json",
 		"editorialConventions": "assets/config/editorial_conventions_config.json"
 	}
 }
