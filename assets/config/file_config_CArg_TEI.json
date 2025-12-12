@@ -19,7 +19,7 @@
 			"type": "main",
 			"value": "assets/data/CArg_Mc_TEI.xml",
 			"enable": true
-		}
+		},
 		{
 			"type": "main",
 			"value": "assets/data/CArg_TEI.xml",
