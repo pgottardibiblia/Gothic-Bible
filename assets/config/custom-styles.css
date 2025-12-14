@@ -101,46 +101,6 @@ table[type="eusebian_canons"] > row > num {
   padding: 0.25rem 0.5rem;
 }
 
-/* Gold ink - evangelist names in first row */
-table[type="eusebian_canons"] *[rend~="gold_ink"] {
-  color: #d4af37;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-/* Silver ink - numbers in data rows */
-table[type="eusebian_canons"] *[rend~="silver_ink"] {
-  color: #c0c0c0;
-  font-family: 'Times New Roman', serif;
-  font-size: 1.1em;
-}
-
-/* Evangelist-specific colors (left border accent) */
-table[type="eusebian_canons"] > row > w[ana="Gv"],
-table[type="eusebian_canons"] > row > num:nth-child(1) {
-  border-left: 3px solid #f39c12;
-  /* Giovanni/John - Orange */
-}
-
-table[type="eusebian_canons"] > row > w[ana="Lc"],
-table[type="eusebian_canons"] > row > num:nth-child(2) {
-  border-left: 3px solid #2ecc71;
-  /* Luca/Luke - Green */
-}
-
-table[type="eusebian_canons"] > row > w[ana="Mc"],
-table[type="eusebian_canons"] > row > num:nth-child(3) {
-  border-left: 3px solid #e74c3c;
-  /* Marco/Mark - Red */
-}
-
-table[type="eusebian_canons"] > row > w[ana="Mt"],
-table[type="eusebian_canons"] > row > num:nth-child(4) {
-  border-left: 3px solid #3498db;
-  /* Matteo/Matthew - Blue */
-}
-
 /* Empty cells (value="·" or empty) - lighter styling */
 table[type="eusebian_canons"] num[value="·"],
 table[type="eusebian_canons"] num:empty {
@@ -170,6 +130,18 @@ table[type="eusebian_canons"] num:empty {
    @rend="gold_ink" | @rend="silver_ink"
    ============================================ */
 
+:root {
+  
+  /* Codex Argenteus ink colors */
+  --gold-ink-color: #d4af37;
+  --silver-ink-color: #c0c0c0;
+  --purple-bg: #4a1850;
+  
+  /* Grid layout */
+  --canon-column-width: 1fr;
+  --canon-gap: 0.5rem;
+}
+   
 /* Gold ink text */
 *[rend="gold_ink"],
 *[rend~="gold_ink"] {
