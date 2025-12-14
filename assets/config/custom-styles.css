@@ -147,32 +147,6 @@ table[type="eusebian_canons"] num:empty {
   opacity: 0.5;
 }
 
-/* Responsive - 2 columns on tablet */
-@media (max-width: 768px) {
-  table[type="eusebian_canons"] > row {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  
-  table[type="eusebian_canons"] > row > w[ana="Mc"],
-  table[type="eusebian_canons"] > row > w[ana="Mt"],
-  table[type="eusebian_canons"] > row > num:nth-child(3),
-  table[type="eusebian_canons"] > row > num:nth-child(4) {
-    margin-top: 0.5rem;
-  }
-}
-
-/* Responsive - 1 column on mobile */
-@media (max-width: 480px) {
-  table[type="eusebian_canons"] > row {
-    grid-template-columns: 1fr;
-  }
-  
-  table[type="eusebian_canons"] > row > w,
-  table[type="eusebian_canons"] > row > num {
-    margin-top: 0.25rem;
-  }
-}
-
 /* Print styles */
 @media print {
   table[type="eusebian_canons"] {
