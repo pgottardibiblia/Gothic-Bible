@@ -61,3 +61,132 @@ evt-reading evt-note,
 evt-addition evt-note {
   display: block;
 }
+/* ============================================================================
+   EUSEBIAN CANONS TABLES
+   ============================================================================ */
+
+/* Table container - Grid layout 4 columns */
+table[type="eusebian_canons"] {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  padding: 1rem;
+  background-color: #faf8f3;
+  border: 2px solid #8b7355;
+  border-radius: 4px;
+}
+
+/* Row - Grid container for cells */
+table[type="eusebian_canons"] > row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.75rem;
+  align-items: center;
+}
+
+/* First row (header with evangelist names) - special styling */
+table[type="eusebian_canons"] > row[n="1"] {
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #8b7355;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+/* Cells - w and num elements as grid items */
+table[type="eusebian_canons"] > row > w,
+table[type="eusebian_canons"] > row > num {
+  display: block;
+  text-align: center;
+  padding: 0.25rem 0.5rem;
+}
+
+/* Gold ink - evangelist names in first row */
+table[type="eusebian_canons"] *[rend~="gold_ink"] {
+  color: #d4af37;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Silver ink - numbers in data rows */
+table[type="eusebian_canons"] *[rend~="silver_ink"] {
+  color: #c0c0c0;
+  font-family: 'Times New Roman', serif;
+  font-size: 1.1em;
+}
+
+/* Evangelist-specific colors (left border accent) */
+table[type="eusebian_canons"] > row > w[ana="Gv"],
+table[type="eusebian_canons"] > row > num:nth-child(1) {
+  border-left: 3px solid #f39c12;
+  /* Giovanni/John - Orange */
+}
+
+table[type="eusebian_canons"] > row > w[ana="Lc"],
+table[type="eusebian_canons"] > row > num:nth-child(2) {
+  border-left: 3px solid #2ecc71;
+  /* Luca/Luke - Green */
+}
+
+table[type="eusebian_canons"] > row > w[ana="Mc"],
+table[type="eusebian_canons"] > row > num:nth-child(3) {
+  border-left: 3px solid #e74c3c;
+  /* Marco/Mark - Red */
+}
+
+table[type="eusebian_canons"] > row > w[ana="Mt"],
+table[type="eusebian_canons"] > row > num:nth-child(4) {
+  border-left: 3px solid #3498db;
+  /* Matteo/Matthew - Blue */
+}
+
+/* Empty cells (value="·" or empty) - lighter styling */
+table[type="eusebian_canons"] num[value="·"],
+table[type="eusebian_canons"] num:empty {
+  opacity: 0.5;
+}
+
+/* Responsive - 2 columns on tablet */
+@media (max-width: 768px) {
+  table[type="eusebian_canons"] > row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  table[type="eusebian_canons"] > row > w[ana="Mc"],
+  table[type="eusebian_canons"] > row > w[ana="Mt"],
+  table[type="eusebian_canons"] > row > num:nth-child(3),
+  table[type="eusebian_canons"] > row > num:nth-child(4) {
+    margin-top: 0.5rem;
+  }
+}
+
+/* Responsive - 1 column on mobile */
+@media (max-width: 480px) {
+  table[type="eusebian_canons"] > row {
+    grid-template-columns: 1fr;
+  }
+  
+  table[type="eusebian_canons"] > row > w,
+  table[type="eusebian_canons"] > row > num {
+    margin-top: 0.25rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  table[type="eusebian_canons"] {
+    page-break-inside: avoid;
+    background-color: white;
+    border-color: black;
+  }
+  
+  table[type="eusebian_canons"] *[rend~="gold_ink"] {
+    color: #000;
+    font-weight: bold;
+  }
+  
+  table[type="eusebian_canons"] *[rend~="silver_ink"] {
+    color: #666;
+  }
+}
