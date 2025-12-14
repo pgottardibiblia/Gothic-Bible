@@ -164,3 +164,25 @@ table[type="eusebian_canons"] num:empty {
     color: #666;
   }
 }
+
+/* ============================================
+   GOLD AND SILVER INK RENDERING
+   @rend="gold_ink" | @rend="silver_ink"
+   ============================================ */
+
+/* Gold ink text */
+*[rend="gold_ink"],
+*[rend~="gold_ink"] {
+  color: var(--gold-ink-color);
+  font-weight: 600;
+  text-shadow: 0 0 1px rgba(212, 175, 55, 0.5);
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Silver ink text */
+*[rend="silver_ink"],
+*[rend~="silver_ink"] {
+  color: var(--silver-ink-color);
+  font-weight: 500;
+  text-shadow: 0 0 1px rgba(192, 192, 192, 0.5);
+  font-family: "Times New Roman", Times, serif;
