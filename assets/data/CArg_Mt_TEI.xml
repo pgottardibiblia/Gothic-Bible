@@ -135,7 +135,7 @@
          <graphic url="CArg_fol._44_15v.jpeg" height="1800px" width="1200px"/>
       </surface>
    </facsimile>
-   <text n="CArg_Mt">
+   <text n="CArg">
       <body>
          <div type="book" ana="#Matthew" xml:id="CArg_book_Mt">
             <div type="chapter" n="5" xml:id="CArg_Mt_chapter_5">
@@ -293,54 +293,54 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_1r_20_5">nibai</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_1r_foot">
                      <table type="eusebian_canons" xml:id="CArg_1r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_1r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_1r_tb_row_1" n="1">
+                           <w xml:id="CArg_1r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_1r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_1r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_1r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_1r_tb_row_2" n="2">
                            <num rend="silver_ink" value="4">
-                              <w xml:id="CArg_1r_tb_Mt_0">ag</w>
-                           </num>
-                           <num rend="silver_ink" value="5">
-                              <w xml:id="CArg_1r_tb_Mt_1">ad</w>
-                           </num>
-                           <num rend="silver_ink" value="6">
-                              <w xml:id="CArg_1r_tb_Mt_2">ae</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_1r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_1r_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_1r_tb_Gv_1">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_1r_tb_Gv_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_1r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_1r_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="194">
-                              <w xml:id="CArg_1r_tb_Lc_1">rɥd</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_1r_tb_Lc_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_1r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_1r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_1r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_1r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_1r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_1r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_1r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="5">
                               <w xml:id="CArg_1r_tb_Mc_2">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_1r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="194">
+                              <w xml:id="CArg_1r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_1r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_1r_tb_row_4" n="4">
+                           <num rend="silver_ink" value="6">
+                              <w xml:id="CArg_1r_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_1r_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_1r_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_1r_tb_Mc_3">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <fw type="header" place="top_center" rend="silver_ink" xml:id="CArg_fw_1v_head">·þairh·</fw>
@@ -478,10 +478,12 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_1v_20_5">broþr</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_1v_foot">
                      <table type="eusebian_canons" xml:id="CArg_1v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_1v_tb_Mt">m(a)þ(þaius)</note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_1v_tb_Gv">ïoh(annes)</note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_1v_tb_Lc">luk(a)</note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_1v_tb_Mc">m(a)r(kus)</note>
+                        <row xml:id="CArg_1v_tb_row_1" n="1">
+                           <w xml:id="CArg_1v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_1v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_1v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_1v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
                      </table>
                   </fw>
                   <pb n="2r" xml:id="CArg_pb_3_2r" facs="#CArg_facs_3_2r"/>
@@ -634,42 +636,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2r_20_7">leik</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_2r_foot">
                      <table type="eusebian_canons" xml:id="CArg_2r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_2r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_2r_tb_row_1" n="1">
+                           <w xml:id="CArg_2r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_2r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_2r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_2r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_2r_tb_row_2" n="2">
                            <num rend="silver_ink" value="36">
-                              <w xml:id="CArg_2r_tb_Mt_0">lq</w>
-                           </num>
-                           <num rend="silver_ink" value="37">
-                              <w xml:id="CArg_2r_tb_Mt_1">lz</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_2r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2r_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2r_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_2r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="162">
-                              <w xml:id="CArg_2r_tb_Lc_0">rjb</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2r_tb_Lc_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_2r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_2r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_2r_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="162">
+                              <w xml:id="CArg_2r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_2r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="37">
+                              <w xml:id="CArg_2r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="2v" xml:id="CArg_pb_4_2v" facs="#CArg_facs_4_2v"/>
@@ -829,42 +829,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_20_7">bi</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_2v_foot">
                      <table type="eusebian_canons" xml:id="CArg_2v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_2v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_2v_tb_row_1" n="1">
+                           <w xml:id="CArg_2v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_2v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_2v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_2v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_2v_tb_row_2" n="2">
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2v_tb_Mt_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2v_tb_Mt_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_2v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2v_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_2v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2v_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2v_tb_Lc_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_2v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_2v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_2v_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_2v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2v_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2v_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_2v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_2v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_3r_1_1">ïai<pb n='3r' xml:id='CArg_pb_5_3r'/><lb n='1' xml:id='CArg_lb_3r_1'/>rusaulwmai</w>
@@ -1029,42 +1027,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_3r_20_6"><choice xml:id='CArg_abbr_3r_20_6'><abbr>wiljand<am><g ref='#itild'/></am></abbr><expan>wiljandi<ex>n</ex></expan></choice></w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_3r_foot">
                      <table type="eusebian_canons" xml:id="CArg_3r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_3r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_3r_tb_row_1" n="1">
+                           <w xml:id="CArg_3r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_3r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_3r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_3r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_3r_tb_row_2" n="2">
                            <num rend="silver_ink" value="38">
-                              <w xml:id="CArg_3r_tb_Mt_0">lh</w>
-                           </num>
-                           <num rend="silver_ink" value="39">
-                              <w xml:id="CArg_3r_tb_Mt_1">lþ</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_3r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_3r_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_3r_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_3r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="53">
-                              <w xml:id="CArg_3r_tb_Lc_0">ng</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_3r_tb_Lc_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_3r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_3r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_3r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_3r_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="53">
+                              <w xml:id="CArg_3r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_3r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_3r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="39">
+                              <w xml:id="CArg_3r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_3r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_3r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_3r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="3v" xml:id="CArg_pb_6_3v" facs="#CArg_facs_6_3v"/>
@@ -1208,42 +1204,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_3v_20_6">niu</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_3v_foot">
                      <table type="eusebian_canons" xml:id="CArg_3v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_3v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_3v_tb_row_1" n="1">
+                           <w xml:id="CArg_3v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_3v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_3v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_3v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_3v_tb_row_2" n="2">
                            <num rend="silver_ink" value="40">
-                              <w xml:id="CArg_3v_tb_Mt_0">m</w>
-                           </num>
-                           <num rend="silver_ink" value="41">
-                              <w xml:id="CArg_3v_tb_Mt_1">ma</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_3v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_3v_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_3v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_3v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="52">
-                              <w xml:id="CArg_3v_tb_Lc_0">nb</w>
-                           </num>
-                           <num rend="silver_ink" value="55">
-                              <w xml:id="CArg_3v_tb_Lc_1">ne</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_3v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_3v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_3v_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_3v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="52">
+                              <w xml:id="CArg_3v_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_3v_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_3v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="41">
+                              <w xml:id="CArg_3v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_3v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="55">
+                              <w xml:id="CArg_3v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_3v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="4r" xml:id="CArg_pb_7_4r" facs="#CArg_facs_7_4r"/>
@@ -1388,30 +1382,26 @@
                   <pc type="comma" xml:id="CArg_comma_4r_20_7">·</pc>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_4r_foot">
                      <table type="eusebian_canons" xml:id="CArg_4r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_4r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_4r_tb_row_1" n="1">
+                           <w xml:id="CArg_4r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_4r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_4r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_4r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_4r_tb_row_2" n="2">
                            <num rend="silver_ink" value="42">
-                              <w xml:id="CArg_4r_tb_Mt_0">mb</w>
+                              <w xml:id="CArg_4r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_4r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_4r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_4r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_4r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_4r_tb_Lc_0">·</w>
+                              <w xml:id="CArg_4r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_4r_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_4r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_4r_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="4v" xml:id="CArg_pb_8_4v" facs="#CArg_facs_8_4v"/>
@@ -1548,30 +1538,26 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_4v_20_7"><choice xml:id='CArg_abbr_4v_20_7'><abbr>himin<am><g ref='#amacr'/></am></abbr><expan>himina<ex>m</ex></expan></choice></w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_4v_foot">
                      <table type="eusebian_canons" xml:id="CArg_4v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_4v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_4v_tb_row_1" n="1">
+                           <w xml:id="CArg_4v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_4v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_4v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_4v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_4v_tb_row_2" n="2">
                            <num rend="silver_ink" value="43">
-                              <w xml:id="CArg_4v_tb_Mt_0">mg</w>
+                              <w xml:id="CArg_4v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_4v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_4v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_4v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_4v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="123">
-                              <w xml:id="CArg_4v_tb_Lc_0">rkg</w>
+                              <w xml:id="CArg_4v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_4v_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_4v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_4v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="5r" xml:id="CArg_pb_9_5r" facs="#CArg_facs_9_5r"/>
@@ -1721,42 +1707,40 @@
                   <pc type="comma" xml:id="CArg_comma_5r_20_6">·</pc>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_5r_foot">
                      <table type="eusebian_canons" xml:id="CArg_5r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_5r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_5r_tb_row_1" n="1">
+                           <w xml:id="CArg_5r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_5r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_5r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_5r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_5r_tb_row_2" n="2">
                            <num rend="silver_ink" value="44">
-                              <w xml:id="CArg_5r_tb_Mt_0">md</w>
-                           </num>
-                           <num rend="silver_ink" value="45">
-                              <w xml:id="CArg_5r_tb_Mt_1">me</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_5r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_5r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_5r_tb_Mc_1">rkq</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_5r_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_5r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_5r_tb_Lc_0">·</w>
+                              <w xml:id="CArg_5r_tb_Mc_1">rkq</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_5r_tb_Lc_1">·</w>
+                              <w xml:id="CArg_5r_tb_Mc_1">rkq</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_5r_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="126">
-                              <w xml:id="CArg_5r_tb_Mc_0">rkq</w>
+                              <w xml:id="CArg_5r_tb_Mc_1">rkq</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_5r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="45">
+                              <w xml:id="CArg_5r_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_5r_tb_Mc_1">·</w>
+                              <w xml:id="CArg_5r_tb_Mc_2">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_5r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_5r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="5v" xml:id="CArg_pb_10_5v" facs="#CArg_facs_10_5v"/>
@@ -1906,42 +1890,40 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_5v_20_6">nu</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_5v_foot">
                      <table type="eusebian_canons" xml:id="CArg_5v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_5v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_5v_tb_row_1" n="1">
+                           <w xml:id="CArg_5v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_5v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_5v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_5v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_5v_tb_row_2" n="2">
                            <num rend="silver_ink" value="46">
-                              <w xml:id="CArg_5v_tb_Mt_0">mq</w>
-                           </num>
-                           <num rend="silver_ink" value="47">
-                              <w xml:id="CArg_5v_tb_Mt_1">mz</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_5v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_5v_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_5v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_5v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="153">
-                              <w xml:id="CArg_5v_tb_Lc_0">rng</w>
-                           </num>
-                           <num rend="silver_ink" value="134">
-                              <w xml:id="CArg_5v_tb_Lc_1">rld</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_5v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_5v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_5v_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_5v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="153">
+                              <w xml:id="CArg_5v_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_5v_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_5v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="47">
+                              <w xml:id="CArg_5v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_5v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="134">
+                              <w xml:id="CArg_5v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_5v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="6r" xml:id="CArg_pb_11_6r" facs="#CArg_facs_11_6r"/>
@@ -2087,42 +2069,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_6r_20_7">sa</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_6r_foot">
                      <table type="eusebian_canons" xml:id="CArg_6r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_6r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_6r_tb_row_1" n="1">
+                           <w xml:id="CArg_6r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_6r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_6r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_6r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_6r_tb_row_2" n="2">
                            <num rend="silver_ink" value="48">
-                              <w xml:id="CArg_6r_tb_Mt_0">mh</w>
-                           </num>
-                           <num rend="silver_ink" value="49">
-                              <w xml:id="CArg_6r_tb_Mt_1">mþ</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_6r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_6r_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_6r_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_6r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="191">
-                              <w xml:id="CArg_6r_tb_Lc_0">rɥa</w>
-                           </num>
-                           <num rend="silver_ink" value="150">
-                              <w xml:id="CArg_6r_tb_Lc_1">rn</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_6r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_6r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_6r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_6r_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="191">
+                              <w xml:id="CArg_6r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_6r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_6r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="49">
+                              <w xml:id="CArg_6r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_6r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="150">
+                              <w xml:id="CArg_6r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_6r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="6v" xml:id="CArg_pb_12_6v" facs="#CArg_facs_12_6v"/>
@@ -2263,30 +2243,26 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_6v_20_5">þaurbuþ</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_6v_foot">
                      <table type="eusebian_canons" xml:id="CArg_6v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_6v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_6v_tb_row_1" n="1">
+                           <w xml:id="CArg_6v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_6v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_6v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_6v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_6v_tb_row_2" n="2">
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_6v_tb_Mt_0">·</w>
+                              <w xml:id="CArg_6v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_6v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_6v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_6v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_6v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_6v_tb_Lc_0">·</w>
+                              <w xml:id="CArg_6v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_6v_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_6v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_6v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="7r" xml:id="CArg_pb_13_7r" facs="#CArg_facs_13_7r"/>
@@ -2435,54 +2411,54 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_7r_20_7">sa</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_7r_foot">
                      <table type="eusebian_canons" xml:id="CArg_7r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_7r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_7r_tb_row_1" n="1">
+                           <w xml:id="CArg_7r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_7r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_7r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_7r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_7r_tb_row_2" n="2">
                            <num rend="silver_ink" value="56">
-                              <w xml:id="CArg_7r_tb_Mt_0">nq</w>
-                           </num>
-                           <num rend="silver_ink" value="57">
-                              <w xml:id="CArg_7r_tb_Mt_1">nz</w>
-                           </num>
-                           <num rend="silver_ink" value="58">
-                              <w xml:id="CArg_7r_tb_Mt_2">nh</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_7r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_7r_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_7r_tb_Gv_1">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_7r_tb_Gv_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_7r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_7r_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="61">
-                              <w xml:id="CArg_7r_tb_Lc_1">ja</w>
-                           </num>
-                           <num rend="silver_ink" value="60">
-                              <w xml:id="CArg_7r_tb_Lc_2">j</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_7r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_7r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_7r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_7r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_7r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_7r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_7r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="57">
                               <w xml:id="CArg_7r_tb_Mc_2">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_7r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="61">
+                              <w xml:id="CArg_7r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_7r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_7r_tb_row_4" n="4">
+                           <num rend="silver_ink" value="58">
+                              <w xml:id="CArg_7r_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_7r_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="60">
+                              <w xml:id="CArg_7r_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_7r_tb_Mc_3">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="7v" xml:id="CArg_pb_14_7v" facs="#CArg_facs_14_7v"/>
@@ -2622,42 +2598,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_7v_20_4">waurkjandans</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_7v_foot">
                      <table type="eusebian_canons" xml:id="CArg_7v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_7v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_7v_tb_row_1" n="1">
+                           <w xml:id="CArg_7v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_7v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_7v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_7v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_7v_tb_row_2" n="2">
                            <num rend="silver_ink" value="59">
-                              <w xml:id="CArg_7v_tb_Mt_0">nþ</w>
+                              <w xml:id="CArg_7v_tb_Mc_1">·</w>
                            </num>
-                           <num rend="silver_ink" value="60">
-                              <w xml:id="CArg_7v_tb_Mt_1">j</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_7v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="116">
-                              <w xml:id="CArg_7v_tb_Gv_0">riq</w>
+                              <w xml:id="CArg_7v_tb_Mc_1">·</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_7v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_7v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="63">
-                              <w xml:id="CArg_7v_tb_Lc_0">jg</w>
-                           </num>
-                           <num rend="silver_ink" value="171">
-                              <w xml:id="CArg_7v_tb_Lc_1">rua</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_7v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_7v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_7v_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_7v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                        </row>
+                        <row xml:id="CArg_7v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="60">
+                              <w xml:id="CArg_7v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_7v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="171">
+                              <w xml:id="CArg_7v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_7v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <label type="eusebian_section" ana="Mt" place="margin_left" rend="silver_ink" xml:id="CArg_eusebian_section_Mt_61_8r_1">
@@ -2806,42 +2780,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_8r_20_6">jah</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_8r_foot">
                      <table type="eusebian_canons" xml:id="CArg_8r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_8r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_8r_tb_row_1" n="1">
+                           <w xml:id="CArg_8r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_8r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_8r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_8r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_8r_tb_row_2" n="2">
                            <num rend="silver_ink" value="61">
-                              <w xml:id="CArg_8r_tb_Mt_0">ja</w>
-                           </num>
-                           <num rend="silver_ink" value="62">
-                              <w xml:id="CArg_8r_tb_Mt_1">jb</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_8r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_8r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_8r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_8r_tb_Gv_1">·</w>
+                              <w xml:id="CArg_8r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_8r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="64">
-                              <w xml:id="CArg_8r_tb_Lc_0">jd</w>
+                              <w xml:id="CArg_8r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_8r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_8r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="62">
+                              <w xml:id="CArg_8r_tb_Mc_2">ig</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_8r_tb_Mc_2">ig</w>
                            </num>
                            <num rend="silver_ink" value="4, 24">
-                              <w xml:id="CArg_8r_tb_Lc_1">d·kd</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_8r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_8r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_8r_tb_Mc_2">ig</w>
                            </num>
                            <num rend="silver_ink" value="13">
-                              <w xml:id="CArg_8r_tb_Mc_1">ig</w>
+                              <w xml:id="CArg_8r_tb_Mc_2">ig</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="8v" xml:id="CArg_pb_16_8v" facs="#CArg_facs_16_8v"/>
@@ -2998,42 +2970,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_8v_20_7"><unclear reason='damage' xml:id='CArg_un_8v_20_7'>q</unclear>imands</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_8v_foot">
                      <table type="eusebian_canons" xml:id="CArg_8v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_8v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_8v_tb_row_1" n="1">
+                           <w xml:id="CArg_8v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_8v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_8v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_8v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_8v_tb_row_2" n="2">
                            <num rend="silver_ink" value="63">
-                              <w xml:id="CArg_8v_tb_Mt_0">jg</w>
+                              <w xml:id="CArg_8v_tb_Mc_1">ih</w>
                            </num>
-                           <num rend="silver_ink" value="64">
-                              <w xml:id="CArg_8v_tb_Mt_1">jd</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_8v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_8v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_8v_tb_Mc_1">ih</w>
+                           </num>
+                           <num rend="silver_ink" value="33">
+                              <w xml:id="CArg_8v_tb_Mc_1">ih</w>
+                           </num>
+                           <num rend="silver_ink" value="18">
+                              <w xml:id="CArg_8v_tb_Mc_1">ih</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_8v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="64">
+                              <w xml:id="CArg_8v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="37">
-                              <w xml:id="CArg_8v_tb_Gv_1">lz</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_8v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="33">
-                              <w xml:id="CArg_8v_tb_Lc_0">lg</w>
+                              <w xml:id="CArg_8v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="65">
-                              <w xml:id="CArg_8v_tb_Lc_1">je</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_8v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="18">
-                              <w xml:id="CArg_8v_tb_Mc_0">ih</w>
+                              <w xml:id="CArg_8v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_8v_tb_Mc_1">·</w>
+                              <w xml:id="CArg_8v_tb_Mc_2">·</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="9r" xml:id="CArg_pb_17_9r" facs="#CArg_facs_17_9r"/>
@@ -3177,30 +3147,26 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_9r_20_5">ïþ</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_9r_foot">
                      <table type="eusebian_canons" xml:id="CArg_9r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_9r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_9r_tb_row_1" n="1">
+                           <w xml:id="CArg_9r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_9r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_9r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_9r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_9r_tb_row_2" n="2">
                            <num rend="silver_ink" value="65">
-                              <w xml:id="CArg_9r_tb_Mt_0">je</w>
+                              <w xml:id="CArg_9r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_9r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_9r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_9r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_9r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="172">
-                              <w xml:id="CArg_9r_tb_Lc_0">rub</w>
+                              <w xml:id="CArg_9r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_9r_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_9r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_9r_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="9v" xml:id="CArg_pb_18_9v" facs="#CArg_facs_18_9v"/>
@@ -3336,42 +3302,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_9v_20_6">esaïan</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_9v_foot">
                      <table type="eusebian_canons" xml:id="CArg_9v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_9v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_9v_tb_row_1" n="1">
+                           <w xml:id="CArg_9v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_9v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_9v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_9v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_9v_tb_row_2" n="2">
                            <num rend="silver_ink" value="66">
-                              <w xml:id="CArg_9v_tb_Mt_0">jq</w>
-                           </num>
-                           <num rend="silver_ink" value="67">
-                              <w xml:id="CArg_9v_tb_Mt_1">jz</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_9v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_9v_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_9v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_9v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="66">
-                              <w xml:id="CArg_9v_tb_Lc_0">jq</w>
-                           </num>
-                           <num rend="silver_ink" value="26">
-                              <w xml:id="CArg_9v_tb_Lc_1">kq</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_9v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_9v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_9v_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_9v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="66">
+                              <w xml:id="CArg_9v_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_9v_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_9v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="67">
+                              <w xml:id="CArg_9v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_9v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="26">
+                              <w xml:id="CArg_9v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_9v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="10r" xml:id="CArg_pb_19_10r" facs="#CArg_facs_19_10r"/>
@@ -3512,42 +3476,40 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_10r_20_4"><choice xml:id='CArg_abbr_10r_20_4'><abbr>ïnnatgaggand<am><g ref='#itild'/></am></abbr><expan>ïnnatgaggandi<ex>n</ex></expan></choice></w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_10r_foot">
                      <table type="eusebian_canons" xml:id="CArg_10r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_10r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_10r_tb_row_1" n="1">
+                           <w xml:id="CArg_10r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_10r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_10r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_10r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_10r_tb_row_2" n="2">
                            <num rend="silver_ink" value="68">
-                              <w xml:id="CArg_10r_tb_Mt_0"><unclear reason='damage' xml:id='CArg_un_10r_ec_1'>j</unclear><unclear reason='damage' xml:id='CArg_un_10r_ec_1'>h</unclear></w>
-                           </num>
-                           <num rend="silver_ink" value="69">
-                              <w xml:id="CArg_10r_tb_Mt_1">jþ</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_10r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_10r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10r_tb_Gv_1">·</w>
+                              <w xml:id="CArg_10r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_10r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="105">
-                              <w xml:id="CArg_10r_tb_Lc_0">re</w>
+                              <w xml:id="CArg_10r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_10r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_10r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="69">
+                              <w xml:id="CArg_10r_tb_Mc_2">mz</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_10r_tb_Mc_2">mz</w>
                            </num>
                            <num rend="silver_ink" value="83">
-                              <w xml:id="CArg_10r_tb_Lc_1">pg</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_10r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_10r_tb_Mc_2">mz</w>
                            </num>
                            <num rend="silver_ink" value="47">
-                              <w xml:id="CArg_10r_tb_Mc_1">mz</w>
+                              <w xml:id="CArg_10r_tb_Mc_2">mz</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="10v" xml:id="CArg_pb_20_10v" facs="#CArg_facs_20_10v"/>
@@ -3682,42 +3644,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_10v_20_6">mahta</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_10v_foot">
                      <table type="eusebian_canons" xml:id="CArg_10v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_10v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_10v_tb_row_1" n="1">
+                           <w xml:id="CArg_10v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_10v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_10v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_10v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_10v_tb_row_2" n="2">
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10v_tb_Mt_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10v_tb_Mt_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_10v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10v_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_10v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10v_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10v_tb_Lc_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_10v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_10v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_10v_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_10v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_10v_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_10v_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_10v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_10v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_10v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_10v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_10v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="11r" xml:id="CArg_pb_21_11r" facs="#CArg_facs_21_11r"/>
@@ -3853,42 +3813,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_11r_20_6">wiþra</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_11r_foot">
                      <table type="eusebian_canons" xml:id="CArg_11r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_11r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_11r_tb_row_1" n="1">
+                           <w xml:id="CArg_11r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_11r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_11r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_11r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_11r_tb_row_2" n="2">
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_11r_tb_Mt_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_11r_tb_Mt_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_11r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_11r_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_11r_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_11r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_11r_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_11r_tb_Lc_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_11r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_11r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_11r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_11r_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_11r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_11r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_11r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_11r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_11r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_11r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_11r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="11v" xml:id="CArg_pb_22_11v" facs="#CArg_facs_22_11v"/>
@@ -4033,30 +3991,26 @@
                   <pc type="comma" xml:id="CArg_comma_11v_20_4">·</pc>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_11v_foot">
                      <table type="eusebian_canons" xml:id="CArg_11v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_11v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_11v_tb_row_1" n="1">
+                           <w xml:id="CArg_11v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_11v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_11v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_11v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_11v_tb_row_2" n="2">
                            <num rend="silver_ink" value="70">
-                              <w xml:id="CArg_11v_tb_Mt_0">u</w>
+                              <w xml:id="CArg_11v_tb_Mc_1">k</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_11v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="38">
-                              <w xml:id="CArg_11v_tb_Gv_0">lh</w>
+                              <w xml:id="CArg_11v_tb_Mc_1">k</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_11v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="37">
-                              <w xml:id="CArg_11v_tb_Lc_0">lz</w>
+                              <w xml:id="CArg_11v_tb_Mc_1">k</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_11v_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="20">
-                              <w xml:id="CArg_11v_tb_Mc_0">k</w>
+                              <w xml:id="CArg_11v_tb_Mc_1">k</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="12r" xml:id="CArg_pb_23_12r" facs="#CArg_facs_23_12r"/>
@@ -4184,42 +4138,40 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_12r_20_4">þaim</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_12r_foot">
                      <table type="eusebian_canons" xml:id="CArg_12r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_12r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_12r_tb_row_1" n="1">
+                           <w xml:id="CArg_12r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_12r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_12r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_12r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_12r_tb_row_2" n="2">
                            <num rend="silver_ink" value="71">
-                              <w xml:id="CArg_12r_tb_Mt_0">ua</w>
-                           </num>
-                           <num rend="silver_ink" value="72">
-                              <w xml:id="CArg_12r_tb_Mt_1">ub</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_12r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_12r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_12r_tb_Mc_1">ka</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_12r_tb_Gv_1">·</w>
+                              <w xml:id="CArg_12r_tb_Mc_1">ka</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_12r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="38">
-                              <w xml:id="CArg_12r_tb_Lc_0">lh</w>
+                              <w xml:id="CArg_12r_tb_Mc_1">ka</w>
+                           </num>
+                           <num rend="silver_ink" value="21">
+                              <w xml:id="CArg_12r_tb_Mc_1">ka</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_12r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="72">
+                              <w xml:id="CArg_12r_tb_Mc_2">kb</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_12r_tb_Mc_2">kb</w>
                            </num>
                            <num rend="silver_ink" value="39">
-                              <w xml:id="CArg_12r_tb_Lc_1">lþ</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_12r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="21">
-                              <w xml:id="CArg_12r_tb_Mc_0">ka</w>
+                              <w xml:id="CArg_12r_tb_Mc_2">kb</w>
                            </num>
                            <num rend="silver_ink" value="22">
-                              <w xml:id="CArg_12r_tb_Mc_1">kb</w>
+                              <w xml:id="CArg_12r_tb_Mc_2">kb</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="12v" xml:id="CArg_pb_24_12v" facs="#CArg_facs_24_12v"/>
@@ -4366,30 +4318,26 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_20_6"><choice xml:id='CArg_abbr_12v_20_6'><abbr>fan<am><g ref='#atild'/></am></abbr><expan>fana<ex>n</ex></expan></choice></w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_12v_foot">
                      <table type="eusebian_canons" xml:id="CArg_12v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_12v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_12v_tb_row_1" n="1">
+                           <w xml:id="CArg_12v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_12v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_12v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_12v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_12v_tb_row_2" n="2">
                            <num rend="silver_ink" value="73">
-                              <w xml:id="CArg_12v_tb_Mt_0">ug</w>
+                              <w xml:id="CArg_12v_tb_Mc_1">mþ</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_12v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_12v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_12v_tb_Mc_1">mþ</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_12v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="85">
-                              <w xml:id="CArg_12v_tb_Lc_0">pe</w>
+                              <w xml:id="CArg_12v_tb_Mc_1">mþ</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_12v_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="49">
-                              <w xml:id="CArg_12v_tb_Mc_0">mþ</w>
+                              <w xml:id="CArg_12v_tb_Mc_1">mþ</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="13r" xml:id="CArg_pb_25_13r" facs="#CArg_facs_25_13r"/>
@@ -4526,30 +4474,26 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_13r_20_3">attaitok</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_13r_foot">
                      <table type="eusebian_canons" xml:id="CArg_13r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_13r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_13r_tb_row_1" n="1">
+                           <w xml:id="CArg_13r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_13r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_13r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_13r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_13r_tb_row_2" n="2">
                            <num rend="silver_ink" value="74">
-                              <w xml:id="CArg_13r_tb_Mt_0">ud</w>
+                              <w xml:id="CArg_13r_tb_Mc_1">mþ</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_13r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_13r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_13r_tb_Mc_1">mþ</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_13r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="85">
-                              <w xml:id="CArg_13r_tb_Lc_0">pe</w>
+                              <w xml:id="CArg_13r_tb_Mc_1">mþ</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_13r_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="49">
-                              <w xml:id="CArg_13r_tb_Mc_0">mþ</w>
+                              <w xml:id="CArg_13r_tb_Mc_1">mþ</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="13v" xml:id="CArg_pb_26_13v" facs="#CArg_facs_26_13v"/>
@@ -4693,30 +4637,26 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_13v_20_4">jainþro</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_13v_foot">
                      <table type="eusebian_canons" xml:id="CArg_13v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_13v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_13v_tb_row_1" n="1">
+                           <w xml:id="CArg_13v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_13v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_13v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_13v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_13v_tb_row_2" n="2">
                            <num rend="silver_ink" value="75">
-                              <w xml:id="CArg_13v_tb_Mt_0">ue</w>
+                              <w xml:id="CArg_13v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_13v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_13v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_13v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_13v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_13v_tb_Lc_0">·</w>
+                              <w xml:id="CArg_13v_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_13v_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_13v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_13v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="14r" xml:id="CArg_pb_27_14r" facs="#CArg_facs_27_14r"/>
@@ -4846,30 +4786,26 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_14r_20_4">sildaleikidedun</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_14r_foot">
                      <table type="eusebian_canons" xml:id="CArg_14r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_14r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_14r_tb_row_1" n="1">
+                           <w xml:id="CArg_14r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_14r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_14r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_14r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_14r_tb_row_2" n="2">
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14r_tb_Mt_0">·</w>
+                              <w xml:id="CArg_14r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_14r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_14r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_14r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14r_tb_Lc_0">·</w>
+                              <w xml:id="CArg_14r_tb_Mc_1">·</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_14r_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_14r_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <fw type="header" place="top_center" rend="silver_ink" xml:id="CArg_fw_14v_head">·þairh·</fw>
@@ -5007,63 +4943,65 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_14v_20_5">si<choice xml:id='CArg_em_14v_20_5'><sic></sic><corr resp='Streitberg'>ponjam</corr></choice></w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_14v_foot">
                      <table type="eusebian_canons" xml:id="CArg_14v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_14v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_14v_tb_row_1" n="1">
+                           <w xml:id="CArg_14v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_14v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_14v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_14v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_14v_tb_row_2" n="2">
                            <num rend="silver_ink" value="76">
-                              <w xml:id="CArg_14v_tb_Mt_0">uq</w>
-                           </num>
-                           <num rend="silver_ink" value="77">
-                              <w xml:id="CArg_14v_tb_Mt_1">uz</w>
-                           </num>
-                           <num rend="silver_ink" value="78">
-                              <w xml:id="CArg_14v_tb_Mt_2">uh</w>
-                           </num>
-                           <num rend="silver_ink" value="79">
-                              <w xml:id="CArg_14v_tb_Mt_3">uþ</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_14v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_14v_tb_Mc_1">nb</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14v_tb_Gv_1">·</w>
+                              <w xml:id="CArg_14v_tb_Mc_1">nb</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14v_tb_Gv_2">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14v_tb_Gv_3">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_14v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="169">
-                              <w xml:id="CArg_14v_tb_Lc_0">rjþ</w>
+                              <w xml:id="CArg_14v_tb_Mc_1">nb</w>
+                           </num>
+                           <num rend="silver_ink" value="52">
+                              <w xml:id="CArg_14v_tb_Mc_1">nb</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_14v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="77">
+                              <w xml:id="CArg_14v_tb_Mc_2">jg</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14v_tb_Lc_1">·</w>
+                              <w xml:id="CArg_14v_tb_Mc_2">jg</w>
                            </num>
-                           <num rend="silver_ink" value="108">
-                              <w xml:id="CArg_14v_tb_Lc_2">rh</w>
-                           </num>
-                           <num rend="silver_ink" value="108">
-                              <w xml:id="CArg_14v_tb_Lc_3">rh</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_14v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="52">
-                              <w xml:id="CArg_14v_tb_Mc_0">nb</w>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_14v_tb_Mc_2">jg</w>
                            </num>
                            <num rend="silver_ink" value="63">
-                              <w xml:id="CArg_14v_tb_Mc_1">jg</w>
+                              <w xml:id="CArg_14v_tb_Mc_2">jg</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_14v_tb_row_4" n="4">
+                           <num rend="silver_ink" value="78">
+                              <w xml:id="CArg_14v_tb_Mc_3">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_14v_tb_Mc_2">·</w>
+                              <w xml:id="CArg_14v_tb_Mc_3">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="108">
+                              <w xml:id="CArg_14v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_14v_tb_Mc_3">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_14v_tb_row_5" n="5">
+                           <num rend="silver_ink" value="79">
+                              <w xml:id="CArg_14v_tb_Mc_4">rh</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_14v_tb_Mc_4">rh</w>
+                           </num>
+                           <num rend="silver_ink" value="108">
+                              <w xml:id="CArg_14v_tb_Mc_4">rh</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <gb n="3"/>
@@ -5210,66 +5148,68 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_39r_20_3">usqimandans</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_39r_foot">
                      <table type="eusebian_canons" xml:id="CArg_39r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_39r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_39r_tb_row_1" n="1">
+                           <w xml:id="CArg_39r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_39r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_39r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_39r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_39r_tb_row_2" n="2">
                            <num rend="silver_ink" value="90">
-                              <w xml:id="CArg_39r_tb_Mt_0">ɥ</w>
+                              <w xml:id="CArg_39r_tb_Mc_1">·</w>
                            </num>
-                           <num rend="silver_ink" value="91">
-                              <w xml:id="CArg_39r_tb_Mt_1">ɥa</w>
-                           </num>
-                           <num rend="silver_ink" value="92">
-                              <w xml:id="CArg_39r_tb_Mt_2">ɥb</w>
-                           </num>
-                           <num rend="silver_ink" value="93">
-                              <w xml:id="CArg_39r_tb_Mt_3">ɥg</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_39r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="118">
-                              <w xml:id="CArg_39r_tb_Gv_0">rih</w>
+                              <w xml:id="CArg_39r_tb_Mc_1">·</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39r_tb_Gv_1">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39r_tb_Gv_2">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39r_tb_Gv_3">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_39r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="58">
-                              <w xml:id="CArg_39r_tb_Lc_0">nh</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39r_tb_Lc_1">·</w>
-                           </num>
-                           <num rend="silver_ink" value="80">
-                              <w xml:id="CArg_39r_tb_Lc_2">p</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39r_tb_Lc_3">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_39r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_39r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_39r_tb_Mc_1">·</w>
                            </num>
-                           <num rend="silver_ink" value="40">
-                              <w xml:id="CArg_39r_tb_Mc_2">m</w>
+                        </row>
+                        <row xml:id="CArg_39r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="91">
+                              <w xml:id="CArg_39r_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39r_tb_Mc_3">·</w>
+                              <w xml:id="CArg_39r_tb_Mc_2">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_39r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_39r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_39r_tb_row_4" n="4">
+                           <num rend="silver_ink" value="92">
+                              <w xml:id="CArg_39r_tb_Mc_3">m</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_39r_tb_Mc_3">m</w>
+                           </num>
+                           <num rend="silver_ink" value="80">
+                              <w xml:id="CArg_39r_tb_Mc_3">m</w>
+                           </num>
+                           <num rend="silver_ink" value="40">
+                              <w xml:id="CArg_39r_tb_Mc_3">m</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_39r_tb_row_5" n="5">
+                           <num rend="silver_ink" value="93">
+                              <w xml:id="CArg_39r_tb_Mc_4">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_39r_tb_Mc_4">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_39r_tb_Mc_4">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_39r_tb_Mc_4">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="39v" xml:id="CArg_pb_30_39v" facs="#CArg_facs_30_39v"/>
@@ -5411,42 +5351,40 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_39v_20_6">þatei</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_39v_foot">
                      <table type="eusebian_canons" xml:id="CArg_39v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_39v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_39v_tb_row_1" n="1">
+                           <w xml:id="CArg_39v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_39v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_39v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_39v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_39v_tb_row_2" n="2">
                            <num rend="silver_ink" value="94">
-                              <w xml:id="CArg_39v_tb_Mt_0">ɥd</w>
-                           </num>
-                           <num rend="silver_ink" value="95">
-                              <w xml:id="CArg_39v_tb_Mt_1">ɥe</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_39v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_39v_tb_Mc_1">pq</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39v_tb_Gv_1">·</w>
+                              <w xml:id="CArg_39v_tb_Mc_1">pq</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_39v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="97">
-                              <w xml:id="CArg_39v_tb_Lc_0">ɥz</w>
+                              <w xml:id="CArg_39v_tb_Mc_1">pq</w>
+                           </num>
+                           <num rend="silver_ink" value="86">
+                              <w xml:id="CArg_39v_tb_Mc_1">pq</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_39v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="95">
+                              <w xml:id="CArg_39v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_39v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="160">
-                              <w xml:id="CArg_39v_tb_Lc_1">rj</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_39v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="86">
-                              <w xml:id="CArg_39v_tb_Mc_0">pq</w>
+                              <w xml:id="CArg_39v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_39v_tb_Mc_1">·</w>
+                              <w xml:id="CArg_39v_tb_Mc_2">·</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="27r" xml:id="CArg_pb_31_27r" facs="#CArg_facs_31_27r"/>
@@ -5597,54 +5535,54 @@
                   <pc type="colon" xml:id="CArg_colon_27r_20_4">:</pc>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_27r_foot">
                      <table type="eusebian_canons" xml:id="CArg_27r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_27r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_27r_tb_row_1" n="1">
+                           <w xml:id="CArg_27r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_27r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_27r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_27r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_27r_tb_row_2" n="2">
                            <num rend="silver_ink" value="96">
-                              <w xml:id="CArg_27r_tb_Mt_0">ɥq</w>
+                              <w xml:id="CArg_27r_tb_Mc_1">·</w>
                            </num>
-                           <num rend="silver_ink" value="97">
-                              <w xml:id="CArg_27r_tb_Mt_1">ɥz</w>
-                           </num>
-                           <num rend="silver_ink" value="98">
-                              <w xml:id="CArg_27r_tb_Mt_2">ɥh</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_27r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_27r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="182">
+                              <w xml:id="CArg_27r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_27r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_27r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="97">
+                              <w xml:id="CArg_27r_tb_Mc_2">pe</w>
                            </num>
                            <num rend="silver_ink" value="105">
-                              <w xml:id="CArg_27r_tb_Gv_1">re</w>
-                           </num>
-                           <num rend="silver_ink" value="120">
-                              <w xml:id="CArg_27r_tb_Gv_2">rk</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_27r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="182">
-                              <w xml:id="CArg_27r_tb_Lc_0">rpb</w>
+                              <w xml:id="CArg_27r_tb_Mc_2">pe</w>
                            </num>
                            <num rend="silver_ink" value="111">
-                              <w xml:id="CArg_27r_tb_Lc_1">ria</w>
-                           </num>
-                           <num rend="silver_ink" value="116">
-                              <w xml:id="CArg_27r_tb_Lc_2">riq</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_27r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_27r_tb_Mc_2">pe</w>
                            </num>
                            <num rend="silver_ink" value="85">
-                              <w xml:id="CArg_27r_tb_Mc_1">pe</w>
+                              <w xml:id="CArg_27r_tb_Mc_2">pe</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_27r_tb_row_4" n="4">
+                           <num rend="silver_ink" value="98">
+                              <w xml:id="CArg_27r_tb_Mc_3">ɥq</w>
+                           </num>
+                           <num rend="silver_ink" value="120">
+                              <w xml:id="CArg_27r_tb_Mc_3">ɥq</w>
+                           </num>
+                           <num rend="silver_ink" value="116">
+                              <w xml:id="CArg_27r_tb_Mc_3">ɥq</w>
                            </num>
                            <num rend="silver_ink" value="96">
-                              <w xml:id="CArg_27r_tb_Mc_2">ɥq</w>
+                              <w xml:id="CArg_27r_tb_Mc_3">ɥq</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="27v" xml:id="CArg_pb_32_27v" facs="#CArg_facs_32_27v"/>
@@ -5779,66 +5717,68 @@
                   <pc type="comma" xml:id="CArg_comma_27v_20_5">·</pc>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_27v_foot">
                      <table type="eusebian_canons" xml:id="CArg_27v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_27v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_27v_tb_row_1" n="1">
+                           <w xml:id="CArg_27v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_27v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_27v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_27v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_27v_tb_row_2" n="2">
                            <num rend="silver_ink" value="99">
-                              <w xml:id="CArg_27v_tb_Mt_0">ɥþ</w>
+                              <w xml:id="CArg_27v_tb_Mc_1">ɥh</w>
                            </num>
-                           <num rend="silver_ink" value="100">
-                              <w xml:id="CArg_27v_tb_Mt_1">r</w>
-                           </num>
-                           <num rend="silver_ink" value="101">
-                              <w xml:id="CArg_27v_tb_Mt_2">ra</w>
-                           </num>
-                           <num rend="silver_ink" value="102">
-                              <w xml:id="CArg_27v_tb_Mt_3">rb</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_27v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="31">
-                              <w xml:id="CArg_27v_tb_Gv_0">la</w>
+                              <w xml:id="CArg_27v_tb_Mc_1">ɥh</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27v_tb_Gv_1">·</w>
+                              <w xml:id="CArg_27v_tb_Mc_1">ɥh</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27v_tb_Gv_2">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27v_tb_Gv_3">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_27v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27v_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27v_tb_Lc_1">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27v_tb_Lc_2">·</w>
-                           </num>
-                           <num rend="silver_ink" value="69">
-                              <w xml:id="CArg_27v_tb_Lc_3">jþ</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_27v_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="98">
-                              <w xml:id="CArg_27v_tb_Mc_0">ɥh</w>
+                              <w xml:id="CArg_27v_tb_Mc_1">ɥh</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_27v_tb_Mc_1">·</w>
+                        </row>
+                        <row xml:id="CArg_27v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="100">
+                              <w xml:id="CArg_27v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_27v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_27v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_27v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_27v_tb_row_4" n="4">
+                           <num rend="silver_ink" value="101">
                               <w xml:id="CArg_27v_tb_Mc_3">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_27v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_27v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_27v_tb_Mc_3">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_27v_tb_row_5" n="5">
+                           <num rend="silver_ink" value="102">
+                              <w xml:id="CArg_27v_tb_Mc_4">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_27v_tb_Mc_4">·</w>
+                           </num>
+                           <num rend="silver_ink" value="69">
+                              <w xml:id="CArg_27v_tb_Mc_4">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_27v_tb_Mc_4">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="34r" xml:id="CArg_pb_33_34r" facs="#CArg_facs_33_34r"/>
@@ -5962,42 +5902,40 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_34r_20_3">saiƕan</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_34r_foot">
                      <table type="eusebian_canons" xml:id="CArg_34r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_34r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_34r_tb_row_1" n="1">
+                           <w xml:id="CArg_34r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_34r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_34r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_34r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_34r_tb_row_2" n="2">
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34r_tb_Mt_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34r_tb_Mt_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_34r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34r_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34r_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_34r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34r_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34r_tb_Lc_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_34r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_34r_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_34r_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_34r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34r_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34r_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_34v_1_1">prau<pb n='34v' xml:id='CArg_pb_34_34v'/><lb n='1' xml:id='CArg_lb_34v_1'/>fetu</w>
@@ -6131,54 +6069,54 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_34v_20_5">saei</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_34v_foot">
                      <table type="eusebian_canons" xml:id="CArg_34v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_34v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_34v_tb_row_1" n="1">
+                           <w xml:id="CArg_34v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_34v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_34v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_34v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_34v_tb_row_2" n="2">
                            <num rend="silver_ink" value="103">
-                              <w xml:id="CArg_34v_tb_Mt_0">rg</w>
-                           </num>
-                           <num rend="silver_ink" value="104">
-                              <w xml:id="CArg_34v_tb_Mt_1">rd</w>
-                           </num>
-                           <num rend="silver_ink" value="105">
-                              <w xml:id="CArg_34v_tb_Mt_2">re</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_34v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_34v_tb_Mc_1">a</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34v_tb_Gv_1">·</w>
+                              <w xml:id="CArg_34v_tb_Mc_1">a</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34v_tb_Gv_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_34v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="70">
-                              <w xml:id="CArg_34v_tb_Lc_0">u</w>
+                              <w xml:id="CArg_34v_tb_Mc_1">a</w>
                            </num>
-                           <num rend="silver_ink" value="71">
-                              <w xml:id="CArg_34v_tb_Lc_1">ua</w>
-                           </num>
-                           <num rend="silver_ink" value="193">
-                              <w xml:id="CArg_34v_tb_Lc_2">rɥg</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_34v_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="1">
-                              <w xml:id="CArg_34v_tb_Mc_0">a</w>
+                              <w xml:id="CArg_34v_tb_Mc_1">a</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_34v_tb_Mc_1">·</w>
+                        </row>
+                        <row xml:id="CArg_34v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="104">
+                              <w xml:id="CArg_34v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_34v_tb_Mc_2">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="71">
+                              <w xml:id="CArg_34v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_34v_tb_row_4" n="4">
+                           <num rend="silver_ink" value="105">
+                              <w xml:id="CArg_34v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="193">
+                              <w xml:id="CArg_34v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_34v_tb_Mc_3">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_381_2r_1_1">ha<pb n='381_2r' xml:id='CArg_pb_35_381_2r'/><lb n='1' xml:id='CArg_lb_381_2r_1'/>bai</w>
@@ -6288,54 +6226,54 @@
                   <pc type="comma" xml:id="CArg_comma_381_2r_20_5">·</pc>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_381_2r_foot">
                      <table type="eusebian_canons" xml:id="CArg_381_2r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_381_2r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_381_2r_tb_row_1" n="1">
+                           <w xml:id="CArg_381_2r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_381_2r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_381_2r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_381_2r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_381_2r_tb_row_2" n="2">
                            <num rend="silver_ink" value="106">
-                              <w xml:id="CArg_381_2r_tb_Mt_0">rq</w>
+                              <w xml:id="CArg_381_2r_tb_Mc_1">·</w>
                            </num>
-                           <num rend="silver_ink" value="107">
-                              <w xml:id="CArg_381_2r_tb_Mt_1">rz</w>
-                           </num>
-                           <num rend="silver_ink" value="108">
-                              <w xml:id="CArg_381_2r_tb_Mt_2">rh</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_381_2r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_381_2r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_381_2r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="182">
+                              <w xml:id="CArg_381_2r_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_381_2r_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_381_2r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="107">
+                              <w xml:id="CArg_381_2r_tb_Mc_2">pe</w>
                            </num>
                            <num rend="silver_ink" value="105">
-                              <w xml:id="CArg_381_2r_tb_Gv_1">re</w>
-                           </num>
-                           <num rend="silver_ink" value="120">
-                              <w xml:id="CArg_381_2r_tb_Gv_2">rk</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_381_2r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="182">
-                              <w xml:id="CArg_381_2r_tb_Lc_0">rpb</w>
+                              <w xml:id="CArg_381_2r_tb_Mc_2">pe</w>
                            </num>
                            <num rend="silver_ink" value="211">
-                              <w xml:id="CArg_381_2r_tb_Lc_1">sia</w>
-                           </num>
-                           <num rend="silver_ink" value="116">
-                              <w xml:id="CArg_381_2r_tb_Lc_2">riq</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_381_2r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_381_2r_tb_Mc_0">·</w>
+                              <w xml:id="CArg_381_2r_tb_Mc_2">pe</w>
                            </num>
                            <num rend="silver_ink" value="85">
-                              <w xml:id="CArg_381_2r_tb_Mc_1">pe</w>
+                              <w xml:id="CArg_381_2r_tb_Mc_2">pe</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_381_2r_tb_row_4" n="4">
+                           <num rend="silver_ink" value="108">
+                              <w xml:id="CArg_381_2r_tb_Mc_3">ɥq</w>
+                           </num>
+                           <num rend="silver_ink" value="120">
+                              <w xml:id="CArg_381_2r_tb_Mc_3">ɥq</w>
+                           </num>
+                           <num rend="silver_ink" value="116">
+                              <w xml:id="CArg_381_2r_tb_Mc_3">ɥq</w>
                            </num>
                            <num rend="silver_ink" value="96">
-                              <w xml:id="CArg_381_2r_tb_Mc_2">ɥq</w>
+                              <w xml:id="CArg_381_2r_tb_Mc_3">ɥq</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="381_2v" xml:id="CArg_pb_36_381_2v" facs="#CArg_facs_36_381_2v"/>
@@ -6449,42 +6387,40 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_381_2v_20_5">andhaf<choice xml:id='CArg_em_381_2v_20_5'><sic></sic><corr resp='Uppström,Streitberg'>jands</corr></choice></w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_381_2v_foot">
                      <table type="eusebian_canons" xml:id="CArg_381_2v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_381_2v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_381_2v_tb_row_1" n="1">
+                           <w xml:id="CArg_381_2v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_381_2v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_381_2v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_381_2v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_381_2v_tb_row_2" n="2">
                            <num rend="silver_ink" value="109">
-                              <w xml:id="CArg_381_2v_tb_Mt_0">rþ</w>
-                           </num>
-                           <num rend="silver_ink" value="110">
-                              <w xml:id="CArg_381_2v_tb_Mt_1">ri</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_381_2v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_381_2v_tb_Gv_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_381_2v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_381_2v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_381_2v_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="118">
-                              <w xml:id="CArg_381_2v_tb_Lc_1">rih</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_381_2v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_381_2v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_381_2v_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_381_2v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_381_2v_tb_Mc_1">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_381_2v_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_381_2v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="110">
+                              <w xml:id="CArg_381_2v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_381_2v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="118">
+                              <w xml:id="CArg_381_2v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_381_2v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="20r" xml:id="CArg_pb_37_20r" facs="#CArg_facs_37_20r"/>
@@ -6639,54 +6575,54 @@
                   <pc type="comma" xml:id="CArg_comma_20r_20_5">·</pc>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_20r_foot">
                      <table type="eusebian_canons" xml:id="CArg_20r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_20r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_20r_tb_row_1" n="1">
+                           <w xml:id="CArg_20r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_20r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_20r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_20r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_20r_tb_row_2" n="2">
                            <num rend="silver_ink" value="316">
-                              <w xml:id="CArg_20r_tb_Mt_0">tiq</w>
+                              <w xml:id="CArg_20r_tb_Mc_1">rɥq</w>
                            </num>
-                           <num rend="silver_ink" value="317">
-                              <w xml:id="CArg_20r_tb_Mt_1">tiz</w>
-                           </num>
-                           <num rend="silver_ink" value="318">
-                              <w xml:id="CArg_20r_tb_Mt_2">tih</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_20r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="175">
-                              <w xml:id="CArg_20r_tb_Gv_0">rue</w>
+                              <w xml:id="CArg_20r_tb_Mc_1">rɥq</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_20r_tb_Gv_1">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_20r_tb_Gv_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_20r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="292">
-                              <w xml:id="CArg_20r_tb_Lc_0">sɥb</w>
+                              <w xml:id="CArg_20r_tb_Mc_1">rɥq</w>
+                           </num>
+                           <num rend="silver_ink" value="196">
+                              <w xml:id="CArg_20r_tb_Mc_1">rɥq</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_20r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="317">
+                              <w xml:id="CArg_20r_tb_Mc_2">rɥz</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_20r_tb_Mc_2">rɥz</w>
                            </num>
                            <num rend="silver_ink" value="293">
-                              <w xml:id="CArg_20r_tb_Lc_1">sɥg</w>
-                           </num>
-                           <num rend="silver_ink" value="295">
-                              <w xml:id="CArg_20r_tb_Lc_2">sɥe</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_20r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="196">
-                              <w xml:id="CArg_20r_tb_Mc_0">rɥq</w>
+                              <w xml:id="CArg_20r_tb_Mc_2">rɥz</w>
                            </num>
                            <num rend="silver_ink" value="197">
-                              <w xml:id="CArg_20r_tb_Mc_1">rɥz</w>
+                              <w xml:id="CArg_20r_tb_Mc_2">rɥz</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_20r_tb_row_4" n="4">
+                           <num rend="silver_ink" value="318">
+                              <w xml:id="CArg_20r_tb_Mc_3">rɥh</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_20r_tb_Mc_3">rɥh</w>
+                           </num>
+                           <num rend="silver_ink" value="295">
+                              <w xml:id="CArg_20r_tb_Mc_3">rɥh</w>
                            </num>
                            <num rend="silver_ink" value="198">
-                              <w xml:id="CArg_20r_tb_Mc_2">rɥh</w>
+                              <w xml:id="CArg_20r_tb_Mc_3">rɥh</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="20v" xml:id="CArg_pb_38_20v" facs="#CArg_facs_38_20v"/>
@@ -6821,42 +6757,40 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_20v_20_4">unte</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_20v_foot">
                      <table type="eusebian_canons" xml:id="CArg_20v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_20v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_20v_tb_row_1" n="1">
+                           <w xml:id="CArg_20v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_20v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_20v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_20v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_20v_tb_row_2" n="2">
                            <num rend="silver_ink" value="318">
-                              <w xml:id="CArg_20v_tb_Mt_0">tih</w>
+                              <w xml:id="CArg_20v_tb_Mc_1">·</w>
                            </num>
-                           <num rend="silver_ink" value="319">
-                              <w xml:id="CArg_20v_tb_Mt_1">tiþ</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_20v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="176">
-                              <w xml:id="CArg_20v_tb_Gv_0">ruq</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_20v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_20v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_20v_tb_Lc_0">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_20v_tb_Lc_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_20v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_20v_tb_Mc_0">·</w>
+                              <w xml:id="CArg_20v_tb_Mc_1">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
                               <w xml:id="CArg_20v_tb_Mc_1">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_20v_tb_Mc_1">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_20v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="319">
+                              <w xml:id="CArg_20v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_20v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_20v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_20v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_1_1">and<choice xml:id='CArg_em_20v_20_5'><sic></sic><corr resp='Uppström,Streitberg'>a</corr></choice>wair<pb n='102r' xml:id='CArg_pb_39_102r'/><lb n='1' xml:id='CArg_lb_102r_1'/>þi</w>
@@ -7006,42 +6940,40 @@
                   <pc type="comma" xml:id="CArg_comma_102r_20_5"><unclear reason='damage' xml:id='CArg_un_102r_20_5'>·</unclear></pc>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_102r_foot">
                      <table type="eusebian_canons" xml:id="CArg_102r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_102r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_102r_tb_row_1" n="1">
+                           <w xml:id="CArg_102r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_102r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_102r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_102r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_102r_tb_row_2" n="2">
                            <num rend="silver_ink" value="320">
-                              <w xml:id="CArg_102r_tb_Mt_0">tk</w>
+                              <w xml:id="CArg_102r_tb_Mc_1">s</w>
                            </num>
-                           <num rend="silver_ink" value="321">
-                              <w xml:id="CArg_102r_tb_Mt_1">tka</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_102r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="178">
-                              <w xml:id="CArg_102r_tb_Gv_0"><unclear reason='damage' xml:id='CArg_un_102r_ec_1'>ruh</unclear></w>
+                              <w xml:id="CArg_102r_tb_Mc_1">s</w>
+                           </num>
+                           <num rend="silver_ink" value="302">
+                              <w xml:id="CArg_102r_tb_Mc_1">s</w>
+                           </num>
+                           <num rend="silver_ink" value="200">
+                              <w xml:id="CArg_102r_tb_Mc_1">s</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_102r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="321">
+                              <w xml:id="CArg_102r_tb_Mc_2">sa</w>
                            </num>
                            <num rend="silver_ink" value="170">
-                              <w xml:id="CArg_102r_tb_Gv_1"><unclear reason='damage' xml:id='CArg_un_102r_ec_2'>r</unclear><unclear reason='damage' xml:id='CArg_un_102r_ec_2'>u</unclear></w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_102r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="302">
-                              <w xml:id="CArg_102r_tb_Lc_0">tb</w>
+                              <w xml:id="CArg_102r_tb_Mc_2">sa</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_102r_tb_Lc_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_102r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="200">
-                              <w xml:id="CArg_102r_tb_Mc_0">s</w>
+                              <w xml:id="CArg_102r_tb_Mc_2">sa</w>
                            </num>
                            <num rend="silver_ink" value="201">
-                              <w xml:id="CArg_102r_tb_Mc_1">sa</w>
+                              <w xml:id="CArg_102r_tb_Mc_2">sa</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="102v" xml:id="CArg_pb_40_102v" facs="#CArg_facs_40_102v"/>
@@ -7191,54 +7123,54 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102v_20_6"><choice xml:id='CArg_abbr_102v_20_6'><abbr>garai<unclear reason='damage' xml:id='CArg_un_102v_20_6'>t</unclear><am><g ref='#itild'/></am></abbr><expan>garai<unclear reason='damage' xml:id='CArg_un_102v_20_6'>ti</unclear><ex>n</ex></expan></choice></w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_102v_foot">
                      <table type="eusebian_canons" xml:id="CArg_102v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_102v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_102v_tb_row_1" n="1">
+                           <w xml:id="CArg_102v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_102v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_102v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_102v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_102v_tb_row_2" n="2">
                            <num rend="silver_ink" value="322">
-                              <w xml:id="CArg_102v_tb_Mt_0">tkb</w>
+                              <w xml:id="CArg_102v_tb_Mc_1">sb</w>
                            </num>
-                           <num rend="silver_ink" value="323">
-                              <w xml:id="CArg_102v_tb_Mt_1">tkg</w>
-                           </num>
-                           <num rend="silver_ink" value="324">
-                              <w xml:id="CArg_102v_tb_Mt_2">tkd</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_102v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_102v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_102v_tb_Mc_1">sb</w>
+                           </num>
+                           <num rend="silver_ink" value="309">
+                              <w xml:id="CArg_102v_tb_Mc_1">sb</w>
+                           </num>
+                           <num rend="silver_ink" value="202">
+                              <w xml:id="CArg_102v_tb_Mc_1">sb</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_102v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="323">
+                              <w xml:id="CArg_102v_tb_Mc_2">sg</w>
                            </num>
                            <num rend="silver_ink" value="183">
-                              <w xml:id="CArg_102v_tb_Gv_1"><unclear reason='damage' xml:id='CArg_un_102v_ec_2'>rp</unclear><unclear reason='damage' xml:id='CArg_un_102v_ec_2'>g</unclear></w>
+                              <w xml:id="CArg_102v_tb_Mc_2">sg</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_102v_tb_Gv_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_102v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="309">
-                              <w xml:id="CArg_102v_tb_Lc_0">tþ</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_102v_tb_Lc_1">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_102v_tb_Lc_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_102v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="202">
-                              <w xml:id="CArg_102v_tb_Mc_0">sb</w>
+                              <w xml:id="CArg_102v_tb_Mc_2">sg</w>
                            </num>
                            <num rend="silver_ink" value="203">
-                              <w xml:id="CArg_102v_tb_Mc_1">sg</w>
+                              <w xml:id="CArg_102v_tb_Mc_2">sg</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_102v_tb_row_4" n="4">
+                           <num rend="silver_ink" value="324">
+                              <w xml:id="CArg_102v_tb_Mc_3">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_102v_tb_Mc_2">·</w>
+                              <w xml:id="CArg_102v_tb_Mc_3">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_102v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_102v_tb_Mc_3">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="109r" xml:id="CArg_pb_41_109r" facs="#CArg_facs_41_109r"/>
@@ -7390,66 +7322,68 @@
                   <w rend="gold_ink" xml:lang="got" xml:id="CArg_w_109r_20_6">ïm</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_109r_foot">
                      <table type="eusebian_canons" xml:id="CArg_109r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_109r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_109r_tb_row_1" n="1">
+                           <w xml:id="CArg_109r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_109r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_109r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_109r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_109r_tb_row_2" n="2">
                            <num rend="silver_ink" value="339">
-                              <w xml:id="CArg_109r_tb_Mt_0">tlþ</w>
-                           </num>
-                           <num rend="silver_ink" value="340">
-                              <w xml:id="CArg_109r_tb_Mt_1">tm</w>
-                           </num>
-                           <num rend="silver_ink" value="341">
-                              <w xml:id="CArg_109r_tb_Mt_2">tma</w>
-                           </num>
-                           <num rend="silver_ink" value="342">
-                              <w xml:id="CArg_109r_tb_Mt_3">tmb</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_109r_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_109r_tb_Mc_1">siþ</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109r_tb_Gv_1">·</w>
+                              <w xml:id="CArg_109r_tb_Mc_1">siþ</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109r_tb_Gv_2">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109r_tb_Gv_3">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_109r_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="325">
-                              <w xml:id="CArg_109r_tb_Lc_0">tke</w>
+                              <w xml:id="CArg_109r_tb_Mc_1">siþ</w>
+                           </num>
+                           <num rend="silver_ink" value="219">
+                              <w xml:id="CArg_109r_tb_Mc_1">siþ</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_109r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="340">
+                              <w xml:id="CArg_109r_tb_Mc_2">sk</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_109r_tb_Mc_2">sk</w>
                            </num>
                            <num rend="silver_ink" value="327">
-                              <w xml:id="CArg_109r_tb_Lc_1">tkz</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109r_tb_Lc_2">·</w>
-                           </num>
-                           <num rend="silver_ink" value="323">
-                              <w xml:id="CArg_109r_tb_Lc_3">tkg</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_109r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="219">
-                              <w xml:id="CArg_109r_tb_Mc_0">siþ</w>
+                              <w xml:id="CArg_109r_tb_Mc_2">sk</w>
                            </num>
                            <num rend="silver_ink" value="220">
-                              <w xml:id="CArg_109r_tb_Mc_1">sk</w>
+                              <w xml:id="CArg_109r_tb_Mc_2">sk</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_109r_tb_row_4" n="4">
+                           <num rend="silver_ink" value="341">
+                              <w xml:id="CArg_109r_tb_Mc_3">ska</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_109r_tb_Mc_3">ska</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_109r_tb_Mc_3">ska</w>
                            </num>
                            <num rend="silver_ink" value="221">
-                              <w xml:id="CArg_109r_tb_Mc_2">ska</w>
+                              <w xml:id="CArg_109r_tb_Mc_3">ska</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_109r_tb_row_5" n="5">
+                           <num rend="silver_ink" value="342">
+                              <w xml:id="CArg_109r_tb_Mc_4">skb</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_109r_tb_Mc_4">skb</w>
+                           </num>
+                           <num rend="silver_ink" value="323">
+                              <w xml:id="CArg_109r_tb_Mc_4">skb</w>
                            </num>
                            <num rend="silver_ink" value="222">
-                              <w xml:id="CArg_109r_tb_Mc_3">skb</w>
+                              <w xml:id="CArg_109r_tb_Mc_4">skb</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="109v" xml:id="CArg_pb_42_109v" facs="#CArg_facs_42_109v"/>
@@ -7598,66 +7532,68 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_109v_20_4">qiþandans</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_109v_foot">
                      <table type="eusebian_canons" xml:id="CArg_109v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_109v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_109v_tb_row_1" n="1">
+                           <w xml:id="CArg_109v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_109v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_109v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_109v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_109v_tb_row_2" n="2">
                            <num rend="silver_ink" value="343">
-                              <w xml:id="CArg_109v_tb_Mt_0">tmg</w>
+                              <w xml:id="CArg_109v_tb_Mc_1">skg</w>
                            </num>
-                           <num rend="silver_ink" value="344">
-                              <w xml:id="CArg_109v_tb_Mt_1">tmd</w>
-                           </num>
-                           <num rend="silver_ink" value="345">
-                              <w xml:id="CArg_109v_tb_Mt_2">tme</w>
-                           </num>
-                           <num rend="silver_ink" value="346">
-                              <w xml:id="CArg_109v_tb_Mt_3">tmq</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_109v_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="204">
-                              <w xml:id="CArg_109v_tb_Gv_0">sd</w>
+                              <w xml:id="CArg_109v_tb_Mc_1">skg</w>
                            </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109v_tb_Gv_1">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109v_tb_Gv_2">·</w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109v_tb_Gv_3">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_109v_tb_Lc">
-                           luk(a)
                            <num rend="silver_ink" value="329">
-                              <w xml:id="CArg_109v_tb_Lc_0"><unclear reason='damage' xml:id='CArg_un_109v_ec_1'>tkþ</unclear></w>
+                              <w xml:id="CArg_109v_tb_Mc_1">skg</w>
+                           </num>
+                           <num rend="silver_ink" value="223">
+                              <w xml:id="CArg_109v_tb_Mc_1">skg</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_109v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="344">
+                              <w xml:id="CArg_109v_tb_Mc_2">skd</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_109v_tb_Mc_2">skd</w>
                            </num>
                            <num rend="silver_ink" value="328">
-                              <w xml:id="CArg_109v_tb_Lc_1"><unclear reason='damage' xml:id='CArg_un_109v_ec_2'>tk</unclear><unclear reason='damage' xml:id='CArg_un_109v_ec_2'>h</unclear></w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109v_tb_Lc_2">·</w>
-                           </num>
-                           <num rend="silver_ink" value="330">
-                              <w xml:id="CArg_109v_tb_Lc_3"><unclear reason='damage' xml:id='CArg_un_109v_ec_4'>tl</unclear></w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_109v_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="223">
-                              <w xml:id="CArg_109v_tb_Mc_0">skg</w>
+                              <w xml:id="CArg_109v_tb_Mc_2">skd</w>
                            </num>
                            <num rend="silver_ink" value="224">
-                              <w xml:id="CArg_109v_tb_Mc_1">skd</w>
+                              <w xml:id="CArg_109v_tb_Mc_2">skd</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_109v_tb_row_4" n="4">
+                           <num rend="silver_ink" value="345">
+                              <w xml:id="CArg_109v_tb_Mc_3">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_109v_tb_Mc_2">·</w>
+                              <w xml:id="CArg_109v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_109v_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_109v_tb_Mc_3">·</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_109v_tb_row_5" n="5">
+                           <num rend="silver_ink" value="346">
+                              <w xml:id="CArg_109v_tb_Mc_4">ske</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_109v_tb_Mc_4">ske</w>
+                           </num>
+                           <num rend="silver_ink" value="330">
+                              <w xml:id="CArg_109v_tb_Mc_4">ske</w>
                            </num>
                            <num rend="silver_ink" value="225">
-                              <w xml:id="CArg_109v_tb_Mc_3">ske</w>
+                              <w xml:id="CArg_109v_tb_Mc_4">ske</w>
                            </num>
-                        </note>
+                        </row>
                      </table>
                   </fw>
                   <pb n="15r" xml:id="CArg_pb_43_15r" facs="#CArg_facs_43_15r"/>
@@ -7811,54 +7747,54 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_15r_20_4">þis</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_15r_foot">
                      <table type="eusebian_canons" xml:id="CArg_15r_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_15r_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_15r_tb_row_1" n="1">
+                           <w xml:id="CArg_15r_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_15r_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_15r_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_15r_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_15r_tb_row_2" n="2">
                            <num rend="silver_ink" value="347">
-                              <w xml:id="CArg_15r_tb_Mt_0">tmz</w>
+                              <w xml:id="CArg_15r_tb_Mc_1"><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>skq</unclear></w>
                            </num>
-                           <num rend="silver_ink" value="840">
-                              <w xml:id="CArg_15r_tb_Mt_1">tmf</w>
-                           </num>
-                           <num rend="silver_ink" value="349">
-                              <w xml:id="CArg_15r_tb_Mt_2">tmþ</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_15r_tb_Gv">
-                           ïoh(annes)
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15r_tb_Gv_0">·</w>
+                              <w xml:id="CArg_15r_tb_Mc_1"><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>skq</unclear></w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_15r_tb_Mc_1"><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>skq</unclear></w>
+                           </num>
+                           <num rend="silver_ink" value="226">
+                              <w xml:id="CArg_15r_tb_Mc_1"><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>skq</unclear></w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_15r_tb_row_3" n="3">
+                           <num rend="silver_ink" value="840">
+                              <w xml:id="CArg_15r_tb_Mc_2"><unclear reason='damage' xml:id='CArg_un_15r_ec_3'>skz</unclear></w>
                            </num>
                            <num rend="silver_ink" value="206">
-                              <w xml:id="CArg_15r_tb_Gv_1"><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>s</unclear><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>q</unclear></w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15r_tb_Gv_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_15r_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15r_tb_Lc_0">·</w>
+                              <w xml:id="CArg_15r_tb_Mc_2"><unclear reason='damage' xml:id='CArg_un_15r_ec_3'>skz</unclear></w>
                            </num>
                            <num rend="silver_ink" value="332">
-                              <w xml:id="CArg_15r_tb_Lc_1"><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>t</unclear><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>lb</unclear></w>
-                           </num>
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15r_tb_Lc_2">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_15r_tb_Mc">
-                           m(a)r(kus)
-                           <num rend="silver_ink" value="226">
-                              <w xml:id="CArg_15r_tb_Mc_0"><unclear reason='damage' xml:id='CArg_un_15r_ec_1'>skq</unclear></w>
+                              <w xml:id="CArg_15r_tb_Mc_2"><unclear reason='damage' xml:id='CArg_un_15r_ec_3'>skz</unclear></w>
                            </num>
                            <num rend="silver_ink" value="227">
-                              <w xml:id="CArg_15r_tb_Mc_1"><unclear reason='damage' xml:id='CArg_un_15r_ec_2'>skz</unclear></w>
+                              <w xml:id="CArg_15r_tb_Mc_2"><unclear reason='damage' xml:id='CArg_un_15r_ec_3'>skz</unclear></w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_15r_tb_row_4" n="4">
+                           <num rend="silver_ink" value="349">
+                              <w xml:id="CArg_15r_tb_Mc_3">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15r_tb_Mc_2">·</w>
+                              <w xml:id="CArg_15r_tb_Mc_3">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_15r_tb_Mc_3">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_15r_tb_Mc_3">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                   <pb n="15v" xml:id="CArg_pb_44_15v" facs="#CArg_facs_44_15v"/>
@@ -7999,83 +7935,46 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_15v_20_3">þana</w>
                   <fw type="footer" place="bottom_center" xml:id="CArg_fw_15v_foot">
                      <table type="eusebian_canons" xml:id="CArg_15v_tb">
-                        <note type="single_canon" ana="Mt" cols="4" rend="gold_ink" xml:id="CArg_15v_tb_Mt">
-                           m(a)þ(þaius)
+                        <row xml:id="CArg_15v_tb_row_1" n="1">
+                           <w xml:id="CArg_15v_tb_ana_Mt" ana="Mt" rend="gold_ink">m(a)þ(þaius)</w>
+                           <w xml:id="CArg_15v_tb_ana_Gv" ana="Gv" rend="gold_ink">ïoh(annes)</w>
+                           <w xml:id="CArg_15v_tb_ana_Lc" ana="Lc" rend="gold_ink">luk(a)</w>
+                           <w xml:id="CArg_15v_tb_ana_Mc" ana="Mc" rend="gold_ink">m(a)r(kus)</w>
+                        </row>
+                        <row xml:id="CArg_15v_tb_row_2" n="2">
                            <num rend="silver_ink" value="350">
-                              <w xml:id="CArg_15v_tb_Mt_0">tn</w>
-                           </num>
-                           <num rend="silver_ink" value="351">
-                              <w xml:id="CArg_15v_tb_Mt_1">tna</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Gv" cols="4" rend="gold_ink" xml:id="CArg_15v_tb_Gv">
-                           ïoh(annes)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15v_tb_Gv_0">·</w>
+                              <w xml:id="CArg_15v_tb_Mc_1">skþ</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15v_tb_Gv_1">·</w>
-                           </num>
-                        </note>
-                        <note type="single_canon" ana="Lc" cols="4" rend="gold_ink" xml:id="CArg_15v_tb_Lc">
-                           luk(a)
-                           <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15v_tb_Lc_0">·</w>
+                              <w xml:id="CArg_15v_tb_Mc_1">skþ</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15v_tb_Lc_1">·</w>
+                              <w xml:id="CArg_15v_tb_Mc_1">skþ</w>
                            </num>
-                        </note>
-                        <note type="single_canon" ana="Mc" cols="4" rend="gold_ink" xml:id="CArg_15v_tb_Mc">
-                           m(a)r(kus)
                            <num rend="silver_ink" value="229">
-                              <w xml:id="CArg_15v_tb_Mc_0">skþ</w>
+                              <w xml:id="CArg_15v_tb_Mc_1">skþ</w>
+                           </num>
+                        </row>
+                        <row xml:id="CArg_15v_tb_row_3" n="3">
+                           <num rend="silver_ink" value="351">
+                              <w xml:id="CArg_15v_tb_Mc_2">·</w>
                            </num>
                            <num rend="silver_ink" value="·">
-                              <w xml:id="CArg_15v_tb_Mc_1">·</w>
+                              <w xml:id="CArg_15v_tb_Mc_2">·</w>
                            </num>
-                        </note>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_15v_tb_Mc_2">·</w>
+                           </num>
+                           <num rend="silver_ink" value="·">
+                              <w xml:id="CArg_15v_tb_Mc_2">·</w>
+                           </num>
+                        </row>
                      </table>
                   </fw>
                </ab>
             </div>
          </div>
       </body>
-      <back>
-         <div type="apparatus">
-            <note type="comment" target="#CArg_lb_1r_1" resp="#Uppström"><hi rend="italic">lukarnastaþin</hi> : Uppström emends in note to <hi rend="italic">lukarnastaþan</hi></note>
-            <note type="comment" target="#CArg_lb_1r_1" resp="#Uppström"><hi rend="italic">liu-teiþ</hi> : Uppström emends in note to <hi rend="italic">liuh-teiþ</hi></note>
-            <note type="comment" target="#CArg_lb_1v_15" resp="#Grimm"><hi rend="italic">aibr</hi> : Grimm conjectures <hi rend="italic">tibr</hi></note>
-            <note type="comment" target="#CArg_lb_2r_17" resp="#Gabelentz-Loebe, #Massmann, #Bernhardt"><hi rend="italic">usstagg</hi> : Gabelentz-Loebe, Massmann, Bernhardt and Uppström in note emend to <hi rend="italic">usstigg</hi></note>
-            <note type="comment" target="#CArg_lb_2v_7" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">ƕa-ƕazuh</hi> : Uppström, Streitberg and Snædal emend to <hi rend="italic">ƕazuh</hi> (dittography)</note>
-            <note type="comment" target="#CArg_lb_3v_11" resp="#Uppström">·2 : Uppström sees a colon</note>
-            <note type="comment" target="#CArg_lb_4r_20" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">fulhsja</hi> : Uppström, Streitberg, and Snædal emend to <hi rend="italic">fulhsnja</hi></note>
-            <note type="comment" target="#CArg_lb_4v_1" resp="#Uppström"><hi rend="italic">sijaiþ</hi> : only Uppström sees <hi rend="italic">swa</hi> following</note>
-            <note type="comment" target="#CArg_lb_4v_11" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">fulhls(n)-ja</hi> : Uppström, Streitberg, and Snædal emend to <hi rend="italic">fulhs(n)-ja</hi></note>
-            <note type="comment" target="#CArg_lb_6r_12" resp="#Uppström, #Streitberg"><hi rend="italic">faihuþra[†]</hi> : Uppström and Streitberg conjecture <hi rend="italic">faihuþra[ina]</hi></note>
-            <note type="comment" target="#CArg_lb_7r_1" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">-jaina</hi> : Uppström, Streitberg and Snædal conjecture <hi rend="italic">[tau]-jaina</hi></note>
-            <note type="comment" target="#CArg_lb_7r_5" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">wigis</hi> : Uppström, Streitberg and Snædal emend to <hi rend="italic">wigs</hi></note>
-            <note type="comment" target="#CArg_lb_8r_1" resp="#Streitberg, #Wrede, #Snædal"><hi rend="italic">unsib-jana</hi> : Streitberg, Wrede and Snædal emend to <hi rend="italic">unsib-jona</hi>, Gabelentz-Loebe and Bernhardt in <hi rend="italic">unsib-ja sa</hi></note>
-            <note type="comment" target="#CArg_lb_10r_19" resp="#Streitberg"><hi rend="italic">filhan</hi> : Streitberg conjectures <hi rend="italic">gafilhan</hi></note>
-            <note type="comment" target="#CArg_lb_11v_5" resp="#Uppström"><hi rend="italic">þanuh atberun</hi> : Uppström emends in note to <hi rend="italic">þan usatberun</hi></note>
-            <note type="comment" target="#CArg_lb_12v_17" resp="#Streitberg"><hi rend="italic">atgagggand</hi> : Streitberg and XXX emend to <hi rend="italic">atgaggand</hi></note>
-            <note type="comment" target="#CArg_lb_13r_1" resp="#Uppström, #Streitberg"><hi rend="italic">fa[†]njana </hi>: material lacuna, Uppström, Streitberg and XXX conjecture <hi rend="italic">fa[ir]njana</hi></note>
-            <note type="comment" target="#CArg_lb_13v_1" resp="#Uppström, #Streitberg"><hi rend="italic">skaut[†]</hi> : material lacuna, Uppström, Streitberg and XXX conjecture <hi rend="italic">skaut[a]</hi></note>
-            <note type="comment" target="#CArg_lb_27v_3" resp="#Streitberg"><hi rend="italic">praufetis</hi> : Streitberg emends to <hi rend="italic">praufetaus</hi></note>
-            <note type="comment" target="#CArg_lb_34v_5" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">meinna</hi> : Uppström, Streitberg, and Snædal emend to <hi rend="italic">meinana</hi> (although an addition of <hi rend="italic">a</hi> between the two characters of <hi rend="italic">nn</hi> at text height is possible)</note>
-            <note type="comment" target="#CArg_lb_381/2v_20" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">andhaf-</hi> : material lacuna of the following folio, Streitberg and Uppström (and Snædal?) conjecture <hi rend="italic">andhaf-jands</hi></note>
-            <note type="comment" target="#CArg_lb_20v_15" resp="#Streitberg, #Schroder, #Snædal"><hi rend="italic">silubra(m)</hi> : Streitberg, Schroder and Snædal emend to <hi rend="italic">silubreinam</hi></note>
-            <note type="comment" target="#CArg_lb_20v_20" resp="#Streitberg, #Kauffmann, #Snædal"><hi rend="italic">kaurbaunaun</hi> : Streitberg, Kauffmann and Snædal emend to <hi rend="italic">kaurbaunan</hi></note>
-            <note type="comment" target="#CArg_lb_20v_20" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">andwair-þi</hi> : Uppström, Streitberg and Snædal emend to <hi rend="italic">andawair-þi</hi></note>
-            <note type="comment" target="#CArg_lb_102r_4" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">a[†]a</hi> : material lacuna, Uppström, Streitberg and Snædal conjecture <hi rend="italic">a[n]a</hi></note>
-            <note type="comment" target="#CArg_lb_102v_7" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">ƕarjanoh</hi> : Uppström, Streitberg and Snædal emend to <hi rend="italic">ƕarjoh</hi></note>
-            <note type="comment" target="#CArg_lb_109r_10" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">[†]eila[†]</hi> : material lacuna, Uppström, Streitberg and Snædal conjecture <hi rend="italic">[ƕ]eila[i]</hi></note>
-            <note type="comment" target="#CArg_lb_109v_7" resp="#Uppström"><hi rend="italic">diskrit-noda</hi> : Uppström emends in note to <hi rend="italic">disskrit-noda</hi></note>
-            <note type="comment" target="#CArg_lb_109v_16" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">managai[†]</hi> : material lacuna, Uppström, Streitberg, and Snædal conjecture <hi rend="italic">managai[m]</hi></note>
-            <note type="comment" target="#CArg_lb_15r_7" resp="#Streitberg, #Massmann, #Bernhardt"><hi rend="italic">iosez</hi> : Streitberg, Massmann, Bernhardt and Snædal emend to <hi rend="italic">iosezis</hi></note>
-            <note type="comment" target="#CArg_lb_15v_12" resp="#Uppström, #Streitberg, #Snædal"><hi rend="italic">þridjin</hi> : Uppström, Streitberg, and Snædal emend to <hi rend="italic">þridjan</hi></note>
-         </div>
-      </back>
    </text>
 </TEI>
 
