@@ -49,7 +49,7 @@
 }
 
 .fw {
-    display: block;
+    display: flex;
 }
 
 [type="pageNum"][place="top_right"] {
@@ -134,7 +134,7 @@ table[type="eusebian_canons"] num:empty {
   
   /* Codex Argenteus ink colors */
   --gold-ink-color: #d4af37;
-  --silver-ink-color: #c0c0c0;
+  --silver-ink-color: #000000;
   --purple-bg: #4a1850;
   
   /* Grid layout */
