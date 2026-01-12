@@ -1,0 +1,547 @@
+.ab[rend="align-center"] {
+    display: block;
+    text-align: center;
+}
+
+*[rend="strikethrough"] {
+    text-decoration: line-through;
+}
+
+*[rend="overwritten"] {
+    font-weight: bold;
+}
+
+*[rend="erasure"] {
+    background-color: rgb(70, 70, 70);
+}
+
+*[rend="cross"] {
+    text-decoration: line-through;
+}
+
+*[rend="line_full_width"] {
+    margin-bottom: 0.1rem;
+    border-bottom: 1px solid black;
+    display: block;
+}
+
+*[rend="sup"] {
+    vertical-align: text-bottom;
+}
+
+*[place="superscript"] {
+    vertical-align: text-bottom;
+}
+
+.metamark[rend="line"] {
+    display: block;
+    border: 1px solid black;
+    margin-top:-1em;
+    margin-right:70%;
+}
+
+.fw {
+    display: flex;
+}
+
+[type="pageNum"][place="top_right"] {
+    float:right;
+    margin-top: -1.5rem;
+}
+
+evt-reading evt-note,
+evt-addition evt-note {
+  display: block;
+}
+
+/* ============================================================================
+   EUSEBIAN CANONS TABLES - Simple Grid Pattern
+   evt-generic-element.row = .wrapper (grid container)
+   evt-content-viewer = .wrapper div (grid items)
+   ============================================================================ */
+
+/* Table container - solo padding e bordo */
+evt-generic-element[type="eusebian_canons"] {
+  margin: 0.5rem 0;
+  padding: 2rem;
+  background-color: #faf8f3;
+  border: 2px solid #8b7355;
+  border-radius: 4px;
+}
+
+/* NASCONDI evt-content-viewer VUOTI o con solo spazi */
+evt-generic-element.row > evt-content-viewer:empty {
+  display: none;
+}
+
+/* Oppure, nascondi quelli che NON contengono evt-word o num */
+evt-generic-element.row > evt-content-viewer:not(:has(evt-word)):not(:has(evt-generic-element)) {
+  display: none;
+}
+
+/* Righe vuote hanno altezza 0 */
+evt-generic-element.row:empty {
+  height: 0;
+  min-height: 0;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+/* Row = .wrapper (grid container) */
+evt-generic-element.row {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-auto-rows: auto;
+  gap: 0.5rem;
+  padding: 0rem 0;
+  margin-bottom: 0rem;
+}
+
+/* First row (header) */
+evt-generic-element.row[n="1"] {
+  padding-bottom: 0rem;
+  border-bottom: 1px solid #8b7355;
+  margin-bottom: 0rem;
+  font-weight: 600;
+}
+
+/* Grid items = .wrapper div (tutti i figli diretti di row) */
+evt-generic-element.row > evt-content-viewer {
+  text-align: center;
+  padding: 0rem;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Print styles */
+@media print {
+  evt-generic-element[type="eusebian_canons"] {
+    page-break-inside: avoid;
+    background-color: white;
+    border-color: black;
+  }
+}
+
+/* ============================================
+   GOLD AND SILVER INK RENDERING
+   @rend="gold_ink" | @rend="silver_ink"
+   Supporta sia rend che data-rend attributes
+   ============================================ */
+
+:root {
+  
+  /* Codex Argenteus ink colors */
+  --gold-ink-color: #d4af37;
+  --silver-ink-color: #000000;
+  --purple-bg: #4a1850;
+  
+  /* Grid layout */
+  --canon-column-width: 1fr;
+  --canon-gap: 0rem;
+}
+   
+/* Gold ink text - supporta sia rend che data-rend */
+*[rend="gold_ink"],
+*[rend~="gold_ink"],
+*[data-rend="gold_ink"],
+*[data-rend~="gold_ink"] {
+  color: var(--gold-ink-color);
+  font-weight: 600;
+  text-shadow: 0 0 1px rgba(212, 175, 55, 0.5);
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Silver ink text - supporta sia rend che data-rend */
+*[rend="silver_ink"],
+*[rend~="silver_ink"],
+*[data-rend="silver_ink"],
+*[data-rend~="silver_ink"] {
+  color: var(--silver-ink-color);
+  font-weight: 500;
+  text-shadow: 0 0 1px rgba(192, 192, 192, 0.5);
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+/* ============================================
+   WORD, PC AND SEG ELEMENTS - BASE RENDERING
+   Rende evt-word, evt-pc e evt-seg inline come testo
+   evt-pc (punctuation) viene trattato come evt-word
+   
+   MODIFICHE v1.2:
+   - Aggiunto evt-pc a tutte le regole evt-word
+   - Aggiunto white-space: nowrap per forzare word e pc sulla stessa riga
+   
+   MODIFICHE v1.3:
+   - Aggiunto supporto esplicito per <unclear> in <pc> come in <w>
+   ============================================ */
+
+/* Elementi word e pc visualizzati inline e forzati su una riga */
+evt-word,
+evt-pc {
+  display: inline;
+  white-space: nowrap; /* Impedisce che word/pc si spezzino su più righe */
+}
+
+/* Elementi seg visualizzati inline con wrapping normale */
+evt-seg {
+  display: inline;
+  white-space: normal;
+}
+
+/* Separatore " | " dopo page break in word e pc */
+evt-word evt-generic-element.pb::after,
+evt-pc evt-generic-element.pb::after {
+  content: " | ";
+  color: #999;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Mostra page break in word e pc */
+evt-word evt-generic-element.pb,
+evt-pc evt-generic-element.pb {
+  display: inline !important;
+}
+
+/* Separatore " | " dopo page break in seg */
+evt-seg evt-generic-element.pb::after {
+  content: " | ";
+  color: #999;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Mostra page break in seg */
+evt-seg evt-generic-element.pb {
+  display: inline !important;
+}
+
+/* Separatore " | " dopo line break in word e pc */
+evt-word evt-generic-element.lb::after,
+evt-pc evt-generic-element.lb::after {
+  content: " | ";
+  color: #999;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Mostra line break in word e pc */
+evt-word evt-generic-element.lb,
+evt-pc evt-generic-element.lb {
+  display: inline !important;
+}
+
+/* Separatore " | " dopo line break in seg */
+evt-seg evt-generic-element.lb::after {
+  content: " | ";
+  color: #999;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Mostra line break in seg */
+evt-seg evt-generic-element.lb {
+  display: inline !important;
+}
+
+/* ============================================
+   UNCLEAR ELEMENTS - Testo danneggiato o illeggibile
+   Gestisce <unclear> nidificati in <w>, <pc>, e <seg>
+   
+   MODIFICHE v1.3:
+   - <unclear> in <pc> trattato come <unclear> in <w>
+   - Stile coerente per testo danneggiato
+   ============================================ */
+
+/* Unclear base - stile per testo danneggiato */
+evt-unclear,
+evt-generic-element.unclear {
+  display: inline;
+  color: #999;
+  font-style: italic;
+  text-decoration: underline dotted;
+  text-underline-offset: 2px;
+}
+
+/* Unclear in word - inline senza interruzioni */
+evt-word evt-unclear,
+evt-word evt-generic-element.unclear {
+  display: inline;
+  white-space: nowrap; /* Mantiene unclear sulla stessa riga */
+}
+
+/* Unclear in pc - STESSO TRATTAMENTO di unclear in word */
+evt-pc evt-unclear,
+evt-pc evt-generic-element.unclear {
+  display: inline;
+  white-space: nowrap; /* Mantiene unclear sulla stessa riga */
+}
+
+/* Unclear in seg */
+evt-seg evt-unclear,
+evt-seg evt-generic-element.unclear {
+  display: inline;
+}
+
+/* Unclear eredita gold/silver ink dal parent */
+evt-word[rend~="gold_ink"] evt-unclear,
+evt-word[rend~="gold_ink"] evt-generic-element.unclear,
+evt-pc[rend~="gold_ink"] evt-unclear,
+evt-pc[rend~="gold_ink"] evt-generic-element.unclear {
+  color: var(--gold-ink-color);
+  opacity: 0.7; /* Leggermente più chiaro per indicare incertezza */
+}
+
+evt-word[rend~="silver_ink"] evt-unclear,
+evt-word[rend~="silver_ink"] evt-generic-element.unclear,
+evt-pc[rend~="silver_ink"] evt-unclear,
+evt-pc[rend~="silver_ink"] evt-generic-element.unclear {
+  color: var(--silver-ink-color);
+  opacity: 0.7; /* Leggermente più chiaro per indicare incertezza */
+}
+
+/* Unclear con attributo reason (opzionale) */
+evt-unclear[reason="damage"],
+evt-generic-element.unclear[reason="damage"] {
+  /* Danneggiamento fisico - stile default sopra */
+}
+
+evt-unclear[reason="illegible"],
+evt-generic-element.unclear[reason="illegible"] {
+  /* Illeggibile - potrebbe avere stile diverso */
+  text-decoration-style: wavy;
+}
+
+/* ============================================
+   SUPPLIED ELEMENTS - Testo integrato dall'editore
+   Gestisce <supplied> nidificati in <w>, <pc>, e <seg>
+   ============================================ */
+
+/* Supplied in word e pc - inline coerente */
+evt-word evt-supplied,
+evt-word evt-generic-element.supplied,
+evt-pc evt-supplied,
+evt-pc evt-generic-element.supplied {
+  display: inline;
+  white-space: nowrap;
+  font-style: italic;
+  color: #666;
+}
+
+/* Supplied in seg */
+evt-seg evt-supplied,
+evt-seg evt-generic-element.supplied {
+  display: inline;
+  font-style: italic;
+  color: #666;
+}
+
+/* Supplied eredita gold/silver ink */
+evt-word[rend~="gold_ink"] evt-supplied,
+evt-pc[rend~="gold_ink"] evt-supplied {
+  color: var(--gold-ink-color);
+  opacity: 0.8;
+}
+
+evt-word[rend~="silver_ink"] evt-supplied,
+evt-pc[rend~="silver_ink"] evt-supplied {
+  color: var(--silver-ink-color);
+  opacity: 0.8;
+}
+
+/* ============================================
+   COMPOSITE WORDS - Visualizzazione parole composte
+   Gestisce elementi <w> e <pc> dentro <seg type="composite-word">
+   
+   MODIFICHE v1.2:
+   - Aggiunto evt-pc alle regole composite-word
+   - Aggiunto white-space: nowrap per word e pc in composite-word
+   
+   MODIFICHE v1.3:
+   - <unclear> e <supplied> in composite-word mantengono coerenza
+   ============================================ */
+
+/* Seg di tipo composite-word mantiene elementi inline */
+evt-seg[type="composite-word"] {
+  display: inline;
+}
+
+/* Word e pc dentro composite-word - inline senza spazi extra e forzati su una riga */
+evt-seg[type="composite-word"] evt-word,
+evt-seg[type="composite-word"] evt-pc {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap; /* Forzato su una riga */
+}
+
+/* Unclear e supplied in composite-word */
+evt-seg[type="composite-word"] evt-word evt-unclear,
+evt-seg[type="composite-word"] evt-pc evt-unclear,
+evt-seg[type="composite-word"] evt-word evt-supplied,
+evt-seg[type="composite-word"] evt-pc evt-supplied {
+  display: inline;
+  white-space: nowrap;
+}
+
+/* Nessun separatore tra le parti di parola composita */
+evt-seg[type="composite-word"] evt-word + evt-word::before,
+evt-seg[type="composite-word"] evt-pc + evt-word::before,
+evt-seg[type="composite-word"] evt-word + evt-pc::before,
+evt-seg[type="composite-word"] evt-pc + evt-pc::before {
+  content: "";  /* Oppure "-" se vuoi separatore visibile */
+}
+
+/* ============================================
+   WORD-PART SEGMENTS - Visualizzazione parti di parola divise
+   Gestisce parole spezzate da page/line breaks
+   ============================================ */
+
+/* Seg di tipo word-part */
+evt-seg[type="word-part"] {
+  display: inline;
+}
+
+/* Prima parte di parola divisa (n="1") - aggiungi indicatore */
+evt-seg[type="word-part"][n="1"]::after {
+  content: " | ";
+  color: #999;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Seconda parte di parola divisa (n="2") - corsivo per evidenziare */
+evt-seg[type="word-part"][n="2"] {
+  font-style: italic;
+  color: #e74c3c;
+}
+
+/* ============================================
+   EDITORIAL ELEMENTS - Altri elementi editoriali comuni
+   ============================================ */
+
+/* Gap - lacuna nel testo */
+evt-gap,
+evt-generic-element.gap {
+  display: inline;
+  font-style: italic;
+  color: #999;
+}
+
+evt-gap::before,
+evt-generic-element.gap::before {
+  content: "[...]";
+}
+
+/* Choice - varianti testuali */
+evt-choice,
+evt-generic-element.choice {
+  display: inline;
+}
+
+/* Sic - testo come nel manoscritto */
+evt-sic,
+evt-generic-element.sic {
+  display: inline;
+}
+
+/* Corr - correzione editoriale */
+evt-corr,
+evt-generic-element.corr {
+  display: inline;
+  font-style: italic;
+}
+
+/* Abbr e expan - abbreviazioni */
+evt-abbr,
+evt-generic-element.abbr,
+evt-expan,
+evt-generic-element.expan {
+  display: inline;
+}
+
+/* ============================================
+   UNDERLINE AND ITALIC - Attributi rend generali
+   Applica a tutti gli elementi inclusi <unclear>
+   ============================================ */
+
+*[rend="underline"],
+*[rend~="underline"] {
+  text-decoration: underline;
+}
+
+*[rend="italic"],
+*[rend~="italic"] {
+  font-style: italic;
+}
+
+/* ============================================
+   SEG ATTRIBUTES - Gestione attributi specifici
+   ============================================ */
+
+/* Seg con attributo rend specifici già gestiti dalle regole globali sopra */
+/* (gold_ink, silver_ink, etc.) */
+
+/* Seg con xml:lang - opzionale, se vuoi evidenziare lingue diverse */
+evt-seg[xml-lang="got"] {
+  /* Gotico - già gestito da gold/silver ink di solito */
+}
+
+evt-seg[xml-lang="lat"] {
+  /* Latino - potresti voler uno stile diverso */
+  font-style: italic;
+}
+
+/* ============================================
+   DEBUG MODE - Mostra bordi per debug (commentato di default)
+   Rimuovi commenti per vedere visivamente word, pc, seg, unclear
+   
+   MODIFICHE v1.2:
+   - Aggiunto evt-pc al debug mode
+   
+   MODIFICHE v1.3:
+   - Aggiunto evt-unclear al debug mode
+   ============================================ */
+
+/*
+evt-word,
+evt-pc {
+  border: 1px solid rgba(0, 0, 255, 0.2);
+  padding: 1px;
+  margin: 0 1px;
+}
+
+evt-seg {
+  border: 1px solid rgba(255, 0, 0, 0.2);
+  padding: 1px;
+  margin: 0 1px;
+  background-color: rgba(255, 0, 0, 0.05);
+}
+
+evt-seg[type="composite-word"] {
+  border: 2px solid rgba(0, 255, 0, 0.3);
+  background-color: rgba(0, 255, 0, 0.05);
+}
+
+evt-seg[type="word-part"] {
+  border: 2px solid rgba(255, 165, 0, 0.3);
+  background-color: rgba(255, 165, 0, 0.05);
+}
+
+evt-unclear,
+evt-generic-element.unclear {
+  border: 1px solid rgba(153, 153, 153, 0.4);
+  background-color: rgba(153, 153, 153, 0.1);
+}
+
+evt-supplied,
+evt-generic-element.supplied {
+  border: 1px solid rgba(102, 102, 102, 0.4);
+  background-color: rgba(102, 102, 102, 0.1);
+}
+*/

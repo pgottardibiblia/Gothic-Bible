@@ -1,0 +1,188 @@
+.ab[rend="align-center"] {
+    display: block;
+    text-align: center;
+}
+
+*[rend="strikethrough"] {
+    text-decoration: line-through;
+}
+
+*[rend="overwritten"] {
+    font-weight: bold;
+}
+
+*[rend="underline"] {
+    text-decoration: underline;
+}
+
+*[rend="italic"] {
+    font-style: italic;
+}
+
+*[rend="erasure"] {
+    background-color: rgb(70, 70, 70);
+}
+
+*[rend="cross"] {
+    text-decoration: line-through;
+}
+
+*[rend="line_full_width"] {
+    margin-bottom: 0.1rem;
+    border-bottom: 1px solid black;
+    display: block;
+}
+
+*[rend="sup"] {
+    vertical-align: text-bottom;
+}
+
+*[place="superscript"] {
+    vertical-align: text-bottom;
+}
+
+.metamark[rend="line"] {
+    display: block;
+    border: 1px solid black;
+    margin-top:-1em;
+    margin-right:70%;
+}
+
+.fw {
+    display: flex;
+}
+
+[type="pageNum"][place="top_right"] {
+    float:right;
+    margin-top: -1.5rem;
+}
+
+evt-reading evt-note,
+evt-addition evt-note {
+  display: block;
+}
+/* ============================================================================
+   EUSEBIAN CANONS TABLES - Simple Grid Pattern (come esempio fornito)
+   evt-generic-element.row = .wrapper (grid container)
+   evt-content-viewer = .wrapper div (grid items)
+   ============================================================================ */
+
+/* Table container - solo padding e bordo */
+evt-generic-element[type="eusebian_canons"] {
+  margin: 0.5rem 0;
+  padding: 2rem;
+  background-color: #faf8f3;
+  border: 2px solid #8b7355;
+  border-radius: 4px;
+}
+
+/* NASCONDI evt-content-viewer VUOTI o con solo spazi */
+evt-generic-element.row > evt-content-viewer:empty {
+  display: none;
+}
+
+/* Oppure, nascondi quelli che NON contengono evt-word o num */
+evt-generic-element.row > evt-content-viewer:not(:has(evt-word)):not(:has(evt-generic-element)) {
+  display: none;
+}
+
+/* Righe vuote hanno altezza 0 */
+evt-generic-element.row:empty {
+  height: 0;
+  min-height: 0;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+/* Row = .wrapper (grid container) */
+evt-generic-element.row {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-auto-rows: auto;
+  gap: 0.5rem;
+  padding: 0rem 0;
+  margin-bottom: 0rem;
+}
+
+/* First row (header) */
+evt-generic-element.row[n="1"] {
+  padding-bottom: 0rem;
+  border-bottom: 1px solid #8b7355;
+  margin-bottom: 0rem;
+  font-weight: 600;
+}
+
+/* Grid items = .wrapper div (tutti i figli diretti di row) */
+evt-generic-element.row > evt-content-viewer {
+  text-align: center;
+  padding: 0rem;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Print styles */
+@media print {
+  evt-generic-element[type="eusebian_canons"] {
+    page-break-inside: avoid;
+    background-color: white;
+    border-color: black;
+  }
+}
+
+/* ============================================
+   GOLD AND SILVER INK RENDERING
+   @rend="gold_ink" | @rend="silver_ink"
+   Supporta sia rend che data-rend attributes
+   ============================================ */
+
+:root {
+  
+  /* Codex Argenteus ink colors */
+  --gold-ink-color: #d4af37;
+  --silver-ink-color: #000000;
+  --purple-bg: #4a1850;
+  
+  /* Grid layout */
+  --canon-column-width: 1fr;
+  --canon-gap: 0rem;
+}
+   
+/* Gold ink text - supporta sia rend che data-rend */
+*[rend="gold_ink"],
+*[rend~="gold_ink"],
+*[data-rend="gold_ink"],
+*[data-rend~="gold_ink"] {
+  color: var(--gold-ink-color);
+  font-weight: 600;
+  text-shadow: 0 0 1px rgba(212, 175, 55, 0.5);
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Silver ink text - supporta sia rend che data-rend */
+*[rend="silver_ink"],
+*[rend~="silver_ink"],
+*[data-rend="silver_ink"],
+*[data-rend~="silver_ink"] {
+  color: var(--silver-ink-color);
+  font-weight: 500;
+  text-shadow: 0 0 1px rgba(192, 192, 192, 0.5);
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+/* Separatore " | " dopo page break */
+evt-word evt-generic-element.pb::after {
+  content: " | ";
+  color: #999;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Mostra page break */
+evt-word evt-generic-element.pb {
+  display: inline !important;
+}
