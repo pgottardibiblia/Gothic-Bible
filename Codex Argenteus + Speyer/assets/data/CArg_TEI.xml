@@ -457,194 +457,278 @@
 
          <!-- regular letters -->
 
-        <glyph xml:id='amacr'>
-          <localProp name='Name' value='LATIN SMALL LETTER A WITH MACRON'/>
-          <mapping subtype='MUFI' type='codepoint'>U+0101</mapping>
+                <glyph xml:id="#þairhtachi">
+          <localProp name='Name' value='TACHIGRAPHIC ÞAIRH'/>
+          <mapping subtype='X' type='codepoint'></mapping>
+          <mapping type="diplomatic"></mapping>
+          <mapping type="normalized">þairh</mapping>
+        </glyph>
+
+        <char xml:id="#amacr">
+          <localProp name='Name' value='A WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>000101</mapping>
           <mapping type="diplomatic">ā</mapping>
           <mapping type="normalized">am</mapping>
+        </char>
+
+        <glyph xml:id="#markutachi">
+          <localProp name='Name' value='TACHIGRAPHIC MARKU'/>
+          <mapping subtype='X' type='X'></mapping>
+          <mapping type="diplomatic"></mapping>
+          <mapping type="normalized"></mapping>
         </glyph>
-        
-        <glyph xml:id='atild'>
-          <localProp name='Name' value='LATIN SMALL LETTER A WITH TILDE'/>
-          <mapping subtype='MUFI' type='codepoint'>U+	00E3</mapping>
+
+        <char xml:id="#atild">
+          <localProp name='Name' value='A WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>0000E3</mapping>
           <mapping type="diplomatic">ã</mapping>
           <mapping type="normalized">an</mapping>
-        </glyph>
-        
-        <glyph xml:id='esoveri'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic"></mapping>
-          <mapping type="normalized"></mapping>
-        </glyph>
-        
-        <glyph xml:id='esuoverï'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic"></mapping>
-          <mapping type="normalized"></mapping>
-        </glyph>
-        
-        <glyph xml:id='etild'>
-          <localProp name='Name' value='LATIN SMALL LETTER E WITH MACRON'/>
-          <mapping subtype='MUFI' type='codepoint'>U+	0113</mapping>
+        </char>
+
+        <char xml:id="#emacr">
+          <localProp name='Name' value='E WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>000113</mapping>
           <mapping type="diplomatic">ē</mapping>
+          <mapping type="normalized">em</mapping>
+        </char>
+
+        <char xml:id="#etild">
+          <localProp name='Name' value='E WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>001EBD</mapping>
+          <mapping type="diplomatic">ẽ</mapping>
           <mapping type="normalized">en</mapping>
-        </glyph>
-        
-        <glyph xml:id='fraujantachi'>
-          <localProp name='Name' value='SHORTHAND OF FRAUJAN'/>
-          <mapping subtype='MUFI' type='composite'></mapping>
-          <mapping type="diplomatic">fan</mapping>
+        </char>
+
+        <char xml:id="#fraujantachi">
+          <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
+          <mapping subtype='composite' type='codepoint'>000066+uni0305+000061+uni0305+00006E+uni0305</mapping>
+          <mapping type="diplomatic">f̅a̅n̅</mapping>
           <mapping type="normalized">fraujan</mapping>
-        </glyph>
-        
-        <glyph xml:id='fraujatachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">fa</mapping>
+        </char>
+
+        <char xml:id="#fraujatachi">
+          <localProp name='Name' value='TACHIGRAPHIC FRAUJA'/>
+          <mapping subtype='composite' type='codepoint'>000066+uni0305+000061+uni0305</mapping>
+          <mapping type="diplomatic">f̅a̅</mapping>
           <mapping type="normalized">frauja</mapping>
-        </glyph>
-        
-        <glyph xml:id='fraujinstachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">fin</mapping>
+        </char>
+
+        <glyph xml:id="#fraujinstachi">
+          <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
+          <mapping subtype='composite' type='codepoint'>000066+uni0305+000061+uni0305+00006E+uni0305</mapping>
+          <mapping type="diplomatic">f̅a̅n̅</mapping>
+          <mapping type="normalized">fraujan</mapping>
+        </char>
+
+        <char xml:id="#fraujintachi">
+          <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
+          <mapping subtype='composite' type='codepoint'>000066+uni0305+000069+uni0305+00006E+uni0305</mapping>
+          <mapping type="diplomatic">f̅i̅n̅</mapping>
           <mapping type="normalized">fraujin</mapping>
-        </glyph>
-        
-        <glyph xml:id='guþatachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">gþa</mapping>
+        </char>
+
+        <char xml:id="#guþatachi">
+          <localProp name='Name' value='TACHIGRAPHIC GUÞA'/>
+          <mapping subtype='composite' type='codepoint'>000067+uni0305+0000FE+uni0305+000061+uni0305</mapping>
+          <mapping type="diplomatic">g̅þ̅a̅</mapping>
           <mapping type="normalized">guþa</mapping>
-        </glyph>
-        
-        <glyph xml:id='guþblostreistachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">gþblostreis</mapping>
+        </char>
+
+        <char xml:id="#guþblostreistachi">
+          <localProp name='Name' value='TACHIGRAPHIC GUÞBLOSTREIS'/>
+          <mapping subtype='composite' type='codepoint'>000067+uni0305+0000FE+uni0305+000062+00006C+00006F+000073+000074+000072+000065+000069+000073</mapping>
+          <mapping type="diplomatic">g̅þ̅blostreis</mapping>
           <mapping type="normalized">guþblostreis</mapping>
-        </glyph>
-        
-        <glyph xml:id='guþistachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">gþs</mapping>
+        </char>
+
+        <char xml:id="#guþistachi">
+          <localProp name='Name' value='TACHIGRAPHIC GUÞIS'/>
+          <mapping subtype='composite' type='codepoint'>000067+uni0305+0000FE+uni0305+000073+uni0305</mapping>
+          <mapping type="diplomatic">g̅þ̅s̅</mapping>
           <mapping type="normalized">guþis</mapping>
-        </glyph>
-        
-        <glyph xml:id='guþtachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">gþ</mapping>
+        </char>
+
+        <char xml:id="#guþtachi">
+          <localProp name='Name' value='TACHIGRAPHIC GUÞ'/>
+          <mapping subtype='composite' type='codepoint'>000067+uni0305+0000FE+uni0305</mapping>
+          <mapping type="diplomatic">g̅þ̅</mapping>
           <mapping type="normalized">guþ</mapping>
-        </glyph>
-        
-        <glyph xml:id='htlig'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">ħ</mapping>
+        </char>
+
+        <char xml:id="#htlig">
+          <localProp name='Name' value='LIGATURE OF H AND T'/>
+          <mapping type='codepoint'>11035C</mapping>
+          <mapping type="diplomatic"> </mapping>
           <mapping type="normalized">ht</mapping>
-        </glyph>
-        
-        <glyph xml:id='iesuistachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">iis</mapping>
-          <mapping type="normalized">iesuis</mapping>
-        </glyph>
-        
-        <glyph xml:id='iesustachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">is</mapping>
+        </char>
+
+        <char xml:id="#iesuatachi">
+          <localProp name='Name' value='TACHIGRAPHIC IESUA'/>
+          <mapping subtype='composite' type='codepoint'>000069+uni0305+000075+uni0305+000061+uni0305</mapping>
+          <mapping type="diplomatic">i̅u̅a̅</mapping>
+          <mapping type="normalized">iesua</mapping>
+        </char>
+
+        <char xml:id="#iesuistachi">
+          <localProp name='Name' value='TACHIGRAPHIC IESUIS'/>
+          <mapping subtype='composite' type='codepoint'>000069+uni0305+000075+uni0305+000069+uni0305+000061+uni0305</mapping>
+          <mapping type="diplomatic">i̅u̅i̅s̅</mapping>
           <mapping type="normalized">iesus</mapping>
-        </glyph>
-        
-        <glyph xml:id='iesutachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">iu</mapping>
+        </char>
+
+        <char xml:id="#iesustachi">
+          <localProp name='Name' value='TACHIGRAPHIC IESUS'/>
+          <mapping subtype='composite' type='codepoint'>000069+uni0305+000075+uni0305+000061+uni0305</mapping>
+          <mapping type="diplomatic">i̅u̅s̅</mapping>
+          <mapping type="normalized">iesus</mapping>
+        </char>
+
+        <char xml:id="#iesutachi">
+          <localProp name='Name' value='TACHIGRAPHIC IESU'/>
+          <mapping subtype='composite' type='codepoint'>000069+uni0305+000075+uni0305</mapping>
+          <mapping type="diplomatic">i̅u̅</mapping>
           <mapping type="normalized">iesu</mapping>
-        </glyph>
-        
-        <glyph xml:id='imacr'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">i</mapping>
+        </char>
+
+        <char xml:id="#imacr">
+          <localProp name='Name' value='I WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>00012A</mapping>
+          <mapping type="diplomatic">ī</mapping>
           <mapping type="normalized">im</mapping>
-        </glyph>
-        
-        <glyph xml:id='itild'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">i</mapping>
+        </char>
+
+        <char xml:id="#itild">
+          <localProp name='Name' value='I WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>000129</mapping>
+          <mapping type="diplomatic">ĩ</mapping>
           <mapping type="normalized">in</mapping>
-        </glyph>
-        
-        <glyph xml:id='mmacr'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">m</mapping>
+        </char>
+
+        <char xml:id="#ktild">
+          <localProp name='Name' value='K WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>00006B+000303</mapping>
+          <mapping type="diplomatic"> ̃t</mapping>
+          <mapping type="normalized">tn</mapping>
+        </char>
+
+        <char xml:id="#mmacr">
+          <localProp name='Name' value='M WITH TITULUS FOR M'/>
+          <mapping subtype='composite' type='codepoint'>00006D+000305</mapping>
+          <mapping type="diplomatic">m̅</mapping>
           <mapping type="normalized">mm</mapping>
-        </glyph>
-        
-        <glyph xml:id='ntild'>
+        </char>
+
+        <glyph xml:id="#mulig">
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">n</mapping>
+          <mapping type="diplomatic"></mapping>
+          <mapping type="normalized"></mapping>
+        </glyph>
+
+        <char xml:id="#ntild">
+          <localProp name='Name' value='N WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>00006E+000303</mapping>
+          <mapping type="diplomatic"> ̃n</mapping>
           <mapping type="normalized">nn</mapping>
-        </glyph>
-        
-        <glyph xml:id='otild'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">o</mapping>
+        </char>
+
+        <char xml:id="#omacr">
+          <localProp name='Name' value='O WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>00014D</mapping>
+          <mapping type="diplomatic">ō</mapping>
+          <mapping type="normalized">om</mapping>
+        </char>
+
+        <char xml:id="#otild">
+          <localProp name='Name' value='O WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>0000F5</mapping>
+          <mapping type="diplomatic">õ</mapping>
           <mapping type="normalized">on</mapping>
-        </glyph>
-        
-        <glyph xml:id='stild'>
+        </char>
+
+        <char xml:id="#rtild">
+          <localProp name='Name' value='R WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>000072+000303</mapping>
+          <mapping type="diplomatic"> ̃r</mapping>
+          <mapping type="normalized">rn</mapping>
+        </char>
+
+        <glyph xml:id="#rþlig">
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">s</mapping>
+          <mapping type="diplomatic"></mapping>
+          <mapping type="normalized"></mapping>
+        </glyph>
+
+        <char xml:id="#stild">
+          <localProp name='Name' value='S WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>000073+000303</mapping>
+          <mapping type="diplomatic"> ̃s</mapping>
           <mapping type="normalized">sn</mapping>
-        </glyph>
-        
-        <glyph xml:id='umacr'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">u</mapping>
+        </char>
+
+        <char xml:id="#umacr">
+          <localProp name='Name' value='U WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>00016B</mapping>
+          <mapping type="diplomatic">ū</mapping>
           <mapping type="normalized">um</mapping>
-        </glyph>
-        
-        <glyph xml:id='utild'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">u̅</mapping>
+        </char>
+
+        <char xml:id="#utild">
+          <localProp name='Name' value='U WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>000169</mapping>
+          <mapping type="diplomatic">ũ</mapping>
           <mapping type="normalized">un</mapping>
-        </glyph>
-        
-        <glyph xml:id='xristustachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">xs</mapping>
+        </char>
+
+        <char xml:id="#xristaustachi">
+          <localProp name='Name' value='TACHIGRAPHIC XRISTAUS'/>
+          <mapping subtype='composite' type='codepoint'>000078+uni0305+000061+uni0305+000075+uni0305+000073+uni0305</mapping>
+          <mapping type="diplomatic">x̅a̅u̅s̅</mapping>
+          <mapping type="normalized">xristaus</mapping>
+        </char>
+
+        <char xml:id="#xristustachi">
+          <localProp name='Name' value='TACHIGRAPHIC XRISTUS'/>
+          <mapping subtype='composite' type='codepoint'>000078+uni0305+000075+uni0305+000073+uni0305</mapping>
+          <mapping type="diplomatic">x̅u̅s̅</mapping>
           <mapping type="normalized">xristus</mapping>
-        </glyph>
-        
-        <glyph xml:id='xristutachi'>
-          <localProp name='Name' value='X'/>
-          <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">xu</mapping>
+        </char>
+
+        <char xml:id="#xristutachi">
+          <localProp name='Name' value='TACHIGRAPHIC XRISTU'/>
+          <mapping subtype='composite' type='codepoint'>000078+uni0305+000075+uni0305</mapping>
+          <mapping type="diplomatic">x̅u̅</mapping>
           <mapping type="normalized">xristu</mapping>
-        </glyph>
-        
-        <glyph xml:id='þtild'>
+        </char>
+
+        <char xml:id="#ztild">
+          <localProp name='Name' value='Z WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>00007A+000303</mapping>
+          <mapping type="diplomatic"> ̃z</mapping>
+          <mapping type="normalized">zn</mapping>
+        </char>
+
+        <char xml:id="#ïmacr">
+          <localProp name='Name' value='Ï WITH TITULUS FOR M'/>
+          <mapping subtype='composite' type='codepoint'>0000EF+uni0305</mapping>
+          <mapping type="diplomatic">ï̅</mapping>
+          <mapping type="normalized">ïm</mapping>
+        </char>
+
+        <glyph xml:id="#þrlig">
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
-          <mapping type="diplomatic">þ</mapping>
-          <mapping type="normalized">þn</mapping>
+          <mapping type="diplomatic"></mapping>
+          <mapping type="normalized"></mapping>
         </glyph>
+
+        <char xml:id="#þtild">
+          <localProp name='Name' value='Þ WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>0000FE+000303</mapping>
+          <mapping type="diplomatic"> ̃þ</mapping>
+          <mapping type="normalized">sn</mapping>
+        </char>
          
          </charDecl>
       </encodingDesc>
