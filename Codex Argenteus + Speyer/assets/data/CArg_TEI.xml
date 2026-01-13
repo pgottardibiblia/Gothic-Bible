@@ -513,7 +513,7 @@
           <mapping type="normalized">frauja</mapping>
         </char>
 
-        <glyph xml:id="#fraujinstachi">
+        <char xml:id="#fraujinstachi">
           <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
           <mapping subtype='composite' type='codepoint'>000066+uni0305+000061+uni0305+00006E+uni0305</mapping>
           <mapping type="diplomatic">f̅a̅n̅</mapping>
