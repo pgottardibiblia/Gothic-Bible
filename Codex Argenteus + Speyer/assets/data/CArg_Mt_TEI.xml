@@ -359,7 +359,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_1v_3_4">þau</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_1v_3_5">qimiþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_1v_3_6">ïn</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_1v_4_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_1v_3_7" corresp="#CArg_seg_2_1v_4_2">þiu</seg><lb n="4" xml:id="CArg_lb_1v_4" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_1v_4_1">RIF_ID:CArg_pc_1v_4_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_1v_4_2" corresp="#CArg_seg_1_1v_3_7">dangardjai</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_1v_4_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_1v_3_7" corresp="#CArg_seg_2_1v_4_2">þiu</seg><lb n="4" xml:id="CArg_lb_1v_4" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_1v_4_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_1v_4_2" corresp="#CArg_seg_1_1v_3_7">dangardjai</seg></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_1v_4_3">himine</w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_1v_4_4">·</pc>
                </ab>
@@ -714,7 +714,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_6_3">þein</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_6_4">gadriusai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_6_5">ïn</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_7_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_2v_6_6" corresp="#CArg_seg_2_2v_7_2">gaiain</seg><lb n="7" xml:id="CArg_lb_2v_7" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_2v_7_1">RIF_ID:CArg_pc_2v_7_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_2v_7_2" corresp="#CArg_seg_1_2v_6_6">nan</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_7_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_2v_6_6" corresp="#CArg_seg_2_2v_7_2">gaiain</seg><lb n="7" xml:id="CArg_lb_2v_7" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_2v_7_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_2v_7_2" corresp="#CArg_seg_1_2v_6_6">nan</seg></w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_2v_7_3">·</pc>
                </ab>
                <ab type="verse" n="31" xml:id="CArg_Mt_5_verse_31">
@@ -723,7 +723,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_7_6">ïst</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_7_7">þatei</w>
                   <ref type="Old_Testament_reference" corresp="Dt24,1" xml:id="CArg_AT_ref_5_31" />
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_8_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_2v_7_8" corresp="#CArg_seg_2_2v_8_2">ƕa</seg><lb n="8" xml:id="CArg_lb_2v_8" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_2v_8_1">RIF_ID:CArg_pc_2v_8_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_2v_8_2" corresp="#CArg_seg_1_2v_7_8"><choice xml:id="CArg_em_2v_8_2"><sic>ƕa</sic><corr resp="Uppström,Streitberg" /></choice>zuh</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_8_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_2v_7_8" corresp="#CArg_seg_2_2v_8_2">ƕa</seg><lb n="8" xml:id="CArg_lb_2v_8" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_2v_8_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_2v_8_2" corresp="#CArg_seg_1_2v_7_8"><choice xml:id="CArg_em_2v_8_2"><sic>ƕa</sic><corr resp="Uppström,Streitberg" /></choice>zuh</seg></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_8_3">saei</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_2v_8_4">afletai</w>
                   <ref type="Old_Testament_reference" corresp="Dt24,1" xml:id="CArg_AT_ref_end_5_31" />
@@ -3341,7 +3341,7 @@
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_10r_1_4">·</pc>
                   <ref type="Old_Testament_reference" corresp="Is53,4" xml:id="CArg_AT_ref_8_17" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_10r_1_5">sa</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_10r_2_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_10r_1_6" corresp="#CArg_seg_2_10r_2_2">un</seg><lb n="2" xml:id="CArg_lb_10r_2" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_10r_2_1">RIF_ID:CArg_pc_10r_2_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_10r_2_2" corresp="#CArg_seg_1_10r_1_6">mahtins</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_10r_2_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_10r_1_6" corresp="#CArg_seg_2_10r_2_2">un</seg><lb n="2" xml:id="CArg_lb_10r_2" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_10r_2_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_10r_2_2" corresp="#CArg_seg_1_10r_1_6">mahtins</seg></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_10r_2_3">unsaros</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_10r_2_4">usnam</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_10r_2_5">jah</w>
@@ -4213,13 +4213,13 @@
                </ab>
                <ab type="verse" n="13" xml:id="CArg_Mt_9_verse_13">
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_6_5">aþþan</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_7_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_12v_6_6" corresp="#CArg_seg_2_12v_7_2">gag</seg><lb n="7" xml:id="CArg_lb_12v_7" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_12v_7_1">RIF_ID:CArg_pc_12v_7_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_12v_7_2" corresp="#CArg_seg_1_12v_6_6">gaiþ</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_7_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_12v_6_6" corresp="#CArg_seg_2_12v_7_2">gag</seg><lb n="7" xml:id="CArg_lb_12v_7" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_12v_7_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_12v_7_2" corresp="#CArg_seg_1_12v_6_6">gaiþ</seg></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_7_3">ganimiþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_7_4">ƕa</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_7_5">sijai</w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_12v_7_6">·</pc>
                   <ref type="Old_Testament_reference" corresp="Os6,6" xml:id="CArg_AT_ref_9_13" />
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_8_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_12v_7_7" corresp="#CArg_seg_2_12v_8_2">armahair</seg><lb n="8" xml:id="CArg_lb_12v_8" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_12v_8_1">RIF_ID:CArg_pc_12v_8_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_12v_8_2" corresp="#CArg_seg_1_12v_7_7">tiþa</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_8_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_12v_7_7" corresp="#CArg_seg_2_12v_8_2">armahair</seg><lb n="8" xml:id="CArg_lb_12v_8" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_12v_8_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_12v_8_2" corresp="#CArg_seg_1_12v_7_7">tiþa</seg></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_8_3">wiljau</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_8_4">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_12v_8_5">ni</w>
@@ -6854,7 +6854,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_11_2">wairþodins</w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_102r_11_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_11_4">þatei</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_12_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_102r_11_5" corresp="#CArg_seg_2_102r_12_2">garahni</seg><lb n="12" xml:id="CArg_lb_102r_12" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_102r_12_1">RIF_ID:CArg_pc_102r_12_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_102r_12_2" corresp="#CArg_seg_1_102r_11_5">dedun</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_12_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_102r_11_5" corresp="#CArg_seg_2_102r_12_2">garahni</seg><lb n="12" xml:id="CArg_lb_102r_12" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_102r_12_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_102r_12_2" corresp="#CArg_seg_1_102r_11_5">dedun</seg></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_12_3">fram</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_12_4">sunum</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_12_5">ïsraelis</w>
@@ -6868,7 +6868,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_13_4">ïns</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_13_5">und</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_13_6">akra</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_14_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_102r_13_7" corresp="#CArg_seg_2_102r_14_2">kas</seg><lb n="14" xml:id="CArg_lb_102r_14" /><pc type="quick_diple" rend="silver_ink" place="margin_left" xml:id="CArg_q_diple_102r_14_1">RIF_ID:CArg_pc_102r_14_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_102r_14_2" corresp="#CArg_seg_1_102r_13_7">jins</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_14_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_102r_13_7" corresp="#CArg_seg_2_102r_14_2">kas</seg><lb n="14" xml:id="CArg_lb_102r_14" /><pc type="quick_diple" rend="silver_ink" place="margin_left" xml:id="CArg_q_diple_102r_14_1">˒</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_102r_14_2" corresp="#CArg_seg_1_102r_13_7">jins</seg></w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_102r_14_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_14_4">swaswe</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_102r_14_5">anabauþ</w>

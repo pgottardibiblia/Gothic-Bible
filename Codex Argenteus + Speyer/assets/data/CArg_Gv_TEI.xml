@@ -10214,7 +10214,7 @@
                </ab>
                <ab type="verse" n="40" xml:id="CArg_Gv_12_verse_40">
                   <ref type="Old_Testament_reference" corresp="Is6,10" xml:id="CArg_AT_ref_12_40" />
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_9_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_78r_8_7" corresp="#CArg_seg_2_78r_9_2"><choice xml:id="CArg_abbr_78r_8_7"><abbr>gabl<am><g ref="#itild" /></am></abbr><expan>gabli<ex>n</ex></expan></choice></seg><lb n="9" xml:id="CArg_lb_78r_9" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_78r_9_1">RIF_ID:CArg_pc_78r_9_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_78r_9_2" corresp="#CArg_seg_1_78r_8_7">dida</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_9_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_78r_8_7" corresp="#CArg_seg_2_78r_9_2"><choice xml:id="CArg_abbr_78r_8_7"><abbr>gabl<am><g ref="#itild" /></am></abbr><expan>gabli<ex>n</ex></expan></choice></seg><lb n="9" xml:id="CArg_lb_78r_9" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_78r_9_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_78r_9_2" corresp="#CArg_seg_1_78r_8_7">dida</seg></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_9_3">ïze</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_9_4">augona</w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_78r_9_5">·</pc>
@@ -10227,7 +10227,7 @@
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_78r_10_4">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_10_5">ei</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_10_6">ni</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_11_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_78r_10_7" corresp="#CArg_seg_2_78r_11_2">gaumidedei</seg><lb n="11" xml:id="CArg_lb_78r_11" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_78r_11_1">RIF_ID:CArg_pc_78r_11_1</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_78r_11_2" corresp="#CArg_seg_1_78r_10_7">na</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_11_2"><seg type="word-part" n="1" xml:id="CArg_seg_1_78r_10_7" corresp="#CArg_seg_2_78r_11_2">gaumidedei</seg><lb n="11" xml:id="CArg_lb_78r_11" /><pc type="comma" rend="silver_ink" xml:id="CArg_comma_78r_11_1">·</pc><seg type="word-part" n="2" xml:id="CArg_seg_2_78r_11_2" corresp="#CArg_seg_1_78r_10_7">na</seg></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_11_3">augam</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_11_4">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_78r_11_5">froþeina</w>
