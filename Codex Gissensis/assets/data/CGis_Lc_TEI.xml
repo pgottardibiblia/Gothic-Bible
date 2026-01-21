@@ -3,16 +3,16 @@
    <teiHeader />
    <facsimile xml:id="CGis_facs_Lc">
       <surface xml:id="CGis_facs_1_1r">
-         <graphic url="CGis_fol._1_1r.jpg" height="1800px" width="1200px" />
+         <graphic url="CGis_fol._1_1r.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CGis_facs_2_1v">
-         <graphic url="CGis_fol._2_1v.jpg" height="1800px" width="1200px" />
+         <graphic url="CGis_fol._2_1v.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CGis_facs_3_8r">
-         <graphic url="CGis_fol._3_8r.jpg" height="1800px" width="1200px" />
+         <graphic url="CGis_fol._3_8r.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CGis_facs_4_8v">
-         <graphic url="CGis_fol._4_8v.jpg" height="1800px" width="1200px" />
+         <graphic url="CGis_fol._4_8v.jpeg" height="1800px" width="1200px" />
       </surface>
    </facsimile>
    <text n="CGis">
@@ -29,69 +29,68 @@
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_1_5"><gap unit="char" extent="undefined" /></w>
                   <lb n="2" xml:id="CGis_lb_1r_2" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_2_1"><unclear reason="damage" xml:id="CGis_un_1r_2_1">qui</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_2_2"><unclear reason="damage" xml:id="CGis_un_1r_2_2">r</unclear><gap unit="char" extent="8" /><supplied resp="Helm" xml:id="CGis_em_1r_2_2">espondit</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_2_2"><unclear reason="damage" xml:id="CGis_un_1r_2_2">r</unclear><gap unit="char" extent="8" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1r_2_2">espondit</supplied></w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_2_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="3" xml:id="CGis_lb_1r_3" />
                </ab>
                <ab type="verse" n="4" xml:id="CGis_Lc_23_verse_4">
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_3_1">pilatus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_3_2">au<gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_1r_3_2">tem</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_3_2">au<gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1r_3_2">tem</supplied></w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_3_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="4" xml:id="CGis_lb_1r_4" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_4_1"><unclear reason="damage" xml:id="CGis_un_1r_4_1">n</unclear>ihil</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_4_2"><unclear reason="damage" xml:id="CGis_un_1r_4_2">in</unclear><unclear reason="damage" xml:id="CGis_un_1r_4_2_2">u</unclear><unclear reason="damage" xml:id="CGis_un_1r_4_2_3">e</unclear><gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_1r_4_2">nio</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_4_2"><unclear reason="damage" xml:id="CGis_un_1r_4_2">in</unclear><unclear reason="damage" xml:id="CGis_un_1r_4_2_2">u</unclear><unclear reason="damage" xml:id="CGis_un_1r_4_2_3">e</unclear><gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1r_4_2">nio</supplied></w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_4_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="5" xml:id="CGis_lb_1r_5" />
                </ab>
                <ab type="verse" n="5" xml:id="CGis_Lc_23_verse_5">
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_5_1">quia</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_5_2">com<unclear reason="damage" xml:id="CGis_un_1r_5_2">m</unclear><gap unit="char" extent="4" /><supplied resp="Helm" xml:id="CGis_em_1r_5_2">ouet</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_5_2">com<unclear reason="damage" xml:id="CGis_un_1r_5_2">m</unclear><gap unit="char" extent="4" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1r_5_2">ouet</supplied></w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_5_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="6" xml:id="CGis_lb_1r_6" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_6_1">per</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_6_2">uni<unclear reason="damage" xml:id="CGis_un_1r_6_2">u</unclear><gap unit="char" extent="5" /><supplied resp="Helm" xml:id="CGis_em_1r_6_2">ersam</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_6_2">uni<unclear reason="damage" xml:id="CGis_un_1r_6_2">u</unclear><gap unit="char" extent="5" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1r_6_2">ersam</supplied></w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_6_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="7" xml:id="CGis_lb_1r_7" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_7_1">incipiens</w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_7_2">a</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_7_3"><gap unit="char" extent="8" /><supplied resp="Helm" xml:id="CGis_em_1r_7_3">galilaea</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_7_3"><gap unit="char" extent="8" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1r_7_3">galilaea</supplied></w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_7_4"><gap unit="char" extent="undefined" /></w>
                   <lb n="8" xml:id="CGis_lb_1r_8" />
                </ab>
                <ab type="verse" n="6" xml:id="CGis_Lc_23_verse_6">
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_8_1">pilatus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_8_2">au<gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_1r_8_2">tem</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_8_2">au<gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1r_8_2">tem</supplied></w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_8_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="9" xml:id="CGis_lb_1r_9" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_9_1">interroga<gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_1r_9_1">uit</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_9_1">interroga<gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1r_9_1">uit</supplied></w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1r_9_2"><gap unit="char" extent="undefined" /></w>
                   <pb n="1v" xml:id="CGis_pb_2_1v" facs="#CGis_facs_2_1v" />
-                  <fw type="header" place="top_center" rend="silver_ink" xml:id="CGis_fw_1v_head">{lan.:got}[c.23,v.11][un.:lu]</fw>
-                  <lb n="1" xml:id="CGis_lb_1v_1" />
+                  <note type="comment" target="#CGis_lb_1v_1" resp="#Ebbinghaus">Ebbinghaus conjectures <hi rend="italic">lu</hi> as header</note><lb n="1" xml:id="CGis_lb_1v_1" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_1_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_1_2"><gap unit="char" extent="7" /><supplied resp="Helm" xml:id="CGis_em_1v_1_2">peilata</supplied>u</w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_1_2"><gap unit="char" extent="7" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_1_2">peilata</supplied>u</w>
                   <lb n="2" xml:id="CGis_lb_1v_2" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_2_1"><gap unit="char" extent="undefined" /></w>
                </ab>
                <ab type="verse" n="12" xml:id="CGis_Lc_23_verse_12">
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_2_2"><gap unit="char" extent="7" /><supplied resp="Helm" xml:id="CGis_em_1v_2_2">frijond</supplied>s</w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_2_2"><gap unit="char" extent="7" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_2_2">frijond</supplied>s</w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_2_3">sis</w>
                   <lb n="3" xml:id="CGis_lb_1v_3" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_3_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_3_2"><gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_1v_3_2">?</supplied>s</w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_3_2"><gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_3_2">?</supplied>s</w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_3_3">in</w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_3_4">þamma</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_3_5">dag<gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_1v_3_5">a</supplied></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_3_5">dag<gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_3_5">a</supplied></w>
                   <lb n="4" xml:id="CGis_lb_1v_4" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_4_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_4_2"><gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_1v_4_2">w</supplied>iþra</w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_4_2"><gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_4_2">w</supplied>iþra</w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_4_3">sik</w>
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_4_4">misso</w>
                   <lb n="5" xml:id="CGis_lb_1v_5" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_5_1"><gap unit="char" extent="undefined" /></w>
                </ab>
                <ab type="verse" n="13" xml:id="CGis_Lc_23_verse_13">
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_5_2"><gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_1v_5_2">g</supplied><unclear reason="damage" xml:id="CGis_un_1v_5_2">u</unclear>djans</w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_5_2"><gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_5_2">g</supplied><unclear reason="damage" xml:id="CGis_un_1v_5_2">u</unclear>djans</w>
                   <lb n="6" xml:id="CGis_lb_1v_6" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_6_1"><gap unit="char" extent="undefined" /></w>
                </ab>
@@ -100,13 +99,13 @@
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_6_3">qaþ</w>
                   <lb n="7" xml:id="CGis_lb_1v_7" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_7_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_7_2"><gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_1v_7_2">m</supplied>annan</w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_7_2"><gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_7_2">m</supplied>annan</w>
                   <lb n="8" xml:id="CGis_lb_1v_8" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_8_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_8_2"><gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_1v_8_2">m</supplied>anagein</w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_8_2"><gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_8_2">m</supplied>anagein</w>
                   <lb n="9" xml:id="CGis_lb_1v_9" />
                   <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_9_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_9_2"><gap unit="char" extent="4" /><supplied resp="Helm" xml:id="CGis_em_1v_9_2">usso</supplied><unclear reason="damage" xml:id="CGis_un_1v_9_2">k</unclear><unclear reason="damage" xml:id="CGis_un_1v_9_2_bis">jands</unclear></w>
+                  <w rend="silver_ink" xml:lang="" xml:id="CGis_w_1v_9_2"><gap unit="char" extent="4" /><supplied resp="Glaue_Helm" xml:id="CGis_em_1v_9_2">usso</supplied><unclear reason="damage" xml:id="CGis_un_1v_9_2">k</unclear><unclear reason="damage" xml:id="CGis_un_1v_9_2_bis">jands</unclear></w>
                   <pb n="8r" xml:id="CGis_pb_3_8r" facs="#CGis_facs_3_8r" />
                   <lb n="1" xml:id="CGis_lb_8r_1" />
                </ab>
@@ -120,82 +119,78 @@
                </ab>
                <ab type="verse" n="6" xml:id="CGis_Lc_24_verse_6">
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_2_1">non</w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_2_2">es<gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_8r_2_2">t</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_2_2">es<gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_2_2">t</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_2_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="3" xml:id="CGis_lb_8r_3" />
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_3_1">recordam<gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_8r_3_1">ini</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_3_1">recordam<gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_3_1">ini</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_3_2"><gap unit="char" extent="undefined" /></w>
                   <lb n="4" xml:id="CGis_lb_8r_4" />
                </ab>
                <ab type="verse" n="7" xml:id="CGis_Lc_24_verse_7">
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_4_1">in</w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_4_2">galil<gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_8r_4_2">aea</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_4_2">galil<gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_4_2">aea</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_4_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="5" xml:id="CGis_lb_8r_5" />
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_5_1">quia</w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_5_2">opor<unclear reason="damage" xml:id="CGis_un_8r_5_2">t</unclear><gap unit="char" extent="2" /><supplied resp="Helm" xml:id="CGis_em_8r_5_2">et</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_5_2">opor<unclear reason="damage" xml:id="CGis_un_8r_5_2">t</unclear><gap unit="char" extent="2" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_5_2">et</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_5_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="6" xml:id="CGis_lb_8r_6" />
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_6_1">tradi</w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_6_2">in</w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_6_3">m<unclear reason="damage" xml:id="CGis_un_8r_6_3">a</unclear><gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_8r_6_3">nus</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_6_3">m<unclear reason="damage" xml:id="CGis_un_8r_6_3">a</unclear><gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_6_3">nus</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_6_4"><gap unit="char" extent="undefined" /></w>
                   <lb n="7" xml:id="CGis_lb_8r_7" />
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_7_1">et</w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_7_2">cruci<gap unit="char" extent="4" /><supplied resp="Helm" xml:id="CGis_em_8r_7_2">figi</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_7_2">cruci<gap unit="char" extent="4" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_7_2">figi</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_7_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="8" xml:id="CGis_lb_8r_8" />
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_8_1">et</w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_8_2">tertia</w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_8_3">di<gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_8r_8_3">e</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_8_3">di<gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_8_3">e</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_8_4"><gap unit="char" extent="undefined" /></w>
                   <lb n="9" xml:id="CGis_lb_8r_9" />
                </ab>
                <ab type="verse" n="8" xml:id="CGis_Lc_24_verse_8">
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_9_1">et</w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_9_2">recorda<gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_8r_9_2">tae</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_9_2">recorda<gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_9_2">tae</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_9_3"><gap unit="char" extent="undefined" /></w>
                   <lb n="10" xml:id="CGis_lb_8r_10" />
                </ab>
                <ab type="verse" n="9" xml:id="CGis_Lc_24_verse_9">
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_10_1"><unclear reason="damage" xml:id="CGis_un_8r_10_1">a</unclear></w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_10_2">mon<unclear reason="damage" xml:id="CGis_un_8r_10_2">u</unclear><gap unit="char" extent="5" /><supplied resp="Helm" xml:id="CGis_em_8r_10_2">mento</supplied></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_10_2">mon<unclear reason="damage" xml:id="CGis_un_8r_10_2">u</unclear><gap unit="char" extent="5" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8r_10_2">mento</supplied></w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CGis_w_8r_10_3"><gap unit="char" extent="undefined" /></w>
                   <pb n="8v" xml:id="CGis_pb_4_8v" facs="#CGis_facs_4_8v" />
                   <lb n="1" xml:id="CGis_lb_8v_1" />
                </ab>
-            </div>
-            <div type="chapter" n="23" xml:id="CGis_Lc_chapter_23_bis">
-               <ab type="verse" n="2" xml:id="CGis_Lc_23_verse_2">
+               <ab type="verse" n="13" xml:id="CGis_Lc_24_verse_13">
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_1_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_1_2"><choice xml:id="CGis_abbr_8v_1_2"><abbr><gap unit="char" extent="5" /><supplied resp="Helm" xml:id="CGis_em_8v_1_2">gagg</supplied><am><g ref="#atild" /></am>dans</abbr><expan><gap unit="char" extent="5" /><supplied resp="Helm" xml:id="CGis_em_8v_1_2_bis">gagga</supplied><ex>n</ex>dans</expan></choice></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_1_2"><choice xml:id="CGis_abbr_8v_1_2"><abbr><gap unit="char" extent="5" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_1_2">gagg</supplied><am><g ref="#atild" /></am>dans</abbr><expan><gap unit="char" extent="5" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_1_2_bis">gagga</supplied><ex>n</ex>dans</expan></choice></w>
                   <lb n="2" xml:id="CGis_lb_8v_2" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_2_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_2_2"><gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_8v_2_2">wis</supplied>and<gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_8v_2_2_bis">e</supplied></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_2_2"><gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_2_2">wis</supplied>and<gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_2_2_bis">e</supplied></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_2_3"><unclear reason="damage" xml:id="CGis_un_8v_2_3">in</unclear></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_2_4"><unclear reason="damage" xml:id="CGis_un_8v_2_4">ana</unclear></w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_2_5"><unclear reason="damage" xml:id="CGis_un_8v_2_5">spa</unclear><unclear reason="damage" xml:id="CGis_un_8v_2_5_2">u</unclear><unclear reason="damage" xml:id="CGis_un_8v_2_5_3">rd</unclear><gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_8v_2_5">e</supplied></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_2_5"><unclear reason="damage" xml:id="CGis_un_8v_2_5">spa</unclear><unclear reason="damage" xml:id="CGis_un_8v_2_5_2">u</unclear><unclear reason="damage" xml:id="CGis_un_8v_2_5_3">rd</unclear><gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_2_5">e</supplied></w>
                   <lb n="3" xml:id="CGis_lb_8v_3" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_3_1"><gap unit="char" extent="undefined" /></w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_3_2"><gap unit="char" extent="5" /><supplied resp="Helm" xml:id="CGis_em_8v_3_2">iairu</supplied>sa<gap unit="char" extent="2" /><supplied resp="Helm" xml:id="CGis_em_8v_3_2_bis">le</supplied>m</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_3_2"><gap unit="char" extent="5" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_3_2">iairu</supplied>sa<gap unit="char" extent="2" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_3_2_bis">le</supplied>m</w>
                   <lb n="4" xml:id="CGis_lb_8v_4" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_1"><gap unit="char" extent="undefined" /></w>
                </ab>
-            </div>
-            <div type="chapter" n="24" xml:id="CGis_Lc_chapter_24_bis">
                <ab type="verse" n="15" xml:id="CGis_Lc_24_verse_15">
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_2"><gap unit="char" extent="2" /><supplied resp="Helm" xml:id="CGis_em_8v_4_2">si</supplied>k</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_3"><gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_8v_4_3">i</supplied>d<unclear reason="damage" xml:id="CGis_un_8v_4_3">d</unclear>ja</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_4"><unclear reason="damage" xml:id="CGis_un_8v_4_4">mi</unclear><gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_8v_4_4">þ</supplied></w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_5"><gap unit="char" extent="2" /><supplied resp="Helm" xml:id="CGis_em_8v_4_5">im</supplied></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_2"><gap unit="char" extent="2" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_4_2">si</supplied>k</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_3"><gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_4_3">i</supplied>d<unclear reason="damage" xml:id="CGis_un_8v_4_3">d</unclear>ja</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_4"><unclear reason="damage" xml:id="CGis_un_8v_4_4">mi</unclear><gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_4_4">þ</supplied></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_4_5"><gap unit="char" extent="2" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_4_5">im</supplied></w>
                   <lb n="5" xml:id="CGis_lb_8v_5" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_5_1"><gap unit="char" extent="undefined" /></w>
                </ab>
                <ab type="verse" n="16" xml:id="CGis_Lc_24_verse_16">
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_5_2"><gap unit="char" extent="6" /><supplied resp="Helm" xml:id="CGis_em_8v_5_2">habaid</supplied></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_5_2"><gap unit="char" extent="6" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_5_2">habaid</supplied></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_5_3">aei</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_5_4">ni</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_5_5">ufku<gap unit="char" extent="1" /><supplied resp="Helm" xml:id="CGis_em_8v_5_5">n</supplied>þ<gap unit="char" extent="3" /><supplied resp="Helm" xml:id="CGis_em_8v_5_5_bis">ede</supplied>ina</w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_5_5">ufku<gap unit="char" extent="1" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_5_5">n</supplied>þ<gap unit="char" extent="3" /><supplied resp="Glaue_Helm" xml:id="CGis_em_8v_5_5_bis">ede</supplied>ina</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_5_6">ina</w>
                   <lb n="6" xml:id="CGis_lb_8v_6" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CGis_w_8v_6_1"><gap unit="char" extent="undefined" /></w>

@@ -28,12 +28,24 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_1_4">seƕum</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_1_5">gast</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_1_6">jah</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_2_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_1_7" corresp="#CArg_seg_2_90r_2_1">gala</seg><lb n="2" xml:id="CAmbC_lb_90r_2" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_2_1" corresp="#CArg_seg_1_90r_1_7">þodedum</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_1_7">
+                     <seg corresp="CAmbC_seg_2_90r_2_1">gala</seg>
+                  </w>
+                  <lb n="2" xml:id="CAmbC_lb_90r_2" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_2_1">
+                     <seg corresp="CAmbC_seg_1_90r_1_7">þodedum</seg>
+                  </w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_90r_2_2">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_2_3">aiþþau</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_2_4">naqadana</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_2_5">jah</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_3_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_2_6" corresp="#CArg_seg_2_90r_3_1">wasi</seg><lb n="3" xml:id="CAmbC_lb_90r_3" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_3_1" corresp="#CArg_seg_1_90r_2_6">dedum</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_2_6">
+                     <seg corresp="CAmbC_seg_2_90r_3_1">wasi</seg>
+                  </w>
+                  <lb n="3" xml:id="CAmbC_lb_90r_3" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_3_1">
+                     <seg corresp="CAmbC_seg_1_90r_2_6">dedum</seg>
+                  </w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_90r_3_2">·</pc>
                </ab>
                <ab type="verse" n="39" xml:id="CAmbC_Mt_25_verse_39">
@@ -41,12 +53,24 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_3_4">þan</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_3_5">þuk</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_3_6">seƕum</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_4_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_3_7" corresp="#CArg_seg_2_90r_4_1">siu</seg><lb n="4" xml:id="CAmbC_lb_90r_4" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_4_1" corresp="#CArg_seg_1_90r_3_7">kana</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_3_7">
+                     <seg corresp="CAmbC_seg_2_90r_4_1">siu</seg>
+                  </w>
+                  <lb n="4" xml:id="CAmbC_lb_90r_4" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_4_1">
+                     <seg corresp="CAmbC_seg_1_90r_3_7">kana</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_4_2">aiþþau</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_4_3">ïn</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_4_4">karkarai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_4_5">jah</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_5_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_4_6" corresp="#CArg_seg_2_90r_5_1">atid<hi rend="small" xml:id="CAmbC_small_90r_4_6">d</hi></seg><lb n="5" xml:id="CAmbC_lb_90r_5" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_5_1" corresp="#CArg_seg_1_90r_4_6">jedum</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_4_6">
+                     <seg corresp="CAmbC_seg_2_90r_5_1">atid<hi rend="small" xml:id="CAmbC_small_90r_4_6">d</hi></seg>
+                  </w>
+                  <lb n="5" xml:id="CAmbC_lb_90r_5" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_5_1">
+                     <seg corresp="CAmbC_seg_1_90r_4_6">jedum</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_5_2">du</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_5_3">þus</w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_90r_5_4">·</pc>
@@ -62,7 +86,13 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_6_4">ïm</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_6_5">amen</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_6_6">qiþa</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_7_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_6_7" corresp="#CArg_seg_2_90r_7_1">iz</seg><lb n="7" xml:id="CAmbC_lb_90r_7" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_7_1" corresp="#CArg_seg_1_90r_6_7">wis</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_6_7">
+                     <seg corresp="CAmbC_seg_2_90r_7_1">iz</seg>
+                  </w>
+                  <lb n="7" xml:id="CAmbC_lb_90r_7" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_7_1">
+                     <seg corresp="CAmbC_seg_1_90r_6_7">wis</seg>
+                  </w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_90r_7_2">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_7_3">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_7_4">þanei</w>
@@ -72,7 +102,13 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_8_1">þize</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_8_2">minnistane</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_8_3">broþre</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_9_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_8_4" corresp="#CArg_seg_2_90r_9_1">meinai</seg><lb n="9" xml:id="CAmbC_lb_90r_9" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_9_1" corresp="#CArg_seg_1_90r_8_4">ze</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_8_4">
+                     <seg corresp="CAmbC_seg_2_90r_9_1">meinai</seg>
+                  </w>
+                  <lb n="9" xml:id="CAmbC_lb_90r_9" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_9_1">
+                     <seg corresp="CAmbC_seg_1_90r_8_4">ze</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_9_2">mis</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_9_3">tawideduþ</w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_90r_9_4">·</pc>
@@ -86,7 +122,13 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_10_3">af</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_10_4">hleidumein</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_10_5">ferai</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_11_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_10_6" corresp="#CArg_seg_2_90r_11_1">gag</seg><lb n="11" xml:id="CAmbC_lb_90r_11" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_11_1" corresp="#CArg_seg_1_90r_10_6">giþ</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_10_6">
+                     <seg corresp="CAmbC_seg_2_90r_11_1">gag</seg>
+                  </w>
+                  <lb n="11" xml:id="CAmbC_lb_90r_11" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_11_1">
+                     <seg corresp="CAmbC_seg_1_90r_10_6">giþ</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_11_2">fairra</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_11_3">mis</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_11_4">jus</w>
@@ -99,16 +141,30 @@
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_90r_12_4">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_12_5">þata</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_12_6">manwido</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_13_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_12_7" corresp="#CArg_seg_2_90r_13_1">un</seg><lb n="13" xml:id="CAmbC_lb_90r_13" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_13_1" corresp="#CArg_seg_1_90r_12_7">hulþin</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_12_7">
+                     <seg corresp="CAmbC_seg_2_90r_13_1">un</seg>
+                  </w>
+                  <lb n="13" xml:id="CAmbC_lb_90r_13" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_13_1">
+                     <seg corresp="CAmbC_seg_1_90r_12_7">hulþin</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_13_2">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_13_3">aggilum</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_13_4">ïs</w>
                </ab>
                <ab type="verse" n="42" xml:id="CAmbC_Mt_25_verse_42">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_13_5">unte</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_14_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_13_6" corresp="#CArg_seg_2_90r_14_1">gre</seg><lb n="14" xml:id="CAmbC_lb_90r_14" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_14_1" corresp="#CArg_seg_1_90r_13_6">dags</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_13_6">
+                     <seg corresp="CAmbC_seg_2_90r_14_1">gre</seg>
+                  </w>
+                  <lb n="14" xml:id="CAmbC_lb_90r_14" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_14_1">
+                     <seg corresp="CAmbC_seg_1_90r_13_6">dags</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_14_2">was</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_14_3"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90r_14_3_1" n="1">jan</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90r_14_3_2" n="2">ni</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_90r_14_3"><seg type="composite-word" xml:id="CAmbC_seg_90r_14_3_1" n="1" rend="silver_ink">jan</seg><seg type="composite-word" xml:id="CAmbC_seg_90r_14_3_2" n="2" rend="silver_ink">ni</seg></w>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_14_4">gebuþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_14_5">mis</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_14_6">matja<hi rend="small" xml:id="CAmbC_small_90r_14_6">n</hi></w>
@@ -116,18 +172,30 @@
                   <lb n="15" xml:id="CAmbC_lb_90r_15" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_15_1">afþaursiþs</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_15_2">was</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_15_3"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90r_15_3_1" n="1">jan</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90r_15_3_2" n="2">ni</seg></w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_16_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90r_15_4" corresp="#CArg_seg_2_90r_16_1">drag<gap unit="char" extent="2" /><supplied resp="Uppström,Streitberg" xml:id="CAmbC_em_90r_15_4">ki</supplied>de</seg><lb n="16" xml:id="CAmbC_lb_90r_16" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90r_16_1" corresp="#CArg_seg_1_90r_15_4">duþ</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_90r_15_3"><seg type="composite-word" xml:id="CAmbC_seg_90r_15_3_1" n="1" rend="silver_ink">jan</seg><seg type="composite-word" xml:id="CAmbC_seg_90r_15_3_2" n="2" rend="silver_ink">ni</seg></w>
+                  </w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_15_4">
+                     <seg corresp="CAmbC_seg_2_90r_16_1">drag<gap unit="char" extent="2" /><supplied resp="Uppström,Streitberg" xml:id="CAmbC_em_90r_15_4">ki</supplied>de</seg>
+                  </w>
+                  <lb n="16" xml:id="CAmbC_lb_90r_16" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_16_1">
+                     <seg corresp="CAmbC_seg_1_90r_15_4">duþ</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_16_2">mik</w>
                </ab>
                <ab type="verse" n="43" xml:id="CAmbC_Mt_25_verse_43">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_16_3">gasts</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_16_4"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90r_16_4_1" n="1">jan</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90r_16_4_2" n="2">ni</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_90r_16_4"><seg type="composite-word" xml:id="CAmbC_seg_90r_16_4_1" n="1" rend="silver_ink">jan</seg><seg type="composite-word" xml:id="CAmbC_seg_90r_16_4_2" n="2" rend="silver_ink">ni</seg></w>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_16_5">galaþ<gap unit="char" extent="3" /><supplied resp="Uppström,Streitberg" xml:id="CAmbC_em_90r_16_5">ode</supplied><unclear reason="damage" xml:id="CAmbC_un_90r_16_5">d</unclear>uþ</w>
                   <lb n="17" xml:id="CAmbC_lb_90r_17" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_17_1">mik</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_17_2">naqaþs</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_17_3"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90r_17_3_1" n="1">jan</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90r_17_3_2" n="2">ni</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_90r_17_3"><seg type="composite-word" xml:id="CAmbC_seg_90r_17_3_1" n="1" rend="silver_ink">jan</seg><seg type="composite-word" xml:id="CAmbC_seg_90r_17_3_2" n="2" rend="silver_ink">ni</seg></w>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_17_4">waside<gap unit="char" extent="3" /><supplied resp="Uppström,Streitberg" xml:id="CAmbC_em_90r_17_4">duþ</supplied></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90r_17_5">mi<hi rend="small" xml:id="CAmbC_small_90r_17_5">k</hi></w>
                   <pb n="90v" xml:id="CAmbC_pb_2_90v" facs="#CAmbC_facs_2_90v" />
@@ -137,8 +205,16 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_1_2">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_1_3">ïn</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_1_4">karkarai</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_1_5"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90v_1_5_1" n="1">jan</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90v_1_5_2" n="2">ni</seg></w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_2_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90v_1_6" corresp="#CArg_seg_2_90v_2_1">gawei</seg><lb n="2" xml:id="CAmbC_lb_90v_2" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90v_2_1" corresp="#CArg_seg_1_90v_1_6">sodeduþ</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_90v_1_5"><seg type="composite-word" xml:id="CAmbC_seg_90v_1_5_1" n="1" rend="silver_ink">jan</seg><seg type="composite-word" xml:id="CAmbC_seg_90v_1_5_2" n="2" rend="silver_ink">ni</seg></w>
+                  </w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_1_6">
+                     <seg corresp="CAmbC_seg_2_90v_2_1">gawei</seg>
+                  </w>
+                  <lb n="2" xml:id="CAmbC_lb_90v_2" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_2_1">
+                     <seg corresp="CAmbC_seg_1_90v_1_6">sodeduþ</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_2_2">meina</w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_90v_2_3">·</pc>
                </ab>
@@ -162,13 +238,21 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_5_2">gast</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_5_3">aiþþau</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_5_4">naqadana</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_6_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90v_5_5" corresp="#CArg_seg_2_90v_6_1">aiþ</seg><lb n="6" xml:id="CAmbC_lb_90v_6" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90v_6_1" corresp="#CArg_seg_1_90v_5_5">þau</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_5_5">
+                     <seg corresp="CAmbC_seg_2_90v_6_1">aiþ</seg>
+                  </w>
+                  <lb n="6" xml:id="CAmbC_lb_90v_6" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_6_1">
+                     <seg corresp="CAmbC_seg_1_90v_5_5">þau</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_6_2">siukana</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_6_3">aiþþau</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_6_4">in</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_6_5">karkarai</w>
                   <lb n="7" xml:id="CAmbC_lb_90v_7" />
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_7_1"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90v_7_1_1" n="1">jan</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90v_7_1_2" n="2">ni</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_90v_7_1"><seg type="composite-word" xml:id="CAmbC_seg_90v_7_1_1" n="1" rend="silver_ink">jan</seg><seg type="composite-word" xml:id="CAmbC_seg_90v_7_1_2" n="2" rend="silver_ink">ni</seg></w>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_7_2">andbahtidedeima</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_7_3">þus</w>
                </ab>
@@ -187,12 +271,24 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_9_3">þanei</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_9_4">ni</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_9_5">tawideduþ</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_10_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90v_9_6" corresp="#CArg_seg_2_90v_10_1">ai</seg><lb n="10" xml:id="CAmbC_lb_90v_10" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90v_10_1" corresp="#CArg_seg_1_90v_9_6">namma</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_9_6">
+                     <seg corresp="CAmbC_seg_2_90v_10_1">ai</seg>
+                  </w>
+                  <lb n="10" xml:id="CAmbC_lb_90v_10" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_10_1">
+                     <seg corresp="CAmbC_seg_1_90v_9_6">namma</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_10_2">þize</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_10_3">leitilane,</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_10_4">mis</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_10_5">ni</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_11_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90v_10_6" corresp="#CArg_seg_2_90v_11_1">tawi</seg><lb n="11" xml:id="CAmbC_lb_90v_11" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90v_11_1" corresp="#CArg_seg_1_90v_10_6"><choice xml:id="CAmbC_em_90v_11_1"><sic /><corr resp="Uppström,Streitberg">de</corr></choice>duþ</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_10_6">
+                     <seg corresp="CAmbC_seg_2_90v_11_1">tawi</seg>
+                  </w>
+                  <lb n="11" xml:id="CAmbC_lb_90v_11" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_11_1">
+                     <seg corresp="CAmbC_seg_1_90v_10_6"><choice xml:id="CAmbC_em_90v_11_1"><sic /><corr resp="Uppström,Streitberg">de</corr></choice>duþ</seg>
+                  </w>
                </ab>
                <ab type="verse" n="46" xml:id="CAmbC_Mt_25_verse_46">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_11_2">jah</w>
@@ -200,7 +296,13 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_11_4">þai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_11_5">in</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_11_6">balwein</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_12_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90v_11_7" corresp="#CArg_seg_2_90v_12_1">ai</seg><lb n="12" xml:id="CAmbC_lb_90v_12" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90v_12_1" corresp="#CArg_seg_1_90v_11_7">weinon</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_11_7">
+                     <seg corresp="CAmbC_seg_2_90v_12_1">ai</seg>
+                  </w>
+                  <lb n="12" xml:id="CAmbC_lb_90v_12" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_12_1">
+                     <seg corresp="CAmbC_seg_1_90v_11_7">weinon</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_12_2">ïþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_12_3">þai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_12_4">garaihtans</w>
@@ -224,7 +326,13 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_14_4">waurda</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_14_5">qaþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_14_6">siponjam</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_15_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_90v_14_7" corresp="#CArg_seg_2_90v_15_1">sei</seg><lb n="15" xml:id="CAmbC_lb_90v_15" /><seg type="word-part" n="2" xml:id="CArg_seg_2_90v_15_1" corresp="#CArg_seg_1_90v_14_7">na<gap unit="char" extent="2" /><supplied resp="Uppström,Streitberg" xml:id="CAmbC_em_90v_15_1">im</supplied></seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_14_7">
+                     <seg corresp="CAmbC_seg_2_90v_15_1">sei</seg>
+                  </w>
+                  <lb n="15" xml:id="CAmbC_lb_90v_15" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_15_1">
+                     <seg corresp="CAmbC_seg_1_90v_14_7">na<gap unit="char" extent="2" /><supplied resp="Uppström,Streitberg" xml:id="CAmbC_em_90v_15_1">im</supplied></seg>
+                  </w>
                </ab>
                <ab type="verse" n="2" xml:id="CAmbC_Mt_26_verse_2">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_15_2">wituþ</w>
@@ -235,7 +343,9 @@
                   <lb n="16" xml:id="CAmbC_lb_90v_16" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_16_1">p<gap unit="char" extent="4" /><supplied resp="Uppström,Streitberg" xml:id="CAmbC_em_90v_16_1">aska</supplied></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_16_2">wairþiþ</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_16_3"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90v_16_3_1" n="1">jas</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_90v_16_3_2" n="2">sa</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_90v_16_3"><seg type="composite-word" xml:id="CAmbC_seg_90v_16_3_1" n="1" rend="silver_ink">jas</seg><seg type="composite-word" xml:id="CAmbC_seg_90v_16_3_2" n="2" rend="silver_ink">sa</seg></w>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_16_4">sunus</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_90v_16_5">mans</w>
                   <lb n="17" xml:id="CAmbC_lb_90v_17" />
@@ -255,7 +365,13 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_1_2">weitwode</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_1_3">sai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_1_4">nu</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_2_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91r_1_5" corresp="#CArg_seg_2_91r_2_1">ga</seg><lb n="2" xml:id="CAmbC_lb_91r_2" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91r_2_1" corresp="#CArg_seg_1_91r_1_5">hausideduþ</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_1_5">
+                     <seg corresp="CAmbC_seg_2_91r_2_1">ga</seg>
+                  </w>
+                  <lb n="2" xml:id="CAmbC_lb_91r_2" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_2_1">
+                     <seg corresp="CAmbC_seg_1_91r_1_5">hausideduþ</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_2_2">þo</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_2_3">wajamerein</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_2_4">ïs</w>
@@ -268,11 +384,23 @@
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_91r_3_4">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_3_5">ïþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_3_6">eis</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_4_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91r_3_7" corresp="#CArg_seg_2_91r_4_1">andhaf</seg><lb n="4" xml:id="CAmbC_lb_91r_4" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91r_4_1" corresp="#CArg_seg_1_91r_3_7">jandans</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_3_7">
+                     <seg corresp="CAmbC_seg_2_91r_4_1">andhaf</seg>
+                  </w>
+                  <lb n="4" xml:id="CAmbC_lb_91r_4" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_4_1">
+                     <seg corresp="CAmbC_seg_1_91r_3_7">jandans</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_4_2">qeþun</w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_91r_4_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_4_4">skula</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_5_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91r_4_5" corresp="#CArg_seg_2_91r_5_1">dau</seg><lb n="5" xml:id="CAmbC_lb_91r_5" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91r_5_1" corresp="#CArg_seg_1_91r_4_5">þaus</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_4_5">
+                     <seg corresp="CAmbC_seg_2_91r_5_1">dau</seg>
+                  </w>
+                  <lb n="5" xml:id="CAmbC_lb_91r_5" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_5_1">
+                     <seg corresp="CAmbC_seg_1_91r_4_5">þaus</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_5_2">ist</w>
                   <pc type="colon" rend="silver_ink" xml:id="CAmbC_colon_91r_5_3">:</pc>
                </ab>
@@ -285,17 +413,37 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_6_2">is</w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_91r_6_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_6_4">jah</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_7_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91r_6_5" corresp="#CArg_seg_2_91r_7_1">kau<unclear reason="damage" xml:id="CAmbC_un_91r_6_5">pa</unclear>ste</seg><lb n="7" xml:id="CAmbC_lb_91r_7" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91r_7_1" corresp="#CArg_seg_1_91r_6_5">dun</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_6_5">
+                     <seg corresp="CAmbC_seg_2_91r_7_1">kau<unclear reason="damage" xml:id="CAmbC_un_91r_6_5">pa</unclear>ste</seg>
+                  </w>
+                  <lb n="7" xml:id="CAmbC_lb_91r_7" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_7_1">
+                     <seg corresp="CAmbC_seg_1_91r_6_5">dun</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_7_2">ina</w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_91r_7_3">·</pc>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_7_4"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_91r_7_4_1" n="1">sumaiþ</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_91r_7_4_2" n="2">þan</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_91r_7_4"><seg type="composite-word" xml:id="CAmbC_seg_91r_7_4_1" n="1" rend="silver_ink">sumaiþ</seg><seg type="composite-word" xml:id="CAmbC_seg_91r_7_4_2" n="2" rend="silver_ink">þan</seg></w>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_7_5">lofam</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_8_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91r_7_6" corresp="#CArg_seg_2_91r_8_1">slo</seg><lb n="8" xml:id="CAmbC_lb_91r_8" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91r_8_1" corresp="#CArg_seg_1_91r_7_6">hun</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_7_6">
+                     <seg corresp="CAmbC_seg_2_91r_8_1">slo</seg>
+                  </w>
+                  <lb n="8" xml:id="CAmbC_lb_91r_8" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_8_1">
+                     <seg corresp="CAmbC_seg_1_91r_7_6">hun</seg>
+                  </w>
                </ab>
                <ab type="verse" n="68" xml:id="CAmbC_Mt_26_verse_68">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_8_2">qiþandans</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_8_3">praufetei</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_9_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91r_8_4" corresp="#CArg_seg_2_91r_9_1">un</seg><lb n="9" xml:id="CAmbC_lb_91r_9" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91r_9_1" corresp="#CArg_seg_1_91r_8_4">sis</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_8_4">
+                     <seg corresp="CAmbC_seg_2_91r_9_1">un</seg>
+                  </w>
+                  <lb n="9" xml:id="CAmbC_lb_91r_9" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_9_1">
+                     <seg corresp="CAmbC_seg_1_91r_8_4">sis</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_9_2"><choice xml:id="CAmbC_abbr_91r_9_2"><abbr><am><g ref="#xristutachi" /></am></abbr><expan><ex>xristu</ex></expan></choice></w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_91r_9_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_9_4">ƕas</w>
@@ -325,7 +473,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_12_3">þu</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_12_4">wast</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_12_5">miþ</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_12_6"><choice xml:id="CAmbC_abbr_91r_12_6"><abbr><am><g ref="#esoveri" /></am>ua</abbr><expan>i<ex>es</ex>ua</expan></choice></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_12_6"><choice xml:id="CAmbC_abbr_91r_12_6"><abbr><am><g ref="#iesuatachi" /></am></abbr><expan><ex>iesua</ex></expan></choice></w>
                   <lb n="13" xml:id="CAmbC_lb_91r_13" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_13_1">þamma</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_13_2">galeilaiau</w>
@@ -334,7 +482,13 @@
                <ab type="verse" n="70" xml:id="CAmbC_Mt_26_verse_70">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_13_4">iþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_13_5">ïs</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_14_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91r_13_6" corresp="#CArg_seg_2_91r_14_1">laugn<hi rend="small" xml:id="CAmbC_small_91r_13_6">i</hi></seg><lb n="14" xml:id="CAmbC_lb_91r_14" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91r_14_1" corresp="#CArg_seg_1_91r_13_6">da</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_13_6">
+                     <seg corresp="CAmbC_seg_2_91r_14_1">laugn<hi rend="small" xml:id="CAmbC_small_91r_13_6">i</hi></seg>
+                  </w>
+                  <lb n="14" xml:id="CAmbC_lb_91r_14" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_14_1">
+                     <seg corresp="CAmbC_seg_1_91r_13_6">da</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_14_2">faura</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_14_3">þaim</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_14_4">allaim</w>
@@ -355,18 +509,26 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_16_4">daur</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_16_5">gasaƕ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_16_6">ina</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91r_16_7" corresp="#CArg_seg_2_91r_17_1">anþa</seg><lb n="17" xml:id="CAmbC_lb_91r_17" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91r_17_1" corresp="#CArg_seg_1_91r_16_7">ra</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_16_7">
+                     <seg corresp="CAmbC_seg_2_91r_17_1">anþa</seg>
+                  </w>
+                  <lb n="17" xml:id="CAmbC_lb_91r_17" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_1">
+                     <seg corresp="CAmbC_seg_1_91r_16_7">ra</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_2">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_3">qaþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_4">du</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_5">þaim</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_6">jainar</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_7"><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_91r_17_7_1" n="1">jas</seg><seg type="composite-word" rend="silver_ink" xml:lang="got" xml:id="CAmbC_seg_91r_17_7_2" n="2">sa</seg></w>
+                  <w rend="silver_ink" xml:lang="got">
+                     <w xml:id="CAmbC_w_91r_17_7"><seg type="composite-word" xml:id="CAmbC_seg_91r_17_7_1" n="1" rend="silver_ink">jas</seg><seg type="composite-word" xml:id="CAmbC_seg_91r_17_7_2" n="2" rend="silver_ink">sa</seg></w>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91r_17_8"><add place="below" xml:id="CAmbC_add_91r_17_8">wa<hi rend="small" xml:id="CAmbC_small_91r_17_8">s</hi></add></w>
                   <pb n="91v" xml:id="CAmbC_pb_4_91v" facs="#CAmbC_facs_4_91v" />
                   <lb n="1" xml:id="CAmbC_lb_91v_1" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_1_1">miþ</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_1_2"><choice xml:id="CAmbC_abbr_91v_1_2"><abbr><am><g ref="#esoveri" /></am>ua</abbr><expan>i<ex>es</ex>ua</expan></choice></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_1_2"><choice xml:id="CAmbC_abbr_91v_1_2"><abbr><am><g ref="#iesuatachi" /></am></abbr><expan><ex>iesua</ex></expan></choice></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_1_3">þamma</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_1_4">nazoraiau</w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_91v_1_5">·</pc>
@@ -378,19 +540,37 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_2_2">laugnida</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_2_3">miþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_2_4">aiþa</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_3_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91v_2_5" corresp="#CArg_seg_2_91v_3_1">swa</seg><lb n="3" xml:id="CAmbC_lb_91v_3" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91v_3_1" corresp="#CArg_seg_1_91v_2_5">rands</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_2_5">
+                     <seg corresp="CAmbC_seg_2_91v_3_1">swa</seg>
+                  </w>
+                  <lb n="3" xml:id="CAmbC_lb_91v_3" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_3_1">
+                     <seg corresp="CAmbC_seg_1_91v_2_5">rands</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_3_2">þatei</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_3_3">ni</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_3_4">kann</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_3_5">þana</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_4_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91v_3_6" corresp="#CArg_seg_2_91v_4_1">man</seg><lb n="4" xml:id="CAmbC_lb_91v_4" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91v_4_1" corresp="#CArg_seg_1_91v_3_6">nan</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_3_6">
+                     <seg corresp="CAmbC_seg_2_91v_4_1">man</seg>
+                  </w>
+                  <lb n="4" xml:id="CAmbC_lb_91v_4" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_4_1">
+                     <seg corresp="CAmbC_seg_1_91v_3_6">nan</seg>
+                  </w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_91v_4_2">·</pc>
                </ab>
                <ab type="verse" n="73" xml:id="CAmbC_Mt_26_verse_73">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_4_3">afar</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_4_4">leitil</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_4_5">þan</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_5_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91v_4_6" corresp="#CArg_seg_2_91v_5_1">atgaggan</seg><lb n="5" xml:id="CAmbC_lb_91v_5" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91v_5_1" corresp="#CArg_seg_1_91v_4_6">dans</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_4_6">
+                     <seg corresp="CAmbC_seg_2_91v_5_1">atgaggan</seg>
+                  </w>
+                  <lb n="5" xml:id="CAmbC_lb_91v_5" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_5_1">
+                     <seg corresp="CAmbC_seg_1_91v_4_6">dans</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_5_2">þai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_5_3">stand<choice xml:id="CAmbC_em_91v_5_3"><sic /><corr resp="Uppström,Streitberg">and</corr></choice>ans</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_5_4">qeþun<subst xml:id="CAmbC_corr_91v_5_4"><del rend="erasure">du</del><add rend="overwritten" /></subst></w>
@@ -430,14 +610,26 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_10_3">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_10_4">suns</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_10_5">hana</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_11_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91v_10_6" corresp="#CArg_seg_2_91v_11_1">hruki</seg><lb n="11" xml:id="CAmbC_lb_91v_11" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91v_11_1" corresp="#CArg_seg_1_91v_10_6">da</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_10_6">
+                     <seg corresp="CAmbC_seg_2_91v_11_1">hruki</seg>
+                  </w>
+                  <lb n="11" xml:id="CAmbC_lb_91v_11" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_11_1">
+                     <seg corresp="CAmbC_seg_1_91v_10_6">da</seg>
+                  </w>
                   <pc type="comma" rend="silver_ink" xml:id="CAmbC_comma_91v_11_2">·</pc>
                </ab>
                <ab type="verse" n="75" xml:id="CAmbC_Mt_26_verse_75">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_11_3">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_11_4">gamunda</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_11_5">paitrus</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_12_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91v_11_6" corresp="#CArg_seg_2_91v_12_1">waur</seg><lb n="12" xml:id="CAmbC_lb_91v_12" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91v_12_1" corresp="#CArg_seg_1_91v_11_6">dis</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_11_6">
+                     <seg corresp="CAmbC_seg_2_91v_12_1">waur</seg>
+                  </w>
+                  <lb n="12" xml:id="CAmbC_lb_91v_12" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_12_1">
+                     <seg corresp="CAmbC_seg_1_91v_11_6">dis</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_12_2"><choice xml:id="CAmbC_abbr_91v_12_2"><abbr><am><g ref="#iesuistachi" /></am></abbr><expan><ex>iesuis</ex></expan></choice></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_12_3">qiþanis</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_12_4">du</w>
@@ -467,11 +659,25 @@
             <div type="chapter" n="27" xml:id="CAmbC_Mt_chapter_27">
                <ab type="verse" n="1" xml:id="CAmbC_Mt_27_verse_1">
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_15_7">at</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_16_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91v_15_8" corresp="#CArg_seg_2_91v_16_1">ma<hi rend="small" xml:id="CAmbC_small_91v_15_8"><g ref="#urlig" /></hi></seg><lb n="16" xml:id="CAmbC_lb_91v_16" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91v_16_1" corresp="#CArg_seg_1_91v_15_8">gin</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_15_8">
+                     <seg corresp="CAmbC_seg_2_91v_16_1">ma<hi rend="small" xml:id="CAmbC_small_91v_15_8"><g ref="#urlig" /></hi></seg>
+                  </w>
+                  <lb n="16" xml:id="CAmbC_lb_91v_16" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_16_1">
+                     <seg corresp="CAmbC_seg_1_91v_15_8">gin</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_16_2">þan</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_16_3">waurþanana</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_16_4">garuni</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_17_1"><seg type="word-part" n="1" xml:id="CArg_seg_1_91v_16_5" corresp="#CArg_seg_2_91v_17_1">ne</seg><gb n="13"><add type="quire" place="below" rend="silver_ink" value="13" xml:id="CAmbC_91v_gb_13">RIF_ID:CAmbC_91v_gb_13</add></gb><lb n="17" xml:id="CAmbC_lb_91v_17" /><seg type="word-part" n="2" xml:id="CArg_seg_2_91v_17_1" corresp="#CArg_seg_1_91v_16_5">mun</seg></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_16_5">
+                     <seg corresp="CAmbC_seg_2_91v_17_1">ne</seg>
+                  </w>
+                  <gb n="13" />
+                  <add type="quire" place="below" rend="silver_ink" value="13" xml:id="CAmbC_91v_gb_13">ig</add>
+                  <lb n="17" xml:id="CAmbC_lb_91v_17" />
+                  <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_17_1">
+                     <seg corresp="CAmbC_seg_1_91v_16_5">mun</seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_17_2">allai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_17_3">þai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CAmbC_w_91v_17_4">gudjans</w>

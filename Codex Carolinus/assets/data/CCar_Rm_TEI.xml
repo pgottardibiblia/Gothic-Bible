@@ -3,52 +3,52 @@
    <teiHeader />
    <facsimile xml:id="CCar_facs_Rm">
       <surface xml:id="CCar_facs_1_277ra">
-         <graphic url="CCar_fol._1_277r.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._1_277ra.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_2_277rb">
-         <graphic url="CCar_fol._2_277r.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._2_277rb.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_3_277va">
-         <graphic url="CCar_fol._3_277v.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._3_277va.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_4_277vb">
-         <graphic url="CCar_fol._4_277v.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._4_277vb.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_5_256va">
-         <graphic url="CCar_fol._5_256v.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._5_256va.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_6_256vb">
-         <graphic url="CCar_fol._6_256v.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._6_256vb.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_7_256ra">
-         <graphic url="CCar_fol._7_256r.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._7_256ra.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_8_256rb">
-         <graphic url="CCar_fol._8_256r.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._8_256rb.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_9_255va">
-         <graphic url="CCar_fol._9_255v.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._9_255va.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_10_255vb">
-         <graphic url="CCar_fol._10_255v.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._10_255vb.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_11_255ra">
-         <graphic url="CCar_fol._11_255r.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._11_255ra.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_12_255rb">
-         <graphic url="CCar_fol._12_255r.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._12_255rb.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_13_280ra">
-         <graphic url="CCar_fol._13_280r.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._13_280ra.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_14_280rb">
-         <graphic url="CCar_fol._14_280r.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._14_280rb.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_15_280va">
-         <graphic url="CCar_fol._15_280v.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._15_280va.jpeg" height="1800px" width="1200px" />
       </surface>
       <surface xml:id="CCar_facs_16_280vb">
-         <graphic url="CCar_fol._16_280v.jpeg" height="1800px" width="1200px" />
+         <graphic url="CCar_fol._16_280vb.jpeg" height="1800px" width="1200px" />
       </surface>
    </facsimile>
    <text n="CCar">
@@ -526,7 +526,12 @@
                   <lb n="26" xml:id="CCar_lb_277vb_26" />
                   <w rend="silver_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_1">singuli</w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_2">autem</w>
-                  <w rend="silver_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_4"><seg type="word-part" n="1" xml:id="CArg_seg_1_277vb_26_3" corresp="#CArg_seg_2_277vb_26_4">alter</seg><seg type="word-part" n="2" xml:id="CArg_seg_2_277vb_26_4" corresp="#CArg_seg_1_277vb_26_3"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_4">jus</supplied></seg></w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_3">
+                     <seg corresp="CCar_seg_2_277vb_26_4">alter</seg>
+                  </w>
+                  <w rend="silver_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_4">
+                     <seg corresp="CCar_seg_1_277vb_26_3"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_4">jus</supplied></seg>
+                  </w>
                   <w rend="silver_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_5"><gap unit="char" extent="6" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_5">membra</supplied></w>
                   <pb n="256va" xml:id="CCar_pb_5_256va" facs="#CCar_facs_5_256va" />
                   <lb n="1" xml:id="CCar_lb_256va_1" />
@@ -1124,7 +1129,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CCar_w_255va_23_3">gatraua</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CCar_w_255va_23_4">ïn</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CCar_w_255va_23_5"><choice xml:id="CCar_abbr_255va_23_5"><abbr><am><g ref="#fraujintachi" /></am></abbr><expan><ex>fraujin</ex></expan></choice></w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CCar_w_255va_23_6"><choice xml:id="CCar_abbr_255va_23_6"><abbr><am><g ref="#esoveri" /></am>ua</abbr><expan>i<ex>es</ex>ua</expan></choice></w>
+                  <w rend="silver_ink" xml:lang="got" xml:id="CCar_w_255va_23_6"><choice xml:id="CCar_abbr_255va_23_6"><abbr><am><g ref="#iesuatachi" /></am></abbr><expan><ex>iesua</ex></expan></choice></w>
                   <lb n="24" xml:id="CCar_lb_255va_24" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CCar_w_255va_24_1">þatei</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CCar_w_255va_24_2">ni</w>

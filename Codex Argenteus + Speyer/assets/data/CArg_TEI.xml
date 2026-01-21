@@ -757,7 +757,6 @@
       <xi:include href="CArg_Gv_TEI.xml" xpointer="CArg_facs_Gv"/>
       <xi:include href="CArg_Lc_TEI.xml" xpointer="CArg_facs_Lc"/>
       <xi:include href="CArg_Mc_TEI.xml" xpointer="CArg_facs_Mc"/>
-      <xi:include href="CArg_Spe_TEI.xml" xpointer="CArg_Spe_facs_Mc"/>
    </facsimile>
    
    <!-- SEZIONE TESTO: Include tutti i testi dei 4 Vangeli -->
@@ -767,7 +766,6 @@
          <xi:include href="CArg_Gv_TEI.xml" xpointer="CArg_book_Gv"/>
          <xi:include href="CArg_Lc_TEI.xml" xpointer="CArg_book_Lc"/>
          <xi:include href="CArg_Mc_TEI.xml" xpointer="CArg_book_Mc"/>
-         <xi:include href="CArg_Spe_TEI.xml" xpointer="CArg_book_Mc"/>
       </body>
    </text>
 </TEI>
