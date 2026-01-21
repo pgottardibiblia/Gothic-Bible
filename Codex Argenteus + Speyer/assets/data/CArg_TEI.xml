@@ -8,7 +8,6 @@
             <author>Vulfila</author>
             <principal>Carla Falluomini</principal>
             <principal>Antonio Piras</principal>
-            <principal>Roberto Rosselli Del Turco</principal>
             <respStmt>
                <resp>General overview:</resp>
                <name>Carla Falluomini</name>
@@ -72,6 +71,8 @@
          <extent>[??] kilobytes</extent>
 
          <publicationStmt>
+            <publisher>Edizioni Ca' Foscari</publisher>
+            <pubPlace>Venice, Italy</pubPlace>
             <authority>The textual legacy of the Ostrogoths in Italy: The Bible version and other texts (Acronym: LegOst)</authority>
             <date when="2023-26">2023-26</date>
             <availability status="unknown">
@@ -434,10 +435,12 @@
             </p>
          </projectDesc>
 
+
+
          <editorialDecl>
-         <hyphenation eol="all">
-            <p>Physical line breaks are preserved in the encoded text.</p>
-         </hyphenation>
+            <hyphenation eol="all">
+               <p>Physical line breaks are preserved in the encoded text.</p>
+            </hyphenation>
          </editorialDecl>
 
          <listPrefixDef>
@@ -735,14 +738,14 @@
 
       <profileDesc>
          <langUsage>
-         <language ident="got">Gothic</language>
+            <language ident="got">Gothic</language>
          </langUsage>
          <textClass>
-         <keywords>
-            <term type="form">Prose</term>
-            <term type="source">Sacred literature</term>
-            <term type="genre">Biblical text</term>
-         </keywords>
+            <keywords>
+               <term type="form">Prose</term>
+               <term type="source">Sacred literature</term>
+               <term type="genre">Biblical text</term>
+            </keywords>
          </textClass>
       </profileDesc>
 
