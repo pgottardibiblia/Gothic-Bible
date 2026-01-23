@@ -81,348 +81,395 @@
          </publicationStmt>
 
          <sourceDesc>
-            <msDesc>
+            <msDesc xml:id="CArg">
                <msIdentifier>
                   <country>Sweden</country>
                   <settlement>Uppsala</settlement>
-                  <repository>Universitetsbiblioteket, Carolina Rediviva</repository>
-                  <idno>Codex Argenteus</idno>
-                  <altIdentifier>
-                     <idno>D G 1</idno>
-                  </altIdentifier>
-                  <altIdentifier>
-                     <idno>Uppsala Universitetsbibliotek, D G 1</idno>
+                  <repository>Universitetsbiblioteket</repository>
+                  <idno type="shelfmark">D G 1</idno>
+                  <altIdentifier type="alternative">
+                     <idno>Uppsala, Universitetsbiblioteket, Carolina Rediviva, D G 1</idno>
                   </altIdentifier>
                   <msName>Codex Argenteus (so named by Bonaventura Vulcanius in 1597)</msName>
                </msIdentifier>
-               
                <msIdentifier>
                   <country>Germany</country>
                   <settlement>Speyer</settlement>
                   <repository>Historisches Museum der Pfalz</repository>
-                  <idno>s.n.</idno>
+                  <idno type="shelfmark">s.n.</idno>
                   <msName>Fragmentum Spirense / Folium Spirense / Haffner folium (after its discoverer)</msName>
                </msIdentifier>
-
                <msContents>
-                  <summary>The manuscript originally transmitted the four Gospels in the so-called "Western" order: the Gospel of Matthew, the Gospel of John, the Gospel of Luke, and the Gospel of Mark. The Speyer leaf preserves Mark 16:12–20. The presence of wormholes in this leaf suggests that it originally followed a wooden board, and therefore that it constituted the final leaf of the codex.</summary>
-                  <textLang mainLang="got">The language of the manuscript is Gothic</textLang>
-
+                  <summary>
+                     <p>The codex is a Gospel book, with the Gospels arranged in the so-called "Western" order (Matthew, John, Luke, and Mark). The leaf preserved at Speyer transmits Mark 16:12-20.</p>
+                  </summary>
+                  <textLang mainLang="got">Gothic</textLang>
                   <msItem n="1">
-                     <locus from="1r" to="15v">Ff. 1r - 15v</locus>
-                     <title type="work">Gospel of Matthew</title>
-                     <note>In Matthew, 76 leaves are missing and 22 survive (approximately 75% lost)</note>
+                     <locus from="1r" to="15v">ff. 1r-15v</locus>
+                     <title type="uniform" xml:lang="en">Gospel of Matthew</title>
+                     <note>98 leaves originally; 22 survive (approximately 75% lost). Surviving passages: Mt 5:15-6:32; 7:12-10:1; 10:23-11:25; 26:70-27:19; 27:42-66 (corresponding to approximately 25% of Matthew).</note>
                   </msItem>
-
                   <msItem n="2">
-                     <locus from="90r" to="117v">Ff. 90r - 117v</locus>
-                     <title type="work">Gospel of John</title>
-                     <note>In John, 29 leaves are missing and 45 survive (approximately 40% lost)</note>
+                     <locus from="90r" to="117v">ff. 90r-117v</locus>
+                     <title type="uniform" xml:lang="en">Gospel of John</title>
+                     <note>74 leaves originally; 45 survive (approximately 40% lost). Surviving passages: Jn 5:45-7:52; 8:12-11:47; 12:1-49; 13:11-19:13 (corresponding to approximately 60% of John).</note>
                   </msItem>
-                  
                   <msItem n="3">
-                     <locus from="118r" to="108v">Ff. 118r - 108v</locus>
-                     <title type="work">Gospel of Luke</title>
-                     <note>In Luke, 36 leaves are missing and 70 survive (approximately 35% lost)</note>
+                     <locus from="118r" to="188v">ff. 118r-188v</locus>
+                     <title type="uniform" xml:lang="en">Gospel of Luke</title>
+                     <note>106 leaves originally; 70 survive (approximately 35% lost). Surviving passages: Lk 1:1-10:30; 14:9-16:24; 17:3-20:46 (corresponding to approximately 65% of Luke).</note>
                   </msItem>
-
                   <msItem n="4">
-                     <locus from="57r" to="187v">Ff. 57r - 187v</locus>
-                     <title type="work">Gospel of Mark</title>
-                     <note>In Mark, 7 leaves are missing and 50 survive in Uppsala (approximately 8% lost)</note>
+                     <locus from="57r" to="187v">ff. 57r-187v</locus>
+                     <title type="uniform" xml:lang="en">Gospel of Mark</title>
+                     <note>58 leaves originally; 51 survive in Uppsala (approximately 8% lost). Surviving passages: Mk 1:1-6:30; 6:53-12:38; 13:16-29; 14:4-16; 14:41-16:11 (corresponding to approximately 92% of Mark).</note>
                   </msItem>
-
                   <msItem n="5">
-                     <locus from="188r" to="188v">Ff. 188r - 188v</locus>
-                     <title type="work">Gospel of Mark (Speyer's folio)</title>
-                     <note>One further leaf—the final one—preserved in Speyer, containing Mark 16:12–20</note>
+                     <locus>f. 188 (Speyer)</locus>
+                     <title type="uniform" xml:lang="en">Gospel of Mark (conclusion)</title>
+                     <note>One leaf preserved at Speyer, containing Mark 16:12-20. The presence of wormholes suggests it originally followed a wooden board, constituting the final leaf of the codex.</note>
                   </msItem>
                </msContents>
-
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="parchment">
+                     <supportDesc material="perg">
                         <support>
-                           <material>Parchment, probably made from kid skin, extremely thin and prepared with exceptional care. Purple-coloured: for the dyeing—which varies from leaf to leaf and between hair and flesh sides—both orchil and indigo were probably used; visual analysis further suggests the combined use of orchil (outer areas) and folium (within the written area).</material>
-                           <p>In 1998 the parchment underwent radiocarbon (C14) analysis, which indicated a date not later than 550.</p>
+                           <material>Parchment, probably goatskin</material>
+                           <p>The parchment is extremely thin and prepared with great care. Its colour is purple: for the dyeing—varying from leaf to leaf and between hair side and flesh side—both orchil and indigo were most likely used (Aceto et al. 2019, 137-138). Visual inspection further suggests a combined use of orchil in the margins and folium in the written area.</p>
+                           <p>In 1998 the parchment was subjected to radiocarbon (C-14) analysis in order to establish its date; the result indicates a date not later than 550 (Possnert-Munkhammar 2002).</p>
                         </support>
                         <extent>
-                           <measure type="leavesTotal">The manuscript originally consisted of 336 leaves</measure>
-                           <measure type="leavesExtant">187 leaves survive in Uppsala and 1 in Speyer (188 total surviving)</measure>
+                           <measure type="leavesOriginal" unit="leaves">336</measure>
+                           <measure type="leavesExtant" unit="leaves">188 (187 in Uppsala + 1 in Speyer)</measure>
+                           <p>The manuscript originally consisted of 336 leaves (Friesen-Grape 1928, 35), of which 187 are preserved at Uppsala and one leaf at Speyer. The Gospel of Matthew comprised 98 leaves (22 survive), the Gospel of John 74 leaves (45 survive), the Gospel of Luke 106 leaves (70 survive), and the Gospel of Mark 58 leaves (51 survive).</p>
                            <dimensions type="leaf" unit="mm">
-                              <height min="242.5" max="245">242.5-245 (Uppsala leaves)</height>
-                              <width min="197.5" max="200">197.5-200 (Uppsala leaves)</width>
+                              <height min="242.5" max="245">197.5-200 × 242.5-245 mm (Uppsala leaves)</height>
+                              <width min="197.5" max="200" />
                            </dimensions>
                            <dimensions type="leaf" unit="mm">
-                              <height>265 (Speyer leaf)</height>
-                              <width>217 (Speyer leaf)</width>
+                              <height>217 × 265 mm (Speyer leaf)</height>
+                              <width>217</width>
                            </dimensions>
                            <dimensions type="written" unit="mm">
                               <height>130</height>
                               <width>165</width>
                            </dimensions>
-                           <measure type="textHeight" unit="mm">130</measure>
-                           <measure type="lineHeight" unit="mm">Ca. 6.5 per line (130 mm divided by 20 lines)</measure>
+                           <dimensions type="canonTables" unit="mm">
+                              <height>130</height>
+                              <width min="33.3" max="33.5">33.3-33.5</width>
+                           </dimensions>
                         </extent>
-                        <foliation>The leaves were numbered in pencil in the upper right margin after they had been disbound and rebound in the order of the Vulgate (Matthew, Mark, Luke, John), as already attested in the editio princeps (1665). This new pagination dates to the nineteenth century.</foliation>
+                        <foliation>
+                           <p>The leaves were numbered in pencil in the upper outer margin after they had been disbound and rebound in the order of the Vulgate (Gospel of Matthew, Gospel of Mark, Gospel of Luke, and Gospel of John), as already attested in the editio princeps (1665). This new foliation dates to the nineteenth century.</p>
+                        </foliation>
                         <collation>
-                           <p>The quires are mostly quaternions, except for the final quire of each Gospel. Of the original quires of the Codex Argenteus, 37 were quaternions and 4 quinions. The quire structure follows Gregory's rule (flesh facing flesh, hair facing hair).</p>
-                           <p>The quire number, preserved only in some cases, is placed in the lower right corner of the final leaf of the quire, within a frame of signs.</p>
+                           <p>The gatherings are mostly quaternions, except for the final gathering of each Gospel. Of the original gatherings, 37 were therefore quaternions and four quinions. The quire structure follows Gregory's rule (flesh facing flesh and hair facing hair).</p>
+                           <p>The quire number indicating the order of the gatherings, preserved only in some cases, is placed in the lower right corner of the last leaf of the gathering, enclosed within a frame of signs.</p>
                         </collation>
                         <condition>
-                           <p>The codex is now disbound; each leaf is housed in a cardboard folder and kept in a safe. The manuscript is generally in good condition, except for some leaves that have suffered from humidity. The ink on the final leaf is heavily faded. One leaf (f. 38) is torn.</p>
+                           <p>The codex is now disbound; each leaf is placed in a cardboard folder and kept in a safe. The manuscript is generally in good condition, except for some leaves that have suffered from humidity. The ink of the final leaf (from Speyer) is very faded. No traces of the original binding survive.</p>
                         </condition>
                      </supportDesc>
-                     
                      <layoutDesc>
                         <layout columns="1" writtenLines="20">
-                           <p>The text is arranged in a single column of writing, with the exception of the "Genealogy of Jesus" (Luke 3:23–38), which is laid out in two columns.</p>
-                           <p>Ruling: The guide holes for ruling are not visible; the ruling was impressed dry, apparently one bifolium at a time, on the flesh side. The written area includes a single marginal ruling line and is divided into two parts.</p>
-                           <p>The upper part, larger and reserved for the text, measures 130 × 165 mm and is divided into 20 lines, upon which the letters rest, bounded above by an additional ruling line.</p>
-                           <p>The lower part, smaller, begins approximately one centimetre below the last line of the upper system. It consists of 11 evenly spaced parallel lines and has a height of ca. 33–35 mm. This system contains the four Eusebian canon tables on each page.</p>
-                           <p>The proportions of the written area on each page follow the principle of the golden ratio (ca. 210 × 130 mm).</p>
+                           <p>The text is arranged in a single column, in scriptio continua, except for the "Genealogy of Jesus" (Lk 3:23-38), which is laid out in two columns.</p>
+                           <p>The ruling was executed dry-point, apparently one bifolium at a time, on the flesh side. The written area is delimited by a single marginal ruling line and is divided horizontally into two sections.</p>
+                           <p>The upper section, intended for the text, is divided into 20 lines on which the letters rest, bounded above by an additional ruling line.</p>
+                           <p>The lower section, which contains the canon tables, begins one centimetre below the last line of the upper system and is divided into 11 evenly spaced lines. Pricking marks for the ruling are not visible. The overall proportions of the text area and the canon tables follow the principle of the "golden section" (ca. 210 × 130 mm).</p>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
-
                   <handDesc hands="2">
-                     <handNote xml:id="handI" script="gothic" medium="silver-ink">
-                        <p>Scribe of the Gospels of Matthew and John. The text is written in scriptio continua in the vertical Gothic script (with &lt;s&gt; of Latin form), set within an actually drawn bilinear system. The hand is highly regular.</p>
-                     </handNote>
-                     <handNote xml:id="handII" script="gothic" medium="silver-ink">
-                        <p>Scribe of the Gospels of Luke and Mark. The hand is highly regular, though slightly slenderer than Hand I.</p>
-                     </handNote>
-                     <handNote xml:id="glossator" script="gothic" medium="silver-ink" scope="minor">
-                        <p>Fifteen marginal glosses are present, also in silver ink and in the vertical script, perhaps added in the same scriptorium in which the manuscript was produced, but apparently by another (single?) hand.</p>
-                     </handNote>
+                     <handNote xml:id="hand1" scope="major" script="Gothic">The first scribe (hand I) wrote the Gospels of Matthew and John. The manuscript is written in the vertical Gothic script (with &lt;s&gt; of Latin form), set within an actually ruled bilinear system. The hand is very regular.</handNote>
+                     <handNote xml:id="hand2" scope="major" script="Gothic">The second scribe (hand II) wrote the Gospels of Luke and Mark. The hand is very regular, but slightly more slender than hand I.</handNote>
+                     <handNote xml:id="glossator" scope="minor" script="Gothic">Fifteen marginal glosses are present, also in silver ink and in the vertical script type, perhaps added in the same scriptorium in which the manuscript was produced. It is difficult to determine with certainty whether they are by hands different from those of the text.</handNote>
                   </handDesc>
-
                   <scriptDesc>
-                     <scriptNote script="gothic">
-                        <p>Vertical Gothic script with &lt;s&gt; of Latin form, written in scriptio continua within a bilinear system.</p>
-                        <p>A larger module is used to mark the initial letter of a new textual unit, generally corresponding to a new Eusebian section, projected into the outer margin.</p>
-                        <p>To keep the writing within the right margin, smaller-module letters, abbreviations for nasals, and very rarely ligatures (for mu, ht, rþ, þr) may be employed.</p>
-                     </scriptNote>
+                     <p>The manuscript is written in the vertical Gothic script (with &lt;s&gt; of Latin form), set within an actually ruled bilinear system. The letter marking the beginning of a new textual unit is written in a larger module, both when it coincides with the beginning of a new line (in which case it is partially or entirely shifted outside the outer vertical ruling) and, more rarely and with less enlargement, within the line. Letters of smaller module and, very rarely, ligatures (for mu, ht, rþ, þr) occur at line end.</p>
                   </scriptDesc>
-
                   <decoDesc>
-                     <decoNote type="frame">
-                        <p>Simplified architectural frames, drawn in silver ink and without painted completion, are present at the foot of the page; they contain the Eusebian canon tables.</p>
-                     </decoNote>
-                     <decoNote type="initial">
-                        <p>Initial letters of new textual units are written in larger module and projected into the outer margin.</p>
-                     </decoNote>
-                     <decoNote type="colophon">
-                        <p>The colophon of the Gospel of Mark: aiwaggeljo · þ(ai)rh · m(a)r(ku) · | ustauh · wulþus · þus | weiha · g(u)þ · amen ("The Gospel according to Mark is finished. Glory to you, O holy God. Amen").</p>
-                     </decoNote>
+                     <decoNote type="frame">Architectural frames of simplified form, drawn in silver ink and without painted completion, appear at the foot of the page; they contain the Eusebian canon tables.</decoNote>
+                     <decoNote type="colophon">Only the colophon of the Gospel of Mark has been preserved: aiwaggeljo · þ(ai)rh · m(a)r(ku) · | ustauh · wulþus · þus | weiha · g(u)þ · amen · "The Gospel according to Mark is finished. Glory to you, O holy God. Amen." The letters are more widely spaced and slightly larger than those of the text.</decoNote>
                   </decoDesc>
-
                   <additions>
-                     <list>
-                        <item>
-                           <label>Book titles</label>
-                           <p>Preserved at the beginnings of the Gospels of Luke and Mark: › aiwaggeljo · þairh · lukan · anastodeiþ › "(the) Gospel according to Luke begins" (f. 118r) and › aiwaggeljo · þairh marku · anastodeiþ › "(the) Gospel according to Mark begins" (f. 57r). Written in silver ink, in a smaller and more compressed module.</p>
-                        </item>
-                        <item>
-                           <label>Running titles</label>
-                           <p>Written every two leaves in the upper central margin on the flesh side, resting on a ruling line. On the verso appears þairh ("according to"), and on the recto the abbreviated accusative form of the evangelist's name.</p>
-                        </item>
-                        <item>
-                           <label>Eusebian apparatus</label>
-                           <p>The text of each Gospel is divided into sequentially numbered sections (355 in Matthew, 233 in Mark, 342 in Luke, and 232 in John). Canon tables are placed in the lower part of each page.</p>
-                        </item>
-                        <item>
-                           <label>Paragraph marks</label>
-                           <p>Thin horizontal stroke, thickened at the ends, with a central sign resembling a dot or a diplé, written in gold ink, placed in the left margin.</p>
-                        </item>
-                        <item>
-                           <label>Citation marks</label>
-                           <p>Quotations from the Old Testament are marked in the left margin with a diplé (&gt;), in silver ink, extending along the entire quotation.</p>
-                        </item>
-                        <item>
-                           <label>Punctuation</label>
-                           <p>The medial point marks minor pauses (commata), and the colon marks major pauses (cola).</p>
-                        </item>
-                        <item>
-                           <label>Abbreviations</label>
-                           <p>Both nasals are abbreviated at line end; nomina sacra for "God", "Lord", "Jesus", and "Christ" are present in contracted form; evangelists' names in running titles are abbreviated.</p>
-                        </item>
-                        <item>
-                           <label>Corrections</label>
-                           <p>Occasional corrections consist of interlinear additions and, in one case, a marginal addition (f. 61v), as well as erasures and rewritings of individual letters; likely contemporary with the text and by the same scribe, written in silver ink.</p>
-                        </item>
-                        <item>
-                           <label>Glosses</label>
-                           <p>Fifteen marginal glosses in silver ink and vertical script, perhaps added in the same scriptorium, apparently by another hand. Framed by reference marks.</p>
-                        </item>
-                     </list>
+                     <p>Titles: Only the titles of the Gospels of Luke and Mark are preserved: aiwaggeljo · þairh · lukan · anastodeiþ "The Gospel according to Luke begins" (f. 118r) and aiwaggeljo · þairh marku · anastodeiþ "The Gospel according to Mark begins" (f. 57r). They are written in silver ink, in a slightly smaller module and in a more compressed form than the text script.</p>
+                     <p>Running titles: placed every two leaves in the upper central margin on the flesh side and rest on a ruling line. On the verso appears þairh, and on the facing recto the abbreviated form of the evangelist's name.</p>
+                     <p>Eusebian sections and canon tables: The text of each Gospel is divided into sections numbered consecutively (355 in Matthew, 233 in Mark, 342 in Luke, and 232 in John). The section numbers are indicated in the left margin of the leaf, enclosed within a frame of signs. Canon tables are placed in the lower part of each page.</p>
+                     <p>Paragraph mark: written in gold ink, consists of a thin horizontal stroke thickened at both ends, with at its centre a sign resembling a dot or a diplé, placed in the left margin.</p>
+                     <p>Quotation mark: Quotations from the Old Testament are indicated by the diplé (&gt;), in silver ink, placed in the left margin outside the written area and extending along the entire quotation.</p>
+                     <p>Punctuation: The medial point marks minor pauses (commata), and the colon marks major pauses (cola). Occasionally, in the Gospel of Luke, the colon is written in two different inks when followed by an Eusebian section.</p>
+                     <p>Orthography: Orthographic variations are attested that are also common in other Gothic manuscripts; the most frequent are &lt;e&gt; for &lt;ei&gt;, occasionally for &lt;i&gt;; &lt;au&gt; for &lt;u&gt;; &lt;d&gt; for &lt;þ&gt;.</p>
+                     <p>Abbreviations and contractions: Both nasals are abbreviated at line end. Nomina sacra for "God", "Lord", "Jesus", and "Christ" are present in contracted form. The names of the evangelists in the running titles are abbreviated. In the canon tables, the names of Matthew and Mark are represented by monograms.</p>
+                     <p>Numerals: expressed according to Greek usage by letters, placed between points and surmounted by a horizontal stroke when they occur in the text.</p>
+                     <p>Corrections: Occasional corrections consist of erasures and rewritings of individual letters, or of additions in the interlinear space and, in one case, in the margin (f. 61v). They are plausibly contemporary and by the same scribe as the text since they too are written in silver ink. Not all errors were corrected.</p>
+                     <p>Glosses: Fifteen marginal glosses in silver ink, perhaps added in the same scriptorium. Framed above by a reference mark and below, occasionally, by a descending flourish.</p>
                   </additions>
-
-                  <bindingDesc>
-                     <binding notBefore="1660" notAfter="1669">
-                        <p>No traces of the original binding survive. The original outer covering was most probably made of wooden boards, as suggested by the worm damage to the final leaf.</p>
-                        <p>The silver cover bearing the image of Wulfila dates to the 1660s and is now detached.</p>
-                        <p>The codex is now disbound; each leaf is housed in a cardboard folder.</p>
-                     </binding>
-                  </bindingDesc>
-
                   <sealDesc>
                      <seal>
-                        <p>The manuscript is written in silver and gold ink. The main body of the text, book titles, running titles, citation marks, section numbers, and Eusebian apparatus are in silver. Gold ink is used for the first three lines of Luke and Mark, the beginning of each Eusebian section, paragraph marks, abbreviations of evangelists' names in canon tables, and other specific elements.</p>
+                        <p>Two different ink colours are used in the manuscript. Silver ink: main body of text, Gospel titles, running titles, quotation marks, numbers of Eusebian sections, canon tables. Gold ink: first three lines of each Gospel (Luke and Mark preserved), beginning of each Eusebian section up to end of line, paragraph mark, abbreviations of evangelists' names in canon tables, and the first line of the Lord's Prayer (Mt 6:9). In some places both ink and parchment are damaged, possibly indicating the presence of an acidic or corrosive substance in the ink.</p>
                      </seal>
                   </sealDesc>
                </physDesc>
-
                <history>
-                  <origin notBefore="0500" notAfter="0525">
-                     <origDate notBefore="0500" notAfter="0525">The codex can plausibly be dated to the first quarter of the sixth century.</origDate>
-                     <origPlace>The manuscript was most likely copied in Ravenna, the capital of the Ostrogothic kingdom and a major cultural centre.</origPlace>
-                     <p>The care with which the manuscript was produced and its luxurious character indicate a highly prestigious patronage, identifiable with Theoderic the Great († 526), king of the Ostrogoths, and/or the palatine church.</p>
+                  <origin>
+                     <origDate notBefore="0500" notAfter="0525">First quarter of the sixth century</origDate>
+                     <origPlace>It is likely that the manuscript was copied in Ravenna, the capital of the Ostrogothic kingdom and an important cultural centre.</origPlace>
+                     <p>The Codex Argenteus is the principal witness to the Gothic translation of the Gospels traditionally attributed to the Visigothic bishop Wulfila. The refinement of the codex suggests a patron of high status, commonly identified with Theoderic the Great (†526) and the palatine church.</p>
+                     <p>It has often been hypothesised that the Argenteus originally constituted the Gothic part of a bilingual Gothic-Latin Gospel book in separate volumes, whose Latin counterpart would be the Codex Brixianus (Brescia, Biblioteca Queriniana, s.n.). The two manuscripts indeed display non-random codicological and decorative affinities, including the use of purple parchment, silver ink, and architectural arcades at the foot of the page. Certain codicological differences, however, suggest that their production did not take place in parallel (Falluomini 2024).</p>
                   </origin>
                   <provenance notBefore="1550" notAfter="1569">
-                     <p>The history of the Codex Argenteus is known only from the mid-sixteenth century, when its presence at the German monastery of Werden, near Essen, is attested by Georg Cassander and Cornelius Wouters. Nothing is known about when or how the manuscript arrived there.</p>
+                     <p>The history of the Codex Argenteus is known only from the mid-sixteenth century onwards, when its presence at the German monastery of Werden, near Essen, is attested by Georg Cassander and Cornelius Wouters. No information survives as to when or by what route the manuscript arrived there.</p>
                   </provenance>
                   <provenance notBefore="1597" notAfter="1648">
-                     <p>At the behest of Emperor Rudolf II, the codex passed from Werden to Prague.</p>
-                  </provenance>
-                  <provenance when="1648">
-                     <p>The manuscript came into Swedish hands as war booty (1648) and was included among the book treasures of Queen Christina of Sweden.</p>
+                     <p>At the behest of Emperor Rudolf II, the codex passed—by means that remain obscure—from Werden to Prague and subsequently into Swedish hands as war booty (1648), before being included among the book treasures of Queen Christina of Sweden.</p>
                   </provenance>
                   <provenance notBefore="1648" notAfter="1662">
-                     <p>Donated to Queen Christina's librarian Isaac Vossius, it ended up in the Netherlands, where it was first printed by Vossius's uncle Franciscus Junius (Quattuor […] evangeliorum versiones perantiquae duae, Gotica scilicet et Anglosaxonica, Dordrecht, 1665).</p>
+                     <p>Donated to the queen's librarian, Isaac Vossius, it eventually reached the Netherlands, where it was published for the first time by Vossius' uncle, Franciscus Junius (Quattuor […] evangeliorum versiones perantiquae duae, Gotica scilicet et Anglosaxonica, […], Dordrecht, 1665).</p>
                   </provenance>
                   <acquisition when="1662">
-                     <p>In 1662 the Swedish count Magnus Gabriel De la Gardie purchased the manuscript and brought it back to Sweden. In 1669 he donated it to the University of Uppsala, where it is still preserved.</p>
+                     <p>In 1662 the Swedish count Magnus Gabriel De la Gardie purchased the manuscript and brought it back to Sweden; in 1669 he donated it to Uppsala University, where it is still preserved today.</p>
                   </acquisition>
                   <provenance when="1970">
-                     <p>The final leaf of the Codex Argenteus (Speyer fragment), containing the end of the Gospel of Mark, came to light in October 1970 in Speyer, during restoration work on the chapel of St Afra. The humanist Philipp Melanchthon handled the leaf in 1518–1519.</p>
+                     <p>The final leaf of the Codex Argenteus, containing the conclusion of the Gospel of Mark, came to light in October 1970 at Speyer during restoration work on the Chapel of St Afra. It was preserved inside a casket that also contained relics attributed to Bishop Erasmus of Antioch (Haffner 1971). The wormholes in f. 187 and in the Speyer fragment correspond perfectly. The humanist Philipp Melanchthon handled the leaf in 1518-1519.</p>
                   </provenance>
                </history>
-
                <additional>
-                  <adminInfo>
-                     <recordHist>
-                        <p>A colour digitalisation, curated by Lars Munkhammar, Magnús Snædal, and David Landau, is available on the website https://www.ub.uu.se/about-the-library/exhibitions/codex-argenteus/.</p>
-                     </recordHist>
-                     <custodialHist>
-                        <p>The photographic facsimile of 1927 was prepared by Otto von Friesen and Anders Grape.</p>
-                     </custodialHist>
-                  </adminInfo>
                   <surrogates>
-                     <p>Digital facsimile available at: https://www.ub.uu.se/about-the-library/exhibitions/codex-argenteus/</p>
+                     <p>The photographic reproduction, published in 1927, was prepared by Otto von Friesen and Anders Grape. A colour digitisation, curated by Lars Munkhammar, Magnús Snædal, and David Landau, is now available on the website https://www.ub.uu.se/about-the-library/exhibitions/codex-argenteus/.</p>
                   </surrogates>
                   <listBibl>
-                     <head>Bibliografia principale (selezione)</head>
-                     <bibl xml:id="Aceto2019">
-                        <author>Aceto, Maurizio</author>
-                        <author>Calà, Elisa</author>
-                        <author>Agostino, Angelo</author>
-                        <author>Fenoglio, Gaia</author>
-                        <author>Gulmini, Monica</author>
-                        <author>Idone, Ambra</author>
-                        <author>Porter, Cheryl</author>
-                        <author>Hofmann, Christa</author>
-                        <author>Rabitsch, Sophie</author>
-                        <author>Denoël, Charlotte</author>
-                        <author>Förstel, Christian</author>
-                        <author>Quandt, Abigail</author>
-                        <title>Mythic dyes or mythic colour? New insight into the use of purple dyes on codices</title>
-                        <title type="journal">Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</title>
+                     <head>Selected Bibliography</head>
+                     <bibl xml:id="bibl_Aceto2019" type="journalArticle">
+                        <author>
+                           <persName>
+                              <surname>Aceto</surname>
+                              <forename>Maurizio</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Calà</surname>
+                              <forename>Elisa</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Agostino</surname>
+                              <forename>Angelo</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Fenoglio</surname>
+                              <forename>Gaia</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Gulmini</surname>
+                              <forename>Monica</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Idone</surname>
+                              <forename>Ambra</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Porter</surname>
+                              <forename>Cheryl</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Hofmann</surname>
+                              <forename>Christa</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Rabitsch</surname>
+                              <forename>Sophie</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Denoël</surname>
+                              <forename>Charlotte</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Förstel</surname>
+                              <forename>Christian</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Quandt</surname>
+                              <forename>Abigail</forename>
+                           </persName>
+                        </author>
+                        <date>2019</date>
+                        <title level="a">Mythic Dyes or Mythic Colour? New Insight into the Use of Purple Dyes on Codices</title>
+                        <title level="j">Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</title>
                         <biblScope unit="volume">215</biblScope>
                         <biblScope unit="page">133-141</biblScope>
-                        <date>2019</date>
                      </bibl>
-                     <bibl xml:id="Andersson-Schmitt1975-76">
-                        <author>Andersson-Schmitt, Margarete</author>
-                        <title>Anmerkungen zur Bedeutung des Haffner-Blattes für die Geschichte des Codex Argenteus</title>
-                        <title type="journal">Nordisk tidskrift för bok- och biblioteksväsen</title>
+                     <bibl xml:id="bibl_AnderssonSchmitt1975" type="journalArticle">
+                        <author>
+                           <persName>
+                              <surname>Andersson-Schmitt</surname>
+                              <forename>Margarete</forename>
+                           </persName>
+                        </author>
+                        <date>1975-1976</date>
+                        <title level="a">Anmerkungen zur Bedeutung des Haffner-Blattes für die Geschichte des Codex Argenteus</title>
+                        <title level="j">Nordisk tidskrift för bok- och biblioteksväsen</title>
                         <biblScope unit="volume">62/63</biblScope>
                         <biblScope unit="page">16-21</biblScope>
-                        <date>1975-76</date>
                      </bibl>
-                     <bibl xml:id="Falluomini2024">
-                        <author>Falluomini, Carla</author>
-                        <title>Codex Brixianus e Codex Argenteus: un confronto codicologico e testuale</title>
-                        <title type="main">Nuove ricerche sul Codex Brixianus</title>
-                        <editor>a cura di C. Falluomini e P. Stoppacci</editor>
-                        <pubPlace>Spoleto</pubPlace>
-                        <publisher>Fondazione Centro italiano di studi sull'alto medioevo</publisher>
+                     <bibl xml:id="bibl_Falluomini2024" type="bookSection">
+                        <author>
+                           <persName>
+                              <surname>Falluomini</surname>
+                              <forename>Carla</forename>
+                           </persName>
+                        </author>
                         <date>2024</date>
-                        <series>Testi, studi, strumenti 38</series>
+                        <title level="a">Codex Brixianus e Codex Argenteus: un confronto codicologico e testuale</title>
+                        <title level="m">Nuove ricerche sul Codex Brixianus</title>
+                        <editor role="editor">a cura di C. Falluomini e P. Stoppacci</editor>
+                        <imprint>
+                           <pubPlace>Spoleto</pubPlace>
+                        </imprint>
                         <biblScope unit="page">149-169</biblScope>
                      </bibl>
-                     <bibl xml:id="Friesen-Grape1928">
-                        <author>von Friesen, Otto</author>
-                        <author>Grape, Anders</author>
-                        <title>Om Codex Argenteus: dess tid, hem och öden. Med ett appendix av Hugo Andersson</title>
-                        <pubPlace>Uppsala</pubPlace>
-                        <publisher>Almqvist &amp; Wiksell</publisher>
+                     <bibl xml:id="bibl_FriesenGrape1928" type="book">
+                        <author>
+                           <persName>
+                              <surname>von Friesen</surname>
+                              <forename>Otto</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Grape</surname>
+                              <forename>Anders</forename>
+                           </persName>
+                        </author>
                         <date>1928</date>
-                        <series>Skrifter utgivna av Svenska litteratursällskapet 27</series>
+                        <title level="m">Om Codex Argenteus: dess tid, hem och öden</title>
+                        <imprint>
+                           <pubPlace>Uppsala</pubPlace>
+                        </imprint>
                      </bibl>
-                     <bibl xml:id="Haffner1971">
-                        <author>Haffner, Franz</author>
-                        <title>Fragment der Ulfilas-Bibel in Speyer</title>
-                        <title type="journal">Pfälzer Heimat</title>
+                     <bibl xml:id="bibl_Haffner1971" type="journalArticle">
+                        <author>
+                           <persName>
+                              <surname>Haffner</surname>
+                              <forename>Franz</forename>
+                           </persName>
+                        </author>
+                        <date>1971</date>
+                        <title level="a">Fragment der Ulfilas-Bibel in Speyer</title>
+                        <title level="j">Pfälzer Heimat</title>
                         <biblScope unit="volume">22</biblScope>
                         <biblScope unit="page">1-5</biblScope>
-                        <date>1971</date>
                      </bibl>
-                     <bibl xml:id="Munkhammar1998">
-                        <author>Munkhammar, Lars</author>
-                        <title>Silverbibeln - Theoderiks bok</title>
-                        <pubPlace>Stockholm</pubPlace>
-                        <publisher>Carlsson</publisher>
+                     <bibl xml:id="bibl_Munkhammar1998" type="book">
+                        <author>
+                           <persName>
+                              <surname>Munkhammar</surname>
+                              <forename>Lars</forename>
+                           </persName>
+                        </author>
                         <date>1998</date>
+                        <title level="m">Silverbibeln - Theoderiks bok</title>
+                        <imprint>
+                           <pubPlace>Stockholm</pubPlace>
+                        </imprint>
                      </bibl>
-                     <bibl xml:id="Possnert-Munkhammar2001">
-                        <author>Possnert, Göran</author>
-                        <author>Munkhammar, Lars</author>
-                        <title>Silverbibelns ölder och bindningshistoria i ljuset av C14-analys</title>
-                        <title type="journal">Annales Academiae Regiae Scientarum Upsaliensis</title>
+                     <bibl xml:id="bibl_PossnertMunkhammar2002" type="journalArticle">
+                        <author>
+                           <persName>
+                              <surname>Possnert</surname>
+                              <forename>Göran</forename>
+                           </persName>
+                        </author>
+                        <author>
+                           <persName>
+                              <surname>Munkhammar</surname>
+                              <forename>Lars</forename>
+                           </persName>
+                        </author>
+                        <date>1999 [= 2001]</date>
+                        <title level="a">Silverbibelns ölder och bindningshistoria i ljuset av C14-analys</title>
+                        <title level="j">Annales Academiae Regiae Scientarum Upsaliensis</title>
                         <biblScope unit="volume">33</biblScope>
                         <biblScope unit="page">53-65</biblScope>
-                        <date>1999 [= 2001]</date>
                      </bibl>
-                     <bibl xml:id="Scardigli1971">
-                        <author>Scardigli, Piergiuseppe</author>
-                        <title>Unum redivivum folium</title>
-                        <title type="journal">Studi Germanici</title>
-                        <biblScope unit="series">n.s.</biblScope>
+                     <bibl xml:id="bibl_Scardigli1971" type="journalArticle">
+                        <author>
+                           <persName>
+                              <surname>Scardigli</surname>
+                              <forename>Piergiuseppe</forename>
+                           </persName>
+                        </author>
+                        <date>1971</date>
+                        <title level="a">Unum redivivum folium</title>
+                        <title level="j">Studi Germanici</title>
+                        <note type="series">n.s.</note>
                         <biblScope unit="volume">9</biblScope>
                         <biblScope unit="page">5-19</biblScope>
-                        <date>1971</date>
                      </bibl>
-                     <bibl xml:id="Stutz1971">
-                        <author>Stutz, Elfriede</author>
-                        <title>Ein gotisches Evangelienfragment in Speyer</title>
-                        <title type="journal">Zeitschrift für vergleichende Sprachforschung</title>
+                     <bibl xml:id="bibl_Stutz1971" type="journalArticle">
+                        <author>
+                           <persName>
+                              <surname>Stutz</surname>
+                              <forename>Elfriede</forename>
+                           </persName>
+                        </author>
+                        <date>1971</date>
+                        <title level="a">Ein gotisches Evangelienfragment in Speyer</title>
+                        <title level="j">Zeitschrift für vergleichende Sprachforschung</title>
                         <biblScope unit="volume">85</biblScope>
                         <biblScope unit="page">85-95</biblScope>
-                        <date>1971</date>
                      </bibl>
-                     <bibl xml:id="Stutz1973">
-                        <author>Stutz, Elfriede</author>
-                        <title>Fragmentum Spirense - Verso</title>
-                        <title type="journal">Zeitschrift für vergleichende Sprachforschung</title>
+                     <bibl xml:id="bibl_Stutz1973" type="journalArticle">
+                        <author>
+                           <persName>
+                              <surname>Stutz</surname>
+                              <forename>Elfriede</forename>
+                           </persName>
+                        </author>
+                        <date>1973</date>
+                        <title level="a">Fragmentum Spirense - Verso</title>
+                        <title level="j">Zeitschrift für vergleichende Sprachforschung</title>
                         <biblScope unit="volume">87</biblScope>
                         <biblScope unit="page">1-15</biblScope>
-                        <date>1973</date>
                      </bibl>
-                     <bibl xml:id="Tjäder1974">
-                        <author>Tjäder, Jan-Olof</author>
-                        <title>Studier till Codex Argenteus' historia</title>
-                        <title type="journal">Nordisk tidskrift för bok- och biblioteksväsen</title>
+                     <bibl xml:id="bibl_Tjaeder1974" type="journalArticle">
+                        <author>
+                           <persName>
+                              <surname>Tjäder</surname>
+                              <forename>Jan-Olof</forename>
+                           </persName>
+                        </author>
+                        <date>1974</date>
+                        <title level="a">Studier till Codex Argenteus' historia</title>
+                        <title level="j">Nordisk tidskrift för bok- och biblioteksväsen</title>
                         <biblScope unit="volume">61</biblScope>
                         <biblScope unit="page">51-99</biblScope>
-                        <date>1974</date>
                      </bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-
+      
       <encodingDesc>
          <projectDesc>
             <p>Progetto PRIN 2022 PNRR - Missione 4 "Istruzione e Ricerca" del Piano Nazionale di Ripresa e Resilienza; missione 4, componente 1 – investimento 1.1, Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante Interesse Nazionale (PRIN), dal titolo <title>The textual legacy of the Ostrogoths in Italy: The Bible version and other texts (Acronym: LegOst)</title> - CUP J53D23013530006 - finanziato dall'Unione Europea-Next Generation EU.</p>
@@ -434,24 +481,16 @@
                </list>
             </p>
          </projectDesc>
-
-
-
          <editorialDecl>
             <hyphenation eol="all">
                <p>Physical line breaks are preserved in the encoded text.</p>
             </hyphenation>
          </editorialDecl>
-
          <listPrefixDef>
-            <prefixDef ident="img" 
-                         matchPattern="([a-zA-Z0-9_]+\.jpg)" 
-                         replacementPattern="assets/data/images/single">
+            <prefixDef ident="img" matchPattern="([a-zA-Z0-9_]+\.jpg)" replacementPattern="assets/data/images/single">
                <p>Nel testo, i riferimenti con prefisso "img:" vengono espansi nel percorso completo delle immagini.</p>
             </prefixDef>
-            <prefixDef ident="xml" 
-                         matchPattern="([a-zA-Z0-9_]+\.jpg)" 
-                         replacementPattern="assets/data/schema">
+            <prefixDef ident="xml" matchPattern="([a-zA-Z0-9_]+\.jpg)" replacementPattern="assets/data/schema">
                <p>Nel testo, i riferimenti con prefisso "xml:" vengono espansi nel percorso completo degli xml.</p>
             </prefixDef>
          </listPrefixDef>

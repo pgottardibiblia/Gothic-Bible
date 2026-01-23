@@ -326,1083 +326,1083 @@
                <ab type="verse" n="13" xml:id="CAmbD_Ne_5_verse_13">
                   <pb n="462" xml:id="CAmbD_pb_1_462" facs="#CAmbD_facs_1_462" />
                   <lb n="1" xml:id="CAmbD_lb_462_1" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_1_1">Jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_1_2">qaþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_1_3">alla</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_1_4">gamainþs</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_462_1_5">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_1_6">a<unclear reason="damage" xml:id="CAmbD_un_462_1_6">men</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_1_1">Jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_1_2">qaþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_1_3">alla</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_1_4">gamainþs</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_462_1_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_1_6">a<unclear reason="damage" xml:id="CAmbD_un_462_1_6">men</unclear></w>
                   <lb n="2" xml:id="CAmbD_lb_462_2" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_2_1">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_2_2">hazidedun</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_2_3"><choice xml:id="CAmbD_abbr_462_2_3"><abbr><am><g ref="#fraujantachi" /></am></abbr><expan><ex><choice xml:id="CAmbD_em_462_2_3"><sic>fn</sic><corr resp="Streitberg">fraujan</corr></choice></ex></expan></choice></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_2_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_2_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_2_1">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_2_2">hazidedun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_2_3"><choice xml:id="CAmbD_abbr_462_2_3"><abbr><am><g ref="#fraujantachi" /></am></abbr><expan><ex><choice xml:id="CAmbD_em_462_2_3"><sic>fn</sic><corr resp="Streitberg">fraujan</corr></choice></ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_2_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_2_5">
                      <seg corresp="CAmbD_seg_2_462_3_1">g<unclear reason="damage" xml:id="CAmbD_un_462_2_5">atawi</unclear></seg>
                   </w>
                   <lb n="3" xml:id="CAmbD_lb_462_3" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_3_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_3_1">
                      <seg corresp="CAmbD_seg_1_462_2_5"><unclear reason="damage" xml:id="CAmbD_un_462_3_1">d</unclear>edun</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_3_2">þata</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_3_3">waurd</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_3_4">alla</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_3_5"><unclear reason="damage" xml:id="CAmbD_un_462_3_5">so</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_3_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_3_2">þata</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_3_3">waurd</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_3_4">alla</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_3_5"><unclear reason="damage" xml:id="CAmbD_un_462_3_5">so</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_3_6">
                      <seg corresp="CAmbD_seg_2_462_4_1"><unclear reason="damage" xml:id="CAmbD_un_462_3_6">ma</unclear></seg>
                   </w>
                   <lb n="4" xml:id="CAmbD_lb_462_4" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_4_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_4_1">
                      <seg corresp="CAmbD_seg_1_462_3_6">nagei·</seg>
                   </w>
                </ab>
                <ab type="verse" n="14" xml:id="CAmbD_Ne_5_verse_14">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_4_2">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_4_3">fram</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_4_4"><unclear reason="damage" xml:id="CAmbD_un_462_4_4">þ</unclear>amma</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_4_5">d<unclear reason="damage" xml:id="CAmbD_un_462_4_5">aga</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_4_2">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_4_3">fram</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_4_4"><unclear reason="damage" xml:id="CAmbD_un_462_4_4">þ</unclear>amma</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_4_5">d<unclear reason="damage" xml:id="CAmbD_un_462_4_5">aga</unclear></w>
                   <lb n="5" xml:id="CAmbD_lb_462_5" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_5_1">ei</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_5_2">anabauþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_5_3">mis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_462_5_4">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_5_5">ei</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_5_6">weis<unclear reason="damage" xml:id="CAmbD_un_462_5_6">j</unclear>au</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_5_7">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_5_1">ei</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_5_2">anabauþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_5_3">mis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_462_5_4">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_5_5">ei</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_5_6">weis<unclear reason="damage" xml:id="CAmbD_un_462_5_6">j</unclear>au</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_5_7">
                      <seg corresp="CAmbD_seg_2_462_6_1"><unclear reason="damage" xml:id="CAmbD_un_462_5_7">f</unclear>au</seg>
                   </w>
                   <lb n="6" xml:id="CAmbD_lb_462_6" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_6_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_6_1">
                      <seg corresp="CAmbD_seg_1_462_5_7">rama<unclear reason="damage" xml:id="CAmbD_un_462_6_1">þ</unclear>leis</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_6_2">ïze</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_6_3">ïn</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_6_4">ïudaia</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_462_6_5">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_6_6">fram</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_6_2">ïze</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_6_3">ïn</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_6_4">ïudaia</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_462_6_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_6_6">fram</w>
                   <lb n="7" xml:id="CAmbD_lb_462_7" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_7_1">jera</w>
-                  <num rend="silver_ink" value="20">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_7_1">jera</w>
+                  <num rend="black_ink" value="20">
                      <w xml:id="CAmbD_w_462_7_2">·k·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_7_3">und</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_7_4">jer</w>
-                  <num rend="silver_ink" value="30">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_7_3">und</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_7_4">jer</w>
+                  <num rend="black_ink" value="30">
                      <w xml:id="CAmbD_w_462_7_5">·l·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_7_6"><gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_462_7_6">j</supplied>ah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_7_7">anþa<unclear reason="damage" xml:id="CAmbD_un_462_7_7">r</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_7_6"><gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_462_7_6">j</supplied>ah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_7_7">anþa<unclear reason="damage" xml:id="CAmbD_un_462_7_7">r</unclear></w>
                   <lb n="8" xml:id="CAmbD_lb_462_8" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_8_1">artarksairksaus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_8_2"><unclear reason="damage" xml:id="CAmbD_un_462_8_2">þ</unclear>iuda<unclear reason="damage" xml:id="CAmbD_un_462_8_2_2">n</unclear>i<unclear reason="damage" xml:id="CAmbD_un_462_8_2_3">s</unclear></w>
-                  <num rend="silver_ink" value="12">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_8_1">artarksairksaus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_8_2"><unclear reason="damage" xml:id="CAmbD_un_462_8_2">þ</unclear>iuda<unclear reason="damage" xml:id="CAmbD_un_462_8_2_2">n</unclear>i<unclear reason="damage" xml:id="CAmbD_un_462_8_2_3">s</unclear></w>
+                  <num rend="black_ink" value="12">
                      <w xml:id="CAmbD_w_462_8_3">·i<unclear reason="damage" xml:id="CAmbD_un_462_8_3">b·</unclear></w>
                   </num>
                   <lb n="9" xml:id="CAmbD_lb_462_9" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_9_1">jera</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_462_9_2">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_9_3">ik</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_9_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_9_5">broþrjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_9_6">meinai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_9_1">jera</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_462_9_2">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_9_3">ik</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_9_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_9_5">broþrjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_9_6">meinai</w>
                   <lb n="10" xml:id="CAmbD_lb_462_10" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_10_1">hlaif</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_10_2">f<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_462_10_2">a</supplied>uramaþl<unclear reason="damage" xml:id="CAmbD_un_462_10_2">e</unclear>i<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_462_10_2_bis">s</supplied></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_10_3">meinis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_10_1">hlaif</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_10_2">f<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_462_10_2">a</supplied>uramaþl<unclear reason="damage" xml:id="CAmbD_un_462_10_2">e</unclear>i<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_462_10_2_bis">s</supplied></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_10_3">meinis</w>
                   <lb n="11" xml:id="CAmbD_lb_462_11" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_11_1">ni</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_11_2">ma<unclear reason="damage" xml:id="CAmbD_un_462_11_2">tid</unclear>e<unclear reason="damage" xml:id="CAmbD_un_462_11_2_bis">d</unclear>um</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_462_11_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_11_1">ni</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_11_2">ma<unclear reason="damage" xml:id="CAmbD_un_462_11_2">tid</unclear>e<unclear reason="damage" xml:id="CAmbD_un_462_11_2_bis">d</unclear>um</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_462_11_3">·</pc>
                </ab>
                <ab type="verse" n="15" xml:id="CAmbD_Ne_5_verse_15">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_11_4">iþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_11_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_11_4">iþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_11_5">
                      <seg corresp="CAmbD_seg_2_462_12_1">faurama<unclear reason="damage" xml:id="CAmbD_un_462_11_5">þl</unclear></seg>
                   </w>
                   <lb n="12" xml:id="CAmbD_lb_462_12" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_12_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_12_1">
                      <seg corresp="CAmbD_seg_1_462_11_5">jos</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_12_2">þa<unclear reason="damage" xml:id="CAmbD_un_462_12_2">iei</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_12_3"><unclear reason="damage" xml:id="CAmbD_un_462_12_3">w</unclear>eisun</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_12_4">faura</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_12_5">mis</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_12_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_12_2">þa<unclear reason="damage" xml:id="CAmbD_un_462_12_2">iei</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_12_3"><unclear reason="damage" xml:id="CAmbD_un_462_12_3">w</unclear>eisun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_12_4">faura</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_12_5">mis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_12_6">
                      <seg corresp="CAmbD_seg_2_462_13_1">kau</seg>
                   </w>
                   <lb n="13" xml:id="CAmbD_lb_462_13" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_13_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_13_1">
                      <seg corresp="CAmbD_seg_1_462_12_6">ridedun</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_13_2">þo</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_13_3">managein</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_462_13_4">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_13_5">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_13_2">þo</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_13_3">managein</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_462_13_4">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_13_5">jah</w>
                   <lb n="14" xml:id="CAmbD_lb_462_14" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_14_1">nemun</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_14_2">at</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_14_3">im</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_14_4">h<gap unit="char" extent="7" /><supplied resp="Streitberg" xml:id="CAmbD_em_462_14_4"><unclear reason="damage" xml:id="CAmbD_un_462_14_4">l</unclear></supplied>aibans</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_462_14_5">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_14_6">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_14_7"><choice xml:id="CAmbD_abbr_462_14_7"><abbr>we<add place="below" xml:id="CAmbD_add_462_14_7" /><am><g ref="#itild" /></am></abbr><expan>we<add place="below" xml:id="CAmbD_add_462_14_7_bis">i</add><ex>n</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_14_1">nemun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_14_2">at</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_14_3">im</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_14_4">h<gap unit="char" extent="7" /><supplied resp="Streitberg" xml:id="CAmbD_em_462_14_4"><unclear reason="damage" xml:id="CAmbD_un_462_14_4">l</unclear></supplied>aibans</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_462_14_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_14_6">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_14_7"><choice xml:id="CAmbD_abbr_462_14_7"><abbr>we<add place="below" xml:id="CAmbD_add_462_14_7" /><am><g ref="#itild" /></am></abbr><expan>we<add place="below" xml:id="CAmbD_add_462_14_7_bis">i</add><ex>n</ex></expan></choice></w>
                   <lb n="15" xml:id="CAmbD_lb_462_15" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_15_1">Jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_15_2">nauh<unclear reason="damage" xml:id="CAmbD_un_462_15_2">þ</unclear>anuh</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_15_3">s<unclear reason="damage" xml:id="CAmbD_un_462_15_3">il</unclear>u<unclear reason="damage" xml:id="CAmbD_un_462_15_3_bis">b</unclear>ris</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_15_4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_15_1">Jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_15_2">nauh<unclear reason="damage" xml:id="CAmbD_un_462_15_2">þ</unclear>anuh</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_15_3">s<unclear reason="damage" xml:id="CAmbD_un_462_15_3">il</unclear>u<unclear reason="damage" xml:id="CAmbD_un_462_15_3_bis">b</unclear>ris</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_15_4">
                      <seg corresp="CAmbD_seg_2_462_16_1">sik</seg>
                   </w>
                   <lb n="16" xml:id="CAmbD_lb_462_16" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_16_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_16_1">
                      <seg corresp="CAmbD_seg_1_462_15_4">le</seg>
                   </w>
-                  <num rend="silver_ink" value="40">
+                  <num rend="black_ink" value="40">
                      <w xml:id="CAmbD_w_462_16_2">·m<unclear reason="damage" xml:id="CAmbD_un_462_16_2">·</unclear></w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_16_3"><unclear reason="damage" xml:id="CAmbD_un_462_16_3">j</unclear>ah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_16_4">s<unclear reason="damage" xml:id="CAmbD_un_462_16_4">k</unclear>a<unclear reason="damage" xml:id="CAmbD_un_462_16_4_bis">lko</unclear>s</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_16_5">i<unclear reason="damage" xml:id="CAmbD_un_462_16_5">ze</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_16_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_16_3"><unclear reason="damage" xml:id="CAmbD_un_462_16_3">j</unclear>ah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_16_4">s<unclear reason="damage" xml:id="CAmbD_un_462_16_4">k</unclear>a<unclear reason="damage" xml:id="CAmbD_un_462_16_4_bis">lko</unclear>s</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_16_5">i<unclear reason="damage" xml:id="CAmbD_un_462_16_5">ze</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_16_6">
                      <seg corresp="CAmbD_seg_2_462_17_1">f<unclear reason="damage" xml:id="CAmbD_un_462_16_6">r</unclear>au</seg>
                   </w>
                   <lb n="17" xml:id="CAmbD_lb_462_17" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_17_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_17_1">
                      <seg corresp="CAmbD_seg_1_462_16_6">jino<unclear reason="damage" xml:id="CAmbD_un_462_17_1">ded</unclear>un</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_17_2">þizai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_17_3">managein</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_462_17_4">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_17_2">þizai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_17_3">managein</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_462_17_4">·</pc>
                   <lb n="18" xml:id="CAmbD_lb_462_18" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_18_1">Ïþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_18_2">ik</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_18_3">ni</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_18_4"><unclear reason="damage" xml:id="CAmbD_un_462_18_4">t</unclear>a<unclear reason="damage" xml:id="CAmbD_un_462_18_4_2">wi</unclear>d<unclear reason="damage" xml:id="CAmbD_un_462_18_4_3">a</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_18_5"><unclear reason="damage" xml:id="CAmbD_un_462_18_5">s</unclear>wa</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_18_6">fa<unclear reason="damage" xml:id="CAmbD_un_462_18_6">ura</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_18_7">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_18_1">Ïþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_18_2">ik</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_18_3">ni</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_18_4"><unclear reason="damage" xml:id="CAmbD_un_462_18_4">t</unclear>a<unclear reason="damage" xml:id="CAmbD_un_462_18_4_2">wi</unclear>d<unclear reason="damage" xml:id="CAmbD_un_462_18_4_3">a</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_18_5"><unclear reason="damage" xml:id="CAmbD_un_462_18_5">s</unclear>wa</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_18_6">fa<unclear reason="damage" xml:id="CAmbD_un_462_18_6">ura</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_18_7">
                      <seg corresp="CAmbD_seg_2_462_19_1"><unclear reason="damage" xml:id="CAmbD_un_462_18_7">an</unclear>d</seg>
                   </w>
                   <lb n="19" xml:id="CAmbD_lb_462_19" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_19_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_19_1">
                      <seg corresp="CAmbD_seg_1_462_18_7">wairþ<unclear reason="damage" xml:id="CAmbD_un_462_19_1">ja</unclear></seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_19_2"><unclear reason="damage" xml:id="CAmbD_un_462_19_2">a</unclear>gisis</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_19_3"><choice xml:id="CAmbD_abbr_462_19_3"><abbr><am><g ref="#uoverg" /></am><am><g ref="#ioverþ" /></am>s:</abbr><expan>g<ex>u</ex>þ<ex>i</ex>s:</expan></choice></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_19_2"><unclear reason="damage" xml:id="CAmbD_un_462_19_2">a</unclear>gisis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_19_3"><choice xml:id="CAmbD_abbr_462_19_3"><abbr><am><g ref="#uoverg" /></am><am><g ref="#ioverþ" /></am>s:</abbr><expan>g<ex>u</ex>þ<ex>i</ex>s:</expan></choice></w>
                </ab>
                <ab type="verse" n="16" xml:id="CAmbD_Ne_5_verse_16">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_19_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_462_19_5">waurs<unclear reason="damage" xml:id="CAmbD_un_462_19_5">tw</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_19_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_462_19_5">waurs<unclear reason="damage" xml:id="CAmbD_un_462_19_5">tw</unclear></w>
                   <pb n="452" xml:id="CAmbD_pb_2_452" facs="#CAmbD_facs_2_452" />
                   <lb n="1" xml:id="CAmbD_lb_452_1" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_1_1">þizos</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_1_2">baurgswaddjaus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_1_3">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_1_1">þizos</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_1_2">baurgswaddjaus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_1_3">
                      <seg corresp="CAmbD_seg_2_452_2_1">inswin</seg>
                   </w>
                   <lb n="2" xml:id="CAmbD_lb_452_2" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_2_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_2_1">
                      <seg corresp="CAmbD_seg_1_452_1_3">þida</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_2_2">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_2_3">þaurp</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_2_4">ni</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_2_5">gastaistald</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_452_2_6">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_2_2">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_2_3">þaurp</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_2_4">ni</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_2_5">gastaistald</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_452_2_6">·</pc>
                   <lb n="3" xml:id="CAmbD_lb_452_3" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_3_1">Jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_3_2">þ<gap unit="char" extent="2" /><supplied resp="Streitberg" xml:id="CAmbD_em_452_3_2">iw</supplied>os</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_3_3">meinai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_3_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_3_5">allai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_3_6">þai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_3_1">Jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_3_2">þ<gap unit="char" extent="2" /><supplied resp="Streitberg" xml:id="CAmbD_em_452_3_2">iw</supplied>os</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_3_3">meinai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_3_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_3_5">allai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_3_6">þai</w>
                   <lb n="4" xml:id="CAmbD_lb_452_4" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_4_1">galisanans</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_4_2">du</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_4_3">þamma</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_4_4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_4_1">galisanans</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_4_2">du</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_4_3">þamma</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_4_4">
                      <seg corresp="CAmbD_seg_2_452_5_1">waurst</seg>
                   </w>
                   <lb n="5" xml:id="CAmbD_lb_452_5" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_5_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_5_1">
                      <seg corresp="CAmbD_seg_1_452_4_4">wa·</seg>
                   </w>
                </ab>
                <ab type="verse" n="17" xml:id="CAmbD_Ne_5_verse_17">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_5_2">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_5_3">ïudaieis</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_5_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_5_5">þai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_5_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_5_2">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_5_3">ïudaieis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_5_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_5_5">þai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_5_6">
                      <seg corresp="CAmbD_seg_2_452_6_1">fau</seg>
                   </w>
                   <lb n="6" xml:id="CAmbD_lb_452_6" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_6_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_6_1">
                      <seg corresp="CAmbD_seg_1_452_5_6">ramaþljos</seg>
                   </w>
-                  <num rend="silver_ink" value="100">
+                  <num rend="black_ink" value="100">
                      <w xml:id="CAmbD_w_452_6_2">·r·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_6_3">jah</w>
-                  <num rend="silver_ink" value="50">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_6_3">jah</w>
+                  <num rend="black_ink" value="50">
                      <w xml:id="CAmbD_w_452_6_4">·n·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_6_5">gumane</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_452_6_6">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_6_5">gumane</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_452_6_6">·</pc>
                   <lb n="7" xml:id="CAmbD_lb_452_7" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_7_1">Jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_7_2">þai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_7_3"><unclear reason="damage" xml:id="CAmbD_un_452_7_3">qim</unclear>andans</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_7_4">at</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_7_5">unsis</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_7_6">us</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_7_1">Jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_7_2">þai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_7_3"><unclear reason="damage" xml:id="CAmbD_un_452_7_3">qim</unclear>andans</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_7_4">at</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_7_5">unsis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_7_6">us</w>
                   <lb n="8" xml:id="CAmbD_lb_452_8" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_8_1">þiudom</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_8_2"><unclear reason="damage" xml:id="CAmbD_un_452_8_2">þ</unclear>aim</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_8_3"><unclear reason="damage" xml:id="CAmbD_un_452_8_3">b</unclear>isunjane</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_8_4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_8_1">þiudom</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_8_2"><unclear reason="damage" xml:id="CAmbD_un_452_8_2">þ</unclear>aim</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_8_3"><unclear reason="damage" xml:id="CAmbD_un_452_8_3">b</unclear>isunjane</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_8_4">
                      <seg corresp="CAmbD_seg_2_452_9_1">un</seg>
                   </w>
                   <lb n="9" xml:id="CAmbD_lb_452_9" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_9_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_9_1">
                      <seg corresp="CAmbD_seg_1_452_8_4">sis</seg>
                   </w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_452_9_2">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_9_3">ana</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_9_4"><unclear reason="damage" xml:id="CAmbD_un_452_9_4">b</unclear>iuda</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_9_5">meinamma</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_9_6">
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_452_9_2">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_9_3">ana</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_9_4"><unclear reason="damage" xml:id="CAmbD_un_452_9_4">b</unclear>iuda</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_9_5">meinamma</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_9_6">
                      <seg corresp="CAmbD_seg_2_452_10_1">and</seg>
                   </w>
                   <lb n="10" xml:id="CAmbD_lb_452_10" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_10_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_10_1">
                      <seg corresp="CAmbD_seg_1_452_9_6">numanai</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_10_2">wei<unclear reason="damage" xml:id="CAmbD_un_452_10_2">s</unclear>u<unclear reason="damage" xml:id="CAmbD_un_452_10_2_bis">n</unclear></w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_452_10_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_10_2">wei<unclear reason="damage" xml:id="CAmbD_un_452_10_2">s</unclear>u<unclear reason="damage" xml:id="CAmbD_un_452_10_2_bis">n</unclear></w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_452_10_3">·</pc>
                </ab>
                <ab type="verse" n="18" xml:id="CAmbD_Ne_5_verse_18">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_10_4">j<unclear reason="damage" xml:id="CAmbD_un_452_10_4">a</unclear>h</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_10_5"><unclear reason="damage" xml:id="CAmbD_un_452_10_5">w</unclear>a<unclear reason="damage" xml:id="CAmbD_un_452_10_5_bis">s</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_10_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_10_4">j<unclear reason="damage" xml:id="CAmbD_un_452_10_4">a</unclear>h</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_10_5"><unclear reason="damage" xml:id="CAmbD_un_452_10_5">w</unclear>a<unclear reason="damage" xml:id="CAmbD_un_452_10_5_bis">s</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_10_6">
                      <seg corresp="CAmbD_seg_2_452_11_1">fra</seg>
                   </w>
                   <lb n="11" xml:id="CAmbD_lb_452_11" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_11_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_11_1">
                      <seg corresp="CAmbD_seg_1_452_10_6">quman</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_11_2">dagis</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_11_3">ƕiz<unclear reason="damage" xml:id="CAmbD_un_452_11_3">u</unclear>h</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_11_4">stiur</w>
-                  <num rend="silver_ink" value="1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_11_2">dagis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_11_3">ƕiz<unclear reason="damage" xml:id="CAmbD_un_452_11_3">u</unclear>h</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_11_4">stiur</w>
+                  <num rend="black_ink" value="1">
                      <w xml:id="CAmbD_w_452_11_5">·a·</w>
                   </num>
                   <lb n="12" xml:id="CAmbD_lb_452_12" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_12_1">Lamba</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_12_2">gawalida</w>
-                  <num rend="silver_ink" value="6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_12_1">Lamba</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_12_2">gawalida</w>
+                  <num rend="black_ink" value="6">
                      <w xml:id="CAmbD_w_452_12_3">·q·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_12_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_12_5">gaits</w>
-                  <num rend="silver_ink" value="1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_12_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_12_5">gaits</w>
+                  <num rend="black_ink" value="1">
                      <w xml:id="CAmbD_w_452_12_6">·a·</w>
                   </num>
                   <lb n="13" xml:id="CAmbD_lb_452_13" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_13_1">gamanwida</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_13_2">was</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_13_3">mis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_452_13_4">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_13_5">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_13_6">bi</w>
-                  <num rend="silver_ink" value="10">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_13_1">gamanwida</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_13_2">was</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_13_3">mis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_452_13_4">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_13_5">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_13_6">bi</w>
+                  <num rend="black_ink" value="10">
                      <w xml:id="CAmbD_w_452_13_7">·i·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_13_8">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_13_8">
                      <seg corresp="CAmbD_seg_2_452_14_1">da</seg>
                   </w>
                   <lb n="14" xml:id="CAmbD_lb_452_14" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_14_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_14_1">
                      <seg corresp="CAmbD_seg_1_452_13_8">gans</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_14_2">gaf</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_14_3">wei<unclear reason="damage" xml:id="CAmbD_un_452_14_3">n</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_14_4">allai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_14_5">þizai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_14_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_14_2">gaf</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_14_3">wei<unclear reason="damage" xml:id="CAmbD_un_452_14_3">n</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_14_4">allai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_14_5">þizai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_14_6">
                      <seg corresp="CAmbD_seg_2_452_15_1">filu</seg>
                   </w>
                   <lb n="15" xml:id="CAmbD_lb_452_15" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_15_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_15_1">
                      <seg corresp="CAmbD_seg_1_452_14_6">snai</seg>
                   </w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_452_15_2">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_15_3">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_15_4">allai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_15_5">þizai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_15_6"><choice xml:id="CAmbD_abbr_452_15_6"><abbr>manage<am><g ref="#itild" /></am></abbr><expan>managei<ex>n</ex></expan></choice></w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_452_15_2">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_15_3">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_15_4">allai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_15_5">þizai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_15_6"><choice xml:id="CAmbD_abbr_452_15_6"><abbr>manage<am><g ref="#itild" /></am></abbr><expan>managei<ex>n</ex></expan></choice></w>
                   <lb n="16" xml:id="CAmbD_lb_452_16" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_16_1">Jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_16_2">al<add place="above" xml:id="CAmbD_add_452_16_2">n</add>la</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_16_3">þo</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_16_4">alla</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_16_5"><unclear reason="damage" xml:id="CAmbD_un_452_16_5">h</unclear>laif</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_16_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_16_1">Jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_16_2">al<add place="above" xml:id="CAmbD_add_452_16_2">n</add>la</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_16_3">þo</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_16_4">alla</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_16_5"><unclear reason="damage" xml:id="CAmbD_un_452_16_5">h</unclear>laif</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_16_6">
                      <seg corresp="CAmbD_seg_2_452_17_1">faura</seg>
                   </w>
                   <lb n="17" xml:id="CAmbD_lb_452_17" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_17_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_17_1">
                      <seg corresp="CAmbD_seg_1_452_16_6">maþleis</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_17_2">mei<unclear reason="damage" xml:id="CAmbD_un_452_17_2">n</unclear>is</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_17_3">ni</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_17_4">sokida</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_17_5">in</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_17_2">mei<unclear reason="damage" xml:id="CAmbD_un_452_17_2">n</unclear>is</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_17_3">ni</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_17_4">sokida</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_17_5">in</w>
                   <lb n="18" xml:id="CAmbD_lb_452_18" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_18_1">þis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_452_18_2">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_18_3">ei</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_18_4">ni</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_18_5">kauridedjau</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_18_6">þo</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_18_7">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_18_1">þis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_452_18_2">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_18_3">ei</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_18_4">ni</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_18_5">kauridedjau</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_18_6">þo</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_18_7">
                      <seg corresp="CAmbD_seg_2_452_19_1">ma</seg>
                   </w>
                   <lb n="19" xml:id="CAmbD_lb_452_19" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_19_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_19_1">
                      <seg corresp="CAmbD_seg_1_452_18_7">na<unclear reason="damage" xml:id="CAmbD_un_452_19_1">ge</unclear>in</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_19_2">in</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_19_3">þaim</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_452_19_4">waurstwam</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_19_2">in</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_19_3">þaim</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_452_19_4">waurstwam</w>
                   <pb n="461" xml:id="CAmbD_pb_3_461" facs="#CAmbD_facs_3_461" />
                   <lb n="1" xml:id="CAmbD_lb_461_1" />
                </ab>
             </div>
             <div type="chapter" n="6" xml:id="CAmbD_Ne_chapter_6">
                <ab type="verse" n="14" xml:id="CAmbD_Ne_6_verse_14">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_1_1"><choice xml:id="CAmbD_em_461_1_1"><sic /><corr resp="Streitberg">praufe</corr></choice>te</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_1_2">þaiei</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_1_3">þrafstidedun</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_1_4">mik</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_461_1_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_1_1"><choice xml:id="CAmbD_em_461_1_1"><sic /><corr resp="Streitberg">praufe</corr></choice>te</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_1_2">þaiei</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_1_3">þrafstidedun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_1_4">mik</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_461_1_5">·</pc>
                   <lb n="2" xml:id="CAmbD_lb_461_2" />
                </ab>
                <ab type="verse" n="15" xml:id="CAmbD_Ne_6_verse_15">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_2_1">Jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_2_2"><unclear reason="damage" xml:id="CAmbD_un_461_2_2">u</unclear><gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_461_2_2">s</supplied><unclear reason="damage" xml:id="CAmbD_un_461_2_2_bis">t</unclear>auhana</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_2_3">warþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_2_4">so</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_2_5">baurg<hi rend="small" xml:id="CAmbD_small_461_2_5">s</hi></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_2_1">Jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_2_2"><unclear reason="damage" xml:id="CAmbD_un_461_2_2">u</unclear><gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_461_2_2">s</supplied><unclear reason="damage" xml:id="CAmbD_un_461_2_2_bis">t</unclear>auhana</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_2_3">warþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_2_4">so</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_2_5">baurg<hi rend="small" xml:id="CAmbD_small_461_2_5">s</hi></w>
                   <lb n="3" xml:id="CAmbD_lb_461_3" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_3_1">waddjus</w>
-                  <num rend="silver_ink" value="5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_3_1">waddjus</w>
+                  <num rend="black_ink" value="5">
                      <w xml:id="CAmbD_w_461_3_2">·e·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_3_3">jah</w>
-                  <num rend="silver_ink" value="20">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_3_3">jah</w>
+                  <num rend="black_ink" value="20">
                      <w xml:id="CAmbD_w_461_3_4">·k·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_3_5">daga·</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_3_6"><unclear reason="damage" xml:id="CAmbD_un_461_3_6">me</unclear>n<unclear reason="damage" xml:id="CAmbD_un_461_3_6_bis">oþis</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_3_5">daga·</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_3_6"><unclear reason="damage" xml:id="CAmbD_un_461_3_6">me</unclear>n<unclear reason="damage" xml:id="CAmbD_un_461_3_6_bis">oþis</unclear></w>
                   <lb n="4" xml:id="CAmbD_lb_461_4" />
-                  <num rend="silver_ink" value="50">
+                  <num rend="black_ink" value="50">
                      <w xml:id="CAmbD_w_461_4_1">n·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_4_2">dage</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_461_4_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_4_4">jah</w>
-                  <num rend="silver_ink" value="2">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_4_2">dage</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_461_4_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_4_4">jah</w>
+                  <num rend="black_ink" value="2">
                      <w xml:id="CAmbD_w_461_4_5">·b·</w>
                   </num>
                </ab>
                <ab type="verse" n="16" xml:id="CAmbD_Ne_6_verse_16">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_4_6">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_4_7">warþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_4_8">s<unclear reason="damage" xml:id="CAmbD_un_461_4_8">we</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_4_9">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_4_6">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_4_7">warþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_4_8">s<unclear reason="damage" xml:id="CAmbD_un_461_4_8">we</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_4_9">
                      <seg corresp="CAmbD_seg_2_461_5_1"><unclear reason="damage" xml:id="CAmbD_un_461_4_9">hau</unclear></seg>
                   </w>
                   <lb n="5" xml:id="CAmbD_lb_461_5" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_5_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_5_1">
                      <seg corresp="CAmbD_seg_1_461_4_9">sidedun</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_5_2">fiands</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_5_3">unsa<unclear reason="damage" xml:id="CAmbD_un_461_5_3">r</unclear>ai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_5_4">alla<unclear reason="damage" xml:id="CAmbD_un_461_5_4">i</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_5_2">fiands</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_5_3">unsa<unclear reason="damage" xml:id="CAmbD_un_461_5_3">r</unclear>ai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_5_4">alla<unclear reason="damage" xml:id="CAmbD_un_461_5_4">i</unclear></w>
                   <lb n="6" xml:id="CAmbD_lb_461_6" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_6_1">Jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_6_2">ohtedun</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_6_3">allos</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_6_4">þiud<unclear reason="damage" xml:id="CAmbD_un_461_6_4">o</unclear>s</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_6_5"><unclear reason="damage" xml:id="CAmbD_un_461_6_5">þos</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_6_1">Jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_6_2">ohtedun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_6_3">allos</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_6_4">þiud<unclear reason="damage" xml:id="CAmbD_un_461_6_4">o</unclear>s</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_6_5"><unclear reason="damage" xml:id="CAmbD_un_461_6_5">þos</unclear></w>
                   <lb n="7" xml:id="CAmbD_lb_461_7" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_7_1"><unclear reason="damage" xml:id="CAmbD_un_461_7_1">b</unclear>isunjan<unclear reason="damage" xml:id="CAmbD_un_461_7_1_bis">e</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_7_2">unsis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_461_7_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_7_4"><unclear reason="damage" xml:id="CAmbD_un_461_7_4">ja</unclear>h</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_7_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_7_1"><unclear reason="damage" xml:id="CAmbD_un_461_7_1">b</unclear>isunjan<unclear reason="damage" xml:id="CAmbD_un_461_7_1_bis">e</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_7_2">unsis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_461_7_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_7_4"><unclear reason="damage" xml:id="CAmbD_un_461_7_4">ja</unclear>h</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_7_5">
                      <seg corresp="CAmbD_seg_2_461_8_1">at<unclear reason="damage" xml:id="CAmbD_un_461_7_5">draus</unclear></seg>
                   </w>
                   <lb n="8" xml:id="CAmbD_lb_461_8" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_8_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_8_1">
                      <seg corresp="CAmbD_seg_1_461_7_5">agis</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_8_2">ïn</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_8_3">aus<add place="below" xml:id="CAmbD_add_461_8_3">g</add>on<unclear reason="damage" xml:id="CAmbD_un_461_8_3">a</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_8_4">i<unclear reason="damage" xml:id="CAmbD_un_461_8_4">ze</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_8_5">abraba</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_8_6"><unclear reason="damage" xml:id="CAmbD_un_461_8_6">jah</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_8_2">ïn</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_8_3">aus<add place="below" xml:id="CAmbD_add_461_8_3">g</add>on<unclear reason="damage" xml:id="CAmbD_un_461_8_3">a</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_8_4">i<unclear reason="damage" xml:id="CAmbD_un_461_8_4">ze</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_8_5">abraba</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_8_6"><unclear reason="damage" xml:id="CAmbD_un_461_8_6">jah</unclear></w>
                   <lb n="9" xml:id="CAmbD_lb_461_9" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_9_1">ufkunþedun</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_9_2">þ<unclear reason="damage" xml:id="CAmbD_un_461_9_2">at</unclear>ei</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_9_3">fra<unclear reason="damage" xml:id="CAmbD_un_461_9_3">m</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_9_4"><choice xml:id="CAmbD_abbr_461_9_4"><abbr><am><g ref="#guþatachi" /></am></abbr><expan><ex>guþa</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_9_1">ufkunþedun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_9_2">þ<unclear reason="damage" xml:id="CAmbD_un_461_9_2">at</unclear>ei</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_9_3">fra<unclear reason="damage" xml:id="CAmbD_un_461_9_3">m</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_9_4"><choice xml:id="CAmbD_abbr_461_9_4"><abbr><am><g ref="#guþatachi" /></am></abbr><expan><ex>guþa</ex></expan></choice></w>
                   <lb n="10" xml:id="CAmbD_lb_461_10" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_10_1">un<unclear reason="damage" xml:id="CAmbD_un_461_10_1">saramma</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_10_2"><unclear reason="damage" xml:id="CAmbD_un_461_10_2">warþ</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_10_3">usfulliþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_10_4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_10_1">un<unclear reason="damage" xml:id="CAmbD_un_461_10_1">saramma</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_10_2"><unclear reason="damage" xml:id="CAmbD_un_461_10_2">warþ</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_10_3">usfulliþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_10_4">
                      <seg corresp="CAmbD_seg_2_461_11_1">þa</seg>
                   </w>
                   <lb n="11" xml:id="CAmbD_lb_461_11" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_11_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_11_1">
                      <seg corresp="CAmbD_seg_1_461_10_4">ta</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_11_2">waurst<unclear reason="damage" xml:id="CAmbD_un_461_11_2">w</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_11_2">waurst<unclear reason="damage" xml:id="CAmbD_un_461_11_2">w</unclear></w>
                </ab>
                <ab type="verse" n="17" xml:id="CAmbD_Ne_6_verse_17">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_11_3"><unclear reason="damage" xml:id="CAmbD_un_461_11_3">jah</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_11_4"><unclear reason="damage" xml:id="CAmbD_un_461_11_4">in</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_11_5">d<unclear reason="damage" xml:id="CAmbD_un_461_11_5">a</unclear>gam</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_11_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_11_3"><unclear reason="damage" xml:id="CAmbD_un_461_11_3">jah</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_11_4"><unclear reason="damage" xml:id="CAmbD_un_461_11_4">in</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_11_5">d<unclear reason="damage" xml:id="CAmbD_un_461_11_5">a</unclear>gam</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_11_6">
                      <seg corresp="CAmbD_seg_2_461_12_1"><unclear reason="damage" xml:id="CAmbD_un_461_11_6">jai</unclear></seg>
                   </w>
                   <lb n="12" xml:id="CAmbD_lb_461_12" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_12_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_12_1">
                      <seg corresp="CAmbD_seg_1_461_11_6">naim</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_12_2">managai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_12_3">we<unclear reason="damage" xml:id="CAmbD_un_461_12_3">isun</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_12_4">þiz<unclear reason="damage" xml:id="CAmbD_un_461_12_4">e</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_12_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_12_2">managai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_12_3">we<unclear reason="damage" xml:id="CAmbD_un_461_12_3">isun</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_12_4">þiz<unclear reason="damage" xml:id="CAmbD_un_461_12_4">e</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_12_5">
                      <seg corresp="CAmbD_seg_2_461_13_1"><unclear reason="damage" xml:id="CAmbD_un_461_12_5">reik</unclear></seg>
                   </w>
                   <lb n="13" xml:id="CAmbD_lb_461_13" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_13_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_13_1">
                      <seg corresp="CAmbD_seg_1_461_12_5">jane</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_13_2">iudai<unclear reason="damage" xml:id="CAmbD_un_461_13_2">e</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_13_3">þaiei</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_13_4">s<unclear reason="damage" xml:id="CAmbD_un_461_13_4">an</unclear>didedun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_13_2">iudai<unclear reason="damage" xml:id="CAmbD_un_461_13_2">e</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_13_3">þaiei</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_13_4">s<unclear reason="damage" xml:id="CAmbD_un_461_13_4">an</unclear>didedun</w>
                   <lb n="14" xml:id="CAmbD_lb_461_14" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_14_1">aipistulans</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_14_2">du</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_14_3"><unclear reason="damage" xml:id="CAmbD_un_461_14_3">t</unclear>o<unclear reason="damage" xml:id="CAmbD_un_461_14_3_bis">b</unclear>eiin</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_461_14_4">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_14_5">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_14_1">aipistulans</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_14_2">du</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_14_3"><unclear reason="damage" xml:id="CAmbD_un_461_14_3">t</unclear>o<unclear reason="damage" xml:id="CAmbD_un_461_14_3_bis">b</unclear>eiin</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_461_14_4">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_14_5">jah</w>
                   <lb n="15" xml:id="CAmbD_lb_461_15" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_15_1"><unclear reason="damage" xml:id="CAmbD_un_461_15_1">t</unclear>obeia<unclear reason="damage" xml:id="CAmbD_un_461_15_1_bis">s</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_15_2"><unclear reason="damage" xml:id="CAmbD_un_461_15_2">du</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_15_3">i<unclear reason="damage" xml:id="CAmbD_un_461_15_3">m</unclear></w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_461_15_4"><unclear reason="damage" xml:id="CAmbD_un_461_15_4">·</unclear></pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_15_1"><unclear reason="damage" xml:id="CAmbD_un_461_15_1">t</unclear>obeia<unclear reason="damage" xml:id="CAmbD_un_461_15_1_bis">s</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_15_2"><unclear reason="damage" xml:id="CAmbD_un_461_15_2">du</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_15_3">i<unclear reason="damage" xml:id="CAmbD_un_461_15_3">m</unclear></w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_461_15_4"><unclear reason="damage" xml:id="CAmbD_un_461_15_4">·</unclear></pc>
                </ab>
                <ab type="verse" n="18" xml:id="CAmbD_Ne_6_verse_18">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_15_5"><unclear reason="damage" xml:id="CAmbD_un_461_15_5">m</unclear>ana<unclear reason="damage" xml:id="CAmbD_un_461_15_5_bis">g</unclear>ai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_15_6">auk</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_15_7"><unclear reason="damage" xml:id="CAmbD_un_461_15_7">in</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_15_5"><unclear reason="damage" xml:id="CAmbD_un_461_15_5">m</unclear>ana<unclear reason="damage" xml:id="CAmbD_un_461_15_5_bis">g</unclear>ai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_15_6">auk</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_15_7"><unclear reason="damage" xml:id="CAmbD_un_461_15_7">in</unclear></w>
                   <lb n="16" xml:id="CAmbD_lb_461_16" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_16_1">iudaia</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_16_2">ufaiþja<unclear reason="damage" xml:id="CAmbD_un_461_16_2">i</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_16_3">w<unclear reason="damage" xml:id="CAmbD_un_461_16_3">eisun</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_16_4">im<unclear reason="damage" xml:id="CAmbD_un_461_16_4">ma</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_16_1">iudaia</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_16_2">ufaiþja<unclear reason="damage" xml:id="CAmbD_un_461_16_2">i</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_16_3">w<unclear reason="damage" xml:id="CAmbD_un_461_16_3">eisun</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_16_4">im<unclear reason="damage" xml:id="CAmbD_un_461_16_4">ma</unclear></w>
                   <lb n="17" xml:id="CAmbD_lb_461_17" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_17_1">Unte</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_17_2">megs</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_17_3">was</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_17_4">saixaineiins</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_461_17_5">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_17_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_17_1">Unte</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_17_2">megs</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_17_3">was</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_17_4">saixaineiins</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_461_17_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_17_6">
                      <seg corresp="CAmbD_seg_2_461_18_1">su</seg>
                   </w>
                   <lb n="18" xml:id="CAmbD_lb_461_18" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_18_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_18_1">
                      <seg corresp="CAmbD_seg_1_461_17_6">naus</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_18_2">aiei<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_461_18_2">r</supplied>ins</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_461_18_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_18_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_18_5">ioanan</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_18_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_18_2">aiei<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_461_18_2">r</supplied>ins</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_461_18_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_18_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_18_5">ioanan</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_18_6">
                      <seg corresp="CAmbD_seg_2_461_19_1">su</seg>
                   </w>
                   <lb n="19" xml:id="CAmbD_lb_461_19" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_19_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_19_1">
                      <seg corresp="CAmbD_seg_1_461_18_6">nus</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_19_2">ïs</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_461_19_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_19_4">na<unclear reason="damage" xml:id="CAmbD_un_461_19_4">m</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_19_5">d<unclear reason="damage" xml:id="CAmbD_un_461_19_5">auht</unclear>ar</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_461_19_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_19_2">ïs</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_461_19_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_19_4">na<unclear reason="damage" xml:id="CAmbD_un_461_19_4">m</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_19_5">d<unclear reason="damage" xml:id="CAmbD_un_461_19_5">auht</unclear>ar</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_461_19_6">
                      <seg corresp="CAmbD_seg_2_451_1_1"><unclear reason="damage" xml:id="CAmbD_un_461_19_6">m</unclear><unclear reason="damage" xml:id="CAmbD_un_461_19_6_bis">a</unclear>isaul</seg>
                   </w>
                   <pb n="451" xml:id="CAmbD_pb_4_451" facs="#CAmbD_facs_4_451" />
                   <lb n="1" xml:id="CAmbD_lb_451_1" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_1_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_1_1">
                      <seg corresp="CAmbD_seg_1_461_19_6">lamis</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_1_2">sunaus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_1_3">barakeiins</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_1_4">du</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_1_2">sunaus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_1_3">barakeiins</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_1_4">du</w>
                   <lb n="2" xml:id="CAmbD_lb_451_2" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_2_1">qenai :</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_2_1">qenai :</w>
                </ab>
                <ab type="verse" n="19" xml:id="CAmbD_Ne_6_verse_19">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_2_2">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_2_3">rodidedun</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_2_4">du</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_2_5"><choice xml:id="CAmbD_abbr_451_2_5"><abbr><am><g ref="#imacr" /></am><g ref="#malig" /></abbr><expan>i<ex>m</ex><g ref="#malig" /></expan></choice></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_2_2">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_2_3">rodidedun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_2_4">du</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_2_5"><choice xml:id="CAmbD_abbr_451_2_5"><abbr><am><g ref="#imacr" /></am><g ref="#malig" /></abbr><expan>i<ex>m</ex><g ref="#malig" /></expan></choice></w>
                   <lb n="3" xml:id="CAmbD_lb_451_3" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_3_1"><unclear reason="damage" xml:id="CAmbD_un_451_3_1">waila</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_3_2">in</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_3_3">andwairþja</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_3_4">meinamma</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_451_3_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_3_1"><unclear reason="damage" xml:id="CAmbD_un_451_3_1">waila</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_3_2">in</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_3_3">andwairþja</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_3_4">meinamma</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_451_3_5">·</pc>
                   <lb n="4" xml:id="CAmbD_lb_451_4" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_4_1"><unclear reason="damage" xml:id="CAmbD_un_451_4_1">j</unclear>a<unclear reason="damage" xml:id="CAmbD_un_451_4_1_bis">h</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_4_2">waurda</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_4_3">meina</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_4_4">spillodedun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_4_1"><unclear reason="damage" xml:id="CAmbD_un_451_4_1">j</unclear>a<unclear reason="damage" xml:id="CAmbD_un_451_4_1_bis">h</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_4_2">waurda</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_4_3">meina</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_4_4">spillodedun</w>
                   <lb n="5" xml:id="CAmbD_lb_451_5" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_5_1"><unclear reason="damage" xml:id="CAmbD_un_451_5_1">i</unclear><unclear reason="damage" xml:id="CAmbD_un_451_5_1_bis">m</unclear>ma</w>
-                  <pc type="colon" rend="silver_ink" xml:id="CAmbD_colon_451_5_2">:</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_5_3">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_5_4">aipistulans</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_5_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_5_1"><unclear reason="damage" xml:id="CAmbD_un_451_5_1">i</unclear><unclear reason="damage" xml:id="CAmbD_un_451_5_1_bis">m</unclear>ma</w>
+                  <pc type="colon" rend="black_ink" xml:id="CAmbD_colon_451_5_2">:</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_5_3">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_5_4">aipistulans</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_5_5">
                      <seg corresp="CAmbD_seg_2_451_6_1">ïn</seg>
                   </w>
                   <lb n="6" xml:id="CAmbD_lb_451_6" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_6_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_6_1">
                      <seg corresp="CAmbD_seg_1_451_5_5"><unclear reason="damage" xml:id="CAmbD_un_451_6_1">sand</unclear>ida</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_6_2">tobeias</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_6_3">ogjan</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_6_4">mik</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_451_6_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_6_2">tobeias</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_6_3">ogjan</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_6_4">mik</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_451_6_5">·</pc>
                   <lb n="7" xml:id="CAmbD_lb_451_7" />
                </ab>
             </div>
             <div type="chapter" n="7" xml:id="CAmbD_Ne_chapter_7">
                <ab type="verse" n="1" xml:id="CAmbD_Ne_7_verse_1">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_7_1">Ja<unclear reason="damage" xml:id="CAmbD_un_451_7_1">h</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_7_2"><unclear reason="damage" xml:id="CAmbD_un_451_7_2">w</unclear>arþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_7_3"><gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_451_7_3">s</supplied>we</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_7_4">gatim<unclear reason="damage" xml:id="CAmbD_un_451_7_4">rida</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_7_5">warþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_7_1">Ja<unclear reason="damage" xml:id="CAmbD_un_451_7_1">h</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_7_2"><unclear reason="damage" xml:id="CAmbD_un_451_7_2">w</unclear>arþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_7_3"><gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_451_7_3">s</supplied>we</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_7_4">gatim<unclear reason="damage" xml:id="CAmbD_un_451_7_4">rida</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_7_5">warþ</w>
                   <lb n="8" xml:id="CAmbD_lb_451_8" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_8_1">s<unclear reason="damage" xml:id="CAmbD_un_451_8_1">o</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_8_2"><unclear reason="damage" xml:id="CAmbD_un_451_8_2">b</unclear>au<unclear reason="damage" xml:id="CAmbD_un_451_8_2_2">rg</unclear>swa<unclear reason="damage" xml:id="CAmbD_un_451_8_2_3">ddj</unclear>us</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_8_3">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_8_4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_8_1">s<unclear reason="damage" xml:id="CAmbD_un_451_8_1">o</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_8_2"><unclear reason="damage" xml:id="CAmbD_un_451_8_2">b</unclear>au<unclear reason="damage" xml:id="CAmbD_un_451_8_2_2">rg</unclear>swa<unclear reason="damage" xml:id="CAmbD_un_451_8_2_3">ddj</unclear>us</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_8_3">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_8_4">
                      <seg corresp="CAmbD_seg_2_451_9_1">gasati</seg>
                   </w>
                   <lb n="9" xml:id="CAmbD_lb_451_9" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_9_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_9_1">
                      <seg corresp="CAmbD_seg_1_451_8_4">da</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_9_2">ha<unclear reason="damage" xml:id="CAmbD_un_451_9_2">urd</unclear>ins</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_451_9_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_9_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_9_5">gaweisodai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_9_2">ha<unclear reason="damage" xml:id="CAmbD_un_451_9_2">urd</unclear>ins</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_451_9_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_9_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_9_5">gaweisodai</w>
                   <lb n="10" xml:id="CAmbD_lb_451_10" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_10_1">wau<unclear reason="damage" xml:id="CAmbD_un_451_10_1">r</unclear>þ<unclear reason="damage" xml:id="CAmbD_un_451_10_1_bis">un</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_10_2">d<unclear reason="damage" xml:id="CAmbD_un_451_10_2">a</unclear>urawa<unclear reason="damage" xml:id="CAmbD_un_451_10_2_bis">r</unclear>dos</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_10_3">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_10_1">wau<unclear reason="damage" xml:id="CAmbD_un_451_10_1">r</unclear>þ<unclear reason="damage" xml:id="CAmbD_un_451_10_1_bis">un</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_10_2">d<unclear reason="damage" xml:id="CAmbD_un_451_10_2">a</unclear>urawa<unclear reason="damage" xml:id="CAmbD_un_451_10_2_bis">r</unclear>dos</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_10_3">jah</w>
                   <lb n="11" xml:id="CAmbD_lb_451_11" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_11_1">liuþa<unclear reason="damage" xml:id="CAmbD_un_451_11_1">rj</unclear>os</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_11_2">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_11_3">l<unclear reason="damage" xml:id="CAmbD_un_451_11_3">a</unclear>iwwei<unclear reason="damage" xml:id="CAmbD_un_451_11_3_bis">t</unclear>eis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_451_11_4">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_11_1">liuþa<unclear reason="damage" xml:id="CAmbD_un_451_11_1">rj</unclear>os</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_11_2">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_11_3">l<unclear reason="damage" xml:id="CAmbD_un_451_11_3">a</unclear>iwwei<unclear reason="damage" xml:id="CAmbD_un_451_11_3_bis">t</unclear>eis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_451_11_4">·</pc>
                   <lb n="12" xml:id="CAmbD_lb_451_12" />
                </ab>
                <ab type="verse" n="2" xml:id="CAmbD_Ne_7_verse_2">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_12_1">Jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_12_2">anaba<unclear reason="damage" xml:id="CAmbD_un_451_12_2">uþ</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_12_3">ananiïn</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_12_4">broþri</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_12_1">Jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_12_2">anaba<unclear reason="damage" xml:id="CAmbD_un_451_12_2">uþ</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_12_3">ananiïn</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_12_4">broþri</w>
                   <lb n="13" xml:id="CAmbD_lb_451_13" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_13_1">Meina<unclear reason="damage" xml:id="CAmbD_un_451_13_1">mma</unclear></w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_451_13_2"><unclear reason="damage" xml:id="CAmbD_un_451_13_2">·</unclear></pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_13_3"><unclear reason="damage" xml:id="CAmbD_un_451_13_3">ja</unclear>h</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_13_4">ananeaiïn</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_13_1">Meina<unclear reason="damage" xml:id="CAmbD_un_451_13_1">mma</unclear></w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_451_13_2"><unclear reason="damage" xml:id="CAmbD_un_451_13_2">·</unclear></pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_13_3"><unclear reason="damage" xml:id="CAmbD_un_451_13_3">ja</unclear>h</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_13_4">ananeaiïn</w>
                   <lb n="14" xml:id="CAmbD_lb_451_14" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_14_1">faura<unclear reason="damage" xml:id="CAmbD_un_451_14_1">ma</unclear>þlja</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_14_2">baurgs</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_14_3">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_14_1">faura<unclear reason="damage" xml:id="CAmbD_un_451_14_1">ma</unclear>þlja</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_14_2">baurgs</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_14_3">
                      <seg corresp="CAmbD_seg_2_451_15_1">ïairu</seg>
                   </w>
                   <lb n="15" xml:id="CAmbD_lb_451_15" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_15_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_15_1">
                      <seg corresp="CAmbD_seg_1_451_14_3">sal<unclear reason="damage" xml:id="CAmbD_un_451_15_1">ems</unclear></seg>
                   </w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_451_15_2"><unclear reason="damage" xml:id="CAmbD_un_451_15_2">·</unclear></pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_15_3"><unclear reason="damage" xml:id="CAmbD_un_451_15_3">unt</unclear>e</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_15_4">sa</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_15_5">w<unclear reason="damage" xml:id="CAmbD_un_451_15_5">a</unclear><gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_451_15_5">s</supplied></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_15_6">wair</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_15_7">
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_451_15_2"><unclear reason="damage" xml:id="CAmbD_un_451_15_2">·</unclear></pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_15_3"><unclear reason="damage" xml:id="CAmbD_un_451_15_3">unt</unclear>e</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_15_4">sa</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_15_5">w<unclear reason="damage" xml:id="CAmbD_un_451_15_5">a</unclear><gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_451_15_5">s</supplied></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_15_6">wair</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_15_7">
                      <seg corresp="CAmbD_seg_2_451_16_1">sun</seg>
                   </w>
                   <lb n="16" xml:id="CAmbD_lb_451_16" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_16_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_16_1">
                      <seg corresp="CAmbD_seg_1_451_15_7">jei<unclear reason="damage" xml:id="CAmbD_un_451_16_1">ns</unclear></seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_16_2"><unclear reason="damage" xml:id="CAmbD_un_451_16_2">ja</unclear>h</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_16_3"><unclear reason="damage" xml:id="CAmbD_un_451_16_3">o</unclear>gan<unclear reason="damage" xml:id="CAmbD_un_451_16_3_bis">d</unclear>s</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_16_4">fn</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_16_5">ufar</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_16_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_16_2"><unclear reason="damage" xml:id="CAmbD_un_451_16_2">ja</unclear>h</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_16_3"><unclear reason="damage" xml:id="CAmbD_un_451_16_3">o</unclear>gan<unclear reason="damage" xml:id="CAmbD_un_451_16_3_bis">d</unclear>s</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_16_4">fn</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_16_5">ufar</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_16_6">
                      <seg corresp="CAmbD_seg_2_451_17_1">ma</seg>
                   </w>
                   <lb n="17" xml:id="CAmbD_lb_451_17" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_17_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_17_1">
                      <seg corresp="CAmbD_seg_1_451_16_6">nagan<unclear reason="damage" xml:id="CAmbD_un_451_17_1">s</unclear>:</seg>
                   </w>
                </ab>
                <ab type="verse" n="3" xml:id="CAmbD_Ne_7_verse_3">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_17_2">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_17_3">qaþ</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_17_4">im</w>
-                  <pc type="colon" rend="silver_ink" xml:id="CAmbD_colon_451_17_5">:</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_17_6">ni</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_17_7">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_17_2">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_17_3">qaþ</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_17_4">im</w>
+                  <pc type="colon" rend="black_ink" xml:id="CAmbD_colon_451_17_5">:</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_17_6">ni</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_17_7">
                      <seg corresp="CAmbD_seg_2_451_18_1">uslu</seg>
                   </w>
                   <lb n="18" xml:id="CAmbD_lb_451_18" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_18_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_18_1">
                      <seg corresp="CAmbD_seg_1_451_17_7">kaindau</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_18_2">daurons</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_18_3">iairusalems</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_18_2">daurons</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_18_3">iairusalems</w>
                   <lb n="19" xml:id="CAmbD_lb_451_19" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_19_1">und</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_19_2">þ<unclear reason="damage" xml:id="CAmbD_un_451_19_2">atei</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_19_3">ur<unclear reason="damage" xml:id="CAmbD_un_451_19_3">r</unclear>innai</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_451_19_4">sunno</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_19_1">und</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_19_2">þ<unclear reason="damage" xml:id="CAmbD_un_451_19_2">atei</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_19_3">ur<unclear reason="damage" xml:id="CAmbD_un_451_19_3">r</unclear>innai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_451_19_4">sunno</w>
                   <pb n="209" xml:id="CAmbD_pb_5_209" facs="#CAmbD_facs_5_209" />
                   <lb n="1" xml:id="CAmbD_lb_209_1" />
                </ab>
                <ab type="verse" n="13" xml:id="CAmbD_Ne_7_verse_13">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_1_1">hunda</w>
-                  <num rend="silver_ink" value="40, 5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_1_1">hunda</w>
+                  <num rend="black_ink" value="40, 5">
                      <w xml:id="CAmbD_w_209_1_2">·m·e·</w>
                   </num>
                </ab>
                <ab type="verse" n="14" xml:id="CAmbD_Ne_7_verse_14">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_1_3">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_1_4">zakxaiau<unclear reason="damage" xml:id="CAmbD_un_209_1_4">s</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_1_3">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_1_4">zakxaiau<unclear reason="damage" xml:id="CAmbD_un_209_1_4">s</unclear></w>
                   <lb n="2" xml:id="CAmbD_lb_209_2" />
-                  <num rend="silver_ink" value="700, 60">
+                  <num rend="black_ink" value="700, 60">
                      <w xml:id="CAmbD_w_209_2_1">·ƕ·j·</w>
                   </num>
                </ab>
                <ab type="verse" n="15" xml:id="CAmbD_Ne_7_verse_15">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_2_2">suniwe</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_2_3">banauis</w>
-                  <num rend="silver_ink" value="600, 60, 2">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_2_2">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_2_3">banauis</w>
+                  <num rend="black_ink" value="600, 60, 2">
                      <w xml:id="CAmbD_w_209_2_4">·x·j·b·</w>
                   </num>
                </ab>
                <ab type="verse" n="16" xml:id="CAmbD_Ne_7_verse_16">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_2_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_2_5">
                      <seg corresp="CAmbD_seg_2_209_3_1">su</seg>
                   </w>
                   <lb n="3" xml:id="CAmbD_lb_209_3" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_3_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_3_1">
                      <seg corresp="CAmbD_seg_1_209_2_5">naus</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_3_2">bab<unclear reason="damage" xml:id="CAmbD_un_209_3_2">a</unclear><unclear reason="damage" xml:id="CAmbD_un_209_3_2_bis">w</unclear>is</w>
-                  <num rend="silver_ink" value="600, 20, 3">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_3_2">bab<unclear reason="damage" xml:id="CAmbD_un_209_3_2">a</unclear><unclear reason="damage" xml:id="CAmbD_un_209_3_2_bis">w</unclear>is</w>
+                  <num rend="black_ink" value="600, 20, 3">
                      <w xml:id="CAmbD_w_209_3_3">·x·k·g·</w>
                   </num>
                </ab>
                <ab type="verse" n="17" xml:id="CAmbD_Ne_7_verse_17">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_3_4">sunaus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_3_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_3_4">sunaus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_3_5">
                      <seg corresp="CAmbD_seg_2_209_4_1">az</seg>
                   </w>
                   <lb n="4" xml:id="CAmbD_lb_209_4" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_4_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_4_1">
                      <seg corresp="CAmbD_seg_1_209_3_5">gadis</seg>
                   </w>
-                  <num rend="silver_ink" value="2">
+                  <num rend="black_ink" value="2">
                      <w xml:id="CAmbD_w_209_4_2">·b·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_4_3">þusundjus</w>
-                  <num rend="silver_ink" value="200, 2">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_4_3">þusundjus</w>
+                  <num rend="black_ink" value="200, 2">
                      <w xml:id="CAmbD_w_209_4_4">·s·b·</w>
                   </num>
                </ab>
                <ab type="verse" n="18" xml:id="CAmbD_Ne_7_verse_18">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_4_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_4_5">
                      <seg corresp="CAmbD_seg_2_209_5_1">suni</seg>
                   </w>
                   <lb n="5" xml:id="CAmbD_lb_209_5" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_5_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_5_1">
                      <seg corresp="CAmbD_seg_1_209_4_5">we</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_5_2">adoneikamis</w>
-                  <num rend="silver_ink" value="600, 60, 6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_5_2">adoneikamis</w>
+                  <num rend="black_ink" value="600, 60, 6">
                      <w xml:id="CAmbD_w_209_5_3">·x·j·q·</w>
                   </num>
                </ab>
                <ab type="verse" n="19" xml:id="CAmbD_Ne_7_verse_19">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_5_4">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_5_4">suniwe</w>
                   <lb n="6" xml:id="CAmbD_lb_209_6" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_6_1">baaueinis</w>
-                  <num rend="silver_ink" value="2">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_6_1">baaueinis</w>
+                  <num rend="black_ink" value="2">
                      <w xml:id="CAmbD_w_209_6_2">·b·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_6_3">þusundjos</w>
-                  <num rend="silver_ink" value="60, 6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_6_3">þusundjos</w>
+                  <num rend="black_ink" value="60, 6">
                      <w xml:id="CAmbD_w_209_6_4">·j·<unclear reason="damage" xml:id="CAmbD_un_209_6_4">q·</unclear><unclear reason="damage" xml:id="CAmbD_un_209_6_4_bis" /></w>
                   </num>
                   <lb n="7" xml:id="CAmbD_lb_209_7" />
                </ab>
                <ab type="verse" n="20" xml:id="CAmbD_Ne_7_verse_20">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_7_1">Suniw<unclear reason="damage" xml:id="CAmbD_un_209_7_1">e</unclear></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_7_2">addeis</w>
-                  <num rend="silver_ink" value="600, 50, 4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_7_1">Suniw<unclear reason="damage" xml:id="CAmbD_un_209_7_1">e</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_7_2">addeis</w>
+                  <num rend="black_ink" value="600, 50, 4">
                      <w xml:id="CAmbD_w_209_7_3">·x·n·d·</w>
                   </num>
                </ab>
                <ab type="verse" n="21" xml:id="CAmbD_Ne_7_verse_21">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_7_4">sunaus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_7_4">sunaus</w>
                   <lb n="8" xml:id="CAmbD_lb_209_8" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_8_1">azeiris</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_209_8_2">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_8_3"><del rend="erasure" xml:id="CAmbD_del_209_8_3">a</del></w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_8_4">sunaus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_8_5">aizaike<unclear reason="damage" xml:id="CAmbD_un_209_8_5">i</unclear>ïn<unclear reason="damage" xml:id="CAmbD_un_209_8_5_bis">s</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_8_1">azeiris</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_209_8_2">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_8_3"><del rend="erasure" xml:id="CAmbD_del_209_8_3">a</del></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_8_4">sunaus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_8_5">aizaike<unclear reason="damage" xml:id="CAmbD_un_209_8_5">i</unclear>ïn<unclear reason="damage" xml:id="CAmbD_un_209_8_5_bis">s</unclear></w>
                   <lb n="9" xml:id="CAmbD_lb_209_9" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_9_1">niun<add place="above" xml:id="CAmbD_add_209_9_1">te</add>hund</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_9_2">jah</w>
-                  <num rend="silver_ink" value="8">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_9_1">niun<add place="above" xml:id="CAmbD_add_209_9_1">te</add>hund</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_9_2">jah</w>
+                  <num rend="black_ink" value="8">
                      <w xml:id="CAmbD_w_209_9_3">·h·</w>
                   </num>
                </ab>
                <ab type="verse" n="22" xml:id="CAmbD_Ne_7_verse_22">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_9_4">suniwe</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_9_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_9_4">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_9_5">
                      <seg corresp="CAmbD_seg_2_209_10_1">bas</seg>
                   </w>
                   <lb n="10" xml:id="CAmbD_lb_209_10" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_10_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_10_1">
                      <seg corresp="CAmbD_seg_1_209_9_5">seis</seg>
                   </w>
-                  <num rend="silver_ink" value="300, 30, 3">
+                  <num rend="black_ink" value="300, 30, 3">
                      <w xml:id="CAmbD_w_209_10_2">·t·l·g·</w>
                   </num>
                </ab>
                <ab type="verse" n="24" xml:id="CAmbD_Ne_7_verse_24">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_10_3">suniwe</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_10_4">ioriais</w>
-                  <num rend="silver_ink" value="100, 10, 2">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_10_3">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_10_4">ioriais</w>
+                  <num rend="black_ink" value="100, 10, 2">
                      <w xml:id="CAmbD_w_209_10_5">·<unclear reason="damage" xml:id="CAmbD_un_209_10_5">r·</unclear>i·<unclear reason="damage" xml:id="CAmbD_un_209_10_5_2">b·</unclear><unclear reason="damage" xml:id="CAmbD_un_209_10_5_3" /></w>
                   </num>
                   <lb n="11" xml:id="CAmbD_lb_209_11" />
                </ab>
                <ab type="verse" n="25" xml:id="CAmbD_Ne_7_verse_25">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_11_1">suniwe</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_11_2">assaumis</w>
-                  <num rend="silver_ink" value="200, 20, 3">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_11_1">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_11_2">assaumis</w>
+                  <num rend="black_ink" value="200, 20, 3">
                      <w xml:id="CAmbD_w_209_11_3">·s·k·g·</w>
                   </num>
                </ab>
                <ab type="verse" n="23" xml:id="CAmbD_Ne_7_verse_23">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_11_4">suniw<unclear reason="damage" xml:id="CAmbD_un_209_11_4">e</unclear></w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_11_4">suniw<unclear reason="damage" xml:id="CAmbD_un_209_11_4">e</unclear></w>
                   <lb n="12" xml:id="CAmbD_lb_209_12" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_12_1">gabaons</w>
-                  <num rend="silver_ink" value="90, 5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_12_1">gabaons</w>
+                  <num rend="black_ink" value="90, 5">
                      <w xml:id="CAmbD_w_209_12_2"><unclear reason="damage" xml:id="CAmbD_un_209_12_2">·</unclear><unclear reason="damage" xml:id="CAmbD_un_209_12_2_2">ɥ</unclear><unclear reason="damage" xml:id="CAmbD_un_209_12_2_3">·</unclear>e·</w>
                   </num>
                </ab>
                <ab type="verse" n="26" xml:id="CAmbD_Ne_7_verse_26">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_12_3">suniwe</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_12_4">biþlai</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_12_3">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_12_4">biþlai</w>
                   <lb n="13" xml:id="CAmbD_lb_209_13" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_13_1">haimis</w>
-                  <num rend="silver_ink" value="100, 20, 3">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_13_1">haimis</w>
+                  <num rend="black_ink" value="100, 20, 3">
                      <w xml:id="CAmbD_w_209_13_2">·r·k·g·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_13_3">suniwe</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_13_4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_13_3">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_13_4">
                      <seg corresp="CAmbD_seg_2_209_14_1">naitofa</seg>
                   </w>
                   <lb n="14" xml:id="CAmbD_lb_209_14" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_14_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_14_1">
                      <seg corresp="CAmbD_seg_1_209_13_4">þeis</seg>
                   </w>
-                  <num rend="silver_ink" value="100, 10, 6">
+                  <num rend="black_ink" value="100, 10, 6">
                      <w xml:id="CAmbD_w_209_14_2">·r·i·q·</w>
                   </num>
                </ab>
                <ab type="verse" n="27" xml:id="CAmbD_Ne_7_verse_27">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_14_3">suniwe</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_14_4">anaþoþis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_209_14_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_14_3">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_14_4">anaþoþis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_209_14_5">·</pc>
                   <lb n="15" xml:id="CAmbD_lb_209_15" />
-                  <num rend="silver_ink" value="100, 20, 8">
+                  <num rend="black_ink" value="100, 20, 8">
                      <w xml:id="CAmbD_w_209_15_1">r·k·h·</w>
                   </num>
                </ab>
                <ab type="verse" n="28" xml:id="CAmbD_Ne_7_verse_28">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_15_2">suniwe</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_15_3">asmoþis</w>
-                  <num rend="silver_ink" value="100, 20, 8">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_15_2">suniwe</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_15_3">asmoþis</w>
+                  <num rend="black_ink" value="100, 20, 8">
                      <w xml:id="CAmbD_w_209_15_4">·r·k·h·</w>
                   </num>
                   <lb n="16" xml:id="CAmbD_lb_209_16" />
                </ab>
                <ab type="verse" n="29" xml:id="CAmbD_Ne_7_verse_29">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_16_1">waire</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_16_2">kareiaþiaareim</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_209_16_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_16_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_16_1">waire</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_16_2">kareiaþiaareim</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_209_16_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_16_4">jah</w>
                   <lb n="17" xml:id="CAmbD_lb_209_17" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_17_1"><unclear reason="damage" xml:id="CAmbD_un_209_17_1">K</unclear>aifeira</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_209_17_2">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_17_3">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_17_4">beroþ</w>
-                  <num rend="silver_ink" value="700, 40, 3">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_17_1"><unclear reason="damage" xml:id="CAmbD_un_209_17_1">K</unclear>aifeira</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_209_17_2">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_17_3">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_17_4">beroþ</w>
+                  <num rend="black_ink" value="700, 40, 3">
                      <w xml:id="CAmbD_w_209_17_5">·ƕ·m·g·</w>
                   </num>
                   <lb n="18" xml:id="CAmbD_lb_209_18" />
                </ab>
                <ab type="verse" n="30" xml:id="CAmbD_Ne_7_verse_30">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_18_1">Wairos</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_18_2">rama</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_18_3">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_18_4">gabaa</w>
-                  <num rend="silver_ink" value="600, 3">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_18_1">Wairos</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_18_2">rama</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_18_3">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_18_4">gabaa</w>
+                  <num rend="black_ink" value="600, 3">
                      <w xml:id="CAmbD_w_209_18_5">·x·g·</w>
                   </num>
                </ab>
                <ab type="verse" n="31" xml:id="CAmbD_Ne_7_verse_31">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_18_7">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_18_7">
                      <seg corresp="CAmbD_seg_2_209_19_1">wai</seg>
                   </w>
                   <lb n="19" xml:id="CAmbD_lb_209_19" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_19_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_19_1">
                      <seg corresp="CAmbD_seg_1_209_18_7">ros</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_19_2">makmas</w>
-                  <num rend="silver_ink" value="100, 20, 2">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_19_2">makmas</w>
+                  <num rend="black_ink" value="100, 20, 2">
                      <w xml:id="CAmbD_w_209_19_3">·r·k·<unclear reason="damage" xml:id="CAmbD_un_209_19_3">b·</unclear></w>
                   </num>
                </ab>
                <ab type="verse" n="32" xml:id="CAmbD_Ne_7_verse_32">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_19_4">wairos</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_209_19_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_19_4">wairos</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_209_19_5">
                      <seg corresp="CAmbD_seg_2_210_1_1">ba<unclear reason="damage" xml:id="CAmbD_un_209_19_5">i</unclear></seg>
                   </w>
                   <pb n="210" xml:id="CAmbD_pb_6_210" facs="#CAmbD_facs_6_210" />
                   <lb n="1" xml:id="CAmbD_lb_210_1" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_1_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_1_1">
                      <seg corresp="CAmbD_seg_1_209_19_5">þelis</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_1_2">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_1_3">gai</w>
-                  <num rend="silver_ink" value="200, 20, 3">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_1_2">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_1_3">gai</w>
+                  <num rend="black_ink" value="200, 20, 3">
                      <w xml:id="CAmbD_w_210_1_4">·s·k·g·</w>
                   </num>
                </ab>
                <ab type="verse" n="33" xml:id="CAmbD_Ne_7_verse_33">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_1_5">wairos</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_1_6">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_1_5">wairos</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_1_6">
                      <seg corresp="CAmbD_seg_2_210_2_1">na</seg>
                   </w>
                   <lb n="2" xml:id="CAmbD_lb_210_2" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_2_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_2_1">
                      <seg corresp="CAmbD_seg_1_210_1_6">bawis</seg>
                   </w>
-                  <num rend="silver_ink" value="50, 2">
+                  <num rend="black_ink" value="50, 2">
                      <w xml:id="CAmbD_w_210_2_2">·n·b·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_2_3">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_2_4">mak<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_210_2_4">b</supplied>eis</w>
-                  <num rend="silver_ink" value="100">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_2_3">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_2_4">mak<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CAmbD_em_210_2_4">b</supplied>eis</w>
+                  <num rend="black_ink" value="100">
                      <w xml:id="CAmbD_w_210_2_5">·r·</w>
                   </num>
                   <lb n="3" xml:id="CAmbD_lb_210_3" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_3_1">n·q·]</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_3_1">n·q·]</w>
                </ab>
                <ab type="verse" n="34" xml:id="CAmbD_Ne_7_verse_34">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_3_2">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_3_3">ailamis</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_3_4">anþaris</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_3_2">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_3_3">ailamis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_3_4">anþaris</w>
                   <lb n="4" xml:id="CAmbD_lb_210_4" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_4_1">þusundi</w>
-                  <num rend="silver_ink" value="200, 50, 4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_4_1">þusundi</w>
+                  <num rend="black_ink" value="200, 50, 4">
                      <w xml:id="CAmbD_w_210_4_2">·s·n·d·</w>
                   </num>
                </ab>
                <ab type="verse" n="35" xml:id="CAmbD_Ne_7_verse_35">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_4_3">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_4_4">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_4_3">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_4_4">
                      <seg corresp="CAmbD_seg_2_210_5_1">eeira</seg>
                   </w>
                   <lb n="5" xml:id="CAmbD_lb_210_5" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_5_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_5_1">
                      <seg corresp="CAmbD_seg_1_210_4_4">mis</seg>
                   </w>
-                  <num rend="silver_ink" value="300, 20">
+                  <num rend="black_ink" value="300, 20">
                      <w xml:id="CAmbD_w_210_5_2"><unclear reason="damage" xml:id="CAmbD_un_210_5_2">·</unclear>t·k·</w>
                   </num>
                </ab>
                <ab type="verse" n="37" xml:id="CAmbD_Ne_7_verse_37">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_5_3">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_5_4">lwddomaeis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_5_3">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_5_4">lwddomaeis</w>
                   <lb n="6" xml:id="CAmbD_lb_210_6" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_6_1">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_6_2">anos</w>
-                  <num rend="silver_ink" value="700, 20, 1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_6_1">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_6_2">anos</w>
+                  <num rend="black_ink" value="700, 20, 1">
                      <w xml:id="CAmbD_w_210_6_3"><unclear reason="damage" xml:id="CAmbD_un_210_6_3">·</unclear>ƕ·k·a·</w>
                   </num>
                </ab>
                <ab type="verse" n="36" xml:id="CAmbD_Ne_7_verse_36">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_6_4">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_6_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_6_4">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_6_5">
                      <seg corresp="CAmbD_seg_2_210_7_1">eiairei</seg>
                   </w>
                   <lb n="7" xml:id="CAmbD_lb_210_7" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_7_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_7_1">
                      <seg corresp="CAmbD_seg_1_210_6_5">kons</seg>
                   </w>
-                  <num rend="silver_ink" value="300, 40, 5">
+                  <num rend="black_ink" value="300, 40, 5">
                      <w xml:id="CAmbD_w_210_7_2">·t·m·e·</w>
                   </num>
                </ab>
                <ab type="verse" n="38" xml:id="CAmbD_Ne_7_verse_38">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_7_3">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_7_4">ainnaïns</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_210_7_5">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_7_3">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_7_4">ainnaïns</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_210_7_5">·</pc>
                   <lb n="8" xml:id="CAmbD_lb_210_8" />
-                  <num rend="silver_ink" value="3">
+                  <num rend="black_ink" value="3">
                      <w xml:id="CAmbD_w_210_8_1">g·</w>
                   </num>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_8_2">þusundjos</w>
-                  <num rend="silver_ink" value="600, 30">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_8_2">þusundjos</w>
+                  <num rend="black_ink" value="600, 30">
                      <w xml:id="CAmbD_w_210_8_3"><unclear reason="damage" xml:id="CAmbD_un_210_8_3">·</unclear>x<unclear reason="damage" xml:id="CAmbD_un_210_8_3_bis">·</unclear>l·</w>
                   </num>
                </ab>
                <ab type="verse" n="39" xml:id="CAmbD_Ne_7_verse_39">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_8_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_8_5">gudjans</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_210_8_6">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_8_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_8_5">gudjans</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_210_8_6">·</pc>
                   <lb n="9" xml:id="CAmbD_lb_210_9" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_9_1">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_9_2">aidduins</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_9_3">us</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_9_4">garda</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_9_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_9_1">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_9_2">aidduins</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_9_3">us</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_9_4">garda</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_9_5">
                      <seg corresp="CAmbD_seg_2_210_10_1">iesu</seg>
                   </w>
                   <lb n="10" xml:id="CAmbD_lb_210_10" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_10_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_10_1">
                      <seg corresp="CAmbD_seg_1_210_9_5">is</seg>
                   </w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_210_10_2">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_10_3">niun</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_10_4">hunda</w>
-                  <num rend="silver_ink" value="70, 3">
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_210_10_2">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_10_3">niun</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_10_4">hunda</w>
+                  <num rend="black_ink" value="70, 3">
                      <w xml:id="CAmbD_w_210_10_5">·u·g·</w>
                   </num>
                </ab>
                <ab type="verse" n="40" xml:id="CAmbD_Ne_7_verse_40">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_10_6">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_10_6">sunjus</w>
                   <lb n="11" xml:id="CAmbD_lb_210_11" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_11_1">aimmeirins</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_11_2">þusundi</w>
-                  <num rend="silver_ink" value="52">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_11_1">aimmeirins</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_11_2">þusundi</w>
+                  <num rend="black_ink" value="52">
                      <w xml:id="CAmbD_w_210_11_3"><unclear reason="damage" xml:id="CAmbD_un_210_11_3">·</unclear>nb·</w>
                   </num>
                   <lb n="12" xml:id="CAmbD_lb_210_12" />
                </ab>
                <ab type="verse" n="41" xml:id="CAmbD_Ne_7_verse_41">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_12_1">Sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_12_2">fallasuris</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_210_12_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_12_4">þusundi</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_12_1">Sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_12_2">fallasuris</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_210_12_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_12_4">þusundi</w>
                   <lb n="13" xml:id="CAmbD_lb_210_13" />
-                  <num rend="silver_ink" value="200, 40, 7">
+                  <num rend="black_ink" value="200, 40, 7">
                      <w xml:id="CAmbD_w_210_13_1">·s·m·z·</w>
                   </num>
                </ab>
                <ab type="verse" n="42" xml:id="CAmbD_Ne_7_verse_42">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_13_2">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_13_3">ïareimis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_210_13_4">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_13_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_13_2">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_13_3">ïareimis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_210_13_4">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_13_5">
                      <seg corresp="CAmbD_seg_2_210_14_1">þusun</seg>
                   </w>
                   <lb n="14" xml:id="CAmbD_lb_210_14" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_14_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_14_1">
                      <seg corresp="CAmbD_seg_1_210_13_5">di</seg>
                   </w>
-                  <num rend="silver_ink" value="10, 7">
+                  <num rend="black_ink" value="10, 7">
                      <w xml:id="CAmbD_w_210_14_2">·i·z·</w>
                   </num>
                </ab>
                <ab type="verse" n="43" xml:id="CAmbD_Ne_7_verse_43">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_14_3">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_14_4">laiwweiteis</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_14_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_14_3">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_14_4">laiwweiteis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_14_5">
                      <seg corresp="CAmbD_seg_2_210_15_1">sun</seg>
                   </w>
                   <lb n="15" xml:id="CAmbD_lb_210_15" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_15_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_15_1">
                      <seg corresp="CAmbD_seg_1_210_14_5">jus</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_15_2">iesuis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_210_15_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_15_4">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_15_5">kaidmeielis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_15_2">iesuis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_210_15_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_15_4">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_15_5">kaidmeielis</w>
                   <lb n="16" xml:id="CAmbD_lb_210_16" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_16_1">us</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_16_2">sunum</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_16_3">odueiins</w>
-                  <num rend="silver_ink" value="74">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_16_1">us</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_16_2">sunum</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_16_3">odueiins</w>
+                  <num rend="black_ink" value="74">
                      <w xml:id="CAmbD_w_210_16_4">·ud·</w>
                   </num>
                </ab>
                <ab type="verse" n="44" xml:id="CAmbD_Ne_7_verse_44">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_16_5">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_16_5">
                      <seg corresp="CAmbD_seg_2_210_17_1">sun</seg>
                   </w>
                   <lb n="17" xml:id="CAmbD_lb_210_17" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_17_1">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_17_1">
                      <seg corresp="CAmbD_seg_1_210_16_5">jus</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_17_2">asabis</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_17_3">liuþarjos</w>
-                  <num rend="silver_ink" value="100, 40, 8">
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_17_2">asabis</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_17_3">liuþarjos</w>
+                  <num rend="black_ink" value="100, 40, 8">
                      <w xml:id="CAmbD_w_210_17_4">·r·m·h·</w>
                   </num>
                   <lb n="18" xml:id="CAmbD_lb_210_18" />
                </ab>
                <ab type="verse" n="45" xml:id="CAmbD_Ne_7_verse_45">
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_18_1">Sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_18_2">daurawarde</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_210_18_3">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_18_4">sunaus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_18_1">Sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_18_2">daurawarde</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_210_18_3">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_18_4">sunaus</w>
                   <lb n="19" xml:id="CAmbD_lb_210_19" />
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_19_1">sailaumis</w>
-                  <pc type="comma" rend="silver_ink" xml:id="CAmbD_comma_210_19_2">·</pc>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_19_3">jah</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_19_4">sunjus</w>
-                  <w rend="silver_ink" xml:lang="" xml:id="CAmbD_w_210_19_5">aze</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_19_1">sailaumis</w>
+                  <pc type="comma" rend="black_ink" xml:id="CAmbD_comma_210_19_2">·</pc>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_19_3">jah</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_19_4">sunjus</w>
+                  <w rend="black_ink" xml:lang="" xml:id="CAmbD_w_210_19_5">aze</w>
                </ab>
             </div>
          </div>
