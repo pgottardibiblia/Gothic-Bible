@@ -499,273 +499,273 @@
 
          <!-- regular letters -->
 
-                <glyph xml:id="#þairhtachi">
+         <glyph xml:id="þairhtachi">
           <localProp name='Name' value='TACHIGRAPHIC ÞAIRH'/>
           <mapping subtype='X' type='codepoint'></mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized">þairh</mapping>
         </glyph>
 
-        <char xml:id="#amacr">
+        <char xml:id="amacr">
           <localProp name='Name' value='A WITH TITULUS FOR M'/>
           <mapping type='codepoint'>000101</mapping>
           <mapping type="diplomatic">ā</mapping>
           <mapping type="normalized">am</mapping>
         </char>
 
-        <glyph xml:id="#markutachi">
+        <glyph xml:id="markutachi">
           <localProp name='Name' value='TACHIGRAPHIC MARKU'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized"></mapping>
         </glyph>
 
-        <char xml:id="#atild">
+        <char xml:id="atild">
           <localProp name='Name' value='A WITH TITULUS FOR N'/>
           <mapping type='codepoint'>0000E3</mapping>
           <mapping type="diplomatic">ã</mapping>
           <mapping type="normalized">an</mapping>
         </char>
 
-        <char xml:id="#emacr">
+        <char xml:id="emacr">
           <localProp name='Name' value='E WITH TITULUS FOR M'/>
           <mapping type='codepoint'>000113</mapping>
           <mapping type="diplomatic">ē</mapping>
           <mapping type="normalized">em</mapping>
         </char>
 
-        <char xml:id="#etild">
+        <char xml:id="etild">
           <localProp name='Name' value='E WITH TITULUS FOR N'/>
           <mapping type='codepoint'>001EBD</mapping>
           <mapping type="diplomatic">ẽ</mapping>
           <mapping type="normalized">en</mapping>
         </char>
 
-        <char xml:id="#fraujantachi">
+        <char xml:id="fraujantachi">
           <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
           <mapping subtype='composite' type='codepoint'>000066+uni0305+000061+uni0305+00006E+uni0305</mapping>
           <mapping type="diplomatic">f̅a̅n̅</mapping>
           <mapping type="normalized">fraujan</mapping>
         </char>
 
-        <char xml:id="#fraujatachi">
+        <char xml:id="fraujatachi">
           <localProp name='Name' value='TACHIGRAPHIC FRAUJA'/>
           <mapping subtype='composite' type='codepoint'>000066+uni0305+000061+uni0305</mapping>
           <mapping type="diplomatic">f̅a̅</mapping>
           <mapping type="normalized">frauja</mapping>
         </char>
 
-        <char xml:id="#fraujinstachi">
+        <char xml:id="fraujinstachi">
           <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
           <mapping subtype='composite' type='codepoint'>000066+uni0305+000061+uni0305+00006E+uni0305</mapping>
           <mapping type="diplomatic">f̅a̅n̅</mapping>
           <mapping type="normalized">fraujan</mapping>
         </char>
 
-        <char xml:id="#fraujintachi">
+        <char xml:id="fraujintachi">
           <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
           <mapping subtype='composite' type='codepoint'>000066+uni0305+000069+uni0305+00006E+uni0305</mapping>
           <mapping type="diplomatic">f̅i̅n̅</mapping>
           <mapping type="normalized">fraujin</mapping>
         </char>
 
-        <char xml:id="#guþatachi">
+        <char xml:id="guþatachi">
           <localProp name='Name' value='TACHIGRAPHIC GUÞA'/>
           <mapping subtype='composite' type='codepoint'>000067+uni0305+0000FE+uni0305+000061+uni0305</mapping>
           <mapping type="diplomatic">g̅þ̅a̅</mapping>
           <mapping type="normalized">guþa</mapping>
         </char>
 
-        <char xml:id="#guþblostreistachi">
+        <char xml:id="guþblostreistachi">
           <localProp name='Name' value='TACHIGRAPHIC GUÞBLOSTREIS'/>
           <mapping subtype='composite' type='codepoint'>000067+uni0305+0000FE+uni0305+000062+00006C+00006F+000073+000074+000072+000065+000069+000073</mapping>
           <mapping type="diplomatic">g̅þ̅blostreis</mapping>
           <mapping type="normalized">guþblostreis</mapping>
         </char>
 
-        <char xml:id="#guþistachi">
+        <char xml:id="guþistachi">
           <localProp name='Name' value='TACHIGRAPHIC GUÞIS'/>
           <mapping subtype='composite' type='codepoint'>000067+uni0305+0000FE+uni0305+000073+uni0305</mapping>
           <mapping type="diplomatic">g̅þ̅s̅</mapping>
           <mapping type="normalized">guþis</mapping>
         </char>
 
-        <char xml:id="#guþtachi">
+        <char xml:id="guþtachi">
           <localProp name='Name' value='TACHIGRAPHIC GUÞ'/>
           <mapping subtype='composite' type='codepoint'>000067+uni0305+0000FE+uni0305</mapping>
           <mapping type="diplomatic">g̅þ̅</mapping>
           <mapping type="normalized">guþ</mapping>
         </char>
 
-        <char xml:id="#htlig">
+        <char xml:id="htlig">
           <localProp name='Name' value='LIGATURE OF H AND T'/>
           <mapping type='codepoint'>11035C</mapping>
           <mapping type="diplomatic"> </mapping>
           <mapping type="normalized">ht</mapping>
         </char>
 
-        <char xml:id="#iesuatachi">
+        <char xml:id="iesuatachi">
           <localProp name='Name' value='TACHIGRAPHIC IESUA'/>
           <mapping subtype='composite' type='codepoint'>000069+uni0305+000075+uni0305+000061+uni0305</mapping>
           <mapping type="diplomatic">i̅u̅a̅</mapping>
           <mapping type="normalized">iesua</mapping>
         </char>
 
-        <char xml:id="#iesuistachi">
+        <char xml:id="iesuistachi">
           <localProp name='Name' value='TACHIGRAPHIC IESUIS'/>
           <mapping subtype='composite' type='codepoint'>000069+uni0305+000075+uni0305+000069+uni0305+000061+uni0305</mapping>
           <mapping type="diplomatic">i̅u̅i̅s̅</mapping>
           <mapping type="normalized">iesus</mapping>
         </char>
 
-        <char xml:id="#iesustachi">
+        <char xml:id="iesustachi">
           <localProp name='Name' value='TACHIGRAPHIC IESUS'/>
           <mapping subtype='composite' type='codepoint'>000069+uni0305+000075+uni0305+000061+uni0305</mapping>
           <mapping type="diplomatic">i̅u̅s̅</mapping>
           <mapping type="normalized">iesus</mapping>
         </char>
 
-        <char xml:id="#iesutachi">
+        <char xml:id="iesutachi">
           <localProp name='Name' value='TACHIGRAPHIC IESU'/>
           <mapping subtype='composite' type='codepoint'>000069+uni0305+000075+uni0305</mapping>
           <mapping type="diplomatic">i̅u̅</mapping>
           <mapping type="normalized">iesu</mapping>
         </char>
 
-        <char xml:id="#imacr">
+        <char xml:id="imacr">
           <localProp name='Name' value='I WITH TITULUS FOR M'/>
           <mapping type='codepoint'>00012A</mapping>
           <mapping type="diplomatic">ī</mapping>
           <mapping type="normalized">im</mapping>
         </char>
 
-        <char xml:id="#itild">
+        <char xml:id="itild">
           <localProp name='Name' value='I WITH TITULUS FOR N'/>
           <mapping type='codepoint'>000129</mapping>
           <mapping type="diplomatic">ĩ</mapping>
           <mapping type="normalized">in</mapping>
         </char>
 
-        <char xml:id="#ktild">
+        <char xml:id="ktild">
           <localProp name='Name' value='K WITH TITULUS FOR N'/>
           <mapping subtype='composite' type='codepoint'>00006B+000303</mapping>
           <mapping type="diplomatic"> ̃t</mapping>
           <mapping type="normalized">tn</mapping>
         </char>
 
-        <char xml:id="#mmacr">
+        <char xml:id="mmacr">
           <localProp name='Name' value='M WITH TITULUS FOR M'/>
           <mapping subtype='composite' type='codepoint'>00006D+000305</mapping>
           <mapping type="diplomatic">m̅</mapping>
           <mapping type="normalized">mm</mapping>
         </char>
 
-        <glyph xml:id="#mulig">
+        <glyph xml:id="mulig">
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized"></mapping>
         </glyph>
 
-        <char xml:id="#ntild">
+        <char xml:id="ntild">
           <localProp name='Name' value='N WITH TITULUS FOR N'/>
           <mapping subtype='composite' type='codepoint'>00006E+000303</mapping>
           <mapping type="diplomatic"> ̃n</mapping>
           <mapping type="normalized">nn</mapping>
         </char>
 
-        <char xml:id="#omacr">
+        <char xml:id="omacr">
           <localProp name='Name' value='O WITH TITULUS FOR M'/>
           <mapping type='codepoint'>00014D</mapping>
           <mapping type="diplomatic">ō</mapping>
           <mapping type="normalized">om</mapping>
         </char>
 
-        <char xml:id="#otild">
+        <char xml:id="otild">
           <localProp name='Name' value='O WITH TITULUS FOR N'/>
           <mapping type='codepoint'>0000F5</mapping>
           <mapping type="diplomatic">õ</mapping>
           <mapping type="normalized">on</mapping>
         </char>
 
-        <char xml:id="#rtild">
+        <char xml:id="rtild">
           <localProp name='Name' value='R WITH TITULUS FOR N'/>
           <mapping subtype='composite' type='codepoint'>000072+000303</mapping>
           <mapping type="diplomatic"> ̃r</mapping>
           <mapping type="normalized">rn</mapping>
         </char>
 
-        <glyph xml:id="#rþlig">
+        <glyph xml:id="rþlig">
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized"></mapping>
         </glyph>
 
-        <char xml:id="#stild">
+        <char xml:id="stild">
           <localProp name='Name' value='S WITH TITULUS FOR N'/>
           <mapping subtype='composite' type='codepoint'>000073+000303</mapping>
           <mapping type="diplomatic"> ̃s</mapping>
           <mapping type="normalized">sn</mapping>
         </char>
 
-        <char xml:id="#umacr">
+        <char xml:id="umacr">
           <localProp name='Name' value='U WITH TITULUS FOR M'/>
           <mapping type='codepoint'>00016B</mapping>
           <mapping type="diplomatic">ū</mapping>
           <mapping type="normalized">um</mapping>
         </char>
 
-        <char xml:id="#utild">
+        <char xml:id="utild">
           <localProp name='Name' value='U WITH TITULUS FOR N'/>
           <mapping type='codepoint'>000169</mapping>
           <mapping type="diplomatic">ũ</mapping>
           <mapping type="normalized">un</mapping>
         </char>
 
-        <char xml:id="#xristaustachi">
+        <char xml:id="xristaustachi">
           <localProp name='Name' value='TACHIGRAPHIC XRISTAUS'/>
           <mapping subtype='composite' type='codepoint'>000078+uni0305+000061+uni0305+000075+uni0305+000073+uni0305</mapping>
           <mapping type="diplomatic">x̅a̅u̅s̅</mapping>
           <mapping type="normalized">xristaus</mapping>
         </char>
 
-        <char xml:id="#xristustachi">
+        <char xml:id="xristustachi">
           <localProp name='Name' value='TACHIGRAPHIC XRISTUS'/>
           <mapping subtype='composite' type='codepoint'>000078+uni0305+000075+uni0305+000073+uni0305</mapping>
           <mapping type="diplomatic">x̅u̅s̅</mapping>
           <mapping type="normalized">xristus</mapping>
         </char>
 
-        <char xml:id="#xristutachi">
+        <char xml:id="xristutachi">
           <localProp name='Name' value='TACHIGRAPHIC XRISTU'/>
           <mapping subtype='composite' type='codepoint'>000078+uni0305+000075+uni0305</mapping>
           <mapping type="diplomatic">x̅u̅</mapping>
           <mapping type="normalized">xristu</mapping>
         </char>
 
-        <char xml:id="#ztild">
+        <char xml:id="ztild">
           <localProp name='Name' value='Z WITH TITULUS FOR N'/>
           <mapping subtype='composite' type='codepoint'>00007A+000303</mapping>
           <mapping type="diplomatic"> ̃z</mapping>
           <mapping type="normalized">zn</mapping>
         </char>
 
-        <char xml:id="#ïmacr">
+        <char xml:id="ïmacr">
           <localProp name='Name' value='Ï WITH TITULUS FOR M'/>
           <mapping subtype='composite' type='codepoint'>0000EF+uni0305</mapping>
           <mapping type="diplomatic">ï̅</mapping>
           <mapping type="normalized">ïm</mapping>
         </char>
 
-        <glyph xml:id="#þrlig">
+        <glyph xml:id="þrlig">
           <localProp name='Name' value='X'/>
           <mapping subtype='X' type='X'></mapping>
           <mapping type="diplomatic"></mapping>
           <mapping type="normalized"></mapping>
         </glyph>
 
-        <char xml:id="#þtild">
+        <char xml:id="þtild">
           <localProp name='Name' value='Þ WITH TITULUS FOR N'/>
           <mapping subtype='composite' type='codepoint'>0000FE+000303</mapping>
           <mapping type="diplomatic"> ̃þ</mapping>
@@ -792,23 +792,69 @@
          <change when="2024-06-01" who="#Pierandrea Gottardi">Iniziale composizione del file unificato CArg_TEI.xml che include i singoli file dei Vangeli.</change>
       </revisionDesc>
    </teiHeader>
+   
    <!-- FACSIMILE UNIFICATO: Un singolo elemento facsimile con tutti i contenuti -->
    <facsimile xml:id="CArg_facs_all">
-      <!-- Include le <surface> di ciascun Vangelo usando xpath per selezionare i children -->
-      <xi:include href="CArg_Mt_TEI.xml" xpointer="CArg_facs_Mt"/>
-      <xi:include href="CArg_Gv_TEI.xml" xpointer="CArg_facs_Gv"/>
-      <xi:include href="CArg_Lc_TEI.xml" xpointer="CArg_facs_Lc"/>
-      <xi:include href="CArg_Mc_TEI.xml" xpointer="CArg_facs_Mc"/>
-   </facsimile>
+   <!-- Gruppo 1: Matteo -->
+   <surfaceGrp n="1" xml:id="facs_mt_group" type="gospel">
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                  href="CArg_Mt_TEI.xml" 
+                  xpointer="CArg_facs_Mt"/>
+   </surfaceGrp>
    
-   <!-- SEZIONE TESTO: Include tutti i testi dei 4 Vangeli -->
-   <text n="CArg">
-      <body>
-         <xi:include href="CArg_Mt_TEI.xml" xpointer="CArg_book_Mt"/>
-         <xi:include href="CArg_Gv_TEI.xml" xpointer="CArg_book_Gv"/>
-         <xi:include href="CArg_Lc_TEI.xml" xpointer="CArg_book_Lc"/>
-         <xi:include href="CArg_Mc_TEI.xml" xpointer="CArg_book_Mc"/>
-      </body>
-   </text>
+   <!-- Gruppo 2: Giovanni -->
+   <surfaceGrp n="2" xml:id="facs_gv_group" type="gospel">
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                  href="CArg_Gv_TEI.xml" 
+                  xpointer="CArg_facs_Gv"/>
+   </surfaceGrp>
+   
+   <!-- Gruppo 3: Luca -->
+   <surfaceGrp n="3" xml:id="facs_lc_group" type="gospel">
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                  href="CArg_Lc_TEI.xml" 
+                  xpointer="CArg_facs_Lc"/>
+   </surfaceGrp>
+   
+   <!-- Gruppo 4: Marco -->
+   <surfaceGrp n="4" xml:id="facs_mc_group" type="gospel">
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                  href="CArg_Mc_TEI.xml" 
+                  xpointer="CArg_facs_Mc"/>
+   </surfaceGrp>
+</facsimile>
+
+<!-- SEZIONE TESTO con ordinamento garantito -->
+<text n="CArg">
+   <body>
+      <!-- Vangelo 1: Matteo -->
+      <div type="gospel" n="1" xml:id="gospel_mt">
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                     href="CArg_Mt_TEI.xml" 
+                     xpointer="CArg_book_Mt"/>
+      </div>
+      
+      <!-- Vangelo 2: Giovanni -->
+      <div type="gospel" n="2" xml:id="gospel_gv">
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                     href="CArg_Gv_TEI.xml" 
+                     xpointer="CArg_book_Gv"/>
+      </div>
+      
+      <!-- Vangelo 3: Luca -->
+      <div type="gospel" n="3" xml:id="gospel_lc">
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                     href="CArg_Lc_TEI.xml" 
+                     xpointer="CArg_book_Lc"/>
+      </div>
+      
+      <!-- Vangelo 4: Marco -->
+      <div type="gospel" n="4" xml:id="gospel_mc">
+         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" 
+                     href="CArg_Mc_TEI.xml" 
+                     xpointer="CArg_book_Mc"/>
+      </div>
+   </body>
+</text>
 </TEI>
 

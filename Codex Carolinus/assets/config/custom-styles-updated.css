@@ -1,0 +1,190 @@
+.ab[rend="align-center"] {
+    display: block;
+    text-align: center;
+}
+
+*[rend="strikethrough"] {
+    text-decoration: line-through;
+}
+
+*[rend="overwritten"] {
+    font-weight: bold;
+}
+
+*[rend="underline"] {
+    text-decoration: underline;
+}
+
+*[rend="italic"] {
+    font-style: italic;
+}
+
+*[rend="erasure"] {
+    background-color: rgb(70, 70, 70);
+}
+
+*[rend="cross"] {
+    text-decoration: line-through;
+}
+
+*[rend="gold_ink"] {
+    color: rgb(184, 134, 11);
+    font-weight: bold;
+}
+
+*[rend="line_full_width"] {
+    margin-bottom: 0.1rem;
+    border-bottom: 1px solid black;
+    display: block;
+}
+
+*[rend="sup"] {
+    vertical-align: text-bottom;
+}
+
+*[place="superscript"] {
+    vertical-align: text-bottom;
+}
+
+.metamark[rend="line"] {
+    display: block;
+    border: 1px solid black;
+    margin-top:-1em;
+    margin-right:70%;
+}
+
+.fw {
+    display: block;
+}
+
+[type="pageNum"][place="top_right"] {
+    float:right;
+    margin-top: -1.5rem;
+}
+
+evt-reading evt-note,
+evt-addition evt-note {
+  display: none;
+}
+
+.diplomatic-text evt-uncertain,
+.diplomatic-text uncertain {
+    color: rgb(70, 70, 70);
+}
+
+.interpretative-text evt-uncertain,
+.interpretative-text uncertain {
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.5);
+    padding-bottom: 1px;
+}
+
+.interpretative-text evt-choice,
+.interpretative-text choice {
+    font-style: normal;
+}
+
+.interpretative-text evt-ex,
+.interpretative-text ex {
+    font-style: normal;
+}
+
+.interpretative-text evt-gap::before,
+.interpretative-text evt-gap::after,
+.interpretative-text gap::before,
+.interpretative-text gap::after {
+    content: none;
+    display: none;
+}
+
+.interpretative-text evt-gap,
+.interpretative-text gap {
+    font-size: 0;
+}
+
+.interpretative-text evt-gap evt-supplied,
+.interpretative-text evt-gap supplied,
+.interpretative-text gap evt-supplied,
+.interpretative-text gap supplied {
+    font-size: inherit;
+}
+
+body[data-edition-level="interpretative"] evt-generic-element.num evt-text,
+body[data-view="interpretative"] evt-generic-element.num evt-text,
+.interpretative evt-generic-element.num evt-text,
+.interpretative-text evt-generic-element.num evt-text {
+    display: none !important;
+}
+
+body[data-edition-level="interpretative"] evt-generic-element.num evt-content-viewer::before,
+body[data-view="interpretative"] evt-generic-element.num evt-content-viewer::before,
+.interpretative evt-generic-element.num evt-content-viewer::before,
+.interpretative-text evt-generic-element.num evt-content-viewer::before {
+    content: attr(data-value);
+}
+
+/* Eusebian Canons Tables */
+evt-generic-element[type="eusebian_canons"] {
+  margin: 0.5rem 0;
+  padding: 2rem;
+  background-color: #faf8f3;
+  border: 2px solid #8b7355;
+  border-radius: 4px;
+  display: block;
+}
+
+evt-generic-element[type="eusebian_canons"] > evt-content-viewer {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+evt-generic-element[type="eusebian_canons"] > evt-content-viewer:empty,
+evt-generic-element[type="eusebian_canons"] > evt-content-viewer:not(:has(evt-generic-element)) {
+  display: none;
+}
+
+evt-generic-element.row {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-auto-rows: auto;
+  gap: 0.5rem;
+  padding: 0;
+  margin: 0 0 0.5rem 0;
+}
+
+evt-generic-element.row:last-of-type {
+  margin-bottom: 0;
+}
+
+evt-generic-element.row[n="1"] {
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #8b7355;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+evt-generic-element.row > evt-content-viewer {
+  text-align: center;
+  padding: 0;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+evt-generic-element.row > evt-content-viewer:empty,
+evt-generic-element.row > evt-content-viewer:not(:has(evt-word)):not(:has(evt-generic-element)) {
+  display: none;
+}
+
+evt-generic-element.row:empty {
+  display: none;
+}
+
+@media print {
+  evt-generic-element[type="eusebian_canons"] {
+    page-break-inside: avoid;
+    background-color: white;
+    border-color: black;
+  }
+}
