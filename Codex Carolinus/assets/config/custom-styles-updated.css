@@ -67,13 +67,11 @@ evt-addition evt-note {
   display: none;
 }
 
-.diplomatic-text evt-uncertain,
-.diplomatic-text uncertain {
+.diplomatic-text [rend="damaged"]{
     color: rgb(70, 70, 70);
 }
 
-.interpretative-text evt-uncertain,
-.interpretative-text uncertain {
+.interpretative-text [rend="damaged"]{
     border-bottom: 1px dotted rgba(0, 0, 0, 0.5);
     padding-bottom: 1px;
 }
@@ -86,19 +84,6 @@ evt-addition evt-note {
 .interpretative-text evt-ex,
 .interpretative-text ex {
     font-style: normal;
-}
-
-.interpretative-text evt-gap::before,
-.interpretative-text evt-gap::after,
-.interpretative-text gap::before,
-.interpretative-text gap::after {
-    content: none;
-    display: none;
-}
-
-.interpretative-text evt-gap,
-.interpretative-text gap {
-    font-size: 0;
 }
 
 .interpretative-text evt-gap evt-supplied,
