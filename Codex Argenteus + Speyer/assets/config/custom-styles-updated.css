@@ -80,49 +80,54 @@ evt-addition evt-note {
     font-style: normal;
 }
 
-.interpretative-text evt-gap evt-supplied,
-.interpretative-text evt-gap supplied,
-.interpretative-text gap evt-supplied,
-.interpretative-text gap supplied {
+evt-gap evt-supplied *[data-edition="interpretative"],
+evt-gap supplied *[data-edition="interpretative"],
+gap evt-supplied *[data-edition="interpretative"],
+gap supplied *[data-edition="interpretative"]{
     font-size: inherit;
 }
 
-body[data-edition-level="interpretative"] evt-generic-element.num evt-text,
-body[data-view="interpretative"] evt-generic-element.num evt-text,
-.interpretative evt-generic-element.num evt-text,
-.interpretative-text evt-generic-element.num evt-text {
+evt-generic-element.num evt-text *[data-edition="interpretative"],
+evt-generic-element.num evt-text *[data-edition="interpretative"],
+evt-generic-element.num evt-text *[data-edition="interpretative"],
+evt-generic-element.num evt-text *[data-edition="interpretative"]{
     display: none !important;
 }
 
-body[data-edition-level="interpretative"] evt-generic-element.num evt-content-viewer::before,
-body[data-view="interpretative"] evt-generic-element.num evt-content-viewer::before,
-.interpretative evt-generic-element.num evt-content-viewer::before,
-.interpretative-text evt-generic-element.num evt-content-viewer::before {
+evt-generic-element.num *[data-edition="interpretative"] evt-content-viewer::before,
+evt-generic-element.num *[data-edition="interpretative"] evt-content-viewer::before,
+evt-generic-element.num *[data-edition="interpretative"] evt-content-viewer::before,
+evt-generic-element.num *[data-edition="interpretative"]evt-content-viewer::before {
     content: attr(data-value);
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1325px) {
   .panel-content div:has(evt-page) {
     margin: 0 6rem;
   }
 
   *[place="margin_left"] {
-    position: absolute;
-    left: 10px;
+    float: left;
+    margin-left: -50px;
+    
+    max-width: 175px;
+    overflow-wrap: anywhere;
+    word-break: break-all;
+  }
 
-    max-width: 75px;
+  evt-addition[place="margin_right"] *[data-edition="diplomatic"] {
+    float: right;
+    margin-right: 20px;
+
+    max-width: 125px;
     display: inline-block;
     overflow-wrap: anywhere;
     word-break: break-all;
   }
 
-  evt-addition[place="margin_right"] {
-    position: absolute;
-    right: 10px;
-    max-width: 175px;
+  evt-note {
     display: inline-block;
-    overflow-wrap: anywhere;
-    word-break: break-all;
+    margin-left: 20px;
   }
 }
 
