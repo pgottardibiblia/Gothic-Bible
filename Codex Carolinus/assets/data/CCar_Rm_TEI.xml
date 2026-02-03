@@ -1,0 +1,2240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edizione digitale dei testi gotici, qui <title>Epistola ai Romani</title>: Wolfenbüttel, Herzog August Bibliothek, Codex Carolinus</title>
+            <author>Vulfila</author>
+            <principal>Carla Falluomini</principal>
+            <principal>Antonio Piras</principal>
+            <respStmt>
+               <resp>General overview:</resp>
+               <name>Carla Falluomini</name>
+               <name>Pierandrea Gottardi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Trascrizione iniziale e revisione del testo effettuata da</resp>
+               <name>Pierandrea Gottardi</name>
+               <name>Carla Falluomini</name>
+            </respStmt>
+            <respStmt>
+               <resp>Codifica TEI effettuata da</resp>
+               <name>Pierandrea Gottardi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revisione e finalizzazione della codifica TEI effettuata da</resp>
+               <name>Pierandrea Gottardi</name>
+            </respStmt>
+         </titleStmt>
+
+         <editionStmt>
+            <edition>Edizioni cartacee precedenti</edition>
+            <respStmt xml:id="knittel">
+               <resp>Editor</resp>
+               <name>Franz A. Knittel</name>
+               <note>Editio princeps, 1762</note>
+            </respStmt>
+         </editionStmt>
+
+         <publicationStmt>
+            <publisher>Edizioni Ca' Foscari</publisher>
+            <pubPlace>Venice, Italy</pubPlace>
+            <authority>The textual legacy of the Ostrogoths in Italy: The Bible version and other texts (Acronym: LegOst)</authority>
+            <date when="2023-26">2023-26</date>
+            <availability status="unknown">
+               <p>Not to recirculate. Contact the LegOst Project researchers for more information.</p>
+            </availability>
+         </publicationStmt>
+
+         <sourceDesc>
+            <msDesc xml:id="CCar">
+               <msIdentifier>
+                  <country>Germany</country>
+                  <settlement>Wolfenbüttel</settlement>
+                  <repository>Herzog August Bibliothek</repository>
+                  <idno type="shelfmark">Guelf. 64 Weiss., ff. 255, 256, 277, 280</idno>
+                  <altIdentifier type="common">
+                     <idno>64 Weiss.</idno>
+                  </altIdentifier>
+                  <altIdentifier type="common">
+                     <idno>Weiss. 64</idno>
+                  </altIdentifier>
+                  <altIdentifier type="erroneous">
+                     <idno>Weiss. 4148 (from von Heinemann's catalogue number, 1908)</idno>
+                  </altIdentifier>
+                  <msName>Codex Carolinus (so named by the discoverer of the palimpsest, F. A. Knittel, in honour of Duke Karl I of Brunswick-Lüneburg)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary>
+                     <p>The four leaves, palimpsests, transmit as the undertext the Gothic translation of Rom. 11:33–12:5; 12:17–13:5; 14:9–20; and 15:3–13, accompanied by the corresponding Latin text, a witness of the pre-Jeromian tradition (Vetus Latina witness 79, w or gue). The upper text contains portions of Isidore of Seville's Etymologiae.</p>
+                  </summary>
+                  <msItem n="1">
+                     <locus>ff. 255, 256, 277, 280</locus>
+                     <title type="uniform" xml:lang="en">Epistle to the Romans</title>
+                     <textLang mainLang="got" otherLangs="lat">Gothic and Latin</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>
+                           <material>Parchment, well prepared. The distinction between hair and flesh sides is reduced to a minimum.</material>
+                        </support>
+                        <extent>
+                           <measure type="dimensions" unit="mm">c. 216 × 264 mm (trimmed leaves)</measure>
+                           <p>The leaves belong to the outer bifolium (ff. 277 and 280) and the third bifolium from the outside (ff. 256 and 255) of the same quire. The trimmed leaves measure c. 216 × 264 mm; the original dimensions were probably c. 225 × 305 mm. The writing area, consisting of 27 lines, is arranged in two columns, each measuring c. 80–82 × 225–228 mm. The intercolumnar space measures c. 26–28 mm.</p>
+                        </extent>
+                        <foliation>
+                           <p>The foliation is modern: recto and verso are indicated for each leaf in the upper outer corner.</p>
+                        </foliation>
+                        <collation>
+                           <p>F. 280v bears, in the lower margin at the centre of the intercolumn, the letter/number indicating the quire order: ⟨e⟩ '5' in Gothic script, placed within a frame of signs.</p>
+                        </collation>
+                        <condition>
+                           <p>The two Gothic–Latin bifolia are still bound together with the rest of the codex. The manuscript is in good condition.</p>
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" writtenLines="27" ruledLines="27">
+                           <p>The Gothic text occupies the left column, in the 'place of honour' usually reserved for the source text in bilingual codices, while the Latin text is placed in the right column. With perfect symmetry between the two languages, the text is arranged per cola et commata, distinguished through their differing placement within the writing area: the cola begin from the outermost of the two vertical ruling lines delimiting the writing space on the left, while the commata begin from the inner one. The initial letter of each new paragraph is markedly enlarged and shifted outside the outer vertical ruling line.</p>
+                           <p>The ruling was executed dry-point on the flesh side, with the bifolium open. Pricking holes are visible in the lower margin of the outer bifolium. Each column is delimited by double vertical ruling lines; the space between the two vertical lines measures two to three letters (c. 10–12 mm).</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="2">
+                     <handNote xml:id="hand1" scope="major" script="Gothic">The Gothic text is written in the vertical Gothic script (with Latin-form ⟨s⟩), by a single, highly regular and calligraphic hand. In both scripts, paragraph initials are written in a larger module; letters in a smaller module and, rarely, ligatures (for rþ in Gothic and nt in Latin) occur at line end.</handNote>
+                     <handNote xml:id="hand2" scope="major" script="uncial">The Latin text is written in a skilled 'old-type' uncial with some modernising features (slight rounding of the strokes of ⟨m⟩; entry strokes of ⟨h⟩ and ⟨l⟩; exit strokes of ⟨f⟩, ⟨p⟩, and ⟨q⟩ placed clearly above and below the writing line). Both scripts are compact (serrate) and were produced either by two different scribes or—less plausibly—by a perfectly digraphic Gothic scribe. In some cases, to preserve symmetry with the Gothic text, Latin words written in a smaller module are placed below the writing line.</handNote>
+                     <handNote xml:id="hand3" scope="minor" script="New Cursive">The scriptio superior is a small, fluent New Cursive.</handNote>
+                  </handDesc>
+                  <scriptDesc>
+                     <p>The numbers of the Euthalian sections are written in the same script type but vary in module size; they appear to be by the same hand as the text. Both the Euthalian section numbers and the quire number are enclosed within a frame of signs.</p>
+                  </scriptDesc>
+                  <decoDesc>
+                     <decoNote type="initial">The initial letter of each new paragraph is markedly enlarged and shifted outside the outer vertical ruling line.</decoNote>
+                     <decoNote type="paratext">The paragraph mark consists of a thin horizontal stroke, thickened at the ends, with a central sign resembling a dot or a diplé. It is placed to the left of both the Gothic and the Latin columns, above the paragraph initial.</decoNote>
+                     <decoNote type="quotation">The diplé (&gt;)—or a corrupted form resembling a dot—marks quotations from the Old Testament. It is placed in the left margin, outside the writing area of both texts, along the length of the quotation; it is not always present.</decoNote>
+                  </decoDesc>
+                  <additions>
+                     <p>The numbers of the Euthalian sections into which the Pauline text is divided are indicated in the left margin of both columns, enclosed within a frame of signs. The numbering is not always correct.</p>
+                     <p>Occasional corrections consist of erasures and additions, sometimes within the line (in the Latin text), apparently by the same hand as the text.</p>
+                     <p>In the Gothic text, suspensions are used for nasals at line end: ⟨n⟩ is indicated by a horizontal stroke; for ⟨m⟩ a dot is added beneath the stroke, centrally placed. In the Latin text, abbreviations occur for ⟨m⟩ (horizontal stroke with dot beneath), and compendia for sanctam, sancto, and nostri. Truncation abbreviations occur for -bus, -que, and quae. In both texts, nomina sacra for 'God', 'Lord', 'Jesus', and 'Christ' are written in contracted form with a horizontal overstroke.</p>
+                  </additions>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="0500" notAfter="0520">The Gothic–Latin leaves are datable to the first two decades of the sixth century</origDate>
+                     <origPlace>It is plausible that the original manuscript was produced in Ravenna, capital of the Ostrogothic kingdom and a major multicultural centre. The refinement of the manuscript, the close similarity between the Gothic script of the Carolinus and that of the Argenteus, the bilingual nature of the codex, and the fact that it was later rebound for rewriting together with Greek leaves all point to a scriptorium situated in a centre open to Greek culture, where the Gothic language enjoyed prestige and where there was an interest in, or need for, making the Gothic text accessible to a Latin-speaking audience: a centre which, in the early sixth century, found its primary raison d'être in Theoderic's royal city, Ravenna.</origPlace>
+                  </origin>
+                  <provenance notBefore="0750" notAfter="0760">
+                     <p>The manuscript was reused in the mid-eighth century to overwrite it with the text of Isidore of Seville's Etymologiae. It was rewritten together with leaves from other Latin and Greek manuscripts in northern Italy, probably in Verona.</p>
+                  </provenance>
+                  <provenance notBefore="1300" notAfter="1500">
+                     <p>The Carolinus formed part of a group of manuscripts originating from the abbey of Wissembourg (Alsace), where it was located at least from the fourteenth–fifteenth century onwards. The stages by which it reached Wissembourg from northern Italy are unknown.</p>
+                  </provenance>
+                  <acquisition when="1690">
+                     <p>The group of manuscripts reached Wolfenbüttel in 1690. In 1756, the theologian Franz A. Knittel brought to light the existence of the Gothic text beneath that of Isidore, subsequently publishing it in 1762 (Ulphilae versionem gothicam nonullorum capitum Epistolae Pauli ad Romanos…, Braunschweig). The manuscript was given the name Codex Carolinus in honour of Duke Karl I of Brunswick-Lüneburg.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <surrogates>
+                     <p>No chemical reagents were used, and the script is therefore still partially visible to the naked eye. The first photographic reproduction, dating to 1913, was made by Hans Henning. Digital reproduction available at: <ref target="http://diglib.hab.de/wdb.php?dir=mss/64-Weiss">http://diglib.hab.de/wdb.php?dir=mss/64-Weiss</ref>
+                     </p>
+                  </surrogates>
+                  <listBibl>
+                     <head>Selected Bibliography</head>
+                     <bibl xml:id="bibl_Knittel1762" type="book">
+                        <author>
+                           <persName>
+                              <surname>Knittel</surname>
+                              <forename>Franz A.</forename>
+                           </persName>
+                        </author>
+                        <date>1762</date>
+                        <title level="m">Ulphilae versionem gothicam nonullorum capitum Epistolae Pauli ad Romanos</title>
+                        <imprint>
+                           <pubPlace>Braunschweig</pubPlace>
+                        </imprint>
+                     </bibl>
+                     <bibl xml:id="bibl_Falluomini1999" type="book">
+                        <author>
+                           <persName>
+                              <surname>Falluomini</surname>
+                              <forename>Carla</forename>
+                           </persName>
+                        </author>
+                        <date>1999</date>
+                        <title level="m">Der sogenannte Codex Carolinus von Wolfenbüttel (Codex Guelferbytanus 64 Weissenburgensis). Mit besonderer Berücksichtigung der gotisch-lateinischen Blätter (255, 256, 277, 280)</title>
+                        <imprint>
+                           <pubPlace>Wiesbaden</pubPlace>
+                        </imprint>
+                     </bibl>
+                     <bibl xml:id="bibl_Cavallo2019" type="book">
+                        <author>
+                           <persName>
+                              <surname>Cavallo</surname>
+                              <forename>Guglielmo</forename>
+                           </persName>
+                        </author>
+                        <date>2019</date>
+                        <title level="m">Scrivere e leggere nella città antica</title>
+                        <imprint>
+                           <pubPlace>Roma</pubPlace>
+                        </imprint>
+                     </bibl>
+                     <bibl xml:id="bibl_Bassetti2025" type="bookSection">
+                        <author>
+                           <persName>
+                              <surname>Bassetti</surname>
+                              <forename>Massimiliano</forename>
+                           </persName>
+                        </author>
+                        <date>2025</date>
+                        <title level="a">Note sulla «Biblioteca longobarda» della Cattedrale di Verona. A partire da Ver. VII (7), X (8), XLII (40), XLVI (44), LIII (51), LIX (57), LXI (59)</title>
+                        <title level="m">Città cattedrali biblioteche al passaggio tra tardoantico e alto medioevo. A partire dal caso di Verona</title>
+                        <editor role="editor">
+                           <persName>
+                              <surname>Bassetti</surname>
+                              <forename>M.</forename>
+                           </persName>
+                        </editor>
+                        <editor role="editor">
+                           <persName>
+                              <surname>Degni</surname>
+                              <forename>P.</forename>
+                           </persName>
+                        </editor>
+                        <imprint>
+                           <pubPlace>Spoleto</pubPlace>
+                        </imprint>
+                        <biblScope unit="page">243–303</biblScope>
+                     </bibl>
+                     <bibl xml:id="bibl_CLA" type="book">
+                        <author>
+                           <persName>
+                              <surname>Lowe</surname>
+                              <forename>E.A.</forename>
+                           </persName>
+                        </author>
+                        <date>1959</date>
+                        <title level="m" type="main">Codices latini antiquiores</title>
+                        <title level="m" type="sub">A Palaeographical Guide to Latin Manuscripts prior to the Ninth Century</title>
+                        <biblScope unit="volume">IX</biblScope>
+                        <biblScope unit="part">Germany: München–Zittau</biblScope>
+                        <imprint>
+                           <pubPlace>Oxford</pubPlace>
+                        </imprint>
+                        <idno type="siglum">CLA IX 1388</idno>
+                     </bibl>
+                     <bibl xml:id="bibl_Zironi2004" type="book">
+                        <author>
+                           <persName>
+                              <surname>Zironi</surname>
+                              <forename>Alessandro</forename>
+                           </persName>
+                        </author>
+                        <date>2004</date>
+                        <title level="m">Il monastero longobardo di Bobbio. Crocevia di uomini, manoscritti e culture</title>
+                        <imprint>
+                           <pubPlace>Spoleto</pubPlace>
+                        </imprint>
+                     </bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <facsimile xml:id="CCar_facs_Rm">
+      <surface xml:id="CCar_facs_1_277ra">
+         <graphic url="CCar_fol._1_277r.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_2_277rb">
+         <graphic url="CCar_fol._2_277r.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_3_277va">
+         <graphic url="CCar_fol._3_277v.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_4_277vb">
+         <graphic url="CCar_fol._4_277v.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_5_256va">
+         <graphic url="CCar_fol._5_256v.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_6_256vb">
+         <graphic url="CCar_fol._6_256v.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_7_256ra">
+         <graphic url="CCar_fol._7_256r.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_8_256rb">
+         <graphic url="CCar_fol._8_256r.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_9_255va">
+         <graphic url="CCar_fol._9_255v.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_10_255vb">
+         <graphic url="CCar_fol._10_255v.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_11_255ra">
+         <graphic url="CCar_fol._11_255r.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_12_255rb">
+         <graphic url="CCar_fol._12_255r.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_13_280ra">
+         <graphic url="CCar_fol._13_280r.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_14_280rb">
+         <graphic url="CCar_fol._14_280r.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_15_280va">
+         <graphic url="CCar_fol._15_280v.jpeg" height="1800px" width="1200px" />
+      </surface>
+      <surface xml:id="CCar_facs_16_280vb">
+         <graphic url="CCar_fol._16_280v.jpeg" height="1800px" width="1200px" />
+      </surface>
+   </facsimile>
+   <text n="CCar">
+      <body>
+         <div type="book" ana="#Romans" xml:id="CCar_book_Rm">
+            <div type="chapter" n="11" xml:id="CCar_Rm_chapter_11">
+               <ab type="verse" n="33" xml:id="CCar_Rm_11_verse_33">
+                  <pb n="277ra" xml:id="CCar_pb_1_277ra" facs="#CCar_facs_1_277ra" />
+                  <lb n="1" xml:id="CCar_lb_277ra_1" />
+                  <space xml:id="CCar_space_277ra_1_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_1_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_1_2">witubnjis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_1_3"><choice xml:id="CCar_abbr_277ra_1_3"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <lb n="2" xml:id="CCar_lb_277ra_2" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_2_1">ƕaiwa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_2_2">unusspilloda</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_2_3"><choice xml:id="CCar_abbr_277ra_2_3"><abbr>s<am><g ref="#itild" /></am>d</abbr><expan>si<ex>n</ex>d</expan></choice></w>
+                  <lb n="3" xml:id="CCar_lb_277ra_3" />
+                  <space xml:id="CCar_space_277ra_3_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_3_1">stauos</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_3_2">ïs</w>
+                  <lb n="4" xml:id="CCar_lb_277ra_4" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_4_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_4_2">unbilaistidai</w>
+                  <lb n="5" xml:id="CCar_lb_277ra_5" />
+                  <space xml:id="CCar_space_277ra_5_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_5_1">wigos</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_5_2">ïs</w>
+                  <lb n="6" xml:id="CCar_lb_277ra_6" />
+               </ab>
+               <ab type="verse" n="34" xml:id="CCar_Rm_11_verse_34">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_6_1">Ƕas</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_6_2">auk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_6_3">ufkunþa</w>
+                  <lb n="7" xml:id="CCar_lb_277ra_7" />
+                  <space xml:id="CCar_space_277ra_7_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_7_1"><gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277ra_7_1">f</supplied>raþi</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_7_2"><choice xml:id="CCar_abbr_277ra_7_2"><abbr><am><g ref="#fraujinstachi" /></am></abbr><expan><ex>fraujins</ex></expan></choice></w>
+                  <lb n="8" xml:id="CCar_lb_277ra_8" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_8_1">aiþþau</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_8_2">ƕas</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_8_3">imma</w>
+                  <lb n="9" xml:id="CCar_lb_277ra_9" />
+                  <space xml:id="CCar_space_277ra_9_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_9_1"><gap unit="char" extent="3" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277ra_9_1">rag</supplied>ineis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_9_2">was</w>
+                  <lb n="10" xml:id="CCar_lb_277ra_10" />
+               </ab>
+               <ab type="verse" n="35" xml:id="CCar_Rm_11_verse_35">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_10_1">aiþ<gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277ra_10_1">þ</supplied>au</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_10_2">ƕas</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_10_3">ïmma</w>
+                  <lb n="11" xml:id="CCar_lb_277ra_11" />
+                  <space xml:id="CCar_space_277ra_11_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_11_1">fr<gap unit="char" extent="2" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277ra_11_1">um</supplied>a</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_11_2">gaf</w>
+                  <lb n="12" xml:id="CCar_lb_277ra_12" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_12_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_12_2">fragildaidau</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_12_3">ïmma</w>
+                  <lb n="13" xml:id="CCar_lb_277ra_13" />
+               </ab>
+               <ab type="verse" n="36" xml:id="CCar_Rm_11_verse_36">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_13_1"><choice xml:id="CCar_em_277ra_13_1"><sic>uste</sic><corr resp="Streitberg,Snædal">unte</corr></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_13_2">us</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_13_3">ïmma</w>
+                  <lb n="14" xml:id="CCar_lb_277ra_14" />
+                  <space xml:id="CCar_space_277ra_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_14_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_14_2">þairh</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_14_3">ina</w>
+                  <lb n="15" xml:id="CCar_lb_277ra_15" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_15_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_15_2">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_15_3">ïmma</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_15_4">alla</w>
+                  <lb n="16" xml:id="CCar_lb_277ra_16" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_16_1">ïmmuh</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_16_2">wulþus</w>
+                  <lb n="17" xml:id="CCar_lb_277ra_17" />
+                  <space xml:id="CCar_space_277ra_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_17_1">du</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_17_2">aiwam</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_17_3">.amen.</w>
+                  <lb n="18" xml:id="CCar_lb_277ra_18" />
+               </ab>
+            </div>
+            <div type="chapter" n="12" xml:id="CCar_Rm_chapter_12">
+               <ab type="verse" n="1" xml:id="CCar_Rm_12_verse_1">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_18_1">Bi<gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277ra_18_1">d</supplied>ja</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_18_2">nu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_18_3">ïzwis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_18_4">broþrjus</w>
+                  <lb n="19" xml:id="CCar_lb_277ra_19" />
+                  <space xml:id="CCar_space_277ra_19_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_19_1">þairh</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_19_2">bleiþein</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_19_3"><choice xml:id="CCar_abbr_277ra_19_3"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <lb n="20" xml:id="CCar_lb_277ra_20" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_20_1">usgiban</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_20_2">leika</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_20_3">ïzwara</w>
+                  <lb n="21" xml:id="CCar_lb_277ra_21" />
+                  <space xml:id="CCar_space_277ra_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_21_1">saud</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_21_2">qiwana</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_21_3">weihana</w>
+                  <lb n="22" xml:id="CCar_lb_277ra_22" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_22_1">waila</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_22_2">galeikaidana</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_22_3"><choice xml:id="CCar_abbr_277ra_22_3"><abbr><am><g ref="#guþatachi" /></am></abbr><expan><ex>guþa</ex></expan></choice></w>
+                  <lb n="23" xml:id="CCar_lb_277ra_23" />
+                  <space xml:id="CCar_space_277ra_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_23_1">blotinassu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_23_2"><choice xml:id="CCar_abbr_277ra_23_2"><abbr>ïzwar<am><g ref="#atild" /></am>a</abbr><expan>ïzwara<ex>n</ex>a</expan></choice></w>
+                  <lb n="24" xml:id="CCar_lb_277ra_24" />
+               </ab>
+               <ab type="verse" n="2" xml:id="CCar_Rm_12_verse_2">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_24_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_24_2">galeikoþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_24_3">ïzwis</w>
+                  <lb n="25" xml:id="CCar_lb_277ra_25" />
+                  <space xml:id="CCar_space_277ra_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_25_1">þamma</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_25_2">aiwa</w>
+                  <pb n="277rb" xml:id="CCar_pb_2_277rb" facs="#CCar_facs_2_277rb" />
+                  <lb n="1" xml:id="CCar_lb_277rb_1" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_2">scientiae</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_3"><choice xml:id="CCar_abbr_277rb_1_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <lb n="2" xml:id="CCar_lb_277rb_2" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_2_1">quam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_2_2">scrutabilia</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_2_3">sunt</w>
+                  <lb n="3" xml:id="CCar_lb_277rb_3" />
+                  <space xml:id="CCar_space_277rb_3_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_3_1">iudicia</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_3_2">eius</w>
+                  <lb n="4" xml:id="CCar_lb_277rb_4" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_4_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_4_2">investigabiles</w>
+                  <lb n="5" xml:id="CCar_lb_277rb_5" />
+                  <space xml:id="CCar_space_277rb_5_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_5_1">viae</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_5_2">eius</w>
+                  <lb n="6" xml:id="CCar_lb_277rb_6" />
+               </ab>
+            </div>
+            <div type="chapter" n="11" xml:id="CCar_Rm_chapter_11_bis">
+               <ab type="verse" n="34" xml:id="CCar_Rm_11_verse_34_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_6_1">Quis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_6_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_6_3">cognobit</w>
+                  <lb n="7" xml:id="CCar_lb_277rb_7" />
+                  <space xml:id="CCar_space_277rb_7_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_7_1">sensum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_7_2"><choice xml:id="CCar_abbr_277rb_7_2"><abbr><am><g ref="#omioverd" /></am>ni</abbr><expan>d<ex>omi</ex>ni</expan></choice></w>
+                  <lb n="8" xml:id="CCar_lb_277rb_8" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_8_1">aut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_8_2">quis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_8_3">illi</w>
+                  <lb n="9" xml:id="CCar_lb_277rb_9" />
+                  <space xml:id="CCar_space_277rb_9_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_9_1">consiliarius</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_9_2">fuit</w>
+                  <lb n="10" xml:id="CCar_lb_277rb_10" />
+               </ab>
+               <ab type="verse" n="35" xml:id="CCar_Rm_11_verse_35_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_10_1">aut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_10_2">quis</w>
+                  <lb n="11" xml:id="CCar_lb_277rb_11" />
+                  <space xml:id="CCar_space_277rb_11_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_11_1">prior</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_11_2">dedit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_11_3">illi</w>
+                  <lb n="12" xml:id="CCar_lb_277rb_12" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_12_1">e<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CCar_em_277rb_12_1">t</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_12_2">reddetur</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_12_3">ei</w>
+                  <lb n="13" xml:id="CCar_lb_277rb_13" />
+               </ab>
+               <ab type="verse" n="36" xml:id="CCar_Rm_11_verse_36_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_13_1">quoniam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_13_2">ex</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_13_3">illo</w>
+                  <lb n="14" xml:id="CCar_lb_277rb_14" />
+                  <space xml:id="CCar_space_277rb_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_14_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_14_2">per</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_14_3">ipsum</w>
+                  <lb n="15" xml:id="CCar_lb_277rb_15" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_15_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_15_2">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_15_3">ipso</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_15_4">omnia</w>
+                  <lb n="16" xml:id="CCar_lb_277rb_16" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_16_1">ipsi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_16_2">gloria</w>
+                  <lb n="17" xml:id="CCar_lb_277rb_17" />
+                  <space xml:id="CCar_space_277rb_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_17_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_17_2">saecula</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_17_3">.amen.</w>
+                  <lb n="18" xml:id="CCar_lb_277rb_18" />
+               </ab>
+            </div>
+            <div type="chapter" n="12" xml:id="CCar_Rm_chapter_12_2">
+               <ab type="verse" n="1" xml:id="CCar_Rm_12_verse_1_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_18_1">Obsecro</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_18_2"><choice xml:id="CCar_abbr_277rb_18_2"><abbr>ita<am><g ref="#ueoverq" /></am></abbr><expan>itaq<ex>ue</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_18_3">vos</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_18_4">fratres</w>
+                  <lb n="19" xml:id="CCar_lb_277rb_19" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_19_1">per</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_19_2">misericordiam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_19_3"><choice xml:id="CCar_abbr_277rb_19_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <lb n="20" xml:id="CCar_lb_277rb_20" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_20_1">ut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_20_2">exhibeatis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_20_3">corpora</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_20_4">vestr<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CCar_em_277rb_20_4">a</supplied></w>
+                  <lb n="21" xml:id="CCar_lb_277rb_21" />
+                  <space xml:id="CCar_space_277rb_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_21_1">hostiam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_21_2">vivam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_21_3"><choice xml:id="CCar_abbr_277rb_21_3"><abbr><am><g ref="#anovers" /></am><am><g ref="#toverc" /></am>am</abbr><expan>s<ex>an</ex>c<ex>t</ex>am</expan></choice></w>
+                  <lb n="22" xml:id="CCar_lb_277rb_22" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_22_1">placentem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_22_2"><choice xml:id="CCar_abbr_277rb_22_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <lb n="23" xml:id="CCar_lb_277rb_23" />
+                  <space xml:id="CCar_space_277rb_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_23_1">obsequium</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_23_2"><choice xml:id="CCar_abbr_277rb_23_2"><abbr>vestr<am><g ref="#umacr" /></am></abbr><expan>vestru<ex>m</ex></expan></choice></w>
+                  <lb n="24" xml:id="CCar_lb_277rb_24" />
+               </ab>
+               <ab type="verse" n="2" xml:id="CCar_Rm_12_verse_2_2">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_24_1">nolite</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_24_2">configurari</w>
+                  <lb n="25" xml:id="CCar_lb_277rb_25" />
+                  <space xml:id="CCar_space_277rb_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_25_1">huic</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_25_2">mundo</w>
+                  <pb n="277va" xml:id="CCar_pb_3_277va" facs="#CCar_facs_3_277va" />
+                  <lb n="1" xml:id="CCar_lb_277va_1" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_1_1"><gap unit="char" extent="2" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277va_1_1">ak</supplied></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_1_2"><gap unit="char" extent="10" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277va_1_2">inmaidjaiþ</supplied></w>
+                  <lb n="2" xml:id="CCar_lb_277va_2" />
+                  <space xml:id="CCar_space_277va_2_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_2_1">framaþjis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_2_2">ïzwaris</w>
+                  <lb n="3" xml:id="CCar_lb_277va_3" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_3_1">du</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_3_2">gakiusan</w>
+                  <lb n="4" xml:id="CCar_lb_277va_4" />
+                  <space xml:id="CCar_space_277va_4_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_4_1">ƕa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_4_2">sijai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_4_3">wilja</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_4_4"><choice xml:id="CCar_abbr_277va_4_4"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <lb n="5" xml:id="CCar_lb_277va_5" />
+                  <space xml:id="CCar_space_277va_5_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_5_1">þatei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_5_2">goþ</w>
+                  <lb n="6" xml:id="CCar_lb_277va_6" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_6_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_6_2">galeikaiþ</w>
+                  <lb n="7" xml:id="CCar_lb_277va_7" />
+                  <space xml:id="CCar_space_277va_7_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_7_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_7_2">ustauhan</w>
+                  <lb n="8" xml:id="CCar_lb_277va_8" />
+               </ab>
+               <ab type="verse" n="3" xml:id="CCar_Rm_12_verse_3">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_8_1">Qiþa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_8_2">auk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_8_3">þairh</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_8_4">anst</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_8_5"><choice xml:id="CCar_abbr_277va_8_5"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <lb n="9" xml:id="CCar_lb_277va_9" />
+                  <space xml:id="CCar_space_277va_9_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_9_1">sei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_9_2">gibana</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_9_3">ïst</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_9_4">mis</w>
+                  <lb n="10" xml:id="CCar_lb_277va_10" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_10_1">allaim</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_10_2">wisandam</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_10_3">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_10_4">ïzwis</w>
+                  <lb n="11" xml:id="CCar_lb_277va_11" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_11_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_11_2">mais</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_11_3">fraþjan</w>
+                  <lb n="12" xml:id="CCar_lb_277va_12" />
+                  <space xml:id="CCar_space_277va_12_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_12_1">þau</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_12_2">skuli</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_12_3">fraþjan</w>
+                  <lb n="13" xml:id="CCar_lb_277va_13" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_13_1">ak</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_13_2">fraþjan</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_13_3">du</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_13_4">waila</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_13_5"><choice xml:id="CCar_abbr_277va_13_5"><abbr>fraþj<am><g ref="#atild" /></am></abbr><expan>fraþja<ex>n</ex></expan></choice></w>
+                  <lb n="14" xml:id="CCar_lb_277va_14" />
+                  <space xml:id="CCar_space_277va_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_14_1">swaswe</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_14_2"><choice xml:id="CCar_abbr_277va_14_2"><abbr><am><g ref="#guþtachi" /></am></abbr><expan><ex>guþ</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_14_3">gadailida</w>
+                  <lb n="15" xml:id="CCar_lb_277va_15" />
+                  <space xml:id="CCar_space_277va_15_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_15_1">mitaþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_15_2">galaubeinais</w>
+                  <lb n="16" xml:id="CCar_lb_277va_16" />
+               </ab>
+               <ab type="verse" n="4" xml:id="CCar_Rm_12_verse_4">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_16_1">swaswe</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_16_2">raihtis</w>
+                  <lb n="17" xml:id="CCar_lb_277va_17" />
+                  <space xml:id="CCar_space_277va_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_17_1">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_17_2">ainamma</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_17_3">leika</w>
+                  <lb n="18" xml:id="CCar_lb_277va_18" />
+                  <space xml:id="CCar_space_277va_18_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_18_1">liþuns</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_18_2">managans</w>
+                  <lb n="19" xml:id="CCar_lb_277va_19" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_19_1">þaiþþan</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_19_2">liþjus</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_19_3">allai</w>
+                  <lb n="20" xml:id="CCar_lb_277va_20" />
+                  <space xml:id="CCar_space_277va_20_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_20_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_20_2">þata</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_20_3">samo</w>
+                  <lb n="21" xml:id="CCar_lb_277va_21" />
+                  <space xml:id="CCar_space_277va_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_21_1">tauï</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_21_2">haband</w>
+                  <lb n="22" xml:id="CCar_lb_277va_22" />
+               </ab>
+               <ab type="verse" n="5" xml:id="CCar_Rm_12_verse_5">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_22_1">swa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_22_2">managai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_22_3">ain</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_22_4">leik</w>
+                  <lb n="23" xml:id="CCar_lb_277va_23" />
+                  <space xml:id="CCar_space_277va_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_23_1">sijum</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_23_2">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_23_3"><choice xml:id="CCar_abbr_277va_23_3"><abbr><am><g ref="#ristoverx" /></am>au</abbr><expan>x<ex>rist</ex>au</expan></choice></w>
+                  <lb n="24" xml:id="CCar_lb_277va_24" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_1">aþþan</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_2">ainƕarjizuh</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_3">anþar</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_4"><gap unit="char" extent="14" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277va_24_4">anþaris_liþjus</supplied></w>
+                  <pb n="277vb" xml:id="CCar_pb_4_277vb" facs="#CCar_facs_4_277vb" />
+                  <lb n="1" xml:id="CCar_lb_277vb_1" />
+               </ab>
+               <ab type="verse" n="2" xml:id="CCar_Rm_12_verse_2_3">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_1_1"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_1_1">sed</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_1_2"><gap unit="char" extent="11" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_1_2">reformamini</supplied></w>
+                  <lb n="2" xml:id="CCar_lb_277vb_2" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_2_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_2_2">novitate</w>
+                  <lb n="3" xml:id="CCar_lb_277vb_3" />
+                  <space xml:id="CCar_space_277vb_3_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_3_1">sensus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_3_2">vestri</w>
+                  <lb n="4" xml:id="CCar_lb_277vb_4" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_4_1">ut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_4_2">probetis</w>
+                  <lb n="5" xml:id="CCar_lb_277vb_5" />
+                  <space xml:id="CCar_space_277vb_5_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_1">quae</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_2">sit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_3">volumtas</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_4"><choice xml:id="CCar_abbr_277vb_5_4"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <lb n="6" xml:id="CCar_lb_277vb_6" />
+                  <space xml:id="CCar_space_277vb_6_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_6_1">quod</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_6_2">bonum</w>
+                  <lb n="7" xml:id="CCar_lb_277vb_7" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_7_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_7_2">beneplacitum</w>
+                  <lb n="8" xml:id="CCar_lb_277vb_8" />
+                  <space xml:id="CCar_space_277vb_8_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_8_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_8_2">perfectum</w>
+                  <lb n="9" xml:id="CCar_lb_277vb_9" />
+               </ab>
+               <ab type="verse" n="3" xml:id="CCar_Rm_12_verse_3_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_1">Dico</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_3">per</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_4">gratiam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_5"><choice xml:id="CCar_abbr_277vb_9_5"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <lb n="10" xml:id="CCar_lb_277vb_10" />
+                  <space xml:id="CCar_space_277vb_10_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_10_1">quae</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_10_2">data</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_10_3">est</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_10_4">mihi</w>
+                  <lb n="11" xml:id="CCar_lb_277vb_11" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_11_1"><choice xml:id="CCar_abbr_277vb_11_1"><abbr>omni<am><g ref="#usoverb" /></am></abbr><expan>omnib<ex>us</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_11_2">qui</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_11_3">sunt</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_11_4">inter</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_11_5">vos</w>
+                  <lb n="12" xml:id="CCar_lb_277vb_12" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_12_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_12_2">plus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_12_3">sapere</w>
+                  <lb n="13" xml:id="CCar_lb_277vb_13" />
+                  <space xml:id="CCar_space_277vb_13_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_13_1">quam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_13_2">oportet</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_13_3">sapere</w>
+                  <lb n="14" xml:id="CCar_lb_277vb_14" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_14_1">sed</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_14_2">sapere</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_14_3">ad</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_14_4"><choice xml:id="CCar_abbr_277vb_14_4"><abbr>prudenti<am><g ref="#amacr" /></am></abbr><expan>prudentia<ex>m</ex></expan></choice></w>
+                  <lb n="15" xml:id="CCar_lb_277vb_15" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_15_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_15_2">unicuique</w>
+                  <lb n="16" xml:id="CCar_lb_277vb_16" />
+                  <space xml:id="CCar_space_277vb_16_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_16_1">sicut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_16_2">divisit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_16_3"><choice xml:id="CCar_abbr_277vb_16_3"><abbr><am><g ref="#euoverd" /></am>s</abbr><expan>d<ex>eu</ex>s</expan></choice></w>
+                  <lb n="17" xml:id="CCar_lb_277vb_17" />
+                  <space xml:id="CCar_space_277vb_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_17_1">mensuram</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_17_2">fidei</w>
+                  <lb n="18" xml:id="CCar_lb_277vb_18" />
+               </ab>
+               <ab type="verse" n="4" xml:id="CCar_Rm_12_verse_4_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_18_1">sicut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_18_2">enim</w>
+                  <lb n="19" xml:id="CCar_lb_277vb_19" />
+                  <space xml:id="CCar_space_277vb_19_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_19_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_19_2">uno</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_19_3">corpore</w>
+                  <lb n="20" xml:id="CCar_lb_277vb_20" />
+                  <space xml:id="CCar_space_277vb_20_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_20_1">multa</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_20_2">membra</w>
+                  <lb n="21" xml:id="CCar_lb_277vb_21" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_21_1">membra</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_21_2">autem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_21_3">omnia</w>
+                  <lb n="22" xml:id="CCar_lb_277vb_22" />
+                  <space xml:id="CCar_space_277vb_22_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_22_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_22_2">eundem</w>
+                  <lb n="23" xml:id="CCar_lb_277vb_23" />
+                  <space xml:id="CCar_space_277vb_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_23_1">actum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_23_2">habent</w>
+                  <lb n="24" xml:id="CCar_lb_277vb_24" />
+               </ab>
+               <ab type="verse" n="5" xml:id="CCar_Rm_12_verse_5_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_24_1">ita</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_24_2">multi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_24_3">unum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_24_4">corpus</w>
+                  <lb n="25" xml:id="CCar_lb_277vb_25" />
+                  <space xml:id="CCar_space_277vb_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_25_1">sumus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_25_2">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_25_3"><choice xml:id="CCar_abbr_277vb_25_3"><abbr><am><g ref="#christovero" /></am>o</abbr><expan><ex>christ</ex>o</expan></choice></w>
+                  <lb n="26" xml:id="CCar_lb_277vb_26" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_1">singuli</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_2">autem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_3">
+                     <seg corresp="CCar_seg_2_277vb_26_4">alter</seg>
+                  </w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_4">
+                     <seg corresp="CCar_seg_1_277vb_26_3"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_4">jus</supplied></seg>
+                  </w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_5"><gap unit="char" extent="6" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_5">membra</supplied></w>
+                  <pb n="256va" xml:id="CCar_pb_5_256va" facs="#CCar_facs_5_256va" />
+                  <lb n="1" xml:id="CCar_lb_256va_1" />
+               </ab>
+               <ab type="verse" n="17" xml:id="CCar_Rm_12_verse_17">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_1_1">in</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_1_2">andwairþja</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_1_3"><choice xml:id="CCar_abbr_256va_1_3"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <lb n="2" xml:id="CCar_lb_256va_2" />
+                  <space xml:id="CCar_space_256va_2_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_2_1">ak</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_2_2">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_2_3">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_2_4">andwairþja</w>
+                  <lb n="3" xml:id="CCar_lb_256va_3" />
+                  <space xml:id="CCar_space_256va_3_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_3_1">manne</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_3_2">allaize</w>
+                  <lb n="4" xml:id="CCar_lb_256va_4" />
+               </ab>
+               <ab type="verse" n="18" xml:id="CCar_Rm_12_verse_18">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_4_1">Jabai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_4_2">magi</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_4_3">wairþan</w>
+                  <lb n="5" xml:id="CCar_lb_256va_5" />
+                  <space xml:id="CCar_space_256va_5_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_5_1">us</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_5_2">ïzwis</w>
+                  <lb n="6" xml:id="CCar_lb_256va_6" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_6_1">miþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_6_2">allaim</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_6_3">mannam</w>
+                  <lb n="7" xml:id="CCar_lb_256va_7" />
+                  <space xml:id="CCar_space_256va_7_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_7_1">gawairþi</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_7_2">habandans</w>
+                  <lb n="8" xml:id="CCar_lb_256va_8" />
+               </ab>
+               <ab type="verse" n="19" xml:id="CCar_Rm_12_verse_19">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_8_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_8_2">ïzwis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_8_3">silbans</w>
+                  <lb n="9" xml:id="CCar_lb_256va_9" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_9_1">ak</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_9_2">gibiþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_9_3">staþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_9_4">þwair<gap unit="char" extent="4" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_256va_9_4">hein</supplied></w>
+                  <lb n="10" xml:id="CCar_lb_256va_10" />
+               </ab>
+               <ab type="verse" n="20" xml:id="CCar_Rm_12_verse_20">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_10_1">Gameliþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_10_2">ïst</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_10_3">auk</w>
+                  <lb n="11" xml:id="CCar_lb_256va_11" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_11_1">mis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_11_2">fraweit</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_11_3">leitaidau</w>
+                  <lb n="12" xml:id="CCar_lb_256va_12" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_12_1">ïk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_12_2">fragilda</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_12_3">qiþiþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_12_4"><choice xml:id="CCar_abbr_256va_12_4"><abbr><am><g ref="#fraujatachi" /></am></abbr><expan><ex>frauja</ex></expan></choice></w>
+                  <lb n="13" xml:id="CCar_lb_256va_13" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_13_1">Jabai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_13_2">gredo</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_13_3">fijand</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_13_4"><choice xml:id="CCar_abbr_256va_13_4"><abbr>þein<am><g ref="#atild" /></am>a</abbr><expan>þeina<ex>n</ex>a</expan></choice></w>
+                  <lb n="14" xml:id="CCar_lb_256va_14" />
+                  <space xml:id="CCar_space_256va_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_14_1">ma<gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_256va_14_1">t</supplied></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_14_2"><gap unit="char" extent="2" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_256va_14_2">gi</supplied>f</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_14_3">imma</w>
+                  <lb n="15" xml:id="CCar_lb_256va_15" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_15_1">ïþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_15_2">jabai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_15_3">þaursjai</w>
+                  <lb n="16" xml:id="CCar_lb_256va_16" />
+                  <space xml:id="CCar_space_256va_16_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_16_1">dragkei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_16_2">ïna</w>
+                  <lb n="17" xml:id="CCar_lb_256va_17" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_17_1">þata</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_17_2">auk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_17_3">taujands</w>
+                  <lb n="18" xml:id="CCar_lb_256va_18" />
+                  <space xml:id="CCar_space_256va_18_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_18_1">haurja</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_18_2">funins</w>
+                  <lb n="19" xml:id="CCar_lb_256va_19" />
+                  <space xml:id="CCar_space_256va_19_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_19_1">ana</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_19_2">haubiþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_19_3">ïs</w>
+                  <lb n="20" xml:id="CCar_lb_256va_20" />
+               </ab>
+               <ab type="verse" n="21" xml:id="CCar_Rm_12_verse_21">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_20_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_20_2">gajiukaizau</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_20_3">af</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_20_4">unþiuþa</w>
+                  <lb n="21" xml:id="CCar_lb_256va_21" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_21_1">ak</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_21_2">gajiukais</w>
+                  <lb n="22" xml:id="CCar_lb_256va_22" />
+                  <space xml:id="CCar_space_256va_22_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_22_1">af</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_22_2">þiuþa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_22_3">unþiuþ</w>
+                  <lb n="23" xml:id="CCar_lb_256va_23" />
+               </ab>
+            </div>
+            <div type="chapter" n="13" xml:id="CCar_Rm_chapter_13">
+               <ab type="verse" n="1" xml:id="CCar_Rm_13_verse_1">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_23_1">All</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_23_2">saiwalo</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_23_3">waldufnjam</w>
+                  <lb n="24" xml:id="CCar_lb_256va_24" />
+                  <space xml:id="CCar_space_256va_24_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_24_1">ufarwisandam</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_24_2">ufhausjaiþ</w>
+                  <pb n="256vb" xml:id="CCar_pb_6_256vb" facs="#CCar_facs_6_256vb" />
+                  <lb n="1" xml:id="CCar_lb_256vb_1" />
+               </ab>
+            </div>
+            <div type="chapter" n="12" xml:id="CCar_Rm_chapter_12_3">
+               <ab type="verse" n="17" xml:id="CCar_Rm_12_verse_17_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_1_1">co<gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_256vb_1_1">r</supplied>am</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_1_2"><choice xml:id="CCar_abbr_256vb_1_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <lb n="2" xml:id="CCar_lb_256vb_2" />
+                  <space xml:id="CCar_space_256vb_2_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_2_1">sed</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_2_2">etiam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_2_3">cora<gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_256vb_2_3">m</supplied></w>
+                  <lb n="3" xml:id="CCar_lb_256vb_3" />
+               </ab>
+               <ab type="verse" n="18" xml:id="CCar_Rm_12_verse_18_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_3_1">Si</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_3_2">fieri</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_3_3">potest</w>
+                  <lb n="4" xml:id="CCar_lb_256vb_4" />
+                  <space xml:id="CCar_space_256vb_4_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_4_1">quod</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_4_2">ex</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_4_3">vobis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_4_4">est</w>
+                  <lb n="5" xml:id="CCar_lb_256vb_5" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_5_1"><choice xml:id="CCar_abbr_256vb_5_1"><abbr><gap unit="char" extent="2" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_5_1">om</supplied>ni<am><g ref="#usoverb" /></am></abbr><expan><gap unit="char" extent="2" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_5_1_bis">om</supplied>nib<ex>us</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_5_2"><choice xml:id="CCar_abbr_256vb_5_2"><abbr>homini<am><g ref="#usoverb" /></am></abbr><expan>hominib<ex>us</ex></expan></choice></w>
+                  <lb n="6" xml:id="CCar_lb_256vb_6" />
+                  <space xml:id="CCar_space_256vb_6_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_6_1">pac<gap unit="char" extent="2" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_6_1">em</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_6_2">habentes</w>
+                  <lb n="7" xml:id="CCar_lb_256vb_7" />
+               </ab>
+               <ab type="verse" n="19" xml:id="CCar_Rm_12_verse_19_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_7_1"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_7_1">non</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_7_2"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_7_2">vos</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_7_3">ipsos</w>
+                  <lb n="8" xml:id="CCar_lb_256vb_8" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_8_1">sed</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_8_2">date</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_8_3">locum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_8_4">irae</w>
+                  <lb n="9" xml:id="CCar_lb_256vb_9" />
+               </ab>
+               <ab type="verse" n="20" xml:id="CCar_Rm_12_verse_20_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_9_1">Scribtum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_9_2">est</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_9_3">enim</w>
+                  <lb n="10" xml:id="CCar_lb_256vb_10" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_10_1">mihi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_10_2">vindictam</w>
+                  <lb n="11" xml:id="CCar_lb_256vb_11" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_1">ego</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_2">retribuam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_3">dicit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_4"><choice xml:id="CCar_abbr_256vb_11_4"><abbr><am><g ref="#omioverd" /></am><am><g ref="#uovern" /></am>s</abbr><expan>d<ex>omi</ex>n<ex>u</ex>s</expan></choice></w>
+                  <lb n="12" xml:id="CCar_lb_256vb_12" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_12_1">Si</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_12_2">esurierit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_12_3">inimicus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_12_4">tuus</w>
+                  <lb n="13" xml:id="CCar_lb_256vb_13" />
+                  <space xml:id="CCar_space_256vb_13_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_13_1">ciba</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_13_2">illum</w>
+                  <lb n="14" xml:id="CCar_lb_256vb_14" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_14_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_14_2">si</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_14_3">sitierit</w>
+                  <lb n="15" xml:id="CCar_lb_256vb_15" />
+                  <space xml:id="CCar_space_256vb_15_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_15_1">po<gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_15_1">tum</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_15_2">da</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_15_3">illi</w>
+                  <lb n="16" xml:id="CCar_lb_256vb_16" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_16_1">hoc</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_16_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_16_3">faciens</w>
+                  <lb n="17" xml:id="CCar_lb_256vb_17" />
+                  <space xml:id="CCar_space_256vb_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_17_1"><gap unit="char" extent="8" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_17_1">carbones</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_17_2">ignis</w>
+                  <lb n="18" xml:id="CCar_lb_256vb_18" />
+                  <space xml:id="CCar_space_256vb_18_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_18_1"><gap unit="char" extent="5" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_18_1">super</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_18_2"><gap unit="char" extent="5" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_18_2">caput</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_18_3">eius</w>
+                  <lb n="19" xml:id="CCar_lb_256vb_19" />
+               </ab>
+               <ab type="verse" n="21" xml:id="CCar_Rm_12_verse_21_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_19_1">noli</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_19_2"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_256vb_19_2">vin</supplied>ci</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_19_3">a</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_19_4">malo</w>
+                  <lb n="20" xml:id="CCar_lb_256vb_20" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_20_1">sed</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_20_2">vince</w>
+                  <lb n="21" xml:id="CCar_lb_256vb_21" />
+                  <space xml:id="CCar_space_256vb_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_21_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_21_2">bono</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_21_3">malum</w>
+                  <lb n="22" xml:id="CCar_lb_256vb_22" />
+               </ab>
+            </div>
+            <div type="chapter" n="13" xml:id="CCar_Rm_chapter_13_bis">
+               <ab type="verse" n="1" xml:id="CCar_Rm_13_verse_1_2">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_22_1">Omnis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_22_2">anima</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_22_3"><choice xml:id="CCar_abbr_256vb_22_3"><abbr>potestati<am><g ref="#usoverb" /></am></abbr><expan>potestatib<ex>us</ex></expan></choice></w>
+                  <lb n="23" xml:id="CCar_lb_256vb_23" />
+                  <space xml:id="CCar_space_256vb_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_23_1">sublimibus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_23_2">subdita</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_23_3">sit</w>
+                  <pb n="256ra" xml:id="CCar_pb_7_256ra" facs="#CCar_facs_7_256ra" />
+                  <lb n="1" xml:id="CCar_lb_256ra_1" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_1_1">unte</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_1_2">nist</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_1_3">waldufni</w>
+                  <lb n="2" xml:id="CCar_lb_256ra_2" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_2_1">alja</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_2_2">fram</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_2_3"><choice xml:id="CCar_abbr_256ra_2_3"><abbr><am><g ref="#guþatachi" /></am></abbr><expan><ex>guþa</ex></expan></choice></w>
+                  <lb n="3" xml:id="CCar_lb_256ra_3" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_3_1">ïþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_3_2">þo</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_3_3">wisandona</w>
+                  <lb n="4" xml:id="CCar_lb_256ra_4" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_4_1">fram</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_4_2"><choice xml:id="CCar_abbr_256ra_4_2"><abbr><am><g ref="#guþatachi" /></am></abbr><expan><ex>guþa</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_4_3">gasatida</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_4_4">sind</w>
+                  <lb n="5" xml:id="CCar_lb_256ra_5" />
+               </ab>
+               <ab type="verse" n="2" xml:id="CCar_Rm_13_verse_2">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_5_1">swaei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_5_2">sa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_5_3">andstandands</w>
+                  <lb n="6" xml:id="CCar_lb_256ra_6" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_6_1"><choice xml:id="CCar_abbr_256ra_6_1"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_6_2">garaideinai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_6_3">andstoþ</w>
+                  <lb n="7" xml:id="CCar_lb_256ra_7" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_7_1">ïþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_7_2">þai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_7_3"><choice xml:id="CCar_abbr_256ra_7_3"><abbr>andstandand<am><g ref="#atild" /></am>s</abbr><expan>andstandanda<ex>n</ex>s</expan></choice></w>
+                  <lb n="8" xml:id="CCar_lb_256ra_8" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_8_1">silbans</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_8_2">sis</w>
+                  <lb n="9" xml:id="CCar_lb_256ra_9" />
+                  <space xml:id="CCar_space_256ra_9_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_9_1">wargiþa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_9_2">nimand</w>
+                  <lb n="10" xml:id="CCar_lb_256ra_10" />
+               </ab>
+               <ab type="verse" n="3" xml:id="CCar_Rm_13_verse_3">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_10_1">þai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_10_2">auk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_10_3">reiks</w>
+                  <lb n="11" xml:id="CCar_lb_256ra_11" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_11_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_11_2">sind</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_11_3">agis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_11_4">godamma</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_11_5">waurstwa</w>
+                  <lb n="12" xml:id="CCar_lb_256ra_12" />
+                  <space xml:id="CCar_space_256ra_12_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_12_1">ak</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_12_2">ubilamma</w>
+                  <lb n="13" xml:id="CCar_lb_256ra_13" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_13_1">aþþan</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_13_2">wileis</w>
+                  <lb n="14" xml:id="CCar_lb_256ra_14" />
+                  <space xml:id="CCar_space_256ra_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_14_1">ei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_14_2">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_14_3">ogeis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_14_4">waldufni</w>
+                  <lb n="15" xml:id="CCar_lb_256ra_15" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_15_1">þiuþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_15_2">taujais</w>
+                  <lb n="16" xml:id="CCar_lb_256ra_16" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_16_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_16_2">habais</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_16_3">hazein</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_16_4">us</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_16_5"><choice xml:id="CCar_abbr_256ra_16_5"><abbr>þa<am><g ref="#mmacr" /></am>a</abbr><expan>þam<ex>m</ex>a</expan></choice></w>
+                  <lb n="17" xml:id="CCar_lb_256ra_17" />
+               </ab>
+               <ab type="verse" n="4" xml:id="CCar_Rm_13_verse_4">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_17_1">unte</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_17_2"><choice xml:id="CCar_abbr_256ra_17_2"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_17_3">andbahts</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_17_4">ïst</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_17_5">þus</w>
+                  <lb n="18" xml:id="CCar_lb_256ra_18" />
+                  <space xml:id="CCar_space_256ra_18_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_18_1">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_18_2">godamma</w>
+                  <lb n="19" xml:id="CCar_lb_256ra_19" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_19_1">ïþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_19_2">jabai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_19_3">ubil</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_19_4">taujis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_19_5">ogs</w>
+                  <lb n="20" xml:id="CCar_lb_256ra_20" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_20_1">unte</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_20_2">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_20_3">sware</w>
+                  <lb n="21" xml:id="CCar_lb_256ra_21" />
+                  <space xml:id="CCar_space_256ra_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_21_1">þana</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_21_2">hairu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_21_3">bairiþ</w>
+                  <lb n="22" xml:id="CCar_lb_256ra_22" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_22_1"><choice xml:id="CCar_abbr_256ra_22_1"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_22_2">auk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_22_3">andbahts</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_22_4">ïst</w>
+                  <lb n="23" xml:id="CCar_lb_256ra_23" />
+                  <space xml:id="CCar_space_256ra_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_23_1">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_23_2">þwairhein</w>
+                  <lb n="24" xml:id="CCar_lb_256ra_24" />
+                  <space xml:id="CCar_space_256ra_24_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_24_1">þamma</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_24_2">ubil</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_24_3"><choice xml:id="CCar_abbr_256ra_24_3"><abbr>taujand<am><g ref="#itild" /></am></abbr><expan>taujandi<ex>n</ex></expan></choice></w>
+                  <lb n="25" xml:id="CCar_lb_256ra_25" />
+               </ab>
+               <ab type="verse" n="5" xml:id="CCar_Rm_13_verse_5">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_25_1">duþþe</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_25_2">ufhausjaiþ</w>
+                  <pb n="256rb" xml:id="CCar_pb_8_256rb" facs="#CCar_facs_8_256rb" />
+                  <lb n="1" xml:id="CCar_lb_256rb_1" />
+               </ab>
+               <ab type="verse" n="1" xml:id="CCar_Rm_13_verse_1_3">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_1_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_1_2">est</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_1_3">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_1_4"><gap unit="char" extent="8" /><supplied resp="Streitberg" xml:id="CCar_em_256rb_1_4">potestas</supplied></w>
+                  <lb n="2" xml:id="CCar_lb_256rb_2" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_2_1">nisi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_2_2">a</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_2_3"><choice xml:id="CCar_abbr_256rb_2_3"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <lb n="3" xml:id="CCar_lb_256rb_3" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_3_1">quae</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_3_2">autem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_3_3">sunt</w>
+                  <lb n="4" xml:id="CCar_lb_256rb_4" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_1">a</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_2"><choice xml:id="CCar_abbr_256rb_4_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_3">ordinatae</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_4">sunt</w>
+                  <lb n="5" xml:id="CCar_lb_256rb_5" />
+               </ab>
+               <ab type="verse" n="2" xml:id="CCar_Rm_13_verse_2_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_5_1">itaque</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_5_2">qui</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_5_3">resistit</w>
+                  <lb n="6" xml:id="CCar_lb_256rb_6" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_6_1"><choice xml:id="CCar_abbr_256rb_6_1"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_6_2">ornationi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_6_3">resistit</w>
+                  <lb n="7" xml:id="CCar_lb_256rb_7" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_7_1">qui</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_7_2">autem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_7_3">resistunt</w>
+                  <lb n="8" xml:id="CCar_lb_256rb_8" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_8_1">ipsi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_8_2">sibi</w>
+                  <lb n="9" xml:id="CCar_lb_256rb_9" />
+                  <space xml:id="CCar_space_256rb_9_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_9_1">damnationem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_9_2">adqui<hi rend="small" xml:id="CCar_small_256rb_9_2">runt</hi></w>
+                  <lb n="10" xml:id="CCar_lb_256rb_10" />
+               </ab>
+               <ab type="verse" n="3" xml:id="CCar_Rm_13_verse_3_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_10_1">nam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_10_2">principes</w>
+                  <lb n="11" xml:id="CCar_lb_256rb_11" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_11_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_11_2">sunt</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_11_3">timori</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_11_4">bono</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_11_5"><hi rend="small" xml:id="CCar_small_256rb_11_5">operi</hi></w>
+                  <lb n="12" xml:id="CCar_lb_256rb_12" />
+                  <space xml:id="CCar_space_256rb_12_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_12_1">sed</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_12_2">malo</w>
+                  <lb n="13" xml:id="CCar_lb_256rb_13" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_13_1">vis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_13_2">autem</w>
+                  <lb n="14" xml:id="CCar_lb_256rb_14" />
+                  <space xml:id="CCar_space_256rb_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_14_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_14_2">timere</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_14_3"><choice xml:id="CCar_abbr_256rb_14_3"><abbr>potestat<am><g ref="#emacr" /></am></abbr><expan>potestate<ex>m</ex></expan></choice></w>
+                  <lb n="15" xml:id="CCar_lb_256rb_15" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_15_1">bonum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_15_2">fac</w>
+                  <lb n="16" xml:id="CCar_lb_256rb_16" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_16_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_16_2">habebis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_16_3">laudem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_16_4">ex</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_16_5">illa</w>
+                  <lb n="17" xml:id="CCar_lb_256rb_17" />
+               </ab>
+               <ab type="verse" n="4" xml:id="CCar_Rm_13_verse_4_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_1"><choice xml:id="CCar_abbr_256rb_17_1"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_3">minister</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_4">est</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_5">tibi</w>
+                  <lb n="18" xml:id="CCar_lb_256rb_18" />
+                  <space xml:id="CCar_space_256rb_18_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_18_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_18_2">bonum</w>
+                  <lb n="19" xml:id="CCar_lb_256rb_19" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_19_1">si</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_19_2">autem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_19_3">malum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_19_4">feceris</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_19_5">ti<hi rend="small" xml:id="CCar_small_256rb_19_5">me</hi></w>
+                  <lb n="20" xml:id="CCar_lb_256rb_20" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_20_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_20_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_20_3">sine</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_20_4">causa</w>
+                  <lb n="21" xml:id="CCar_lb_256rb_21" />
+                  <space xml:id="CCar_space_256rb_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_21_1">gladium</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_21_2">portat</w>
+                  <lb n="22" xml:id="CCar_lb_256rb_22" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_1"><choice xml:id="CCar_abbr_256rb_22_1"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_3">minister</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_4">est</w>
+                  <lb n="23" xml:id="CCar_lb_256rb_23" />
+                  <space xml:id="CCar_space_256rb_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_23_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_23_2">ira</w>
+                  <lb n="24" xml:id="CCar_lb_256rb_24" />
+                  <space xml:id="CCar_space_256rb_24_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_24_1">ei</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_24_2">qui</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_24_3">malum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_24_4">agit</w>
+                  <lb n="25" xml:id="CCar_lb_256rb_25" />
+               </ab>
+               <ab type="verse" n="5" xml:id="CCar_Rm_13_verse_5_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_25_1"><choice xml:id="CCar_abbr_256rb_25_1"><abbr>ideo<am><g ref="#ueoverq" /></am></abbr><expan>ideoq<ex>ue</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_25_2">subditi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_25_3">estote</w>
+                  <pb n="255va" xml:id="CCar_pb_9_255va" facs="#CCar_facs_9_255va" />
+                  <lb n="1" xml:id="CCar_lb_255va_1" />
+               </ab>
+            </div>
+            <div type="chapter" n="14" xml:id="CCar_Rm_chapter_14">
+               <ab type="verse" n="9" xml:id="CCar_Rm_14_verse_9">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_1_1"><gap unit="char" extent="undefined" /></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_1_2">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_1_3">qiwaim</w>
+                  <lb n="2" xml:id="CCar_lb_255va_2" />
+                  <space xml:id="CCar_space_255va_2_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_2_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_2_2">dauþaim</w>
+                  <lb n="3" xml:id="CCar_lb_255va_3" />
+               </ab>
+               <ab type="verse" n="10" xml:id="CCar_Rm_14_verse_10">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_3_1">Ïþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_3_2">þu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_3_3">ƕa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_3_4">stojis</w>
+                  <lb n="4" xml:id="CCar_lb_255va_4" />
+                  <space xml:id="CCar_space_255va_4_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_4_1">broþar</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_4_2">þeinana</w>
+                  <lb n="5" xml:id="CCar_lb_255va_5" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_5_1">aiþþau</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_5_2">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_5_3">þu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_5_4">ƕa</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_5_5"><choice xml:id="CCar_abbr_255va_5_5"><abbr>frak<am><g ref="#atild" /></am>t</abbr><expan>fraka<ex>n</ex>t</expan></choice></w>
+                  <lb n="6" xml:id="CCar_lb_255va_6" />
+                  <space xml:id="CCar_space_255va_6_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_6_1">broþr</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_6_2">þeinamma</w>
+                  <lb n="7" xml:id="CCar_lb_255va_7" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_7_1">allai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_7_2">auk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_7_3">gasatjanda</w>
+                  <lb n="8" xml:id="CCar_lb_255va_8" />
+                  <space xml:id="CCar_space_255va_8_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_8_1">faura</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_8_2">stauastola</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_8_3"><choice xml:id="CCar_abbr_255va_8_3"><abbr><am><g ref="#xristaustachi" /></am></abbr><expan><ex>xristaus</ex></expan></choice></w>
+                  <lb n="9" xml:id="CCar_lb_255va_9" />
+               </ab>
+               <ab type="verse" n="11" xml:id="CCar_Rm_14_verse_11">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_9_1">Gameliþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_9_2">ïst</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_9_3">auk</w>
+                  <lb n="10" xml:id="CCar_lb_255va_10" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_10_1">liba</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_10_2">ïk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_10_3">qiþiþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_10_4"><choice xml:id="CCar_abbr_255va_10_4"><abbr><am><g ref="#fraujatachi" /></am></abbr><expan><ex>frauja</ex></expan></choice></w>
+                  <lb n="11" xml:id="CCar_lb_255va_11" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_11_1">þatei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_11_2">mis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_11_3">all</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_11_4">kniwe</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_11_5">biugiþ</w>
+                  <lb n="12" xml:id="CCar_lb_255va_12" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_12_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_12_2">andhaitiþ</w>
+                  <lb n="13" xml:id="CCar_lb_255va_13" />
+                  <space xml:id="CCar_space_255va_13_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_13_1">alla</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_13_2">razdo</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_13_3"><choice xml:id="CCar_abbr_255va_13_3"><abbr><am><g ref="#guþatachi" /></am></abbr><expan><ex>guþa</ex></expan></choice></w>
+                  <lb n="14" xml:id="CCar_lb_255va_14" />
+               </ab>
+               <ab type="verse" n="12" xml:id="CCar_Rm_14_verse_12">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_14_1">Þannu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_14_2">nu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_14_3">ƕarjizuh</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_14_4">unsara</w>
+                  <lb n="15" xml:id="CCar_lb_255va_15" />
+                  <space xml:id="CCar_space_255va_15_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_15_1">fram</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_15_2">sis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_15_3">raþjon</w>
+                  <lb n="16" xml:id="CCar_lb_255va_16" />
+                  <space xml:id="CCar_space_255va_16_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_16_1">usgibiþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_16_2"><choice xml:id="CCar_abbr_255va_16_2"><abbr><am><g ref="#guþatachi" /></am></abbr><expan><ex>guþa</ex></expan></choice></w>
+                  <lb n="17" xml:id="CCar_lb_255va_17" />
+               </ab>
+               <ab type="verse" n="13" xml:id="CCar_Rm_14_verse_13">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_17_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_17_2">þanamais</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_17_3">nu</w>
+                  <lb n="18" xml:id="CCar_lb_255va_18" />
+                  <space xml:id="CCar_space_255va_18_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_18_1">uns</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_18_2">misso</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_18_3">stojaima</w>
+                  <lb n="19" xml:id="CCar_lb_255va_19" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_19_1">ak</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_19_2">þata</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_19_3">stojaiþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_19_4">mais</w>
+                  <lb n="20" xml:id="CCar_lb_255va_20" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_20_1">ei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_20_2">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_20_3">satjaiþ</w>
+                  <lb n="21" xml:id="CCar_lb_255va_21" />
+                  <space xml:id="CCar_space_255va_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_21_1">bistugq</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_21_2">broþr</w>
+                  <lb n="22" xml:id="CCar_lb_255va_22" />
+                  <space xml:id="CCar_space_255va_22_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_22_1">aiþþau</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_22_2">gamarzein</w>
+                  <lb n="23" xml:id="CCar_lb_255va_23" />
+               </ab>
+               <ab type="verse" n="14" xml:id="CCar_Rm_14_verse_14">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_23_1">Wait</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_23_2">jag</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_23_3">gatraua</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_23_4">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_23_5"><choice xml:id="CCar_abbr_255va_23_5"><abbr><am><g ref="#fraujintachi" /></am></abbr><expan><ex>fraujin</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_23_6"><choice xml:id="CCar_abbr_255va_23_6"><abbr><am><g ref="#iesuatachi" /></am></abbr><expan><ex>iesua</ex></expan></choice></w>
+                  <lb n="24" xml:id="CCar_lb_255va_24" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_24_1">þatei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_24_2">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_24_3">waiht</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_24_4">gawamm</w>
+                  <lb n="25" xml:id="CCar_lb_255va_25" />
+                  <space xml:id="CCar_space_255va_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_25_1">þairh</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_25_2">sik</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_25_3">silbo</w>
+                  <lb n="26" xml:id="CCar_lb_255va_26" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_26_1">niba</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_26_2">þamma</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_26_3">munandin</w>
+                  <pb n="255vb" xml:id="CCar_pb_10_255vb" facs="#CCar_facs_10_255vb" />
+                  <lb n="1" xml:id="CCar_lb_255vb_1" />
+               </ab>
+               <ab type="verse" n="9" xml:id="CCar_Rm_14_verse_9_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_1_1"><gap unit="char" extent="2" /><supplied resp="Streitberg" xml:id="CCar_em_255vb_1_1">ut</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_1_2"><gap unit="char" extent="2" /><supplied resp="Streitberg" xml:id="CCar_em_255vb_1_2">et</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_1_3"><gap unit="char" extent="7" /><supplied resp="Streitberg" xml:id="CCar_em_255vb_1_3">vivorum</supplied></w>
+                  <lb n="2" xml:id="CCar_lb_255vb_2" />
+                  <space xml:id="CCar_space_255vb_2_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_2_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_2_2">mortuorum</w>
+                  <lb n="3" xml:id="CCar_lb_255vb_3" />
+               </ab>
+               <ab type="verse" n="10" xml:id="CCar_Rm_14_verse_10_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_3_1">Tu</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_3_2">autem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_3_3">quid</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_3_4">iudicas</w>
+                  <lb n="4" xml:id="CCar_lb_255vb_4" />
+                  <space xml:id="CCar_space_255vb_4_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_4_1">fratrem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_4_2">tuum</w>
+                  <lb n="5" xml:id="CCar_lb_255vb_5" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_5_1">aut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_5_2">tu</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_5_3">quare</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_5_4">spernes</w>
+                  <lb n="6" xml:id="CCar_lb_255vb_6" />
+                  <space xml:id="CCar_space_255vb_6_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_6_1">fratrem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_6_2">tuum</w>
+                  <lb n="7" xml:id="CCar_lb_255vb_7" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_7_1">omnes</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_7_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_7_3">stabimus</w>
+                  <lb n="8" xml:id="CCar_lb_255vb_8" />
+                  <space xml:id="CCar_space_255vb_8_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_8_1">ante</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_8_2">tribunal</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_8_3"><choice xml:id="CCar_abbr_255vb_8_3"><abbr><am><g ref="#christoveri" /></am>i</abbr><expan><ex>christ</ex>i</expan></choice></w>
+                  <lb n="9" xml:id="CCar_lb_255vb_9" />
+               </ab>
+               <ab type="verse" n="11" xml:id="CCar_Rm_14_verse_11_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_9_1">Scribtum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_9_2">est</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_9_3">enim</w>
+                  <lb n="10" xml:id="CCar_lb_255vb_10" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_1">vivo</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_2">ego</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_3">dicit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_4"><choice xml:id="CCar_abbr_255vb_10_4"><abbr><am><g ref="#omioverd" /></am><am><g ref="#uovern" /></am>s</abbr><expan>d<ex>omi</ex>n<ex>u</ex>s</expan></choice></w>
+                  <lb n="11" xml:id="CCar_lb_255vb_11" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_11_1">quoniam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_11_2">mihi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_11_3">flectet</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_11_4">om<hi rend="small" xml:id="CCar_small_255vb_11_4">ne</hi></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_11_5"><hi rend="small" xml:id="CCar_small_255vb_11_5">genu</hi></w>
+                  <lb n="12" xml:id="CCar_lb_255vb_12" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_12_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_12_2">confitetur</w>
+                  <lb n="13" xml:id="CCar_lb_255vb_13" />
+                  <space xml:id="CCar_space_255vb_13_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_13_1">omnis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_13_2">lingua</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_13_3"><choice xml:id="CCar_abbr_255vb_13_3"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <lb n="14" xml:id="CCar_lb_255vb_14" />
+               </ab>
+               <ab type="verse" n="12" xml:id="CCar_Rm_14_verse_12_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_14_1"><choice xml:id="CCar_abbr_255vb_14_1"><abbr>Ita<am><g ref="#ueoverq" /></am></abbr><expan>Itaq<ex>ue</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_14_2"><choice xml:id="CCar_abbr_255vb_14_2"><abbr>unusquis<am><g ref="#ueoverq" /></am></abbr><expan>unusquisq<ex>ue</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_14_3"><choice xml:id="CCar_abbr_255vb_14_3"><abbr>nostr<am><g ref="#umacr" /></am></abbr><expan>nostru<ex>m</ex></expan></choice></w>
+                  <lb n="15" xml:id="CCar_lb_255vb_15" />
+                  <space xml:id="CCar_space_255vb_15_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_15_1">pro</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_15_2">se</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_15_3">rationem</w>
+                  <lb n="16" xml:id="CCar_lb_255vb_16" />
+                  <space xml:id="CCar_space_255vb_16_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_16_1">reddet</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_16_2"><choice xml:id="CCar_abbr_255vb_16_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <lb n="17" xml:id="CCar_lb_255vb_17" />
+               </ab>
+               <ab type="verse" n="13" xml:id="CCar_Rm_14_verse_13_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_17_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_17_2">ergo</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_17_3">amplius</w>
+                  <lb n="18" xml:id="CCar_lb_255vb_18" />
+                  <space xml:id="CCar_space_255vb_18_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_18_1">invicem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_18_2">iudicemus</w>
+                  <lb n="19" xml:id="CCar_lb_255vb_19" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_19_1">sed</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_19_2">hoc</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_19_3">iudicate</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_19_4">magis</w>
+                  <lb n="20" xml:id="CCar_lb_255vb_20" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_20_1">ne</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_20_2">ponatis</w>
+                  <lb n="21" xml:id="CCar_lb_255vb_21" />
+                  <space xml:id="CCar_space_255vb_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_21_1">offensionem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_21_2">fratri</w>
+                  <lb n="22" xml:id="CCar_lb_255vb_22" />
+                  <space xml:id="CCar_space_255vb_22_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_22_1">aut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_22_2">scandalum</w>
+                  <lb n="23" xml:id="CCar_lb_255vb_23" />
+               </ab>
+               <ab type="verse" n="14" xml:id="CCar_Rm_14_verse_14_2">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_1">Scio</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_2">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_3">confido</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_4">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_5"><choice xml:id="CCar_abbr_255vb_23_5"><abbr><am><g ref="#omioverd" /></am>no</abbr><expan>d<ex>omi</ex>no</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_6"><choice xml:id="CCar_abbr_255vb_23_6"><abbr><am><g ref="#iesoveru" /></am>u</abbr><expan><ex>ies</ex>u</expan></choice></w>
+                  <lb n="24" xml:id="CCar_lb_255vb_24" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_24_1">quia</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_24_2">nihil</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_24_3">commune</w>
+                  <lb n="25" xml:id="CCar_lb_255vb_25" />
+                  <space xml:id="CCar_space_255vb_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_25_1">per</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_25_2">se</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_25_3">ipsum</w>
+                  <lb n="26" xml:id="CCar_lb_255vb_26" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_26_1">nisi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_26_2">ei</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_26_3">qui</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_26_4">existimat</w>
+                  <pb n="255ra" xml:id="CCar_pb_11_255ra" facs="#CCar_facs_11_255ra" />
+                  <lb n="1" xml:id="CCar_lb_255ra_1" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_1_1"><gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_255ra_1_1">a</supplied></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_1_2"><gap unit="char" extent="7" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_255ra_1_2">unhrain</supplied></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_1_3"><gap unit="char" extent="5" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_255ra_1_3">wisan</supplied></w>
+                  <lb n="2" xml:id="CCar_lb_255ra_2" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_2_1">þamma</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_2_2">gamain</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_2_3">ïst</w>
+                  <lb n="3" xml:id="CCar_lb_255ra_3" />
+               </ab>
+               <ab type="verse" n="15" xml:id="CCar_Rm_14_verse_15">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_3_1">ïþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_3_2">jabai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_3_3">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_3_4">matis</w>
+                  <lb n="4" xml:id="CCar_lb_255ra_4" />
+                  <space xml:id="CCar_space_255ra_4_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_4_1">broþar</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_4_2">þeins</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_4_3">gaurjada</w>
+                  <lb n="5" xml:id="CCar_lb_255ra_5" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_5_1">ju</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_5_2">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_5_3">bi</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_5_4">friaþwai</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_5_5">gaggis</w>
+                  <lb n="6" xml:id="CCar_lb_255ra_6" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_6_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_6_2">nunu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_6_3">mata</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_6_4"><choice xml:id="CCar_abbr_255ra_6_4"><abbr>þeina<am><g ref="#mmacr" /></am>a</abbr><expan>þeinam<ex>m</ex>a</expan></choice></w>
+                  <lb n="7" xml:id="CCar_lb_255ra_7" />
+                  <space xml:id="CCar_space_255ra_7_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_7_1">jainamma</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_7_2">fraqistjais</w>
+                  <lb n="8" xml:id="CCar_lb_255ra_8" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_8_1">faur</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_8_2">þanei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_8_3"><choice xml:id="CCar_abbr_255ra_8_3"><abbr><am><g ref="#xristustachi" /></am></abbr><expan><ex>xristus</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_8_4">gaswalt</w>
+                  <lb n="9" xml:id="CCar_lb_255ra_9" />
+               </ab>
+               <ab type="verse" n="16" xml:id="CCar_Rm_14_verse_16">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_9_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_9_2">wajamerjaidau</w>
+                  <lb n="10" xml:id="CCar_lb_255ra_10" />
+                  <space xml:id="CCar_space_255ra_10_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_10_1">unsar</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_10_2">þiuþ</w>
+                  <lb n="11" xml:id="CCar_lb_255ra_11" />
+               </ab>
+               <ab type="verse" n="17" xml:id="CCar_Rm_14_verse_17">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_11_1">nist</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_11_2">auk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_11_3">þiudangard</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_11_4"><choice xml:id="CCar_abbr_255ra_11_4"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <lb n="12" xml:id="CCar_lb_255ra_12" />
+                  <space xml:id="CCar_space_255ra_12_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_12_1">mats</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_12_2">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_12_3">dragk</w>
+                  <lb n="13" xml:id="CCar_lb_255ra_13" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_13_1">ak</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_13_2">garaihtei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_13_3">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_13_4">gawairþi</w>
+                  <lb n="14" xml:id="CCar_lb_255ra_14" />
+                  <space xml:id="CCar_space_255ra_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_14_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_14_2">faheþs</w>
+                  <lb n="15" xml:id="CCar_lb_255ra_15" />
+                  <space xml:id="CCar_space_255ra_15_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_15_1">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_15_2">ahmin</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_15_3">weihamma</w>
+                  <lb n="16" xml:id="CCar_lb_255ra_16" />
+               </ab>
+               <ab type="verse" n="18" xml:id="CCar_Rm_14_verse_18">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_16_1">saei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_16_2">auk</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_16_3">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_16_4">þaim</w>
+                  <lb n="17" xml:id="CCar_lb_255ra_17" />
+                  <space xml:id="CCar_space_255ra_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_17_1">skalkinoþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_17_2"><choice xml:id="CCar_abbr_255ra_17_2"><abbr><am><g ref="#ristoverx" /></am>au</abbr><expan>x<ex>rist</ex>au</expan></choice></w>
+                  <lb n="18" xml:id="CCar_lb_255ra_18" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_18_1">waila</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_18_2">galeikaiþ</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_18_3"><choice xml:id="CCar_abbr_255ra_18_3"><abbr><am><g ref="#guþatachi" /></am></abbr><expan><ex>guþa</ex></expan></choice></w>
+                  <lb n="19" xml:id="CCar_lb_255ra_19" />
+                  <space xml:id="CCar_space_255ra_19_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_19_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_19_2">gakusans</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_19_3">ïst</w>
+                  <lb n="20" xml:id="CCar_lb_255ra_20" />
+               </ab>
+               <ab type="verse" n="19" xml:id="CCar_Rm_14_verse_19">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_20_1">þannu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_20_2">nu</w>
+                  <lb n="21" xml:id="CCar_lb_255ra_21" />
+                  <space xml:id="CCar_space_255ra_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_21_1">þoe<gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_255ra_21_1">i</supplied></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_21_2">gawairþjis</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_21_3"><choice xml:id="CCar_abbr_255ra_21_3"><abbr>s<am><g ref="#itild" /></am>d</abbr><expan>si<ex>n</ex>d</expan></choice></w>
+                  <lb n="22" xml:id="CCar_lb_255ra_22" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_22_1">jah</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_22_2">þoei</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_22_3">timreinais</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_22_4"><choice xml:id="CCar_abbr_255ra_22_4"><abbr>s<am><g ref="#itild" /></am>d</abbr><expan>si<ex>n</ex>d</expan></choice></w>
+                  <lb n="23" xml:id="CCar_lb_255ra_23" />
+                  <space xml:id="CCar_space_255ra_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_23_1">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_23_2">uns</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_23_3">misso</w>
+                  <lb n="24" xml:id="CCar_lb_255ra_24" />
+               </ab>
+               <ab type="verse" n="20" xml:id="CCar_Rm_14_verse_20">
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_24_1">ni</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_24_2">nunu</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_24_3">ïn</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_24_4">matis</w>
+                  <lb n="25" xml:id="CCar_lb_255ra_25" />
+                  <space xml:id="CCar_space_255ra_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_25_1">gatair</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_25_2">waurstw</w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_25_3"><choice xml:id="CCar_abbr_255ra_25_3"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <pb n="255rb" xml:id="CCar_pb_12_255rb" facs="#CCar_facs_12_255rb" />
+                  <lb n="1" xml:id="CCar_lb_255rb_1" />
+               </ab>
+               <ab type="verse" n="14" xml:id="CCar_Rm_14_verse_14_3">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_1_1">quid</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_1_2">co<gap unit="char" extent="5" /><supplied resp="Streitberg" xml:id="CCar_em_255rb_1_2">mmune</supplied></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_1_3"><gap unit="char" extent="4" /><supplied resp="Streitberg" xml:id="CCar_em_255rb_1_3">esse</supplied></w>
+                  <lb n="2" xml:id="CCar_lb_255rb_2" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_2_1">illi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_2_2">commune</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_2_3">est</w>
+                  <lb n="3" xml:id="CCar_lb_255rb_3" />
+               </ab>
+               <ab type="verse" n="15" xml:id="CCar_Rm_14_verse_15_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_3_1">nam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_3_2">si</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_3_3">propter</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_3_4">aescam</w>
+                  <lb n="4" xml:id="CCar_lb_255rb_4" />
+                  <space xml:id="CCar_space_255rb_4_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_4_1">frater</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_4_2">tuus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_4_3">contrista<hi rend="small" xml:id="CCar_small_255rb_4_3">tur</hi></w>
+                  <lb n="5" xml:id="CCar_lb_255rb_5" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_5_1">iam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_5_2">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_5_3">secundum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_5_4">cari<hi rend="small" xml:id="CCar_small_255rb_5_4">tatem</hi></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_5_5"><hi rend="small" xml:id="CCar_small_255rb_5_5">ambulas</hi></w>
+                  <lb n="6" xml:id="CCar_lb_255rb_6" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_6_1">noli</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_6_2">esca</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_6_3">tua</w>
+                  <lb n="7" xml:id="CCar_lb_255rb_7" />
+                  <space xml:id="CCar_space_255rb_7_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_7_1">illum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_7_2">perdere</w>
+                  <lb n="8" xml:id="CCar_lb_255rb_8" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_1">pro</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_2">quo</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_3"><choice xml:id="CCar_abbr_255rb_8_3"><abbr><am><g ref="#christuovers" /></am>s</abbr><expan><ex>christu</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_4">mortuus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_5">est</w>
+                  <lb n="9" xml:id="CCar_lb_255rb_9" />
+               </ab>
+               <ab type="verse" n="16" xml:id="CCar_Rm_14_verse_16_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_9_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_9_2">ergo</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_9_3">blasfemetur</w>
+                  <lb n="10" xml:id="CCar_lb_255rb_10" />
+                  <space xml:id="CCar_space_255rb_10_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_10_1">bonum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_10_2"><gap unit="char" extent="2" /><supplied resp="Streitberg" xml:id="CCar_em_255rb_10_2">no</supplied>strum</w>
+                  <lb n="11" xml:id="CCar_lb_255rb_11" />
+               </ab>
+               <ab type="verse" n="17" xml:id="CCar_Rm_14_verse_17_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_1">non</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_2">est</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_3">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_4">regnum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_5"><choice xml:id="CCar_abbr_255rb_11_5"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <lb n="12" xml:id="CCar_lb_255rb_12" />
+                  <space xml:id="CCar_space_255rb_12_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_12_1">aesca</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_12_2">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_12_3">potus</w>
+                  <lb n="13" xml:id="CCar_lb_255rb_13" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_13_1">sed</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_13_2">iustitiae</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_13_3">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_13_4">pax</w>
+                  <lb n="14" xml:id="CCar_lb_255rb_14" />
+                  <space xml:id="CCar_space_255rb_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_14_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_14_2">gaudium</w>
+                  <lb n="15" xml:id="CCar_lb_255rb_15" />
+                  <space xml:id="CCar_space_255rb_15_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_15_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_15_2"><choice xml:id="CCar_abbr_255rb_15_2"><abbr>s<am><g ref="#iritoverp" /></am>u</abbr><expan>sp<ex>irit</ex>u</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_15_3"><choice xml:id="CCar_abbr_255rb_15_3"><abbr><am><g ref="#anovers" /></am><am><g ref="#toverc" /></am>o</abbr><expan>s<ex>an</ex>c<ex>t</ex>o</expan></choice></w>
+                  <lb n="16" xml:id="CCar_lb_255rb_16" />
+               </ab>
+               <ab type="verse" n="18" xml:id="CCar_Rm_14_verse_18_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_16_1">qui</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_16_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_16_3">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_16_4">his</w>
+                  <lb n="17" xml:id="CCar_lb_255rb_17" />
+                  <space xml:id="CCar_space_255rb_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_17_1">servit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_17_2">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_17_3"><choice xml:id="CCar_abbr_255rb_17_3"><abbr><am><g ref="#christovero" /></am>o</abbr><expan><ex>christ</ex>o</expan></choice></w>
+                  <lb n="18" xml:id="CCar_lb_255rb_18" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_18_1">placet</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_18_2"><choice xml:id="CCar_abbr_255rb_18_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <lb n="19" xml:id="CCar_lb_255rb_19" />
+                  <space xml:id="CCar_space_255rb_19_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_19_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_19_2">probatus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_19_3">est</w>
+                  <lb n="20" xml:id="CCar_lb_255rb_20" />
+                  <space xml:id="CCar_space_255rb_20_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_20_1">quae</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_20_2">pacis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_20_3">sunt</w>
+                  <lb n="21" xml:id="CCar_lb_255rb_21" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_2"><choice xml:id="CCar_abbr_255rb_21_2"><abbr><am><g ref="#uaeoverq" /></am></abbr><expan>q<ex>uae</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_3">aedificationis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_4">sunt</w>
+                  <lb n="22" xml:id="CCar_lb_255rb_22" />
+                  <space xml:id="CCar_space_255rb_22_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_22_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_22_2">invicem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_22_3">custodiamus</w>
+                  <lb n="23" xml:id="CCar_lb_255rb_23" />
+               </ab>
+               <ab type="verse" n="20" xml:id="CCar_Rm_14_verse_20_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_23_1">noli</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_23_2"><del rend="erasure" xml:id="CCar_del_255rb_23_2">??</del></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_23_3">propter</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_23_4">escam</w>
+                  <lb n="24" xml:id="CCar_lb_255rb_24" />
+                  <space xml:id="CCar_space_255rb_24_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_1">destruere</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_2">opus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_3"><choice xml:id="CCar_abbr_255rb_24_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <pb n="280ra" xml:id="CCar_pb_13_280ra" facs="#CCar_facs_13_280ra" />
+                  <lb n="1" xml:id="CCar_lb_280ra_1" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_1_1">þize</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_1_2"><choice xml:id="CCar_abbr_280ra_1_2"><abbr>ïdweitjand<am><g ref="#atild" /></am>e</abbr><expan>ïdweitjanda<ex>n</ex>e</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_1_3">þuk</w>
+                  <lb n="2" xml:id="CCar_lb_280ra_2" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_2_1">gadrusun</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_2_2">ana</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_2_3">mik</w>
+                  <lb n="3" xml:id="CCar_lb_280ra_3" />
+               </ab>
+            </div>
+            <div type="chapter" n="15" xml:id="CCar_Rm_chapter_15">
+               <ab type="verse" n="4" xml:id="CCar_Rm_15_verse_4">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_3_1">Swa</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_3_2">filu</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_3_3">auk</w>
+                  <lb n="4" xml:id="CCar_lb_280ra_4" />
+                  <space xml:id="CCar_space_280ra_4_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_4_1">swe</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_4_2">fauragameliþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_4_3">warþ</w>
+                  <lb n="5" xml:id="CCar_lb_280ra_5" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_5_1">du</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_5_2">unsarai</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_5_3">laiseinai</w>
+                  <lb n="6" xml:id="CCar_lb_280ra_6" />
+                  <space xml:id="CCar_space_280ra_6_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_6_1">gameliþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_6_2">warþ</w>
+                  <lb n="7" xml:id="CCar_lb_280ra_7" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_7_1">ei</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_7_2">þairh</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_7_3">þulain</w>
+                  <lb n="8" xml:id="CCar_lb_280ra_8" />
+                  <space xml:id="CCar_space_280ra_8_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_8_1">jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_8_2">gaþrafstein</w>
+                  <lb n="9" xml:id="CCar_lb_280ra_9" />
+                  <space xml:id="CCar_space_280ra_9_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_9_1">wen</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_9_2">habaima</w>
+                  <lb n="10" xml:id="CCar_lb_280ra_10" />
+               </ab>
+               <ab type="verse" n="5" xml:id="CCar_Rm_15_verse_5">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_10_1">ïþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_10_2"><choice xml:id="CCar_abbr_280ra_10_2"><abbr><am><g ref="#guþtachi" /></am></abbr><expan><ex>guþ</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_10_3">þulainais</w>
+                  <lb n="11" xml:id="CCar_lb_280ra_11" />
+                  <space xml:id="CCar_space_280ra_11_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_11_1">jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_11_2">þrafsteinais</w>
+                  <lb n="12" xml:id="CCar_lb_280ra_12" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_12_1">gibai</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_12_2">ïzwis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_12_3">þata</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_12_4">samo</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_12_5"><choice xml:id="CCar_abbr_280ra_12_5"><abbr>fraþj<am><g ref="#atild" /></am></abbr><expan>fraþja<ex>n</ex></expan></choice></w>
+                  <lb n="13" xml:id="CCar_lb_280ra_13" />
+                  <space xml:id="CCar_space_280ra_13_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_13_1">ïn</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_13_2">izwis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_13_3">misso</w>
+                  <lb n="14" xml:id="CCar_lb_280ra_14" />
+                  <space xml:id="CCar_space_280ra_14_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_14_1">bi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_14_2"><choice xml:id="CCar_abbr_280ra_14_2"><abbr><am><g ref="#xristutachi" /></am></abbr><expan><ex>xristu</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_14_3"><choice xml:id="CCar_abbr_280ra_14_3"><abbr><am><g ref="#iesutachi" /></am></abbr><expan><ex>iesu</ex></expan></choice></w>
+                  <lb n="15" xml:id="CCar_lb_280ra_15" />
+               </ab>
+               <ab type="verse" n="6" xml:id="CCar_Rm_15_verse_6">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_15_1">ei</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_15_2">gawiljai</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_15_3">ainamma</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_15_4"><choice xml:id="CCar_abbr_280ra_15_4"><abbr>m<am><g ref="#utild" /></am>þa</abbr><expan>mu<ex>n</ex>þa</expan></choice></w>
+                  <lb n="16" xml:id="CCar_lb_280ra_16" />
+                  <space xml:id="CCar_space_280ra_16_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_16_1">hauhjaiþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_16_2"><choice xml:id="CCar_abbr_280ra_16_2"><abbr><am><g ref="#guþtachi" /></am></abbr><expan><ex>guþ</ex></expan></choice></w>
+                  <lb n="17" xml:id="CCar_lb_280ra_17" />
+                  <space xml:id="CCar_space_280ra_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_17_1">jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_17_2">attan</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_17_3"><choice xml:id="CCar_abbr_280ra_17_3"><abbr><am><g ref="#fraujinstachi" /></am></abbr><expan><ex>fraujins</ex></expan></choice></w>
+                  <lb n="18" xml:id="CCar_lb_280ra_18" />
+                  <space xml:id="CCar_space_280ra_18_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_18_1">unsaris</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_18_2"><choice xml:id="CCar_abbr_280ra_18_2"><abbr><am><g ref="#iesuistachi" /></am></abbr><expan><ex>iesuis</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_18_3"><choice xml:id="CCar_abbr_280ra_18_3"><abbr><am><g ref="#xristaustachi" /></am></abbr><expan><ex>xristaus</ex></expan></choice></w>
+                  <lb n="19" xml:id="CCar_lb_280ra_19" />
+               </ab>
+               <ab type="verse" n="7" xml:id="CCar_Rm_15_verse_7">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_19_1">ïn</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_19_2">þizei</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_19_3">andnimaiþ</w>
+                  <lb n="20" xml:id="CCar_lb_280ra_20" />
+                  <space xml:id="CCar_space_280ra_20_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_20_1">ïzwis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_20_2">misso</w>
+                  <lb n="21" xml:id="CCar_lb_280ra_21" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_21_1">swaswe</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_21_2">jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_21_3"><choice xml:id="CCar_abbr_280ra_21_3"><abbr><am><g ref="#xristustachi" /></am></abbr><expan><ex>xristus</ex></expan></choice></w>
+                  <lb n="22" xml:id="CCar_lb_280ra_22" />
+                  <space xml:id="CCar_space_280ra_22_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_22_1">andnam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_22_2">ïzwis</w>
+                  <lb n="23" xml:id="CCar_lb_280ra_23" />
+                  <space xml:id="CCar_space_280ra_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_23_1">du</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_23_2">wulþau</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_23_3"><choice xml:id="CCar_abbr_280ra_23_3"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <lb n="24" xml:id="CCar_lb_280ra_24" />
+               </ab>
+               <ab type="verse" n="8" xml:id="CCar_Rm_15_verse_8">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_24_1">Qiþa</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_24_2">auk</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_24_3"><choice xml:id="CCar_abbr_280ra_24_3"><abbr><am><g ref="#xristutachi" /></am></abbr><expan><ex>xristu</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_24_4"><choice xml:id="CCar_abbr_280ra_24_4"><abbr><am><g ref="#iesutachi" /></am></abbr><expan><ex>iesu</ex></expan></choice></w>
+                  <lb n="25" xml:id="CCar_lb_280ra_25" />
+                  <space xml:id="CCar_space_280ra_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_25_1">andbaht</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_25_2"><choice xml:id="CCar_abbr_280ra_25_2"><abbr>waurþan<am><g ref="#atild" /></am>a</abbr><expan>waurþana<ex>n</ex>a</expan></choice></w>
+                  <pb n="280rb" xml:id="CCar_pb_14_280rb" facs="#CCar_facs_14_280rb" />
+                  <lb n="1" xml:id="CCar_lb_280rb_1" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_1_1">tibi</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_1_2">caeciderunt</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_1_3">super</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_1_4">m<gap unit="char" extent="1" /><supplied resp="Streitberg" xml:id="CCar_em_280rb_1_4">e</supplied></w>
+                  <lb n="2" xml:id="CCar_lb_280rb_2" />
+               </ab>
+               <ab type="verse" n="4" xml:id="CCar_Rm_15_verse_4_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_2_1"><choice xml:id="CCar_abbr_280rb_2_1"><abbr>Quaecum<am><g ref="#ueoverq" /></am></abbr><expan>Quaecumq<ex>ue</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_2_2">enim</w>
+                  <lb n="3" xml:id="CCar_lb_280rb_3" />
+                  <space xml:id="CCar_space_280rb_3_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_3_1">praescribta</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_3_2">sunt</w>
+                  <lb n="4" xml:id="CCar_lb_280rb_4" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_4_1">ad</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_4_2">nostram</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_4_3"><choice xml:id="CCar_abbr_280rb_4_3"><abbr>doctrin<am><g ref="#amacr" /></am></abbr><expan>doctrina<ex>m</ex></expan></choice></w>
+                  <lb n="5" xml:id="CCar_lb_280rb_5" />
+                  <space xml:id="CCar_space_280rb_5_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_5_1">scribta</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_5_2">sunt</w>
+                  <lb n="6" xml:id="CCar_lb_280rb_6" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_6_1">ut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_6_2">per</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_6_3">patientiam</w>
+                  <lb n="7" xml:id="CCar_lb_280rb_7" />
+                  <space xml:id="CCar_space_280rb_7_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_7_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_7_2">consolationem</w>
+                  <lb n="8" xml:id="CCar_lb_280rb_8" />
+                  <space xml:id="CCar_space_280rb_8_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_8_1">spem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_8_2">habeamus</w>
+                  <lb n="9" xml:id="CCar_lb_280rb_9" />
+               </ab>
+               <ab type="verse" n="5" xml:id="CCar_Rm_15_verse_5_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_9_1"><choice xml:id="CCar_abbr_280rb_9_1"><abbr><am><g ref="#euoverd" /></am>s</abbr><expan>d<ex>eu</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_9_2">autem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_9_3">patientiae</w>
+                  <lb n="10" xml:id="CCar_lb_280rb_10" />
+                  <space xml:id="CCar_space_280rb_10_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_10_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_10_2">solacii</w>
+                  <lb n="11" xml:id="CCar_lb_280rb_11" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_11_1">det</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_11_2">vobis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_11_3">id</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_11_4">ipsum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_11_5">sapere</w>
+                  <lb n="12" xml:id="CCar_lb_280rb_12" />
+                  <space xml:id="CCar_space_280rb_12_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_12_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_12_2">alterutrum</w>
+                  <lb n="13" xml:id="CCar_lb_280rb_13" />
+                  <space xml:id="CCar_space_280rb_13_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_13_1">secundum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_13_2"><choice xml:id="CCar_abbr_280rb_13_2"><abbr><am><g ref="#christuoverm" /></am>m</abbr><expan><ex>christu</ex>m</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_13_3"><choice xml:id="CCar_abbr_280rb_13_3"><abbr><am><g ref="#iesuoverm" /></am>m</abbr><expan><ex>iesu</ex>m</expan></choice></w>
+                  <lb n="14" xml:id="CCar_lb_280rb_14" />
+               </ab>
+               <ab type="verse" n="6" xml:id="CCar_Rm_15_verse_6_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_14_1">ut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_14_2">unianimes</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_14_3">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_14_4">uno</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_14_5">ore</w>
+                  <lb n="15" xml:id="CCar_lb_280rb_15" />
+                  <space xml:id="CCar_space_280rb_15_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_15_1">honorificetis</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_15_2"><choice xml:id="CCar_abbr_280rb_15_2"><abbr><am><g ref="#euoverd" /></am>m</abbr><expan>d<ex>eu</ex>m</expan></choice></w>
+                  <lb n="16" xml:id="CCar_lb_280rb_16" />
+                  <space xml:id="CCar_space_280rb_16_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_16_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_16_2">patrem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_16_3"><choice xml:id="CCar_abbr_280rb_16_3"><abbr><am><g ref="#omioverd" /></am>ni</abbr><expan>d<ex>omi</ex>ni</expan></choice></w>
+                  <lb n="17" xml:id="CCar_lb_280rb_17" />
+                  <space xml:id="CCar_space_280rb_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_1"><choice xml:id="CCar_abbr_280rb_17_1"><abbr><am><g ref="#ostrovern" /></am>i</abbr><expan>n<ex>ostr</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_2"><choice xml:id="CCar_abbr_280rb_17_2"><abbr><am><g ref="#iesoveru" /></am>u</abbr><expan><ex>ies</ex>u</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_3"><choice xml:id="CCar_abbr_280rb_17_3"><abbr><am><g ref="#christoveri" /></am>i</abbr><expan><ex>christ</ex>i</expan></choice></w>
+                  <lb n="18" xml:id="CCar_lb_280rb_18" />
+               </ab>
+               <ab type="verse" n="7" xml:id="CCar_Rm_15_verse_7_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_18_1">propter</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_18_2">quod</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_18_3">suscipite</w>
+                  <lb n="19" xml:id="CCar_lb_280rb_19" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_19_1">sicut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_19_2">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_19_3"><choice xml:id="CCar_abbr_280rb_19_3"><abbr><am><g ref="#christuovers" /></am>s</abbr><expan><ex>christu</ex>s</expan></choice></w>
+                  <lb n="20" xml:id="CCar_lb_280rb_20" />
+                  <space xml:id="CCar_space_280rb_20_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_20_1">suscepit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_20_2">vos</w>
+                  <lb n="21" xml:id="CCar_lb_280rb_21" />
+                  <space xml:id="CCar_space_280rb_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_21_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_21_2">gloriam</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_21_3"><choice xml:id="CCar_abbr_280rb_21_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <lb n="22" xml:id="CCar_lb_280rb_22" />
+               </ab>
+               <ab type="verse" n="8" xml:id="CCar_Rm_15_verse_8_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_1">Dico</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_2">enim</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_3"><choice xml:id="CCar_abbr_280rb_22_3"><abbr><am><g ref="#christuoverm" /></am>m</abbr><expan><ex>christu</ex>m</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_4"><choice xml:id="CCar_abbr_280rb_22_4"><abbr><am><g ref="#iesuoverm" /></am>m</abbr><expan><ex>iesu</ex>m</expan></choice></w>
+                  <lb n="23" xml:id="CCar_lb_280rb_23" />
+                  <space xml:id="CCar_space_280rb_23_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_23_1">ministrum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_23_2">fuisse</w>
+                  <pb n="280va" xml:id="CCar_pb_15_280va" facs="#CCar_facs_15_280va" />
+                  <lb n="1" xml:id="CCar_lb_280va_1" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_1_1">fram</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_1_2">sunjai</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_1_3"><choice xml:id="CCar_abbr_280va_1_3"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
+                  <lb n="2" xml:id="CCar_lb_280va_2" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_2_1">du</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_2_2">gatulgjan</w>
+                  <lb n="3" xml:id="CCar_lb_280va_3" />
+                  <space xml:id="CCar_space_280va_3_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_3_1">gahaita</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_3_2">attane</w>
+                  <lb n="4" xml:id="CCar_lb_280va_4" />
+               </ab>
+               <ab type="verse" n="9" xml:id="CCar_Rm_15_verse_9">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_4_1">ïþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_4_2">þiudos</w>
+                  <lb n="5" xml:id="CCar_lb_280va_5" />
+                  <space xml:id="CCar_space_280va_5_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_5_1">ïn</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_5_2">armahairteins</w>
+                  <lb n="6" xml:id="CCar_lb_280va_6" />
+                  <space xml:id="CCar_space_280va_6_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_6_1">hauhjan</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_6_2"><choice xml:id="CCar_abbr_280va_6_2"><abbr><am><g ref="#guþtachi" /></am></abbr><expan><ex>guþ</ex></expan></choice></w>
+                  <lb n="7" xml:id="CCar_lb_280va_7" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_7_1">Swaswe</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_7_2">gameliþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_7_3">ïst</w>
+                  <lb n="8" xml:id="CCar_lb_280va_8" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_8_1">duþþe</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_8_2">andhaita</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_8_3">þus</w>
+                  <lb n="9" xml:id="CCar_lb_280va_9" />
+                  <space xml:id="CCar_space_280va_9_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_9_1">ïn</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_9_2">þiudom</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_9_3"><choice xml:id="CCar_abbr_280va_9_3"><abbr><am><g ref="#fraujatachi" /></am></abbr><expan><ex>frauja</ex></expan></choice></w>
+                  <lb n="10" xml:id="CCar_lb_280va_10" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_10_1">jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_10_2">namin</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_10_3">þeinamma</w>
+                  <lb n="11" xml:id="CCar_lb_280va_11" />
+               </ab>
+               <ab type="verse" n="10" xml:id="CCar_Rm_15_verse_10">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_11_1">Jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_11_2">aftra</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_11_3">qiþiþ</w>
+                  <lb n="12" xml:id="CCar_lb_280va_12" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_12_1">sifaiþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_12_2">þiudos</w>
+                  <lb n="13" xml:id="CCar_lb_280va_13" />
+                  <space xml:id="CCar_space_280va_13_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_13_1">miþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_13_2">managein</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_13_3">ïs</w>
+                  <lb n="14" xml:id="CCar_lb_280va_14" />
+               </ab>
+               <ab type="verse" n="11" xml:id="CCar_Rm_15_verse_11">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_14_1">Jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_14_2">aftra</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_14_3">qiþiþ</w>
+                  <lb n="15" xml:id="CCar_lb_280va_15" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_15_1">hazjiþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_15_2">allos</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_15_3">þiudos</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_15_4"><choice xml:id="CCar_abbr_280va_15_4"><abbr><am><g ref="#fraujantachi" /></am></abbr><expan><ex>fraujan</ex></expan></choice></w>
+                  <lb n="16" xml:id="CCar_lb_280va_16" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_16_1">jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_16_2">hazjaina</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_16_3">ïna</w>
+                  <lb n="17" xml:id="CCar_lb_280va_17" />
+                  <space xml:id="CCar_space_280va_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_17_1">allos</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_17_2">manageins</w>
+                  <lb n="18" xml:id="CCar_lb_280va_18" />
+               </ab>
+               <ab type="verse" n="12" xml:id="CCar_Rm_15_verse_12">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_18_1">Jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_18_2">aftra</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_18_3">esaeias</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_18_4">qiþiþ</w>
+                  <lb n="19" xml:id="CCar_lb_280va_19" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_19_1">wairþiþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_19_2">waurts</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_19_3">ïaissaizis</w>
+                  <lb n="20" xml:id="CCar_lb_280va_20" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_20_1">jah</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_20_2">sa</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_20_3">usstandands</w>
+                  <lb n="21" xml:id="CCar_lb_280va_21" />
+                  <space xml:id="CCar_space_280va_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_21_1">reikinoþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_21_2">þiudom</w>
+                  <lb n="22" xml:id="CCar_lb_280va_22" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_22_1">du</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_22_2">ïmma</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_22_3">þiudos</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_22_4"><choice xml:id="CCar_abbr_280va_22_4"><abbr>weni<am><g ref="#atild" /></am>d</abbr><expan>wenia<ex>n</ex>d</expan></choice></w>
+                  <lb n="23" xml:id="CCar_lb_280va_23" />
+               </ab>
+               <ab type="verse" n="13" xml:id="CCar_Rm_15_verse_13">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_23_1">Ïþ</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_23_2"><choice xml:id="CCar_abbr_280va_23_2"><abbr><am><g ref="#guþtachi" /></am></abbr><expan><ex>guþ</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_23_3">lubainais</w>
+                  <lb n="24" xml:id="CCar_lb_280va_24" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_24_1">fulljai</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_24_2">ïzwis</w>
+                  <lb n="25" xml:id="CCar_lb_280va_25" />
+                  <space xml:id="CCar_space_280va_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_25_1">allaizos</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_25_2">fahedais</w>
+                  <pb n="280vb" xml:id="CCar_pb_16_280vb" facs="#CCar_facs_16_280vb" />
+                  <lb n="1" xml:id="CCar_lb_280vb_1" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_1">propter</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_2">veritatem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_3"><choice xml:id="CCar_abbr_280vb_1_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <lb n="2" xml:id="CCar_lb_280vb_2" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_2_1">ad</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_2_2">confirmandas</w>
+                  <lb n="3" xml:id="CCar_lb_280vb_3" />
+                  <space xml:id="CCar_space_280vb_3_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_3_1">promissiones</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_3_2"><choice xml:id="CCar_abbr_280vb_3_2"><abbr>patr<am><g ref="#umacr" /></am></abbr><expan>patru<ex>m</ex></expan></choice></w>
+                  <lb n="4" xml:id="CCar_lb_280vb_4" />
+               </ab>
+               <ab type="verse" n="9" xml:id="CCar_Rm_15_verse_9_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_4_1">gentes</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_4_2">autem</w>
+                  <lb n="5" xml:id="CCar_lb_280vb_5" />
+                  <space xml:id="CCar_space_280vb_5_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_5_1">propter</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_5_2"><choice xml:id="CCar_abbr_280vb_5_2"><abbr>misericordi<am><g ref="#amacr" /></am></abbr><expan>misericordia<ex>m</ex></expan></choice></w>
+                  <lb n="6" xml:id="CCar_lb_280vb_6" />
+                  <space xml:id="CCar_space_280vb_6_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_6_1">honorare</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_6_2"><choice xml:id="CCar_abbr_280vb_6_2"><abbr><am><g ref="#euoverd" /></am>m</abbr><expan>d<ex>eu</ex>m</expan></choice></w>
+                  <lb n="7" xml:id="CCar_lb_280vb_7" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_7_1">Sicut</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_7_2">scribtum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_7_3">est</w>
+                  <lb n="8" xml:id="CCar_lb_280vb_8" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_8_1">propter</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_8_2">hoc</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_8_3">confitebor</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_8_4"><hi rend="small" xml:id="CCar_small_280vb_8_4">tibi</hi></w>
+                  <lb n="9" xml:id="CCar_lb_280vb_9" />
+                  <space xml:id="CCar_space_280vb_9_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_9_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_9_2">gentibus</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_9_3"><choice xml:id="CCar_abbr_280vb_9_3"><abbr><am><g ref="#omioverd" /></am>ne</abbr><expan>d<ex>omi</ex>ne</expan></choice></w>
+                  <lb n="10" xml:id="CCar_lb_280vb_10" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_10_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_10_2">nomini</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_10_3">tuo</w>
+                  <lb n="11" xml:id="CCar_lb_280vb_11" />
+               </ab>
+               <ab type="verse" n="10" xml:id="CCar_Rm_15_verse_10_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_11_1">Et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_11_2">iterum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_11_3">dicit</w>
+                  <lb n="12" xml:id="CCar_lb_280vb_12" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_12_1">laetamini</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_12_2">gentes</w>
+                  <lb n="13" xml:id="CCar_lb_280vb_13" />
+                  <space xml:id="CCar_space_280vb_13_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_13_1">cum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_13_2">plebe</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_13_3">eius</w>
+                  <lb n="14" xml:id="CCar_lb_280vb_14" />
+               </ab>
+               <ab type="verse" n="11" xml:id="CCar_Rm_15_verse_11_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_14_1">Et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_14_2">iterum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_14_3">dicit</w>
+                  <lb n="15" xml:id="CCar_lb_280vb_15" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_1">laudate</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_2">omnes</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_3">gentes</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_4"><choice xml:id="CCar_abbr_280vb_15_4"><abbr><am><g ref="#omioverd" /></am><am><g ref="#uovern" /></am>m</abbr><expan>d<ex>omi</ex>n<ex>u</ex>m</expan></choice></w>
+                  <lb n="16" xml:id="CCar_lb_280vb_16" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_16_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_16_2">magnificate</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_16_3">eum</w>
+                  <lb n="17" xml:id="CCar_lb_280vb_17" />
+                  <space xml:id="CCar_space_280vb_17_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_17_1">omnes</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_17_2">populi</w>
+                  <lb n="18" xml:id="CCar_lb_280vb_18" />
+               </ab>
+               <ab type="verse" n="12" xml:id="CCar_Rm_15_verse_12_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_18_1">Et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_18_2">iterum</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_18_3">eseias</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_18_4">ait</w>
+                  <lb n="19" xml:id="CCar_lb_280vb_19" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_19_1">et</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_19_2">erit</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_19_3">radix</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_19_4">iesse</w>
+                  <lb n="20" xml:id="CCar_lb_280vb_20" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_20_1">qui</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_20_2">exsurget</w>
+                  <lb n="21" xml:id="CCar_lb_280vb_21" />
+                  <space xml:id="CCar_space_280vb_21_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_21_1">regnare</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_21_2">gentibus</w>
+                  <lb n="22" xml:id="CCar_lb_280vb_22" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_22_1">in</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_22_2">eo</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_22_3">gentes</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_22_4">sperabunt</w>
+                  <lb n="23" xml:id="CCar_lb_280vb_23" />
+               </ab>
+               <ab type="verse" n="13" xml:id="CCar_Rm_15_verse_13_bis">
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_23_1"><choice xml:id="CCar_abbr_280vb_23_1"><abbr><am><g ref="#euoverD" /></am>s</abbr><expan>D<ex>eu</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_23_2">autem</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_23_3">spei</w>
+                  <lb n="24" xml:id="CCar_lb_280vb_24" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_24_1">repleat</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_24_2">vos</w>
+                  <lb n="25" xml:id="CCar_lb_280vb_25" />
+                  <space xml:id="CCar_space_280vb_25_1" dim="horizontal" />
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_25_1">omni</w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_25_2">gaudio</w>
+               </ab>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
