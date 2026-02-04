@@ -67,11 +67,15 @@ evt-addition evt-note {
   display: none;
 }
 
-*[rend="damaged"]{
-    color: rgb(70, 70, 70);
+body.diplomatic-mode evt-word[rend="silver_ink"] *[class="unclear ng-star-inserted"] {
+    color: rgb(120, 120, 120);
 }
 
-*[rend="damaged"]{
+body.diplomatic-mode evt-word[rend="gold_ink"] *[class="unclear ng-star-inserted"] {
+    color: rgb(184, 164, 11);
+}
+
+body.interpretative-mode evt-word *[class="unclear ng-star-inserted"] {
     border-bottom: 1px dotted rgba(0, 0, 0, 0.5);
     padding-bottom: 1px;
 }
@@ -80,24 +84,15 @@ evt-addition evt-note {
     font-style: normal;
 }
 
-evt-gap evt-supplied *[data-edition="interpretative"],
-evt-gap supplied *[data-edition="interpretative"],
-gap evt-supplied *[data-edition="interpretative"],
-gap supplied *[data-edition="interpretative"]{
-    font-size: inherit;
-}
-
-evt-generic-element.num evt-text *[data-edition="interpretative"],
-evt-generic-element.num evt-text *[data-edition="interpretative"],
-evt-generic-element.num evt-text *[data-edition="interpretative"],
-evt-generic-element.num evt-text *[data-edition="interpretative"]{
+body.interpretative-mode evt-content-viewer *[class="gap ng-star-inserted"] {
     display: none !important;
 }
 
-evt-generic-element.num *[data-edition="interpretative"] evt-content-viewer::before,
-evt-generic-element.num *[data-edition="interpretative"] evt-content-viewer::before,
-evt-generic-element.num *[data-edition="interpretative"] evt-content-viewer::before,
-evt-generic-element.num *[data-edition="interpretative"]evt-content-viewer::before {
+body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] span {
+    display: none !important;
+}
+
+body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt-content-viewer:first-of-type::before {
     content: attr(data-value);
 }
 
@@ -130,6 +125,20 @@ evt-generic-element.num *[data-edition="interpretative"]evt-content-viewer::befo
     margin-left: 20px;
   }
 }
+
+
+/* Aggiungi il contenuto del seg correlato dopo il seg principale con separatore */
+body.interpretative-mode evt-generic-element.seg.seg-primary[id*="_seg_1_"]::after {
+    content: "-" attr(data-corresp-text);
+    color: inherit;
+}
+
+/* In modalità interpretativa: nascondi i seg correlati nella posizione originale */
+body.interpretative-mode *[class="seg ng-star-inserted seg-hidden seg-primary"] *[data-id*="_seg_2_"] {
+    display: none !important;
+}
+
+
 
 /* Eusebian Canons Tables */
 evt-generic-element[type="eusebian_canons"] {

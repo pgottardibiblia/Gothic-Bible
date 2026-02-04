@@ -771,7 +771,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_1">singuli</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_2">autem</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_3">
-                     <seg corresp="CCar_seg_2_277vb_26_4">alter</seg>
+                     <seg corresp="CCar_seg_2_277vb_26_4" xml:id="CCar_seg_1_277vb_26_3">alter</seg>
                   </w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_4">
                      <seg corresp="CCar_seg_1_277vb_26_3"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_4">jus</supplied></seg>
