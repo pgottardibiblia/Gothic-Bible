@@ -139,6 +139,31 @@ body.interpretative-mode *[class="seg ng-star-inserted seg-hidden seg-primary"] 
 }
 
 
+body.interpretative-mode evt-generic-element[type="chapter"]::before {
+    content: attr(n);
+    font-weight: bold;
+    font-size: 1.4em;
+    color: #dc3545;
+    margin-right: 0.5em;
+    display: inline-block;
+}
+
+body.interpretative-mode evt-generic-element[type="chapter"]:has(*[type="header"])::before {
+    content: none !important;
+}
+
+body.interpretative-mode evt-generic-element[type="verse"]::before {
+    content: attr(n);
+    vertical-align: super;
+    font-size: 0.7em;
+    color: #999;
+    margin-right: 0.3em;
+}
+
+body.interpretative-mode evt-generic-element[type="verse"]:has(*[type="header"])::before {
+    content: none !important;
+}
+
 
 /* Eusebian Canons Tables */
 evt-generic-element[type="eusebian_canons"] {
