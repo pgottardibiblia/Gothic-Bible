@@ -5321,7 +5321,7 @@
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_129v_16_2">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_129v_16_3">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_129v_16_4">waldaiþ</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_129v_16_5"><add place="margin_left" xml:id="CArg_add_129v_16_5">ganohidaisijaiþ</add></w>
+                  <add place="margin_left" xml:id="CArg_add_129v_16_5"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_129v_16_5a">ganohidai</w><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_129v_16_5b">sijaiþ</w></add>
                   <lb n="17" xml:id="CArg_lb_129v_17" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_129v_17_1">annom</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_129v_17_2">ïzwaraim</w>
@@ -9223,7 +9223,7 @@
                      <seg corresp="CArg_seg_1_139v_18_4" xml:id="CArg_seg_2_139v_19_1">dands</seg>
                   </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_139v_19_2">ïddja</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_139v_19_3"><add place="margin_left" xml:id="CArg_add_139v_19_3">laistida</add></w>
+                  <add place="margin_left" xml:id="CArg_add_139v_19_3"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_139v_19_3a">laistida</w></add>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_139v_19_4">afar</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_139v_19_5">ïmma</w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_139v_19_6">·</pc>
@@ -10840,7 +10840,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_143v_9_3">frijod</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_143v_9_4">þans</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_143v_9_5">hatandans</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_143v_9_6"><add place="margin_left" xml:id="CArg_add_143v_9_6">hatjandam</add></w>
+                  <add place="margin_left" xml:id="CArg_add_143v_9_6"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_143v_9_6a">hatjandam</w></add>
                   <lb n="10" xml:id="CArg_lb_143v_10" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_143v_10_1">ïzwis</w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_143v_10_2">·</pc>
@@ -11388,7 +11388,7 @@
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_144v_18_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_144v_18_4">ïþ</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_144v_18_5">gamanwids</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_144v_18_6"><add place="margin_left" xml:id="CArg_add_144v_18_6">ustau<hi rend="small" xml:id="CArg_small_144v_18_6">h</hi>ans</add></w>
+                  <add place="margin_left" xml:id="CArg_add_144v_18_6"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_144v_18_6a">ustau<hi rend="small" xml:id="CArg_small_144v_18_6a">h</hi>ans</w></add>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_144v_18_7">
                      <seg corresp="CArg_seg_2_144v_19_1" xml:id="CArg_seg_1_144v_18_7">ƕar</seg>
                   </w>
@@ -11918,7 +11918,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_146r_3_2">þatei</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_146r_3_3">bistagq</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_146r_3_4">flodus</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_146r_3_5"><add place="margin_right" xml:id="CArg_add_146r_3_5">aƕa</add></w>
+                  <add place="margin_right" xml:id="CArg_add_146r_3_5"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_146r_3_5a">aƕa</w></add>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_146r_3_6">·</pc>
                   <lb n="4" xml:id="CArg_lb_146r_4" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_146r_4_1">jah</w>
@@ -13220,7 +13220,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_149r_10_2">plinsideduþ</w>
                   <pc type="comma" rend="silver_ink" xml:id="CArg_comma_149r_10_3">·</pc>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_149r_10_4">gaunodedum</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_149r_10_5"><add place="margin_right" xml:id="CArg_add_149r_10_5">hufum</add></w>
+                  <add place="margin_right" xml:id="CArg_add_149r_10_5"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_149r_10_5a">hufum</w></add>
                   <lb n="11" xml:id="CArg_lb_149r_11" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_149r_11_1">ïzwis</w>
                   <w rend="silver_ink" xml:lang="got">
@@ -15109,7 +15109,7 @@
                   </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_153v_13_2">habaida</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_153v_13_3">unhulþons</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_153v_13_4"><add place="margin_left" xml:id="CArg_add_153v_13_4">skohsla</add></w>
+                  <add place="margin_left" xml:id="CArg_add_153v_13_4"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_153v_13_4a">skohsla</w></add>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_153v_13_5">mela</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_153v_13_6">
                      <seg corresp="CArg_seg_2_153v_14_1" xml:id="CArg_seg_1_153v_13_6">lag</seg>
@@ -16974,7 +16974,7 @@
                   <lb n="9" xml:id="CArg_lb_158r_9" />
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_158r_9_1">manaseidai</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_158r_9_2">matins</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_158r_9_3"><add place="margin_right" xml:id="CArg_add_158r_9_3">·managein·</add></w>
+                  <add place="margin_right" xml:id="CArg_add_158r_9_3"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_158r_9_3a">·managein·</w></add>
                </ab>
                <ab type="verse" n="14" xml:id="CArg_Lc_9_verse_14">
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_158r_9_4">we<unclear reason="damage" xml:id="CArg_un_158r_9_4">sun</unclear></w>
@@ -17825,7 +17825,7 @@
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_1">
                      <seg corresp="CArg_seg_1_160r_12_6" xml:id="CArg_seg_2_160r_13_1">mun</seg>
                   </w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_2"><add place="margin_right" xml:id="CArg_add_160r_13_2">jahatïmïnmilhma<choice xml:id="CArg_em_160r_13_2"><sic>m</sic><corr resp="Streitberg,Snædal">n</corr></choice>atgaggandam</add></w>
+                  <add place="margin_right" xml:id="CArg_add_160r_13_2"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_2a">jah</w><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_2b">at</w><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_2c">ïm</w><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_2d">ïn</w><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_2e">milhma<choice xml:id="CArg_em_160r_13_2"><sic>m</sic><corr resp="Streitberg,Snædal">n</corr></choice></w><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_2f">atgaggandam</w></add>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_3">ïn</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_4">þamma</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_160r_13_5">milhmin</w>
@@ -23225,7 +23225,7 @@
                   </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_179v_19_2">jah</w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_179v_19_3">faihuþraihna</w>
-                  <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_179v_19_4"><add place="margin_left" xml:id="CArg_add_179v_19_4">mammoni<choice xml:id="CArg_em_179v_19_4"><sic>m</sic><corr resp="Streitberg,Uppström,Snædal">n</corr></choice>:</add></w>
+                  <add place="margin_left" xml:id="CArg_add_179v_19_4"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_179v_19_4a">mammoni<choice xml:id="CArg_em_179v_19_4"><sic>m</sic><corr resp="Streitberg,Uppström,Snædal">n</corr></choice>:</w></add>
                   <note type="comment" target="#CArg_lb_179v_19" resp="#Uppström, #Streitberg, #Snædal"> left-side marginalia, <hi rend="italic">mammo-nim</hi> : Streitberg in note, Uppström in note and Snædal emend to <hi rend="italic">mammo-nin</hi></note><lb n="20" xml:id="CArg_lb_179v_20" />
                </ab>
                <ab type="verse" n="14" xml:id="CArg_Lc_16_verse_14">
