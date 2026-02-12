@@ -128,7 +128,7 @@ body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt
 
 
 /* Aggiungi il contenuto del seg correlato dopo il seg principale con separatore */
-body.interpretative-mode evt-generic-element.seg.seg-primary[id*="_seg_1_"]::after {
+body.interpretative-mode evt-content-viewer.seg.seg-primary::after {
     content: "-" attr(data-corresp-text);
     color: inherit;
 }

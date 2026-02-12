@@ -29,33 +29,54 @@ function updateViewMode() {
 
 // Funzione per gestire i <seg> correlati
 function handleCorrelatedSegments() {
-    console.log('Gestione segmenti correlati...');
+    console.log('=== Gestione segmenti correlati ===');
     
-    // Trova tutti gli evt-generic-element con classe seg e attributo corresp
-    const segments = document.querySelectorAll('evt-generic-element.seg[corresp]');
+    // Trova tutti gli evt-content-viewer con classe seg e attributo data-corresp
+    const segments = document.querySelectorAll('evt-content-viewer.seg[data-corresp]');
     console.log('Trovati', segments.length, 'segmenti con corresp');
     
+    // DEBUG: mostra tutti i seg con data-id presenti nel DOM
+    const allSegs = document.querySelectorAll('evt-content-viewer.seg[data-id]');
+    console.log('Totale seg con data-id nel DOM:', allSegs.length);
+    allSegs.forEach(s => {
+        console.log('  - Seg disponibile:', s.getAttribute('data-id'), '=', s.textContent.trim());
+    });
+    
     segments.forEach(seg => {
-        const correspId = seg.getAttribute('corresp');
-        if (!correspId) return;
+        const correspId = seg.getAttribute('data-corresp');
+        const segId = seg.getAttribute('data-id');
+        console.log('\n--- Processando seg:', segId);
+        console.log('    Cerca correlato:', correspId);
+        console.log('    Testo:', seg.textContent.trim());
         
-        // Trova il seg correlato tramite id
-        const correlatedSeg = document.querySelector(`evt-generic-element.seg[id="${correspId}"]`);
-        
-        if (!correlatedSeg) {
-            console.log('Seg correlato non trovato per:', correspId);
+        if (!correspId) {
+            console.log('    ⚠️ Nessun data-corresp trovato');
             return;
         }
         
-        // Marca il primo seg come "principale"
+        // Marca sempre il seg come "principale"
         seg.classList.add('seg-primary');
-        seg.setAttribute('data-corresp-text', correlatedSeg.textContent.trim());
         
-        // Marca il secondo seg come "nascosto"
-        correlatedSeg.classList.add('seg-hidden');
+        // Trova il seg correlato tramite data-id
+        const correlatedSeg = document.querySelector(`evt-content-viewer.seg[data-id="${correspId}"]`);
         
-        console.log('Correlazione:', seg.textContent.trim(), '|', correlatedSeg.textContent.trim());
+        if (!correlatedSeg) {
+            // Se il seg correlato non è trovato, usa placeholder "..."
+            console.log('    ❌ Seg correlato NON trovato per:', correspId, '- usando placeholder');
+            seg.setAttribute('data-corresp-text', '...');
+        } else {
+            // Crea l'attributo con il testo del seg correlato
+            const correlatedText = correlatedSeg.textContent.trim();
+            seg.setAttribute('data-corresp-text', correlatedText);
+            
+            // Marca il secondo seg come "nascosto"
+            correlatedSeg.classList.add('seg-hidden');
+            
+            console.log('    ✅ Correlazione trovata:', seg.textContent.trim(), '|', correlatedText);
+        }
     });
+    
+    console.log('=== Fine gestione segmenti ===\n');
 }
 
 // Attendi che il DOM sia completamente caricato
