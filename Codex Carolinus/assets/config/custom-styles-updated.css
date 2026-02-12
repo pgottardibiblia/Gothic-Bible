@@ -67,45 +67,131 @@ evt-addition evt-note {
   display: none;
 }
 
-.diplomatic-text [rend="damaged"]{
-    color: rgb(70, 70, 70);
+body.diplomatic-mode evt-word[rend="silver_ink"] *[class="unclear ng-star-inserted"] {
+    color: rgb(120, 120, 120);
 }
 
-.interpretative-text [rend="damaged"]{
+body.diplomatic-mode evt-word[rend="gold_ink"] *[class="unclear ng-star-inserted"] {
+    color: rgb(184, 164, 11);
+}
+
+body.interpretative-mode evt-word *[class="unclear ng-star-inserted"] {
     border-bottom: 1px dotted rgba(0, 0, 0, 0.5);
     padding-bottom: 1px;
 }
 
-.interpretative-text evt-choice,
-.interpretative-text choice {
+.ex {
     font-style: normal;
 }
 
-.interpretative-text evt-ex,
-.interpretative-text ex {
-    font-style: normal;
-}
-
-.interpretative-text evt-gap evt-supplied,
-.interpretative-text evt-gap supplied,
-.interpretative-text gap evt-supplied,
-.interpretative-text gap supplied {
-    font-size: inherit;
-}
-
-body[data-edition-level="interpretative"] evt-generic-element.num evt-text,
-body[data-view="interpretative"] evt-generic-element.num evt-text,
-.interpretative evt-generic-element.num evt-text,
-.interpretative-text evt-generic-element.num evt-text {
+body.interpretative-mode evt-content-viewer *[class="gap ng-star-inserted"] {
     display: none !important;
 }
 
-body[data-edition-level="interpretative"] evt-generic-element.num evt-content-viewer::before,
-body[data-view="interpretative"] evt-generic-element.num evt-content-viewer::before,
-.interpretative evt-generic-element.num evt-content-viewer::before,
-.interpretative-text evt-generic-element.num evt-content-viewer::before {
+body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] span {
+    display: none !important;
+}
+
+body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt-content-viewer:first-of-type::before {
     content: attr(data-value);
 }
+
+@media (min-width: 1325px) {
+  .panel-content div:has(evt-page) {
+    margin: 0 6rem;
+  }
+
+  *[place="margin_left"] {
+    float: left;
+    margin-left: -50px;
+    
+    max-width: 175px;
+    overflow-wrap: anywhere;
+    word-break: break-all;
+  }
+
+  evt-addition[place="margin_right"] *[data-edition="diplomatic"] {
+    float: right;
+    margin-right: 20px;
+
+    max-width: 125px;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  evt-note {
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  /* Spazio tra elementi w nel margine sinistro */
+  *[place="margin_left"] evt-generic-element.w {
+    margin-right: 0.3em;
+  }
+
+  evt-addition[place="margin_right"] *[data-edition="diplomatic"] {
+    float: right;
+    margin-right: 20px;
+
+    max-width: 125px;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  /* Spazio tra elementi w nel margine destro */
+  evt-addition[place="margin_right"] evt-generic-element.w {
+    margin-right: 0.3em;
+  }
+
+  evt-note {
+    display: inline-block;
+    margin-left: 20px;
+  }
+}
+
+
+body.diplomatic-mode evt-content-viewer.seg:has([data-type="corresp-text"]) {
+    display: none !important;
+}
+
+body.interpretative-mode *[data-id*="seg_2"] {
+    display: none !important;
+}
+
+body.interpretative-mode evt-content-viewer[class="genericElement seg ng-star-inserted seg-primary seg-hidden"]::after {
+    content: "-";
+}
+
+body.interpretative-mode evt-content-viewer[data-corresp-text="..."]:not(:has(evt-generic-element[type="corresp-text"])):not(:has([data-type="corresp-text"]))::after {
+    content: " | ";
+}
+
+
+body.interpretative-mode evt-generic-element[type="chapter"]::before {
+    content: attr(n);
+    font-weight: bold;
+    font-size: 1.4em;
+    color: #dc3545;
+    margin-right: 0.5em;
+    display: inline-block;
+}
+
+body.interpretative-mode evt-generic-element[type="chapter"]:has(*[type="header"])::before {
+    content: none !important;
+}
+
+body.interpretative-mode evt-generic-element[type="verse"]::before {
+    content: attr(n);
+    vertical-align: super;
+    font-size: 0.7em;
+    color: #999;
+    margin-right: 0.3em;
+}
+
+body.interpretative-mode evt-generic-element[type="verse"]:has(*[type="header"])::before {
+    content: none !important;
+}
+
 
 /* Eusebian Canons Tables */
 evt-generic-element[type="eusebian_canons"] {
