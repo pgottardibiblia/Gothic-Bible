@@ -18,7 +18,12 @@
 	},
 	"imagesFolderUrls": {
 		"single": "assets/data/images/single/",
-		"double": "assets/data/images/double/"
+		"folders": [
+        	{"id": "norm", "label": "Normal", "path": "assets/data/images/norm/"},
+        	{"id": "b_w", "label": "Black and white", "path": "assets/data/images/bw/"},
+			{"id": "w_b", "label": "White and black", "path": "assets/data/images/wb/"},
+			{"id": "alt", "label": "Altered", "path": "assets/data/images/alt/"}
+	]
 	},
 	"configurationUrls": {
 		"edition": "assets/config/edition_config_CArg_TEI.json",
