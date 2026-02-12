@@ -115,9 +115,32 @@ body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt
     margin-right: 20px;
 
     max-width: 125px;
-    display: inline-block;
     overflow-wrap: anywhere;
-    word-break: break-all;
+    word-break: break-word;
+  }
+
+  evt-note {
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  /* Spazio tra elementi w nel margine sinistro */
+  *[place="margin_left"] evt-generic-element.w {
+    margin-right: 0.3em;
+  }
+
+  evt-addition[place="margin_right"] *[data-edition="diplomatic"] {
+    float: right;
+    margin-right: 20px;
+
+    max-width: 125px;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  /* Spazio tra elementi w nel margine destro */
+  evt-addition[place="margin_right"] evt-generic-element.w {
+    margin-right: 0.3em;
   }
 
   evt-note {

@@ -771,10 +771,10 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_1">singuli</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_2">autem</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_3">
-                     <seg corresp="CCar_seg_2_277vb_26_4" xml:id="CCar_seg_1_277vb_26_3">alter</seg>
+                     <seg corresp="CCar_seg_2_277vb_26_4" xml:id="CCar_seg_1_277vb_26_3">alter<note type="corresp-text">jus</note></seg>
                   </w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_4">
-                     <seg corresp="CCar_seg_1_277vb_26_3"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_4">jus</supplied></seg>
+                     <seg corresp="CCar_seg_1_277vb_26_3" xml:id="CCar_seg_2_277vb_26_4"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_4">jus</supplied><note type="corresp-text">alter</note></seg>
                   </w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_5"><gap unit="char" extent="6" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_5">membra</supplied></w>
                   <pb n="256va" xml:id="CCar_pb_5_256va" facs="#CCar_facs_5_256va" />
