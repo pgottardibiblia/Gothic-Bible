@@ -246,52 +246,28 @@
    </teiHeader>
    
    <facsimile xml:id="CCar_facs_Rm">
-      <surface xml:id="CCar_facs_1_277ra">
+      <surface xml:id="CCar_facs_1_277r">
          <graphic url="CCar_fol._1_277r.jpeg" height="1800px" width="1200px" />
       </surface>
-      <surface xml:id="CCar_facs_2_277rb">
-         <graphic url="CCar_fol._1_277r.jpeg" height="1800px" width="1200px" />
-      </surface>
-      <surface xml:id="CCar_facs_3_277va">
+      <surface xml:id="CCar_facs_2_277v">
          <graphic url="CCar_fol._2_277v.jpeg" height="1800px" width="1200px" />
       </surface>
-      <surface xml:id="CCar_facs_4_277vb">
-         <graphic url="CCar_fol._2_277v.jpeg" height="1800px" width="1200px" />
-      </surface>
-      <surface xml:id="CCar_facs_5_256va">
+      <surface xml:id="CCar_facs_3_256v">
          <graphic url="CCar_fol._3_256v.jpeg" height="1800px" width="1200px" />
       </surface>
-      <surface xml:id="CCar_facs_6_256vb">
-         <graphic url="CCar_fol._3_256v.jpeg" height="1800px" width="1200px" />
-      </surface>
-      <surface xml:id="CCar_facs_7_256ra">
+      <surface xml:id="CCar_facs_4_256r">
          <graphic url="CCar_fol._4_256r.jpeg" height="1800px" width="1200px" />
       </surface>
-      <surface xml:id="CCar_facs_8_256rb">
-         <graphic url="CCar_fol._4_256r.jpeg" height="1800px" width="1200px" />
-      </surface>
-      <surface xml:id="CCar_facs_9_255va">
+      <surface xml:id="CCar_facs_5_255v">
          <graphic url="CCar_fol._5_255v.jpeg" height="1800px" width="1200px" />
       </surface>
-      <surface xml:id="CCar_facs_10_255vb">
-         <graphic url="CCar_fol._5_255v.jpeg" height="1800px" width="1200px" />
-      </surface>
-      <surface xml:id="CCar_facs_11_255ra">
+      <surface xml:id="CCar_facs_6_255r">
          <graphic url="CCar_fol._6_255r.jpeg" height="1800px" width="1200px" />
       </surface>
-      <surface xml:id="CCar_facs_12_255rb">
-         <graphic url="CCar_fol._6_255r.jpeg" height="1800px" width="1200px" />
-      </surface>
-      <surface xml:id="CCar_facs_13_280ra">
+      <surface xml:id="CCar_facs_7_280r">
          <graphic url="CCar_fol._7_280r.jpeg" height="1800px" width="1200px" />
       </surface>
-      <surface xml:id="CCar_facs_14_280rb">
-         <graphic url="CCar_fol._7_280r.jpeg" height="1800px" width="1200px" />
-      </surface>
-      <surface xml:id="CCar_facs_15_280va">
-         <graphic url="CCar_fol._8_280v.jpeg" height="1800px" width="1200px" />
-      </surface>
-      <surface xml:id="CCar_facs_16_280vb">
+      <surface xml:id="CCar_facs_8_280v">
          <graphic url="CCar_fol._8_280v.jpeg" height="1800px" width="1200px" />
       </surface>
    </facsimile>
@@ -300,7 +276,8 @@
          <div type="book" ana="#Romans" xml:id="CCar_book_Rm">
             <div type="chapter" n="11" xml:id="CCar_Rm_chapter_11">
                <ab type="verse" n="33" xml:id="CCar_Rm_11_verse_33">
-                  <pb n="277ra" xml:id="CCar_pb_1_277ra" facs="#CCar_facs_1_277ra" />
+                  <pb n="277r" xml:id="CCar_pb_1_277r" facs="#CCar_facs_1_277r" />
+                  <cb n="1" xml:id="CCar_cb_1_277r_a" />
                   <lb n="1" xml:id="CCar_lb_277ra_1" />
                   <space xml:id="CCar_space_277ra_1_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_1_1">jah</w>
@@ -418,7 +395,7 @@
                   <space xml:id="CCar_space_277ra_25_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_25_1">þamma</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_25_2">aiwa</w>
-                  <pb n="277rb" xml:id="CCar_pb_2_277rb" facs="#CCar_facs_2_277rb" />
+                  <cb n="2" xml:id="CCar_cb_1_277r_b" />
                   <lb n="1" xml:id="CCar_lb_277rb_1" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_1">et</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_2">scientiae</w>
@@ -535,7 +512,8 @@
                   <space xml:id="CCar_space_277rb_25_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_25_1">huic</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_25_2">mundo</w>
-                  <pb n="277va" xml:id="CCar_pb_3_277va" facs="#CCar_facs_3_277va" />
+                  <pb n="277v" xml:id="CCar_pb_2_277v" facs="#CCar_facs_2_277v" />
+                  <cb n="1" xml:id="CCar_cb_2_277v_a" />
                   <lb n="1" xml:id="CCar_lb_277va_1" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_1_1"><gap unit="char" extent="2" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277va_1_1">ak</supplied></w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_1_2"><gap unit="char" extent="10" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277va_1_2">inmaidjaiþ</supplied></w>
@@ -650,7 +628,7 @@
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_2">ainƕarjizuh</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_3">anþar</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_4"><gap unit="char" extent="14" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_277va_24_4">anþaris_liþjus</supplied></w>
-                  <pb n="277vb" xml:id="CCar_pb_4_277vb" facs="#CCar_facs_4_277vb" />
+                  <cb n="2" xml:id="CCar_cb_2_277v_b" />
                   <lb n="1" xml:id="CCar_lb_277vb_1" />
                </ab>
                <ab type="verse" n="2" xml:id="CCar_Rm_12_verse_2_3">
@@ -777,7 +755,8 @@
                      <seg corresp="CCar_seg_1_277vb_26_3" xml:id="CCar_seg_2_277vb_26_4"><gap unit="char" extent="3" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_4">jus</supplied><seg type="corresp-text">alter</seg></seg>
                   </w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_5"><gap unit="char" extent="6" /><supplied resp="Streitberg" xml:id="CCar_em_277vb_26_5">membra</supplied></w>
-                  <pb n="256va" xml:id="CCar_pb_5_256va" facs="#CCar_facs_5_256va" />
+                  <pb n="256v" xml:id="CCar_pb_3_256v" facs="#CCar_facs_3_256v" />
+                  <cb n="1" xml:id="CCar_cb_3_256v_a" />
                   <lb n="1" xml:id="CCar_lb_256va_1" />
                </ab>
                <ab type="verse" n="17" xml:id="CCar_Rm_12_verse_17">
@@ -896,7 +875,7 @@
                   <space xml:id="CCar_space_256va_24_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_24_1">ufarwisandam</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_24_2">ufhausjaiþ</w>
-                  <pb n="256vb" xml:id="CCar_pb_6_256vb" facs="#CCar_facs_6_256vb" />
+                  <cb n="2" xml:id="CCar_cb_3_256v_b" />
                   <lb n="1" xml:id="CCar_lb_256vb_1" />
                </ab>
             </div>
@@ -1012,7 +991,8 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_23_1">sublimibus</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_23_2">subdita</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_23_3">sit</w>
-                  <pb n="256ra" xml:id="CCar_pb_7_256ra" facs="#CCar_facs_7_256ra" />
+                  <pb n="256r" xml:id="CCar_pb_4_256r" facs="#CCar_facs_4_256r" />
+                  <cb n="1" xml:id="CCar_cb_4_256r_a" />
                   <lb n="1" xml:id="CCar_lb_256ra_1" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_1_1">unte</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_1_2">nist</w>
@@ -1131,7 +1111,7 @@
                <ab type="verse" n="5" xml:id="CCar_Rm_13_verse_5">
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_25_1">duþþe</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256ra_25_2">ufhausjaiþ</w>
-                  <pb n="256rb" xml:id="CCar_pb_8_256rb" facs="#CCar_facs_8_256rb" />
+                  <cb n="2" xml:id="CCar_cb_4_256r_b" />
                   <lb n="1" xml:id="CCar_lb_256rb_1" />
                </ab>
                <ab type="verse" n="1" xml:id="CCar_Rm_13_verse_1_3">
@@ -1253,7 +1233,8 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_25_1"><choice xml:id="CCar_abbr_256rb_25_1"><abbr>ideo<am><g ref="#ueoverq" /></am></abbr><expan>ideoq<ex>ue</ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_25_2">subditi</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_25_3">estote</w>
-                  <pb n="255va" xml:id="CCar_pb_9_255va" facs="#CCar_facs_9_255va" />
+                  <pb n="255v" xml:id="CCar_pb_5_255v" facs="#CCar_facs_5_255v" />
+                  <cb n="1" xml:id="CCar_cb_5_255v_a" />
                   <lb n="1" xml:id="CCar_lb_255va_1" />
                </ab>
             </div>
@@ -1388,7 +1369,7 @@
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_26_1">niba</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_26_2">þamma</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255va_26_3">munandin</w>
-                  <pb n="255vb" xml:id="CCar_pb_10_255vb" facs="#CCar_facs_10_255vb" />
+                  <cb n="2" xml:id="CCar_cb_5_255v_b" />
                   <lb n="1" xml:id="CCar_lb_255vb_1" />
                </ab>
                <ab type="verse" n="9" xml:id="CCar_Rm_14_verse_9_bis">
@@ -1517,7 +1498,8 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_26_2">ei</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_26_3">qui</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_26_4">existimat</w>
-                  <pb n="255ra" xml:id="CCar_pb_11_255ra" facs="#CCar_facs_11_255ra" />
+                  <pb n="255r" xml:id="CCar_pb_6_255r" facs="#CCar_facs_6_255r" />
+                  <cb n="1" xml:id="CCar_cb_6_255r_a" />
                   <lb n="1" xml:id="CCar_lb_255ra_1" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_1_1"><gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_255ra_1_1">a</supplied></w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_1_2"><gap unit="char" extent="7" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_255ra_1_2">unhrain</supplied></w>
@@ -1645,7 +1627,7 @@
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_25_1">gatair</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_25_2">waurstw</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_25_3"><choice xml:id="CCar_abbr_255ra_25_3"><abbr><am><g ref="#guþistachi" /></am></abbr><expan><ex>guþis</ex></expan></choice></w>
-                  <pb n="255rb" xml:id="CCar_pb_12_255rb" facs="#CCar_facs_12_255rb" />
+                  <cb n="2" xml:id="CCar_cb_6_255r_b" />
                   <lb n="1" xml:id="CCar_lb_255rb_1" />
                </ab>
                <ab type="verse" n="14" xml:id="CCar_Rm_14_verse_14_3">
@@ -1772,7 +1754,8 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_1">destruere</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_2">opus</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_3"><choice xml:id="CCar_abbr_255rb_24_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
-                  <pb n="280ra" xml:id="CCar_pb_13_280ra" facs="#CCar_facs_13_280ra" />
+                  <pb n="280r" xml:id="CCar_pb_7_280r" facs="#CCar_facs_7_280r" />
+                  <cb n="1" xml:id="CCar_cb_7_280r_a" />
                   <lb n="1" xml:id="CCar_lb_280ra_1" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_1_1">þize</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_1_2"><choice xml:id="CCar_abbr_280ra_1_2"><abbr>ïdweitjand<am><g ref="#atild" /></am>e</abbr><expan>ïdweitjanda<ex>n</ex>e</expan></choice></w>
@@ -1895,7 +1878,7 @@
                   <space xml:id="CCar_space_280ra_25_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_25_1">andbaht</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280ra_25_2"><choice xml:id="CCar_abbr_280ra_25_2"><abbr>waurþan<am><g ref="#atild" /></am>a</abbr><expan>waurþana<ex>n</ex>a</expan></choice></w>
-                  <pb n="280rb" xml:id="CCar_pb_14_280rb" facs="#CCar_facs_14_280rb" />
+                  <cb n="2" xml:id="CCar_cb_7_280r_b" />
                   <lb n="1" xml:id="CCar_lb_280rb_1" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_1_1">tibi</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_1_2">caeciderunt</w>
@@ -2007,7 +1990,8 @@
                   <space xml:id="CCar_space_280rb_23_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_23_1">ministrum</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_23_2">fuisse</w>
-                  <pb n="280va" xml:id="CCar_pb_15_280va" facs="#CCar_facs_15_280va" />
+                  <pb n="280v" xml:id="CCar_pb_8_280v" facs="#CCar_facs_8_280v" />
+                  <cb n="1" xml:id="CCar_cb_8_280v_a" />
                   <lb n="1" xml:id="CCar_lb_280va_1" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_1_1">fram</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_1_2">sunjai</w>
@@ -2119,7 +2103,7 @@
                   <space xml:id="CCar_space_280va_25_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_25_1">allaizos</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280va_25_2">fahedais</w>
-                  <pb n="280vb" xml:id="CCar_pb_16_280vb" facs="#CCar_facs_16_280vb" />
+                  <cb n="2" xml:id="CCar_cb_8_280v_b" />
                   <lb n="1" xml:id="CCar_lb_280vb_1" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_1">propter</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_2">veritatem</w>
