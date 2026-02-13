@@ -17,7 +17,14 @@
 		}
 	},
 	"imagesFolderUrls": {
-		"single": "assets/data/images/single/"
+		"single": "assets/data/images/single/",
+		"folders": [
+        	{"id": "norm", "label": "Normal", "path": "assets/data/images/norm/"},
+        	{"id": "alt1", "label": "Altered 1", "path": "assets/data/images/alt1/"},
+			{"id": "alt2", "label": "Altered 2", "path": "assets/data/images/alt2/"},
+			{"id": "alt3", "label": "Altered 3", "path": "assets/data/images/alt3/"},
+			{"id": "alt4", "label": "Altered 4", "path": "assets/data/images/alt4/"}
+	]
 	},
 	"configurationUrls": {
 		"edition": "assets/config/edition_config_CAmbD_TEI.json",

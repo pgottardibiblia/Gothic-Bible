@@ -17,7 +17,11 @@
 		}
 	},
 	"imagesFolderUrls": {
-		"single": "assets/data/images/single/"
+		"single": "assets/data/images/single/",
+		"folders": [
+        	{"id": "norm", "label": "Normal", "path": "assets/data/images/norm/"},
+        	{"id": "b_w", "label": "Black and white", "path": "assets/data/images/bw/"}
+	]
 	},
 	"configurationUrls": {
 		"edition": "assets/config/edition_config_CCar_TEI.json",
