@@ -150,6 +150,18 @@ body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt
 }
 
 
+/* Nascondi il column break marker */
+evt-generic-element.cb {
+    display: none !important;
+}
+
+/* Stile per le colonne */
+.text-column {
+    flex: 1;
+    min-width: 0;
+}
+
+
 body.diplomatic-mode evt-content-viewer.seg:has([data-type="corresp-text"]) {
     display: none !important;
 }
