@@ -353,5 +353,25 @@
                 }
             }
         }
+    },
+    "columnBreak": {
+    "markup": {
+        "element": "cb",
+        "attributes": []
+    },
+    "layouts": {
+        "diplomatic": {
+            "style": {
+                "display": "block",
+                "break-before": "column"
+            }
+        },
+        "interpretative": {
+            "style": {
+                "display": "block",
+                "break-before": "column"
+            }
+        }
     }
+}
 }

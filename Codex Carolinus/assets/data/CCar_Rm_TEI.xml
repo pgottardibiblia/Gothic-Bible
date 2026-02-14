@@ -397,6 +397,10 @@
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277ra_25_2">aiwa</w>
                   <cb n="2" xml:id="CCar_cb_1_277r_b" />
                   <lb n="1" xml:id="CCar_lb_277rb_1" />
+               </ab>
+            </div>   
+            <div type="chapter" n="11" xml:id="CCar_Rm_chapter_11_bis">
+               <ab type="verse" n="33" xml:id="CCar_Rm_11_verse_33_bis">
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_1">et</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_2">scientiae</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_3"><choice xml:id="CCar_abbr_277rb_1_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
@@ -417,8 +421,6 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_5_2">eius</w>
                   <lb n="6" xml:id="CCar_lb_277rb_6" />
                </ab>
-            </div>
-            <div type="chapter" n="11" xml:id="CCar_Rm_chapter_11_bis">
                <ab type="verse" n="34" xml:id="CCar_Rm_11_verse_34_bis">
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_6_1">Quis</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_6_2">enim</w>
@@ -759,6 +761,8 @@
                   <cb n="1" xml:id="CCar_cb_3_256v_a" />
                   <lb n="1" xml:id="CCar_lb_256va_1" />
                </ab>
+            </div>
+            <div type="chapter" n="12" xml:id="CCar_Rm_chapter_12_2">
                <ab type="verse" n="17" xml:id="CCar_Rm_12_verse_17">
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_1_1">in</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_256va_1_2">andwairþja</w>

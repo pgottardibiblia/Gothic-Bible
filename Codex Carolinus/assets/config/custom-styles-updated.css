@@ -150,15 +150,13 @@ body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt
 }
 
 
-/* Nascondi il column break marker */
-evt-generic-element.cb {
-    display: none !important;
-}
 
-/* Stile per le colonne */
-.text-column {
-    flex: 1;
-    min-width: 0;
+
+/* Contenitore del testo di ogni pagina */
+.text-content, .page-text, evt-text-component .text-wrapper {
+    column-count: 2;
+    column-gap: 2rem;
+    column-rule: 1px solid #ccc;
 }
 
 
