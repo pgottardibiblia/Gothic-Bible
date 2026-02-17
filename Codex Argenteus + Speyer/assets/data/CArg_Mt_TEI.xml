@@ -2442,7 +2442,7 @@
                      <seg corresp="CArg_seg_1_6r_11_7" xml:id="CArg_seg_2_6r_12_1">kinon<seg type="corresp-text">skal</seg></seg>
                   </w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_6r_12_2">jah</w>
-                  <add place="margin_right" xml:id="CArg_add_6r_12_3"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_6r_12_3a">faihuþra<gap unit="char" extent="3" /><supplied resp="Uppström,Streitberg" xml:id="CArgem6r123">ina</supplied></w></add>
+                  <w type="add_or_gloss" xml:id="CArg_w_6r_12_3"><add place="margin_right" xml:id="CArg_add_6r_12_3"><w rend="silver_ink" xml:lang="got" xml:id="CArg_w_6r_12_3a">faihuþra<gap unit="char" extent="3" /><supplied resp="Uppström,Streitberg" xml:id="CArgem6r123">ina</supplied></w></add></w>
                   <w rend="silver_ink" xml:lang="got" xml:id="CArg_w_6r_12_4">mammonin</w>
                   <pc type="colon" rend="silver_ink" xml:id="CArg_colon_6r_12_5">:</pc>
                   <note type="comment" target="#CArg_lb_6r_12" resp="#Uppström, #Streitberg"><hi rend="italic">faihuþra[†]</hi> : Uppström and Streitberg conjecture <hi rend="italic">faihuþra[ina]</hi></note><lb n="13" xml:id="CArg_lb_6r_13" />

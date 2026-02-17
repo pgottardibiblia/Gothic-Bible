@@ -131,7 +131,8 @@
         },
         "layouts": {
             "interpretative": {
-                "post": "| |",
+                "pre": "|",
+                "post": "|",
                 "style": {
                     "margin-right": "-0.3rem"
                 }

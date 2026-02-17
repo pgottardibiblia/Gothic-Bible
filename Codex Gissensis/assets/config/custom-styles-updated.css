@@ -149,6 +149,14 @@ body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt
   }
 }
 
+evt-addition > span.add > evt-content-viewer + evt-content-viewer {
+  margin-left: 0.3em;
+}
+
+evt-addition > span.add[data-place="margin_left"] > evt-content-viewer {
+  display: block;
+  margin-left: -3.5em;
+}
 
 body.diplomatic-mode evt-content-viewer.seg:has([data-type="corresp-text"]) {
     display: none !important;
