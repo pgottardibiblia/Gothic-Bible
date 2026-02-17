@@ -98,7 +98,7 @@ body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt
 
 @media (min-width: 1325px) {
   .panel-content div:has(evt-page) {
-    margin: 0 6rem;
+    margin: 0 3rem;
   }
 
   *[place="margin_left"] {
@@ -150,14 +150,38 @@ body.interpretative-mode evt-generic-element *[class="num ng-star-inserted"] evt
 }
 
 
-
-
-/* Contenitore del testo di ogni pagina */
-.text-content, .page-text, evt-text-component .text-wrapper {
-    column-count: 2;
-    column-gap: 2rem;
-    column-rule: 1px solid #ccc;
+/* Layout colonne */
+.two-col-wrapper {
+    display: flex !important;
+    gap: 2rem;
+    align-items: flex-start;
 }
+
+.col-gothic, .col-latin {
+    flex: 1;
+    min-width: 0;
+}
+
+/* Elementi inline dentro le colonne */
+.col-gothic, .col-latin evt-content-viewer.ab {
+    display: inline !important;
+}
+
+.col-gothic, .col-latin ndc-dynamic {
+    display: inline !important;
+}
+
+/* Nascondi il cb */
+evt-generic-element.cb {
+    display: none !important;
+}
+
+/* Numerazione righe visibile in entrambe le colonne */
+.col-gothic .lineN, .col-latin .lineN {
+    display: inline !important;
+    visibility: visible !important;
+}
+
 
 
 body.diplomatic-mode evt-content-viewer.seg:has([data-type="corresp-text"]) {
