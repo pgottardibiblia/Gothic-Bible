@@ -154,31 +154,7 @@ function addSelectorToNavbar(folders) {
     const select = document.createElement('select');
     select.id = 'image-folder-selector';
     select.className = 'form-select form-select-sm me-1'; // Aggiungo me-1 come gli altri
-    select.style.cssText = `
-        display: inline-flex;
-        vertical-align: middle;
-        align-items: center;
-        font-size: 0.8rem;
-        height: 31px;
-        padding: 5px 10px;
-        background-color: #f5ead4;
-        color: #362d28;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        width: auto;
-        line-height: 1.5;
-        cursor: pointer;
-        appearance: none;
-        -webkit-appearance: none;
-        -moz-appearance: none;
-        background-image: 
-            linear-gradient(to right, transparent calc(100% - 25px), #ccc4ba calc(100% - 25px)),
-            url('data:image/svg+xml;utf8,<svg fill="%23666" height="10" viewBox="0 0 24 24" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>');
-        background-repeat: no-repeat, no-repeat;
-        background-position: right, right 0.5rem center;
-        background-size: auto, 12px 10px;
-        padding-right: 2rem;
-    `.replace(/\s+/g, ' ').trim();
+
     
     // Aggiungi le opzioni
     folders.forEach(folder => {
