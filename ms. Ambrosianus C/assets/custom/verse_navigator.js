@@ -2,7 +2,7 @@
   'use strict';
 
   // ── Configuration ──────────────────────────────────────────────────
-  const TEI_XML_PATH = 'assets/data/CAmbC_Mt_TEI.xml'; // <-- CHANGE IF NEEDED
+  const TEI_XML_PATH = 'assets/data/text/CAmbC_Mt_TEI.xml'; // <-- CHANGE IF NEEDED
   const TEI_NS = 'http://www.tei-c.org/ns/1.0';
   const XI_NS  = 'http://www.w3.org/2001/XInclude';
   const XML_NS = 'http://www.w3.org/XML/1998/namespace';

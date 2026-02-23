@@ -2,7 +2,7 @@
 	"editionUrls": [
 		{
 			"type": "main",
-			"value":"assets/data/CAmbC_Mt_TEI.xml",
+			"value":"assets/data/text/CAmbC_Mt_TEI.xml",
 			"enable": true
 		}
 	],

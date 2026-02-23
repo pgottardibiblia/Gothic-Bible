@@ -2,7 +2,7 @@
 	"editionUrls": [
 		{
 			"type": "main",
-			"value":"assets/data/CArg_TEI.xml",
+			"value":"assets/data/text/CArg_TEI.xml",
 			"enable": true
 		}
 	],

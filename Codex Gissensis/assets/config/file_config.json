@@ -2,7 +2,7 @@
 	"editionUrls": [
 		{
 			"type": "main",
-			"value":"assets/data/CGis_Lc_TEI.xml",
+			"value":"assets/data/text/CGis_Lc_TEI.xml",
 			"enable": true
 		}
 	],
