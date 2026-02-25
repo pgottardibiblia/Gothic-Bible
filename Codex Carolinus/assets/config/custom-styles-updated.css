@@ -672,3 +672,69 @@ evt-generic-element.row:empty {
   .verse-nav-option { color: #ddd; }
   .verse-nav-option:hover { background: #3a3a3a; color: #6cb4ff; }
 }
+
+/* ── PDF Export Button ──────────────────────────────────── */
+#evt3-pdf-export-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  height: 31px;
+  padding: 4px 10px;
+  font-family: inherit;
+  font-size: 0.815rem;
+  font-weight: 500;
+  color: #50433b;
+  background-color: #f5ead4;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+}
+
+#evt3-pdf-export-btn:hover {
+  border-color: #b3b3b3;
+  background-color: #f0e4c8;
+}
+
+#evt3-pdf-export-btn:focus,
+#evt3-pdf-export-btn:focus-visible {
+  outline: none;
+  border-color: #333;
+  box-shadow: 0 0 0 2px rgba(58, 47, 1, 0.25);
+}
+
+#evt3-pdf-export-btn:active {
+  background-color: #e8dabc;
+}
+
+#evt3-pdf-export-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+#evt3-pdf-export-btn svg {
+  flex-shrink: 0;
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+}
+
+/* ── Dark theme ── */
+@media (prefers-color-scheme: dark) {
+  #evt3-pdf-export-btn {
+    background-color: #2d2d2d;
+    border-color: #555;
+    color: #ddd;
+  }
+
+  #evt3-pdf-export-btn:hover {
+    border-color: #777;
+    background-color: #3a3a3a;
+  }
+
+  #evt3-pdf-export-btn:focus,
+  #evt3-pdf-export-btn:focus-visible {
+    border-color: #6cb4ff;
+    box-shadow: 0 0 0 2px rgba(108, 180, 255, 0.25);
+  }
+}
