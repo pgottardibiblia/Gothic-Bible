@@ -1,7 +1,7 @@
 {
-	"editionTitle": "ms. Ambrosianus C",
-	"badge": "alpha",
-	"editionHome": "http://vbd.humnet.unipi.it/beta2/",
+	"editionTitle": "Archivum Gothicum, vol. 1: Codex  Ambrosianus C",
+	"badge": "beta",
+	"editionHome": "https://edizionicafoscari.unive.it/it/edizioni4/libri/979-12-5742-031-4/",
 	"availableEditionLevels": [
 		{
 			"id": "diplomatic",
@@ -19,7 +19,7 @@
 			"id": "critical",
 			"label": "critical",
 			"enable": false,
-			"hidden": false
+			"hidden": true
 		},
 		{
 			"id": "changesView",
