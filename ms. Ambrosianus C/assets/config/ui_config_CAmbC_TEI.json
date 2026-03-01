@@ -82,7 +82,7 @@
     {
       "code": "fr",
       "label": "languageFr",
-      "enable": true
+      "enable": false
     },
     {
       "code": "it",
