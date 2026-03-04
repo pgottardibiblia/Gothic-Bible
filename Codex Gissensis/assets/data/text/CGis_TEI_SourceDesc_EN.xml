@@ -1,0 +1,326 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+     xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <sourceDesc xml:id="CGis_sDesc_EN">
+         <msDesc xml:id="EN - Codex Gissensis">
+            <msIdentifier>
+               <country>Germany</country>
+               <settlement>Giessen</settlement>
+               <repository>University Library</repository>
+               <idno type="shelfmark">651/20</idno>
+               <idno type="inventory">PbuG Inv. Nr. 18</idno>
+               <altIdentifier type="former">
+                  <idno>Deutsches Papyruskartell acquisition, 1907-1908</idno>
+               </altIdentifier>
+            </msIdentifier>
+            <msContents>
+               <summary>
+                  <p>Bilingual Gothic-Latin Gospel book fragment. Preserves words from the Gospel of Luke: Latin text from verses 23:3-6 (f. 1r) and 24:5-9 (f. 8r); Gothic text from verses 23:11-14 (f. 1v) and 24:13, 15-17 (f. 8v). The Latin text belongs to the pre-Jerome tradition (Vetus Latina, ms. 36).</p>
+               </summary>
+               <msItem n="1">
+                  <locus>ff. 1r-8v</locus>
+                  <title type="uniform" xml:lang="en">Gospel of Luke</title>
+                  <textLang mainLang="got" otherLangs="lat">Gothic and Latin</textLang>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc form="codex">
+                  <supportDesc material="perg">
+                     <support>
+                        <material>Parchment</material>
+                     </support>
+                     <extent>
+                        <measure type="dimensions" unit="mm">155 × 125 mm (fragment)</measure>
+                        <p>Fragment originally formed the upper central part of the outer bifolium of a quire. Original page dimensions estimated at ca. 260-270 × 210-220 mm, with a written area of ca. 190-200 × 150-160 mm. Eleven lines survive out of 24-25 estimated.</p>
+                     </extent>
+                     <condition>
+                        <p>Fragment lost since 1945. Only photographic reproductions survive. The fragment was stored in the Dresdner Bank vault in Giessen and lost after flooding of the River Lahn.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="2" writtenLines="24 25">
+                        <p>Bifolium layout with Gothic text on left page (position of honor) and Latin text on right. Text laid out per cola et commata. Ruling executed on flesh side with double vertical bounding lines. Written area delimited by vertical ruling lines, with space between first and second lines measuring approximately two to three letters width.</p>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc hands="2">
+                  <handNote xml:id="hand1" scope="major" script="Gothic">Gothic text written in vertical Gothic script. Use of Latin-form &lt;s&gt; links this manuscript to other Ostrogothic codices, suggesting Italian origin.</handNote>
+                  <handNote xml:id="hand2" scope="major" script="uncial">Latin text written in uncial script 'not of the oldest type' (CLA VIII, 1200). Presumably of Italian origin. Uncertain whether manuscript copied by single bilingual scribe or two different scribes.</handNote>
+               </handDesc>
+               <scriptDesc>
+                  <p>In Latin section, slightly larger letter module marks beginning of textual units, projecting beyond written area; Eusebian section numbers in smaller module. In some Gothic lines, letters at line end reduced in size and more closely spaced. Both scripts conform to well-established norms.</p>
+               </scriptDesc>
+               <decoDesc>
+                  <decoNote type="rubrication">Two different inks used. Beginnings of Eusebian sections in Latin text are faded, suggesting use of distinctive ink (possibly red), less durable than darker ink for remainder of text. Paragraph marks in left margin at beginning of Eusebian sections: thin horizontal stroke thickened at ends and bisected by oblique stroke.</decoNote>
+               </decoDesc>
+               <additions>
+                  <p>Traces of running title detected in upper margin of f. 1v (Gothic side), though some uncertainty remains.</p>
+                  <p>Eusebian sections marked in left margin of Latin text, written in smaller module.</p>
+                  <p>Numerous probationes pennae written at indeterminate period visible within fragment.</p>
+               </additions>
+            </physDesc>
+            <history>
+               <origin>
+                  <origDate notBefore="0500" notAfter="0550">First third/first half of the sixth century</origDate>
+                  <origPlace>Likely copied in Ostrogothic milieu or derived from Ostrogothic exemplar. Latin script presumably of Italian origin.</origPlace>
+               </origin>
+               <provenance notBefore="1907" notAfter="1908">
+                  <p>Found in Egypt under unknown circumstances, possibly from Shêkh 'Abâde near Antinoe. Acquired 1907-1908 by Deutsches Papyruskartell. Various hypotheses regarding connection to place of discovery: pilgrim travel, use in Arian Church of Vandal kingdom, arrival with Amalafrida (sister of Theoderic, wife of Thrasamund), or Ostrogothic settlements in Egypt during/after Greco-Gothic War.</p>
+               </provenance>
+               <acquisition when="1945">
+                  <p>Fragment stored in Dresdner Bank vault in Giessen with other manuscripts. Lost in 1945 following flooding of River Lahn. Unlike other manuscripts (which retained at least material support), all traces completely lost.</p>
+               </acquisition>
+            </history>
+            <additional>
+               <surrogates>
+                  <p>Photographic reproductions prepared by Paul Glaue and Karl Helm (editio princeps, 1910). Digital images available at: <ref target="http://bibd.uni-giessen.de/papyri/images/pbug-inv018-1.jpg">http://bibd.uni-giessen.de/papyri/images/pbug-inv018-1.jpg</ref> and <ref target="http://bibd.uni-giessen.de/papyri/images/pbug-inv018-2.jpg">http://bibd.uni-giessen.de/papyri/images/pbug-inv018-2.jpg</ref>
+                  </p>
+               </surrogates>
+               <listBibl>
+                  <head>Selected Bibliography</head>
+                  <bibl xml:id="bibl_Lowe1959" type="book">
+                     <author>
+                        <persName>
+                           <surname>Lowe</surname>
+                           <forename>E.A.</forename>
+                        </persName>
+                     </author>
+                     <date>1959</date>
+                     <title level="m" type="main">Codices latini antiquiores</title>
+                     <title level="m" type="sub">A Palaeographical Guide to Latin Manuscripts prior to the Ninth Century</title>
+                     <biblScope unit="volume">VIII</biblScope>
+                     <biblScope unit="part">Germany: Altenburg-Leipzig</biblScope>
+                     <imprint>
+                        <pubPlace>Oxford</pubPlace>
+                     </imprint>
+                     <idno type="siglum">CLA VIII 1200</idno>
+                  </bibl>
+                  <bibl xml:id="bibl_Ebbinghaus1989" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Ebbinghaus</surname>
+                           <forename>E. A.</forename>
+                        </persName>
+                     </author>
+                     <date>1989</date>
+                     <title level="a">Some Observations on Codex Gissensis</title>
+                     <title level="j">General Linguistics</title>
+                     <biblScope unit="volume">29</biblScope>
+                     <biblScope unit="page">276-278</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Falluomini2010" type="bookSection">
+                     <author>
+                        <persName>
+                           <surname>Falluomini</surname>
+                           <forename>Carla</forename>
+                        </persName>
+                     </author>
+                     <date>2010</date>
+                     <title level="a">Il codice gotico-latino di Gießen e la Chiesa vandalica</title>
+                     <title level="m">Lingua et ingenium. Studi su Fulgenzio di Ruspe e il suo contesto</title>
+                     <editor role="editor">
+                        <persName>
+                           <surname>Piras</surname>
+                           <forename>A.</forename>
+                        </persName>
+                     </editor>
+                     <series>
+                        <title level="s">Studi e Ricerche di Cultura Religiosa</title>
+                        <biblScope unit="volume">7</biblScope>
+                        <note type="series">N.S.</note>
+                     </series>
+                     <imprint>
+                        <pubPlace>Ortacesus</pubPlace>
+                     </imprint>
+                     <biblScope unit="page">309-340</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_FrancovichOnesti2002" type="book">
+                     <author>
+                        <persName>
+                           <surname>Francovich Onesti</surname>
+                           <forename>Nicoletta</forename>
+                        </persName>
+                     </author>
+                     <date>2002</date>
+                     <title level="m">I Vandali. Lingua e storia</title>
+                     <imprint>
+                        <pubPlace>Roma</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_GlaueHelm1910" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Glaue</surname>
+                           <forename>Paul</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Helm</surname>
+                           <forename>Karl</forename>
+                        </persName>
+                     </author>
+                     <date>1910</date>
+                     <title level="a">Das gotisch-lateinische Bibelfragment der Großherzoglichen Universitätsbibliothek Gießen</title>
+                     <title level="j">Zeitschrift für neutestamentliche Wissenschaft</title>
+                     <biblScope unit="volume">11</biblScope>
+                     <biblScope unit="page">1-38</biblScope>
+                     <note type="descriptive">editio princeps</note>
+                  </bibl>
+                  <bibl xml:id="bibl_Gundel1977" type="book" n="2">
+                     <author>
+                        <persName>
+                           <surname>Gundel</surname>
+                           <forename>Hans Georg</forename>
+                        </persName>
+                     </author>
+                     <date>1977</date>
+                     <title level="m">Katalog der literarischen Papyri in der Gießener Universitätsbibliothek</title>
+                     <edition>2., durchges. und erw. Aufl. des Kurzberichtes 12, 1962</edition>
+                     <series>
+                        <title level="s">Kurzberichte aus den Giessener Papyrussammlungen</title>
+                        <biblScope unit="volume">39</biblScope>
+                     </series>
+                     <imprint>
+                        <pubPlace>Gießen</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Henss1973" type="book">
+                     <author>
+                        <persName>
+                           <surname>Henss</surname>
+                           <forename>Walter</forename>
+                        </persName>
+                     </author>
+                     <date>1973</date>
+                     <title level="m" type="main">Leitbilder der Bibelübersetzung im 5. Jahrhundert</title>
+                     <title level="m" type="sub">Die Praefatio im Evangelienkodex Brixianus (f) und das Problem der gotisch-lateinischen Bibelbilinguen</title>
+                     <series>
+                        <title level="s">Abhandlungen der Heidelberger Akademie der Wissenschaften. Philosophisch-historische Klasse</title>
+                     </series>
+                     <imprint>
+                        <pubPlace>Heidelberg</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Kuhlmann1994" type="thesis">
+                     <author>
+                        <persName>
+                           <surname>Kuhlmann</surname>
+                           <forename>Peter A.</forename>
+                        </persName>
+                     </author>
+                     <date>1994</date>
+                     <title level="m" type="main">Die Giessener literarischen Papyri und die Caracalla-Erlasse</title>
+                     <title level="m" type="sub">Edition, Übersetzung und Kommentar</title>
+                     <note type="thesisType">Diss.</note>
+                     <series>
+                        <title level="s">Berichte und Arbeiten aus der Universitätsbibliothek und dem Universitätsarchiv Gießen</title>
+                        <biblScope unit="volume">46</biblScope>
+                     </series>
+                     <imprint>
+                        <pubPlace>Gießen</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Reinard2024" type="bookSection">
+                     <author>
+                        <persName>
+                           <surname>Reinard</surname>
+                           <forename>Philipp</forename>
+                        </persName>
+                     </author>
+                     <date>2024</date>
+                     <title level="a">Bemerkungen zum Codex Gissensis. Goten in der papyrologischen Überlieferung</title>
+                     <title level="m">Libens Laetus Merito. Festschrift für Wolfgang Spickermann zum 65. Geburtstag</title>
+                     <editor role="editor">M. Linder</editor>
+                     <editor role="editor">W. Petermandl</editor>
+                     <editor role="editor">Ch. Schäfer</editor>
+                     <editor role="editor">L. Scheuermann</editor>
+                     <series>
+                        <title level="s">Philippika</title>
+                        <biblScope unit="volume">180</biblScope>
+                     </series>
+                     <imprint>
+                        <pubPlace>Wiesbaden</pubPlace>
+                     </imprint>
+                     <biblScope unit="page">169-188</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Ruehl1911" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Rühl</surname>
+                           <forename>Franz</forename>
+                        </persName>
+                     </author>
+                     <date>1911</date>
+                     <title level="a">Zur Herkunft des lateinisch-gotischen Bibelfragments</title>
+                     <title level="j">Zeitschrift für neutestamentliche Wissenschaft</title>
+                     <biblScope unit="volume">12</biblScope>
+                     <biblScope unit="page">85-87</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_ScardingliManfredi1991" type="bookSection">
+                     <author>
+                        <persName>
+                           <surname>Scardigli</surname>
+                           <forename>Piergiuseppe</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Manfredi</surname>
+                           <forename>Marina</forename>
+                        </persName>
+                     </author>
+                     <date>1991</date>
+                     <title level="a">Note sul frammento gotico-latino di Giessen</title>
+                     <title level="m" type="main">Geist und Zeit. Wirkungen des Mittelalters in Literatur und Sprache</title>
+                     <title level="m" type="sub">Festschrift für Roswitha Wisniewski</title>
+                     <editor role="editor">C. Gottzman</editor>
+                     <editor role="editor">H. Kolb</editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                     </imprint>
+                     <biblScope unit="page">419-437</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Snaedal2003" type="bookSection">
+                     <author>
+                        <persName>
+                           <surname>Snædal</surname>
+                           <forename>Magnús</forename>
+                        </persName>
+                     </author>
+                     <date>2003</date>
+                     <title level="a">The Gothic Text of Codex Gissensis</title>
+                     <title level="m">Gotica Minora. II. Scripta nova et vetera</title>
+                     <editor role="editor">
+                        <persName>
+                           <surname>Petersen</surname>
+                           <forename>Christoph Th.</forename>
+                        </persName>
+                     </editor>
+                     <imprint>
+                        <pubPlace>Frankfurt am Main</pubPlace>
+                     </imprint>
+                     <biblScope unit="page">1-20</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Underwood2014" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Underwood</surname>
+                           <forename>Nicholas</forename>
+                        </persName>
+                     </author>
+                     <date>2014</date>
+                     <title level="a" type="main">When the Goths were in Egypt</title>
+                     <title level="a" type="sub">A Gothic Bible Fragment and Barbarian Settlement in Sixth-Century Egypt</title>
+                     <title level="j">Viator</title>
+                     <biblScope unit="volume">45</biblScope>
+                     <biblScope unit="page">25-38</biblScope>
+                  </bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </teiHeader>
+</TEI>
+

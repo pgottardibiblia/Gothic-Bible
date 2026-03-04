@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+     xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <sourceDesc xml:id="CAmbC_sDesc_IT">
+         <msDesc xml:id="IT - Codex Ambrosianus C">
+            <msIdentifier>
+               <country>Italia</country>
+               <settlement>Milano</settlement>
+               <repository>Biblioteca Ambrosiana</repository>
+               <idno type="shelfmark">C 61 sup.</idno>
+               <idno type="foliation">ff. 90-91</idno>
+               <altIdentifier type="inventory">
+                  <idno>Numero 6 nell'inventario del 1461</idno>
+               </altIdentifier>
+            </msIdentifier>
+            <msContents>
+               <summary>
+                  <p>Il bifoglio, oggi palinsesto, tramanda come testo inferiore una parte della traduzione gotica del Vangelo di Matteo (25:38-26:3; 26:65-27:1; i versetti 26:70-27:1 sono tràditi anche dall'Argenteus, cfr. Cipolla 1987-1988, 215-236). Il testo superiore, curiosamente, trasmette una parte del Vangelo di Matteo in latino (28:1-20).</p>
+               </summary>
+               <msItem n="1">
+                  <locus>ff. 90r-91v (testo inferiore)</locus>
+                  <title type="uniform" xml:lang="it">Vangelo di Matteo</title>
+                  <textLang mainLang="got">Gotico (testo inferiore)</textLang>
+               </msItem>
+               <msItem n="2">
+                  <locus>ff. 90r-91v (testo superiore)</locus>
+                  <title type="uniform" xml:lang="it">Vangelo di Matteo</title>
+                  <textLang mainLang="lat">Latino (testo superiore)</textLang>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc form="bifolium">
+                  <supportDesc material="perg">
+                     <support>
+                        <material>Pergamena.</material>
+                     </support>
+                     <extent>
+                        <measure type="dimensions" unit="mm">160-162 × 211-220 mm</measure>
+                        <p>Si tratta del bifoglio esterno di un quaternione, come si desume in base al testo mancante. Le misure dei fogli variano tra ca. 160-162 × 211-220 mm; i margini sono rifilati in modo irregolare e sono molto rovinati; lo specchio di scrittura è di ca. 118 × 153 mm.</p>
+                     </extent>
+                     <condition>
+                        <p>Il bifoglio è oggi sfascicolato e conservato in una cartellina. I margini sono rovinati, probabilmente dall'azione di roditori.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="1" writtenLines="17">
+                        <p>Il testo gotico è disposto su una sola colonna, in scriptio continua.</p>
+                        <p>Lo specchio di scrittura, di 17 righe, è delimitato da una rigatura verticale singola, eseguita sul lato carne a bifoglio aperto, grazie all'impiego di fori di guida.</p>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc hands="2">
+                  <handNote xml:id="hand1" scope="major" script="Gothic">Il testo gotico è vergato nella scrittura verticale dei Goti (con &lt;s&gt; di forma latina), da un solo amanuense, esperto e sicuro nel tratteggio. La proporzione tra l'altezza e la larghezza delle lettere è leggermente maggiore rispetto a quella riscontrabile in altri manoscritti; la scrittura sembra più nervosa e l'asse di alcune lettere è lievemente inclinata verso sinistra. Sono presenti lettere di modulo maggiore, spostate a sinistra al di fuori della rigatura, in corrispondenza dell'inizio di una nuova porzione di testo. Lettere di modulo inferiore, spesso non allineate, sono occasionalmente attestate alla fine della riga.</handNote>
+                  <handNote xml:id="hand2" scope="major" script="semi-uncial">La scrittura del testo latino è una semi-onciale (CLA, III 351); faceva parte di un codice in scrittura irlandese (CLA, III 350; Zironi 2004, 67, 70).</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote type="rubrication">Inchiostro scuro (non meglio definibile).</decoNote>
+                  <decoNote type="paratext">Nel margine sinistro è attestato il segno di paragrafo: un sottile tratto obliquo verso sinistra, ingrossato alle estremità e con al centro un segno simile alla diplé.</decoNote>
+               </decoDesc>
+               <additions>
+                  <p>Titoli: È visibile un titolo corrente, indicato da monogrammi, costituiti da &lt;þ&gt; e &lt;r&gt;, per þairh 'secondo' sul verso (f. 90v), e &lt;m&gt; e &lt;þ&gt; per maþþaiu 'Matteo' nel retto (f. 91r). Probabilmente erano collocati a pagine alterne.</p>
+                  <p>Sezioni eusebiane: Le sezioni eusebiane non sono evidenziate. Nel margine esterno del f. 91v, in corrispondenza dell'inizio di Mt 27:1, è tuttavia presente l'attestazione, isolata nei testimoni gotici, di una lettera che potrebbe essere interpretata come ‹k›: si trova sia vicino al segno orizzontale che negli altri manoscritti gotici indica l'inizio di un nuovo paragrafo sia all'interno del rigo, dopo i due punti che segnalano la fine del colon precedente. Il simbolo potrebbe essere la modificazione di un'originaria ‹k› gotica (derivata e del tutto simile a ‹k› greca), realizzata con il corpo più stretto e il primo tratto verticale molto allungato verso il basso, barrato con un tratto obliquo: in tal caso costituirebbe l'indicazione per kephalaion, ovvero l'inizio di una nuova porzione di testo. Con ogni probabilità, tale simbolo si trovava già nell'antigrafo, a margine; sarebbe stato inserito dal copista dell'Ambrosianus C nel testo, forse senza capirne il significato, e in seguito aggiunto nuovamente a margine (da un'altra mano?).</p>
+                  <p>Numerazione dei fascicoli: È presente l'indicazione del numero (&lt;ig&gt; = 13 in scrittura gotica) che segna l'ordine dei fascicoli, posto nell'angolo inferiore destro, all'interno di una cornice di segni.</p>
+                  <p>Foliazione: I fogli presentano una doppia numerazione, indicata a matita nel margine superiore esterno: la prima risale a quando il codice era ancora rilegato (ff. 90 e 91) e la seconda, più recente, aggiunta dopo che i fogli erano stati separati, su ciascuna pagina (pp. 1, 2, 3 e 4).</p>
+                  <p>Punteggiatura: Il punto medio segnala le pause minori (commata) e i due punti le pause maggiori (cola).</p>
+                  <p>Abbreviazioni e contrazioni: Sono abbreviate entrambe le nasali al fine rigo, apparentemente con lo stesso segno (una lineetta orizzontale ingrossata alle estremità). Sono presenti i consueti nomina sacra.</p>
+                  <p>Correzioni: È attestata l'espunzione di due lettere attraverso brevi trattini posti sopra di esse. Non tutti gli errori sono stati corretti.</p>
+                  <p>Glosse: Nel margine sinistro del f. 90v sono presenti segni, non più decifrabili, che farebbero pensare a delle glosse; è possibile intravedere quella che parrebbe una 's' di forma greca o runica.</p>
+                  <p>Ortografia: Sono presenti fenomeni di assimilazione grafica, riscontrabili anche in altri manoscritti gotici.</p>
+               </additions>
+            </physDesc>
+            <history>
+               <origin>
+                  <origDate notBefore="0500" notAfter="0550">Il bifoglio è databile al primo terzo/prima metà del VI secolo. Riscritto nella seconda metà del VII secolo (Zironi 2004, 67, 70).</origDate>
+                  <origPlace>È molto verosimile che il manoscritto originario sia stato copiato in ambiente ostrogoto. Riscritto molto probabilmente a Bobbio (CLA, III 351; Zironi 2004, 67, 70).</origPlace>
+               </origin>
+               <provenance when="1461">
+                  <p>La storia del manoscritto originario non è nota. Le caratteristiche codicologiche che lo distanziano dall'Argenteus farebbero pensare ad un luogo di produzione e/o a un periodo di produzione differente da quest'ultimo. Il bifoglio gotico è stato riutilizzato molto verosimilmente a Bobbio per riscrivervi il testo evangelico. Tale codice presenta l'ex libris della biblioteca ed è menzionato nell'inventario del 1461, sotto il numero 6 (Zironi 2004, 131).</p>
+               </provenance>
+               <acquisition when="1815">
+                  <p>Scoperto da Angelo Mai nel 1815 (Lo Monaco 1996, 689-691), il testo gotico è stato pubblicato insieme a Castiglioni nel 1819 (Ulphilae partium ineditarum in Ambrosianis palimpsestis ab Angelo Maio repertarum specimen, conjunctis curis ejusdem Maii et Caroli Octavii Castillionaei editum, Mediolanum, 8-12); la riproduzione fototipica dei fogli è in de Vries 1936.</p>
+               </acquisition>
+            </history>
+            <additional>
+               <surrogates>
+                  <p>Riproduzione fototipica in de Vries 1936.</p>
+               </surrogates>
+               <listBibl>
+                  <head>Bibliografia principale (selezione)</head>
+                  <bibl xml:id="bibl_Cipolla1987" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Cipolla</surname>
+                           <forename>Maria Adele</forename>
+                        </persName>
+                     </author>
+                     <date>1987-1988</date>
+                     <title level="a">Matteo XXVI, 70-XXVII, 1: interpretazione ed edizione di un frammento della Bibbia gotica</title>
+                     <title level="j">Annali dell'Istituto Orientale di Napoli</title>
+                     <title type="subtitle">Filologia Germanica</title>
+                     <biblScope unit="volume">30-31</biblScope>
+                     <biblScope unit="page">215-236</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Lowe1938" type="book">
+                     <author>
+                        <persName>
+                           <surname>Lowe</surname>
+                           <forename>E.A.</forename>
+                        </persName>
+                     </author>
+                     <date>1938</date>
+                     <title level="m" type="main">Codices latini antiquiores</title>
+                     <title level="m" type="sub">A Palaeographical Guide to Latin Manuscripts prior to the Ninth Century</title>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="part">Italy: Ancona-Novara</biblScope>
+                     <imprint>
+                        <pubPlace>Oxford</pubPlace>
+                     </imprint>
+                     <idno type="siglum">CLA III 350, 351</idno>
+                  </bibl>
+                  <bibl xml:id="bibl_deVries1936" type="book">
+                     <author>
+                        <persName>
+                           <surname>de Vries</surname>
+                           <forename>Jan</forename>
+                        </persName>
+                     </author>
+                     <date>1936</date>
+                     <title level="m" type="main">Wulfilae Codices Ambrosiani rescripti epistularum evangelicarum textum goticum exhibentes</title>
+                     <title level="m" type="sub">phototypice editi et prooemio instructi</title>
+                     <imprint>
+                        <pubPlace>Augustae Taurinorum</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_LoMonaco1996" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Lo Monaco</surname>
+                           <forename>Francesco</forename>
+                        </persName>
+                     </author>
+                     <date>1996</date>
+                     <title level="a">«In codicibus … qui bobienses inscribuntur»: scoperte e studio di palinsesti bobbiesi in Ambrosiana dalla fine del Settecento ad Angelo Mai (1819)</title>
+                     <title level="j">Aevum</title>
+                     <biblScope unit="volume">70</biblScope>
+                     <biblScope unit="page">657-719</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Zironi2004" type="book">
+                     <author>
+                        <persName>
+                           <surname>Zironi</surname>
+                           <forename>Alessandro</forename>
+                        </persName>
+                     </author>
+                     <date>2004</date>
+                     <title level="m">Il monastero longobardo di Bobbio. Crocevia di uomini, manoscritti e culture</title>
+                     <imprint>
+                        <pubPlace>Spoleto</pubPlace>
+                     </imprint>
+                  </bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </teiHeader>
+</TEI>

@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+     xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <sourceDesc xml:id="CCar_sDesc_IT">
+         <msDesc xml:id="IT - Codex Carolinus">
+            <msIdentifier>
+               <country>Germania</country>
+               <settlement>Wolfenbüttel</settlement>
+               <repository>Herzog August Bibliothek</repository>
+               <idno type="shelfmark">Guelf. 64 Weiss., ff. 255, 256, 277, 280</idno>
+               <altIdentifier type="common">
+                  <idno>64 Weiss.</idno>
+               </altIdentifier>
+               <altIdentifier type="common">
+                  <idno>Weiss. 64</idno>
+               </altIdentifier>
+               <altIdentifier type="erroneous">
+                  <idno>Weiss. 4148 (dal numero del catalogo di von Heinemann 1908)</idno>
+               </altIdentifier>
+               <msName>Codex Carolinus (così denominato dallo scopritore del palinsesto, F.A. Knittel, in onore del duca Karl I. von Braunschweig-Lüneburg)</msName>
+            </msIdentifier>
+            <msContents>
+               <summary>
+                  <p>I quattro fogli, palinsesti, tramandano come testo inferiore la traduzione gotica di Rom 11:33-12:5, 12:17-13:5, 14:9-20 e 15:3-13, affiancata dal corrispondente testo latino, un testimone della tradizione pregeroniminiana (è il testimone 79, w o gue della Vetus Latina). Il testo superiore trasmette parte delle Etymologiae di Isidoro di Siviglia.</p>
+               </summary>
+               <msItem n="1">
+                  <locus>ff. 255, 256, 277, 280</locus>
+                  <title type="uniform" xml:lang="it">Lettera ai Romani</title>
+                  <textLang mainLang="got" otherLangs="lat">Gotico e latino</textLang>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc form="codex">
+                  <supportDesc material="perg">
+                     <support>
+                        <material>Pergamena, ben preparata. La differenza tra lato pelo e lato carne è ridotta al minimo.</material>
+                     </support>
+                     <extent>
+                        <measure type="dimensions" unit="mm">ca. 216 × 264 mm (fogli rifilati)</measure>
+                        <p>Si tratta del bifoglio esterno (ff. 277 e 280) e del terzo bifoglio a partire dall'esterno (ff. 256 e 255) di uno stesso quaternione. Le misure dei fogli, rifilati, sono ca. 216 × 264 mm; le misure originarie dovevano essere di ca. 225 × 305. Lo specchio di scrittura, di 27 righe, è diviso in due colonne, ciascuna di ca. 80-82 × 225-228 mm. L'intercolumnio è di ca. 26-28 mm.</p>
+                     </extent>
+                     <foliation>
+                        <p>La numerazione è moderna: di ogni foglio è indicato il recto e il verso nell'angolo superiore esterno.</p>
+                     </foliation>
+                     <collation>
+                        <p>Il f. 280v reca nel margine inferiore, in corrispondenza del centro dell'intercolumnio, la lettera/numero che indica l'ordine del fascicolo: &lt;e&gt; '5' in scrittura gotica, posta all'interno di una cornice di segni.</p>
+                     </collation>
+                     <condition>
+                        <p>I due bifogli gotico-latini sono ancora rilegati con il resto del codice. Lo stato in cui si trova il manoscritto è buono.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="2" writtenLines="27" ruledLines="27">
+                        <p>Il testo gotico è collocato nella colonna sinistra, nella posizione d''onore' usualmente destinata al testo di 'partenza' nei codici bilingui (Parker 1992, 52-65), e il testo latino in quella destra. Il periodo, con perfetta simmetria nelle due lingue, è suddiviso per cola et commata distinti per mezzo della loro disposizione differenziata all'interno dello specchio di scrittura: i cola iniziano a partire dalla più esterna delle due righe verticali che delimitano a sinistra lo specchio di scrittura, i commata da quella più interna. L'iniziale di ogni nuovo paragrafo è decisamente ingrandita rispetto alle restanti lettere e spostata al di fuori della riga verticale più esterna.</p>
+                        <p>La rigatura è eseguita a secco, sul lato carne a bifoglio aperto. Sono visibili i fori di guida nel margine inferiore del bifoglio esterno. Ogni colonna di scrittura è delimitata da una doppia rigatura verticale. Lo spazio tra le due linee verticali è di due-tre lettere (ca. 10-12 mm).</p>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc hands="2">
+                  <handNote xml:id="hand1" scope="major" script="Gothic">Il testo gotico è scritto nella scrittura verticale dei Goti (con &lt;s&gt; di forma latina), da un'unica mano, molto regolare e calligrafica. In entrambe le scritture la lettera con cui inizia un nuovo paragrafo è di modulo maggiore; lettere di modulo minore e, raramente, nessi (per rþ in gotico e nt in latino) sono attestati a fine rigo. In alcuni casi, per mantenere la simmetria con il testo gotico, le parole latine, in scrittura di modulo minore, sono poste sotto al rigo.</handNote>
+                  <handNote xml:id="hand2" scope="major" script="uncial">Il testo latino è scritto in un'esperta onciale 'old type' con tratti modernizzanti (leggero arrotondamento dei tratti di &lt;m&gt;, attacchi di &lt;h&gt; e &lt;l&gt; e stacchi di &lt;f&gt;, &lt;p&gt; e &lt;q&gt; posti decisamente al di sopra e al di sotto del rigo di scrittura). Le scritture, entrambe serrate, sono di due amanuensi diversi o – meno verosimilmente – di un amanuense goto perfettamente digrafo.</handNote>
+                  <handNote xml:id="hand3" scope="minor" script="New Cursive">La scriptio superior è una corsiva nuova, minuta e fluente (Bassetti 2025, 268).</handNote>
+               </handDesc>
+               <scriptDesc>
+                  <p>I numeri delle sezioni eutaliane sono nella medesima tipologia grafica, ma variano nella grandezza del modulo. Apparentemente sono della stessa mano che ha vergato il testo.</p>
+               </scriptDesc>
+               <decoDesc>
+                  <decoNote type="initial">L'iniziale di ogni nuovo paragrafo è decisamente ingrandita rispetto alle restanti lettere e spostata al di fuori della riga verticale più esterna.</decoNote>
+                  <decoNote type="paratext">Il segno di paragrafo è costituito da un sottile tratto orizzontale, ispessito alle estremità, con al centro un segno simile ad un punto o alla diplé. È collocato a sinistra sia della colonna gotica sia di quella latina, sopra all'iniziale di paragrafo.</decoNote>
+                  <decoNote type="quotation">La diplé (&gt;), o una sua forma corrotta simile a un punto, segnala le citazioni dall'Antico Testamento; è posta nel margine sinistro al di fuori dello specchio di scrittura di entrambi i testi, lungo tutta la citazione. Non è sempre presente.</decoNote>
+               </decoDesc>
+               <additions>
+                  <p>Titoli: Non sono visibili titoli correnti (il margine superiore è però rifilato).</p>
+                  <p>Sezioni eutaliane: I numeri delle sezioni eutaliane in cui è diviso il testo paolino sono indicati al margine sinistro di entrambe le colonne, inseriti in una cornice di segni. La numerazione non è sempre corretta.</p>
+                  <p>Inchiostro: Il colore originario non è definibile, verosimilmente scuro.</p>
+                  <p>Punteggiatura: L'unico segno di punteggiatura si trova al f. 277r (r. 18): in entrambi i testi, prima e dopo la parola amen (su cui sono posti due tratti orizzontali) è presente un segno simile alla diplé (&gt;).</p>
+                  <p>Ortografia: Sono presenti variazioni ortografiche comuni anche ad altri manoscritti gotici e latini.</p>
+                  <p>Abbreviazioni e contrazioni: Nel testo gotico sono usate sospensioni per le nasali a fine rigo: per &lt;n&gt; è impiegata una lineetta orizzontale; per &lt;m&gt;, alla lineetta viene aggiunto un punto sottostante, collocato centralmente. Nel testo latino sono presenti le abbreviazioni per la nasale &lt;m&gt;, sostituita da una lineetta e un punto sottostante, e i compendi per sanctam, sancto e nostri, indicati rispettivamente con le forme scam, sco e ni sormontate da una lineetta orizzontale. Abbreviazioni per troncamento sono attestate per -bus (b·), -que e quae (q·).</p>
+                  <p>In entrambi i testi sono presenti i nomina sacra per 'Dio', 'Signore', 'Gesù' e 'Cristo', indicati in forma contratta e con un tratto orizzontale sovrapposto. 'Spirito Santo' non è trattato come nomen sacrum nel testo gotico, mentre compare in forma contratta in quello latino.</p>
+                  <p>Numerali: Per il gotico sono usate, come di consueto, lettere con valore numerico; per il latino sono impiegati i numeri romani. Sia i numeri delle sezioni eutaliane sia il numero che indica l'ordine dei fascicoli sono inseriti in una cornice di segni.</p>
+                  <p>Correzioni: Le occasionali correzioni sono costituite da raschiature e aggiunte, anche sul rigo (nel testo latino), apparentemente della stessa mano del testo.</p>
+               </additions>
+            </physDesc>
+            <history>
+               <origin>
+                  <origDate notBefore="0500" notAfter="0520">I fogli gotico-latini sono databili al primo ventennio del VI secolo; riscritti alla metà dell'VIII secolo.</origDate>
+                  <origPlace>È verosimile che il manoscritto originario sia stato prodotto a Ravenna, capitale del regno ostrogoto e importante centro multiculturale. Riscritto insieme a fogli provenienti da altri manoscritti latini e greci nell'Italia settentrionale, probabilmente a Verona (Bassetti 2025, 272).</origPlace>
+                  <p>Sulla base della scrittura latina, dei nomina sacra latini e della disposizione del testo rispetto alla rigatura, il frammento può essere attribuito al primo ventennio del VI secolo, datazione suggerita anche dalla posizione dei testi nella pagina, che fa pensare a un pubblico in gran parte latinofono, forse di Goti di seconda generazione (dettagli in Falluomini 1999, 49-50). Quanto al luogo di produzione, la raffinatezza del manoscritto, la vicinanza tra la scrittura gotica del Carolinus e quella dell'Argenteus, il bilinguismo del codice e il fatto che sia stato rilegato per essere riscritto con fogli greci, tra cui alcuni che tramandano un testo di Galeno, rimandano ad uno scriptorium situato in un centro aperto alla cultura greca, dove la lingua dei Goti godeva di prestigio e dove sussisteva l'interesse e/o la necessità di rendere accessibile il testo gotico ad un pubblico di lingua latina, un centro che all'inizio del VI secolo aveva una sua ragione d'essere, in primo luogo, nella città regia di Teoderico: Ravenna (Cavallo 2019, 168-169).</p>
+               </origin>
+               <provenance notBefore="0750" notAfter="0760">
+                  <p>Il manoscritto è stato riutilizzato alla metà dell'VIII secolo per riscrivervi il testo delle Etymologiae di Isidoro di Siviglia, senza dubbio in un centro scrittorio situato nell'Italia settentrionale (a Verona?), dove è stato approntato anche il ms. Città del Vaticano, Biblioteca Apostolica Vaticana, Vat. Lat. 5763 (CLA I, 39): i due codici sono stati copiati da un unico esemplare del testo di Isidoro, riutilizzando come supporto scrittorio fogli provenienti dagli stessi manoscritti (cfr. CLA IX, 1388; Falluomini 1999, 19). Le perplessità sulla riscrittura del Carolinus a Bobbio sono numerose: il codice che contiene i fogli gotici (Guelf. 64 Weiss.) non è mai documentato a Bobbio, a differenza del gemello Vat. Lat. 5763, che presenta una nota di donazione di un certo Boniprandus al monastero, databile al X secolo (tale nota fa pensare che prima di questo periodo il codice si trovasse e verosimilmente fosse stato prodotto altrove); la scrittura e il tipo di abbreviazioni del Guelf. 64 Weiss. divergono da quelle abituali dello scrittorio di Bobbio; il testo delle Etymologiae del Guelf. 64 Weiss. si differenzia dal testo tràdito dall'Ambros. L 99 sup., scritto a Bobbio nell'VIII secolo; infine, la brevissima parte delle Sententiae al f. 233r del Guelf. 64 Weiss., successivamente cancellata, diverge da quella tramandata dal ms. Milano, Biblioteca Ambrosiana, C 77 sup., prodotto bobbiese dell'inizio dell'VIII secolo (Falluomini 1999, 28). Verosimilmente il Guelf. 64 Weiss. e il Vat. Lat. 5763 erano già separati alla fine del IX-inizio X secolo, in quanto la glossa marginale al f. 5r del Guelf. 64 Weiss. deriva da una tradizione testuale delle Etymologiae diversa da quella testimoniata dalla glossa al f. 8r del Vat. Lat. 5763. Farebbe propendere per Verona il legame testuale dei codici Guelf. 64 Weiss. e Vat. Lat. 5763 con alcuni manoscritti di area veronese (Falluomini 1999, 14-28; Zironi 2004, 53-56, Bassetti 2025, 268-272).</p>
+               </provenance>
+               <provenance notBefore="1300" notAfter="1500">
+                  <p>Il Carolinus faceva parte del fondo di manoscritti provenienti dall'abbazia di Wissembourg (Alsazia), dove si trovava almeno dal XIV-XV secolo. Le tappe che lo hanno portato qui dall'Italia settentrionale non sono note. Si può ipotizzare che vi sia arrivato dopo l'XI secolo, perché il ms. Wolfenbüttel, Herzog August Bibliothek, Guelf. 2 Weiss., copiato verosimilmente a Wissembourg nell'XI secolo, appartiene ad un altro ramo della tradizione testuale delle Etymologiae rispetto al Guelf. 64 Weiss.</p>
+               </provenance>
+               <acquisition when="1690">
+                  <p>Il gruppo di codici arrivò a Wolfenbüttel nel 1690 e qui, nel 1756, il teologo Franz A. Knittel mise in luce l'esistenza del testo gotico sotto quello di Isidoro, pubblicandolo poi nel 1762 (Ulphilae versionem gothicam nonullorum capitum Epistolae Pauli ad Romanos [...], Apud Brunovicenses Orphanotropheum, Braunschweig). Al prezioso manoscritto è stato dato nome Codex Carolinus, in onore del duca Karl I. von Braunschweig-Lüneburg.</p>
+               </acquisition>
+            </history>
+            <additional>
+               <surrogates>
+                  <p>Non sono stati usati reagenti (Lo Monaco 1996, 670-672), per cui oggi la scrittura del manoscritto è ancora parzialmente visibile a occhio nudo. La prima riproduzione fotografica, del 1913, è di Hans Henning; è ora disponibile una digitalizzazione del manoscritto sul sito della biblioteca che lo conserva: <ref target="http://diglib.hab.de/wdb.php?dir=mss/64-Weiss">http://diglib.hab.de/wdb.php?dir=mss/64-Weiss</ref>.</p>
+               </surrogates>
+               <listBibl>
+                  <head>Bibliografia principale (selezione)</head>
+                  <bibl xml:id="bibl_Bassetti2025" type="bookSection">
+                     <author>
+                        <persName>
+                           <surname>Bassetti</surname>
+                           <forename>Massimiliano</forename>
+                        </persName>
+                     </author>
+                     <date>2025</date>
+                     <title level="a">Note sulla «Biblioteca longobarda» della Cattedrale di Verona. A partire da Ver. VII (7), X (8), XLII (40), XLVI (44), LIII (51), LIX (57), LXI (59)</title>
+                     <title level="m">Città cattedrali biblioteche al passaggio tra tardoantico e alto medioevo. A partire dal caso di Verona</title>
+                     <editor role="editor">
+                        <persName>
+                           <surname>Bassetti</surname>
+                           <forename>M.</forename>
+                        </persName>
+                     </editor>
+                     <editor role="editor">
+                        <persName>
+                           <surname>Degni</surname>
+                           <forename>P.</forename>
+                        </persName>
+                     </editor>
+                     <imprint>
+                        <pubPlace>Spoleto</pubPlace>
+                     </imprint>
+                     <biblScope unit="page">243-303</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Cavallo2019" type="book">
+                     <author>
+                        <persName>
+                           <surname>Cavallo</surname>
+                           <forename>Guglielmo</forename>
+                        </persName>
+                     </author>
+                     <date>2019</date>
+                     <title level="m">Scrivere e leggere nella città antica</title>
+                     <imprint>
+                        <pubPlace>Roma</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_CLA" type="book">
+                     <author>
+                        <persName>
+                           <surname>Lowe</surname>
+                           <forename>E.A.</forename>
+                        </persName>
+                     </author>
+                     <title level="m" type="main">Codices latini antiquiores</title>
+                     <title level="m" type="sub">A Palaeographical Guide to Latin Manuscripts prior to the Ninth Century</title>
+                     <biblScope unit="volume">I. The Vatican City, Oxford 1934; IX. Germany: München-Zittau, Oxford 1959</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Falluomini1999" type="book">
+                     <author>
+                        <persName>
+                           <surname>Falluomini</surname>
+                           <forename>Carla</forename>
+                        </persName>
+                     </author>
+                     <date>1999</date>
+                     <title level="m">Der sogenannte Codex Carolinus von Wolfenbüttel (Codex Guelferbytanus 64 Weissenburgensis). Mit besonderer Berücksichtigung der gotisch-lateinischen Blätter (255, 256, 277, 280)</title>
+                     <imprint>
+                        <pubPlace>Wiesbaden</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_vonHeinemann1908" type="book">
+                     <author>
+                        <persName>
+                           <surname>von Heinemann</surname>
+                           <forename>Otto</forename>
+                        </persName>
+                     </author>
+                     <date>1908</date>
+                     <title level="m">Die Handschriften der Herzoglichen Bibliothek zu Wolfenbüttel</title>
+                     <imprint>
+                        <pubPlace>Wolfenbüttel</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Knittel1762" type="book">
+                     <author>
+                        <persName>
+                           <surname>Knittel</surname>
+                           <forename>Franz A.</forename>
+                        </persName>
+                     </author>
+                     <date>1762</date>
+                     <title level="m">Ulphilae versionem gothicam nonullorum capitum Epistolae Pauli ad Romanos</title>
+                     <imprint>
+                        <pubPlace>Braunschweig</pubPlace>
+                        <publisher>Apud Brunovicenses Orphanotropheum</publisher>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_LoMonaco1996" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Lo Monaco</surname>
+                           <forename>Francesco</forename>
+                        </persName>
+                     </author>
+                     <date>1996</date>
+                     <title level="a">«In codicibus … qui bobienses inscribuntur»: scoperte e studio di palinsesti bobbiesi in Ambrosiana dalla fine del Settecento ad Angelo Mai (1819)</title>
+                     <title level="j">Aevum</title>
+                     <biblScope unit="volume">70</biblScope>
+                     <biblScope unit="page">657-719</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Zironi2004" type="book">
+                     <author>
+                        <persName>
+                           <surname>Zironi</surname>
+                           <forename>Alessandro</forename>
+                        </persName>
+                     </author>
+                     <date>2004</date>
+                     <title level="m">Il monastero longobardo di Bobbio. Crocevia di uomini, manoscritti e culture</title>
+                     <imprint>
+                        <pubPlace>Spoleto</pubPlace>
+                     </imprint>
+                  </bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </teiHeader>
+</TEI>

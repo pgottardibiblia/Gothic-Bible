@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+     xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <sourceDesc xml:id="CAmbD_sDesc_IT">
+         <msDesc xml:id="IT - Codex Ambrosianus D">
+            <msIdentifier>
+               <country>Italia</country>
+               <settlement>Milano</settlement>
+               <repository>Biblioteca Ambrosiana</repository>
+               <idno type="shelfmark">G 82 sup.</idno>
+               <idno type="foliation">ff. 209/210, 451/452, 461/462</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>
+                  <p>Il manoscritto, oggi palinsesto, tramanda parte della traduzione gotica di Neemia (5:13-18; 6:14-7:3; 7:13-45). Il testo latino superiore trasmette i Libri regum.</p>
+               </summary>
+               <msItem n="1">
+                  <locus>ff. 209/210, 451/452, 461/462 (testo inferiore)</locus>
+                  <title type="uniform" xml:lang="it">Libro di Neemia</title>
+                  <textLang mainLang="got">Gotico (testo inferiore)</textLang>
+               </msItem>
+               <msItem n="2">
+                  <locus>ff. 209/210, 451/452, 461/462 (testo superiore)</locus>
+                  <title type="uniform" xml:lang="la">Libri Regum</title>
+                  <textLang mainLang="lat">Latino (testo superiore)</textLang>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc form="fragment">
+                  <supportDesc material="perg">
+                     <support>
+                        <material>Pergamena.</material>
+                     </support>
+                     <extent>
+                        <measure type="dimensions" unit="mm">195-210 × 236-248 mm</measure>
+                        <p>Si tratta del terzo bifoglio partendo dall'esterno e dell'ultimo foglio di uno stesso fascicolo. La misura delle carte varia tra ca. 195-210 × 236-248 mm; i margini sono rifilati in modo irregolare; lo specchio di scrittura, di 19 righe, è di ca. 108 × 156-158 mm.</p>
+                     </extent>
+                     <foliation>
+                        <p>I fogli non sono numerati. La numerazione moderna è per pagina.</p>
+                     </foliation>
+                     <condition>
+                        <p>Il bifoglio è oggi sfascicolato e conservato in una cartellina. La sovrapposizione con altri fogli ha causato fenomeni di trasferimento d'inchiostro sui fogli superstiti. Alcune parti sono parzialmente o completamente illeggibili, spesso a causa dell'uso di reagenti chimici, che hanno corroso l'inchiostro e hanno causato buchi nella pergamena. I margini sono molto rovinati dal possibile intervento di roditori ed è presente un buco alla p. 452.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="1" writtenLines="19">
+                        <p>Il testo gotico è disposto su una colonna, in scriptio continua.</p>
+                        <p>La rigatura è eseguita a secco, con l'aiuto di fori di guida, apparentemente a bifoglio aperto. Lo specchio di scrittura è delimitato da una rigatura verticale singola.</p>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc hands="2">
+                  <handNote xml:id="hand1" scope="major" script="Gothic">Il testo gotico è vergato nella scrittura inclinata dei Goti (con &lt;s&gt; di forma greca o runica), da un solo amanuense. L'inclinazione dell'asse delle lettere è però solo accennata. Il tratteggio è pesante e mancano i consueti arrotondamenti sul rigo. Sono presenti lettere di modulo maggiore, spostate a sinistra, completamente al di fuori della rigatura verticale, in corrispondenza di una nuova porzione di testo.</handNote>
+                  <handNote xml:id="hand2" scope="major" script="multiple">Il testo superiore latino è stato vergato in scritture diverse: onciale, semi-onciale e maiuscola irlandese (CLA, III 344b).</handNote>
+               </handDesc>
+               <decoDesc>
+                  <decoNote type="minimal">Inchiostro scuro (non meglio definibile).</decoNote>
+               </decoDesc>
+               <additions>
+                  <p>Titoli: Non sono visibili titoli correnti.</p>
+                  <p>Numerazione dei fascicoli: Nell'ultima carta del fascicolo non è visibile alcun numero che ne indichi l'ordine.</p>
+                  <p>Punteggiatura: Il punto medio segnala le pause minori (commata) e i due punti le pause maggiori (cola).</p>
+                  <p>Abbreviazioni e contrazioni: Sono abbreviate entrambe le nasali al fine rigo: &lt;n&gt; con una breve lineetta orizzontale inspessita alle estremità, mentre il segno di abbreviazione per &lt;m&gt; è ormai quasi del tutto illeggibile. Prima della realizzazione delle immagini multispettrali (2025), non era mai stata notata l'abbreviazione per &lt;m&gt;. Inoltre, sempre a fine rigo, compare il nesso di &lt;m&gt; e &lt;a&gt; (f. 451, r. 2). Sono presenti nomina sacra.</p>
+                  <p>Numerali: Sono presenti numerosi numerali. Nella maggior parte dei casi i singoli numerali – che indicano le centinaia, le decine e le unità – sono posti tra punti. La lineetta sovrapposta, generalmente impiegata per segnalare i numerali, è completamente scolorita nella maggior parte dei casi.</p>
+                  <p>Correzioni: Sono visibili alcune correzioni, in forma di lettere aggiunte nell'interlinea. Non tutti gli errori sono stati corretti.</p>
+                  <p>Ortografia: Non sono attestate differenze rispetto all'ortografia di altri manoscritti gotici.</p>
+               </additions>
+            </physDesc>
+            <history>
+               <origin>
+                  <origDate notBefore="0500" notAfter="0550">Il bifoglio è databile al primo terzo/prima metà del VI secolo. Riscritto nella seconda metà del VII secolo (Zironi 2004, 67).</origDate>
+                  <origPlace>È molto verosimile che il manoscritto originale sia stato copiato in ambiente ostrogoto. Riscritto senza dubbio a Bobbio (CLA, III 344b; Zironi 2004, 63).</origPlace>
+               </origin>
+               <provenance>
+                  <p>È l'unico manoscritto che testimonia una parte dell'Antico Testamento in tradizione diretta. L'identificazione del testo ha creato delle difficoltà, perché tramanda una lista di popolazioni di ritorno dall'esilio babilonese, riportato in forma molto simile sia in Esdra sia in Neemia. A parte alcune opinioni contrarie (Landau 2011), l'identificazione del testo con Neemia sembra ormai acclarata, in base a considerazioni sia codicologiche sia testuali (Snædal-Petersen 2012 e 2017; Sigismund 2013; Heinzle 2016).</p>
+                  <p>I fogli gotici, uniti a fogli contenenti due opere di Seneca (Medea, Oedipus, copiati in Italia nel V secolo, in capitale rustica), sono stati riutilizzati nella seconda metà del VII secolo a Bobbio, per restaurare un palinsesto della seconda metà del VI secolo – anteriore quindi alla fondazione di Bobbio –, che, sotto i Libri Regum (CLA III, 344a), tramandava le Fabulae di Plauto (Zironi 2004, 58-59, 63). È da notare però che questo manoscritto non compare nel catalogo bobbiese del 1461.</p>
+               </provenance>
+               <acquisition when="1815">
+                  <p>Il testo inferiore è stato scoperto da Angelo Mai intorno al 1815, ma è stato decifrato, identificandolo come parte di Esdra e Neemia, solo nel 1817; nell'occasione sono stati utilizzati reagenti chimici (Lo Monaco 1996, 689). È stato pubblicato nel 1819, insieme a Carlo Ottavio Castiglioni (Ulphilae partium ineditarum in Ambrosianis palimpsestis ab Angelo Maio repertarum specimen, conjunctis curis ejusdem Maii et Caroli Octavii Castillionaei editum, Mediolanum, 2-7). La riproduzione fototipica dei fogli è stata data alle stampe da Jan de Vries nel 1936.</p>
+               </acquisition>
+            </history>
+            <additional>
+               <surrogates>
+                  <p>Riproduzione fototipica in de Vries 1936. Immagini multispettrali realizzate nel 2025.</p>
+               </surrogates>
+               <listBibl>
+                  <head>Bibliografia principale (selezione)</head>
+                  <bibl xml:id="bibl_Lowe1938" type="book">
+                     <author>
+                        <persName>
+                           <surname>Lowe</surname>
+                           <forename>E.A.</forename>
+                        </persName>
+                     </author>
+                     <date>1938</date>
+                     <title level="m" type="main">Codices latini antiquiores</title>
+                     <title level="m" type="sub">A Palaeographical Guide to Latin Manuscripts prior to the Ninth Century</title>
+                     <biblScope unit="volume">III</biblScope>
+                     <biblScope unit="part">Italy: Ancona-Novara</biblScope>
+                     <imprint>
+                        <pubPlace>Oxford</pubPlace>
+                     </imprint>
+                     <idno type="siglum">CLA III 344b</idno>
+                  </bibl>
+                  <bibl xml:id="bibl_deVries1936" type="book">
+                     <author>
+                        <persName>
+                           <surname>de Vries</surname>
+                           <forename>Jan</forename>
+                        </persName>
+                     </author>
+                     <date>1936</date>
+                     <title level="m" type="main">Wulfilae Codices Ambrosiani rescripti epistularum evangelicarum textum goticum exhibentes</title>
+                     <title level="m" type="sub">phototypice editi et prooemio instructi</title>
+                     <imprint>
+                        <pubPlace>Augustae Taurinorum</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Heinzle2016" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Heinzle</surname>
+                           <forename>Joachim</forename>
+                        </persName>
+                     </author>
+                     <date>2016</date>
+                     <title level="a">Esra oder Nehemia? Noch einmal zur Heimkehrerliste im Cod. Ambr. D der gotischen Bibel</title>
+                     <title level="j">Zeitschrift für deutsches Altertum und deutsche Literatur</title>
+                     <biblScope unit="volume">145</biblScope>
+                     <biblScope unit="page">1-8</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Landau2011" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Landau</surname>
+                           <forename>Daniel</forename>
+                        </persName>
+                     </author>
+                     <date>2011</date>
+                     <title level="a">Pages 209 and 210 of the Ambrosian Gothic Palimpsests: Ezra 2: 9-42 or Nehemiah 7: 13-45?</title>
+                     <title level="j">Zeitschrift für deutsches Altertum und deutsche Literatur</title>
+                     <biblScope unit="volume">140</biblScope>
+                     <biblScope unit="page">421-441</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_LoMonaco1996" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Lo Monaco</surname>
+                           <forename>Francesco</forename>
+                        </persName>
+                     </author>
+                     <date>1996</date>
+                     <title level="a">«In codicibus … qui bobienses inscribuntur»: scoperte e studio di palinsesti bobbiesi in Ambrosiana dalla fine del Settecento ad Angelo Mai (1819)</title>
+                     <title level="j">Aevum</title>
+                     <biblScope unit="volume">70</biblScope>
+                     <biblScope unit="page">657-719</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Sigismund2013" type="bookSection">
+                     <author>
+                        <persName>
+                           <surname>Sigismund</surname>
+                           <forename>Marcus</forename>
+                        </persName>
+                     </author>
+                     <date>2013</date>
+                     <title level="a">Die gotischen Nehemia-Fragmente</title>
+                     <title level="m">Der Antiochenische Text der Septuaginta in seiner Bezeugung und seiner Bedeutung</title>
+                     <editor role="editor">S. Kreuzer - M. Sigismund</editor>
+                     <imprint>
+                        <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+                        <pubPlace>Göttingen</pubPlace>
+                     </imprint>
+                     <biblScope unit="page">211-265</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_SnedalPetersen2012" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Snædal</surname>
+                           <forename>Magnús</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Petersen</surname>
+                           <forename>Christoph Th.</forename>
+                        </persName>
+                     </author>
+                     <date>2012</date>
+                     <title level="a">A Gothic Fragment of the Old Testament Reidentified. Landau vs. Kauffmann</title>
+                     <title level="j">Zeitschrift für deutsches Altertum und deutsche Literatur</title>
+                     <biblScope unit="volume">141</biblScope>
+                     <biblScope unit="page">434-443</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_SnedalPetersen2017" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Snædal</surname>
+                           <forename>Magnús</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Petersen</surname>
+                           <forename>Christoph Th.</forename>
+                        </persName>
+                     </author>
+                     <date>2017</date>
+                     <title level="a">Closing the Case. Letztmalig zur Heimkehrerliste des Ambrosianus D der Gotischen Bibel – zugleich eine Übersicht über die Literaturlage</title>
+                     <title level="j">Zeitschrift für deutsches Altertum und deutsche Literatur</title>
+                     <biblScope unit="volume">146</biblScope>
+                     <biblScope unit="page">277-283</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Zironi2004" type="book">
+                     <author>
+                        <persName>
+                           <surname>Zironi</surname>
+                           <forename>Alessandro</forename>
+                        </persName>
+                     </author>
+                     <date>2004</date>
+                     <title level="m">Il monastero longobardo di Bobbio. Crocevia di uomini, manoscritti e culture</title>
+                     <imprint>
+                        <pubPlace>Spoleto</pubPlace>
+                     </imprint>
+                  </bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </teiHeader>
+</TEI>

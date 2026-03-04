@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+     xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <sourceDesc xml:id="CCar_sDesc_EN">
+         <msDesc xml:id="EN - Codex Carolinus">
+            <msIdentifier>
+               <country>Germany</country>
+               <settlement>Wolfenbüttel</settlement>
+               <repository>Herzog August Bibliothek</repository>
+               <idno type="shelfmark">Guelf. 64 Weiss., ff. 255, 256, 277, 280</idno>
+               <altIdentifier type="common">
+                  <idno>64 Weiss.</idno>
+               </altIdentifier>
+               <altIdentifier type="common">
+                  <idno>Weiss. 64</idno>
+               </altIdentifier>
+               <altIdentifier type="erroneous">
+                  <idno>Weiss. 4148 (from von Heinemann's catalogue number, 1908)</idno>
+               </altIdentifier>
+               <msName>Codex Carolinus (so named by the discoverer of the palimpsest, F. A. Knittel, in honour of Duke Karl I of Brunswick-Lüneburg)</msName>
+            </msIdentifier>
+            <msContents>
+               <summary>
+                  <p>The four leaves, palimpsests, transmit as the undertext the Gothic translation of Rom. 11:33–12:5; 12:17–13:5; 14:9–20; and 15:3–13, accompanied by the corresponding Latin text, a witness of the pre-Jeromian tradition (Vetus Latina witness 79, w or gue). The upper text contains portions of Isidore of Seville's Etymologiae.</p>
+               </summary>
+               <msItem n="1">
+                  <locus>ff. 255, 256, 277, 280</locus>
+                  <title type="uniform" xml:lang="en">Epistle to the Romans</title>
+                  <textLang mainLang="got" otherLangs="lat">Gothic and Latin</textLang>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc form="codex">
+                  <supportDesc material="perg">
+                     <support>
+                        <material>Parchment, well prepared. The distinction between hair and flesh sides is reduced to a minimum.</material>
+                     </support>
+                     <extent>
+                        <measure type="dimensions" unit="mm">c. 216 × 264 mm (trimmed leaves)</measure>
+                        <p>The leaves belong to the outer bifolium (ff. 277 and 280) and the third bifolium from the outside (ff. 256 and 255) of the same quire. The trimmed leaves measure c. 216 × 264 mm; the original dimensions were probably c. 225 × 305 mm. The writing area, consisting of 27 lines, is arranged in two columns, each measuring c. 80–82 × 225–228 mm. The intercolumnar space measures c. 26–28 mm.</p>
+                     </extent>
+                     <foliation>
+                        <p>The foliation is modern: recto and verso are indicated for each leaf in the upper outer corner.</p>
+                     </foliation>
+                     <collation>
+                        <p>F. 280v bears, in the lower margin at the centre of the intercolumn, the letter/number indicating the quire order: ⟨e⟩ '5' in Gothic script, placed within a frame of signs.</p>
+                     </collation>
+                     <condition>
+                        <p>The two Gothic–Latin bifolia are still bound together with the rest of the codex. The manuscript is in good condition.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="2" writtenLines="27" ruledLines="27">
+                        <p>The Gothic text occupies the left column, in the 'place of honour' usually reserved for the source text in bilingual codices, while the Latin text is placed in the right column. With perfect symmetry between the two languages, the text is arranged per cola et commata, distinguished through their differing placement within the writing area: the cola begin from the outermost of the two vertical ruling lines delimiting the writing space on the left, while the commata begin from the inner one. The initial letter of each new paragraph is markedly enlarged and shifted outside the outer vertical ruling line.</p>
+                        <p>The ruling was executed dry-point on the flesh side, with the bifolium open. Pricking holes are visible in the lower margin of the outer bifolium. Each column is delimited by double vertical ruling lines; the space between the two vertical lines measures two to three letters (c. 10–12 mm).</p>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc hands="2">
+                  <handNote xml:id="hand1" scope="major" script="Gothic">The Gothic text is written in the vertical Gothic script (with Latin-form ⟨s⟩), by a single, highly regular and calligraphic hand. In both scripts, paragraph initials are written in a larger module; letters in a smaller module and, rarely, ligatures (for rþ in Gothic and nt in Latin) occur at line end.</handNote>
+                  <handNote xml:id="hand2" scope="major" script="uncial">The Latin text is written in a skilled 'old-type' uncial with some modernising features (slight rounding of the strokes of ⟨m⟩; entry strokes of ⟨h⟩ and ⟨l⟩; exit strokes of ⟨f⟩, ⟨p⟩, and ⟨q⟩ placed clearly above and below the writing line). Both scripts are compact (serrate) and were produced either by two different scribes or—less plausibly—by a perfectly digraphic Gothic scribe. In some cases, to preserve symmetry with the Gothic text, Latin words written in a smaller module are placed below the writing line.</handNote>
+                  <handNote xml:id="hand3" scope="minor" script="New Cursive">The scriptio superior is a small, fluent New Cursive.</handNote>
+               </handDesc>
+               <scriptDesc>
+                  <p>The numbers of the Euthalian sections are written in the same script type but vary in module size; they appear to be by the same hand as the text. Both the Euthalian section numbers and the quire number are enclosed within a frame of signs.</p>
+               </scriptDesc>
+               <decoDesc>
+                  <decoNote type="initial">The initial letter of each new paragraph is markedly enlarged and shifted outside the outer vertical ruling line.</decoNote>
+                  <decoNote type="paratext">The paragraph mark consists of a thin horizontal stroke, thickened at the ends, with a central sign resembling a dot or a diplé. It is placed to the left of both the Gothic and the Latin columns, above the paragraph initial.</decoNote>
+                  <decoNote type="quotation">The diplé (&gt;)—or a corrupted form resembling a dot—marks quotations from the Old Testament. It is placed in the left margin, outside the writing area of both texts, along the length of the quotation; it is not always present.</decoNote>
+               </decoDesc>
+               <additions>
+                  <p>The numbers of the Euthalian sections into which the Pauline text is divided are indicated in the left margin of both columns, enclosed within a frame of signs. The numbering is not always correct.</p>
+                  <p>Occasional corrections consist of erasures and additions, sometimes within the line (in the Latin text), apparently by the same hand as the text.</p>
+                  <p>In the Gothic text, suspensions are used for nasals at line end: ⟨n⟩ is indicated by a horizontal stroke; for ⟨m⟩ a dot is added beneath the stroke, centrally placed. In the Latin text, abbreviations occur for ⟨m⟩ (horizontal stroke with dot beneath), and compendia for sanctam, sancto, and nostri. Truncation abbreviations occur for -bus, -que, and quae. In both texts, nomina sacra for 'God', 'Lord', 'Jesus', and 'Christ' are written in contracted form with a horizontal overstroke.</p>
+               </additions>
+            </physDesc>
+            <history>
+               <origin>
+                  <origDate notBefore="0500" notAfter="0520">The Gothic–Latin leaves are datable to the first two decades of the sixth century</origDate>
+                  <origPlace>It is plausible that the original manuscript was produced in Ravenna, capital of the Ostrogothic kingdom and a major multicultural centre. The refinement of the manuscript, the close similarity between the Gothic script of the Carolinus and that of the Argenteus, the bilingual nature of the codex, and the fact that it was later rebound for rewriting together with Greek leaves all point to a scriptorium situated in a centre open to Greek culture, where the Gothic language enjoyed prestige and where there was an interest in, or need for, making the Gothic text accessible to a Latin-speaking audience: a centre which, in the early sixth century, found its primary raison d'être in Theoderic's royal city, Ravenna.</origPlace>
+               </origin>
+               <provenance notBefore="0750" notAfter="0760">
+                  <p>The manuscript was reused in the mid-eighth century to overwrite it with the text of Isidore of Seville's Etymologiae. It was rewritten together with leaves from other Latin and Greek manuscripts in northern Italy, probably in Verona.</p>
+               </provenance>
+               <provenance notBefore="1300" notAfter="1500">
+                  <p>The Carolinus formed part of a group of manuscripts originating from the abbey of Wissembourg (Alsace), where it was located at least from the fourteenth–fifteenth century onwards. The stages by which it reached Wissembourg from northern Italy are unknown.</p>
+               </provenance>
+               <acquisition when="1690">
+                  <p>The group of manuscripts reached Wolfenbüttel in 1690. In 1756, the theologian Franz A. Knittel brought to light the existence of the Gothic text beneath that of Isidore, subsequently publishing it in 1762 (Ulphilae versionem gothicam nonullorum capitum Epistolae Pauli ad Romanos…, Braunschweig). The manuscript was given the name Codex Carolinus in honour of Duke Karl I of Brunswick-Lüneburg.</p>
+               </acquisition>
+            </history>
+            <additional>
+               <surrogates>
+                  <p>No chemical reagents were used, and the script is therefore still partially visible to the naked eye. The first photographic reproduction, dating to 1913, was made by Hans Henning. Digital reproduction available at: <ref target="http://diglib.hab.de/wdb.php?dir=mss/64-Weiss">http://diglib.hab.de/wdb.php?dir=mss/64-Weiss</ref>
+                  </p>
+               </surrogates>
+               <listBibl>
+                  <head>Selected Bibliography</head>
+                  <bibl xml:id="bibl_Knittel1762" type="book">
+                     <author>
+                        <persName>
+                           <surname>Knittel</surname>
+                           <forename>Franz A.</forename>
+                        </persName>
+                     </author>
+                     <date>1762</date>
+                     <title level="m">Ulphilae versionem gothicam nonullorum capitum Epistolae Pauli ad Romanos</title>
+                     <imprint>
+                        <pubPlace>Braunschweig</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Falluomini1999" type="book">
+                     <author>
+                        <persName>
+                           <surname>Falluomini</surname>
+                           <forename>Carla</forename>
+                        </persName>
+                     </author>
+                     <date>1999</date>
+                     <title level="m">Der sogenannte Codex Carolinus von Wolfenbüttel (Codex Guelferbytanus 64 Weissenburgensis). Mit besonderer Berücksichtigung der gotisch-lateinischen Blätter (255, 256, 277, 280)</title>
+                     <imprint>
+                        <pubPlace>Wiesbaden</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Cavallo2019" type="book">
+                     <author>
+                        <persName>
+                           <surname>Cavallo</surname>
+                           <forename>Guglielmo</forename>
+                        </persName>
+                     </author>
+                     <date>2019</date>
+                     <title level="m">Scrivere e leggere nella città antica</title>
+                     <imprint>
+                        <pubPlace>Roma</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Bassetti2025" type="bookSection">
+                     <author>
+                        <persName>
+                           <surname>Bassetti</surname>
+                           <forename>Massimiliano</forename>
+                        </persName>
+                     </author>
+                     <date>2025</date>
+                     <title level="a">Note sulla «Biblioteca longobarda» della Cattedrale di Verona. A partire da Ver. VII (7), X (8), XLII (40), XLVI (44), LIII (51), LIX (57), LXI (59)</title>
+                     <title level="m">Città cattedrali biblioteche al passaggio tra tardoantico e alto medioevo. A partire dal caso di Verona</title>
+                     <editor role="editor">
+                        <persName>
+                           <surname>Bassetti</surname>
+                           <forename>M.</forename>
+                        </persName>
+                     </editor>
+                     <editor role="editor">
+                        <persName>
+                           <surname>Degni</surname>
+                           <forename>P.</forename>
+                        </persName>
+                     </editor>
+                     <imprint>
+                        <pubPlace>Spoleto</pubPlace>
+                     </imprint>
+                     <biblScope unit="page">243–303</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_CLA" type="book">
+                     <author>
+                        <persName>
+                           <surname>Lowe</surname>
+                           <forename>E.A.</forename>
+                        </persName>
+                     </author>
+                     <date>1959</date>
+                     <title level="m" type="main">Codices latini antiquiores</title>
+                     <title level="m" type="sub">A Palaeographical Guide to Latin Manuscripts prior to the Ninth Century</title>
+                     <biblScope unit="volume">IX</biblScope>
+                     <biblScope unit="part">Germany: München–Zittau</biblScope>
+                     <imprint>
+                        <pubPlace>Oxford</pubPlace>
+                     </imprint>
+                     <idno type="siglum">CLA IX 1388</idno>
+                  </bibl>
+                  <bibl xml:id="bibl_Zironi2004" type="book">
+                     <author>
+                        <persName>
+                           <surname>Zironi</surname>
+                           <forename>Alessandro</forename>
+                        </persName>
+                     </author>
+                     <date>2004</date>
+                     <title level="m">Il monastero longobardo di Bobbio. Crocevia di uomini, manoscritti e culture</title>
+                     <imprint>
+                        <pubPlace>Spoleto</pubPlace>
+                     </imprint>
+                  </bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </teiHeader>
+</TEI>
+

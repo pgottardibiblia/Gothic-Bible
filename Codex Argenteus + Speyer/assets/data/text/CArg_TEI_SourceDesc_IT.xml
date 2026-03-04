@@ -1,0 +1,394 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+     xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <sourceDesc xml:id="CArg_sDesc_IT">
+         <msDesc xml:id="IT - Codex Argenteus">
+            <msIdentifier>
+               <country>Svezia</country>
+               <settlement>Uppsala</settlement>
+               <repository>Universitetsbiblioteket</repository>
+               <idno type="shelfmark">D G 1</idno>
+               <altIdentifier type="alternative">
+                  <idno>Uppsala, Universitetsbiblioteket, Carolina Rediviva, D G 1</idno>
+               </altIdentifier>
+               <msName>Codex Argenteus (così denominato da Bonaventura Vulcanius nel 1597)</msName>
+            </msIdentifier>
+            <msIdentifier>
+               <country>Germania</country>
+               <settlement>Speyer</settlement>
+               <repository>Historisches Museum der Pfalz</repository>
+               <idno type="shelfmark">s.n.</idno>
+               <msName>Fragmentum Spirense / Folium Spirense / Haffner folium (dal nome di colui che lo ha scoperto)</msName>
+            </msIdentifier>
+            <msContents>
+               <summary>
+                  <p>Il codice è un evangeliario, con i Vangeli disposti nell'ordine 'occidentale' (Matteo, Giovanni, Luca e Marco). Il foglio di Spira tramanda Mc 16:12-20.</p>
+               </summary>
+               <textLang mainLang="got">Gotico</textLang>
+               <msItem n="1">
+                  <locus from="1r" to="15v">ff. 1r-15v</locus>
+                  <title type="uniform" xml:lang="it">Vangelo di Matteo</title>
+                  <note>In origine 98 fogli; ne rimangono 22 (circa il 75% è andato perduto). Passi superstiti: Mt 5:15-6:32; 7:12-10:1; 10:23-11:25; 26:70-27:19; 27:42-66 (corrispondenti al 25% di Matteo).</note>
+               </msItem>
+               <msItem n="2">
+                  <locus from="90r" to="117v">ff. 90r-117v</locus>
+                  <title type="uniform" xml:lang="it">Vangelo di Giovanni</title>
+                  <note>In origine 74 fogli; ne rimangono 45 (circa il 40% è andato perduto). Passi superstiti: Gv 5:45-7:52; 8:12-11:47; 12:1-49; 13:11-19:13 (corrispondenti al 60% di Giovanni).</note>
+               </msItem>
+               <msItem n="3">
+                  <locus from="118r" to="188v">ff. 118r-188v</locus>
+                  <title type="uniform" xml:lang="it">Vangelo di Luca</title>
+                  <note>In origine 106 fogli; ne rimangono 70 (circa il 35% è andato perduto). Passi superstiti: Lc 1:1-10:30; 14:9-16:24; 17:3-20:46 (corrispondenti al 65% di Luca).</note>
+               </msItem>
+               <msItem n="4">
+                  <locus from="57r" to="187v">ff. 57r-187v</locus>
+                  <title type="uniform" xml:lang="it">Vangelo di Marco</title>
+                  <note>In origine 58 fogli; ne rimangono 51 a Uppsala (circa l'8% è andato perduto). Passi superstiti: Mc 1:1-6:30; 6:53-12:38; 13:16-29; 14:4-16; 14:41-16:11 (corrispondenti al 92% di Marco).</note>
+               </msItem>
+               <msItem n="5">
+                  <locus>f. 188 (Speyer)</locus>
+                  <title type="uniform" xml:lang="it">Vangelo di Marco (conclusione)</title>
+                  <note>Un foglio conservato a Spira, contenente Mc 16:12-20. La presenza di fori di tarlo suggerisce che si trovasse originariamente dopo un'asse lignea, costituendo l'ultimo foglio del codice.</note>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc form="codex">
+                  <supportDesc material="perg">
+                     <support>
+                        <material>Pergamena, probabilmente pelle di capretto</material>
+                        <p>La pergamena è estremamente sottile e lavorata con estrema cura. Il colore è purpureo: per la sua colorazione – che varia da foglio a foglio e tra lato pelo e lato carne – sono stati verosimilmente usati sia oricello sia indaco (Aceto et al. 2019, 137-138). L'analisi visuale suggerisce inoltre l'uso combinato di oricello, nei margini, e folium, nello specchio di scrittura.</p>
+                        <p>La pergamena è stata sottoposta nel 1998 ad un'analisi (C 14) per stabilirne la datazione, risultata essere non più tarda del 550 (Possnert-Munkhammar 2002).</p>
+                     </support>
+                     <extent>
+                        <measure type="leavesOriginal" unit="leaves">336</measure>
+                        <measure type="leavesExtant" unit="leaves">188 (187 a Uppsala + 1 a Spira)</measure>
+                        <p>Il manoscritto doveva essere composto da 336 fogli (Friesen-Grape 1928, 35), di cui ne rimangono 187 conservati a Uppsala e un foglio a Spira: il Vangelo di Matteo contava 98 fogli (di cui rimangono 22), il Vangelo di Giovanni 74 fogli (di cui rimangono 45), il Vangelo di Luca 106 fogli (di cui rimangono 70) e quello di Marco 58 fogli (di cui rimangono 51).</p>
+                        <dimensions type="leaf" unit="mm">
+                           <height min="242.5" max="245">197,5-200 × 242,5-245 mm (fogli di Uppsala)</height>
+                           <width min="197.5" max="200" />
+                        </dimensions>
+                        <dimensions type="leaf" unit="mm">
+                           <height>217 × 265 mm (foglio di Spira)</height>
+                           <width>217</width>
+                        </dimensions>
+                        <dimensions type="written" unit="mm">
+                           <height>130</height>
+                           <width>165</width>
+                        </dimensions>
+                        <dimensions type="canonTables" unit="mm">
+                           <height>130</height>
+                           <width min="33.3" max="33.5">33,3-33,5</width>
+                        </dimensions>
+                     </extent>
+                     <foliation>
+                        <p>I fogli sono stati numerati a matita nel margine superiore esterno, dopo che questi erano stati sfascicolati e rilegati nell'ordine della Vulgata (Vangelo di Matteo, Vangelo di Marco, Vangelo di Luca e Vangelo di Giovanni), come si rileva già nell'editio princeps (1665). La nuova numerazione è del XIX secolo.</p>
+                     </foliation>
+                     <collation>
+                        <p>I fascicoli sono per la maggior parte quaternioni, tranne l'ultimo fascicolo di ogni Vangelo. Dei fascicoli originari, 37 erano dunque quaternioni e quattro quinioni. La fascicolazione segue la regola di Gregory (carne con carne e pelo con pelo).</p>
+                        <p>Il numero che segna l'ordine dei fascicoli, preservato solo in alcuni casi, si trova nell'angolo inferiore destro dell'ultimo foglio del fascicolo, all'interno di una cornice di segni.</p>
+                     </collation>
+                     <condition>
+                        <p>Il codice è oggi sfascicolato; ogni foglio è inserito in una cartellina di cartone e custodito in cassaforte. Lo stato in cui si trova il manoscritto è generalmente buono, tranne alcuni fogli che hanno sofferto l'umidità. L'inchiostro dell'ultimo foglio (di Spira) è molto sbiadito. Non sono rimaste tracce della legatura originaria.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="1" writtenLines="20">
+                        <p>Il testo è disposto in un'unica colonna, in scriptio continua, ad eccezione della 'genealogia di Gesù' (Lc 3:23-38), disposta su due colonne.</p>
+                        <p>La rigatura è eseguita a secco, apparentemente un bifoglio per volta, sul lato carne. Lo specchio di scrittura presenta una singola rigatura marginale ed è diviso orizzontalmente in due parti.</p>
+                        <p>La parte superiore, destinata a contenere il testo, è divisa in 20 righe, su cui poggiano le lettere, delimitate nella parte superiore da un'ulteriore rigatura.</p>
+                        <p>La parte inferiore, che contiene le tavole dei canoni, inizia un centimetro sotto l'ultima linea del sistema superiore ed è divisa in 11 righe distanziate equamente. I fori di guida per la rigatura non sono visibili. Le proporzioni complessive dell'area del testo e delle tavole dei canoni seguono il principio della "sezione aurea" (ca. 210 × 130 mm).</p>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc hands="2">
+                  <handNote xml:id="hand1" scope="major" script="Gothic">Il primo amanuense (mano I) ha vergato i Vangeli di Matteo e Giovanni. Il manoscritto è vergato nella scrittura verticale dei Goti (con &lt;s&gt; di forma latina), inserita all'interno di un sistema bilineare effettivamente tracciato. La mano è molto regolare.</handNote>
+                  <handNote xml:id="hand2" scope="major" script="Gothic">Il secondo amanuense (mano II) ha vergato i Vangeli di Luca e Marco. La mano è molto regolare, ma leggermente più slanciata della mano I.</handNote>
+                  <handNote xml:id="glossator" scope="minor" script="Gothic">Sono presenti 15 glosse marginali, anch'esse in inchiostro argentato e nella tipologia di scrittura verticale, forse aggiunte nello stesso scriptorium dove è stato prodotto il manoscritto. Difficile dire con certezza se siano di mani diverse rispetto a quelle del testo.</handNote>
+               </handDesc>
+               <scriptDesc>
+                  <p>Il manoscritto è vergato nella scrittura verticale dei Goti (con &lt;s&gt; di forma latina), inserita all'interno di un sistema bilineare effettivamente tracciato. La lettera con cui inizia una nuova parte di testo è di modulo maggiore, sia quando essa coincide con l'inizio di un nuovo rigo (e in tal caso è spostata parzialmente o totalmente al di fuori della rigatura verticale esterna) sia, ma solo occasionalmente e con minore ingrandimento, all'interno del rigo. Lettere di modulo minore e, molto raramente, nessi (per mu, ht, rþ, þr) sono attestate a fine rigo.</p>
+               </scriptDesc>
+               <decoDesc>
+                  <decoNote type="frame">Cornici architettoniche dalle forme semplificate, tracciate con inchiostro argentato e prive di completamento pittorico, sono presenti a piè di pagina; contengono le tavole dei canoni eusebiani.</decoNote>
+                  <decoNote type="colophon">Solo il colofone del Vangelo di Marco si è preservato: aiwaggeljo · þ(ai)rh · m(a)r(ku) · | ustauh · wulþus · þus | weiha · g(u)þ · amen · '(il) Vangelo secondo Marco è terminato. Gloria a te, o santo Dio. Amen'. Le lettere sono maggiormente distanziate e lievemente ingrandite rispetto a quelle del testo.</decoNote>
+               </decoDesc>
+               <additions>
+                  <p>Titoli: Sono rimasti solo i titoli dei Vangeli di Luca e Marco: aiwaggeljo · þairh · lukan · anastodeiþ "(il) Vangelo secondo Luca inizia" (f. 118r) e aiwaggeljo · þairh marku · anastodeiþ "(il) Vangelo secondo Marco inizia" (f. 57r). Sono scritti in inchiostro argentato, di modulo leggermente minore e in forma più compressa rispetto alla scrittura del testo.</p>
+                  <p>Titoli correnti: nella stessa tipologia grafica del testo ma in modulo minore, sono indicati ogni due fogli, nel margine superiore centrale, sul lato carne; poggiano su una rigatura. Nel verso si legge þairh e a fronte, nel recto, la forma abbreviata del nome dell'evangelista.</p>
+                  <p>Sezioni eusebiane e tavole dei canoni: Il testo di ciascuno dei Vangeli è suddiviso in sezioni numerate progressivamente. I numeri delle sezioni (355 in Matteo, 233 in Marco, 342 in Luca e 232 in Giovanni) sono indicati nel margine sinistro del foglio, inseriti all'interno di una cornice di segni. Le tavole dei canoni sono collocate nella parte inferiore di ogni pagina del codice.</p>
+                  <p>Segno di paragrafo: in inchiostro dorato, è costituito da un sottile tratto orizzontale, ispessito alle estremità, con al centro un segno simile ad un punto o alla diplé. È collocato nel margine sinistro della pagina.</p>
+                  <p>Segno di citazione: Le citazioni dall'Antico Testamento presenti nel testo evangelico sono indicate con la diplé (&gt;), in inchiostro argentato, posto nel margine sinistro al di fuori dello specchio di scrittura, lungo tutta la citazione.</p>
+                  <p>Punteggiatura: Il punto medio segnala le pause minori (commata) e i due punti le pause maggiori (cola). Occasionalmente, nel Vangelo di Luca, i due punti sono indicati con inchiostro diverso quando segue la sezione eusebiana.</p>
+                  <p>Ortografia: Sono presenti variazioni ortografiche comuni anche ad altri manoscritti gotici: le più frequenti sono &lt;e&gt; per &lt;ei&gt;, occasionalmente per &lt;i&gt;; &lt;au&gt; per &lt;u&gt;; &lt;d&gt; per &lt;þ&gt;.</p>
+                  <p>Abbreviazioni e contrazioni: Entrambe le nasali sono abbreviate a fine rigo. Sono presenti i nomina sacra per 'Dio', 'Signore', 'Gesù' e 'Cristo', indicati in forma contratta. I nomi degli evangelisti nei titoli correnti sono abbreviati. Nelle tavole eusebiane i nomi di Matteo e Marco sono costituiti da monogrammi.</p>
+                  <p>Numerali: indicati secondo l'uso greco con lettere, sono posti tra punti e sono sormontati da una lineetta quando sono nel testo.</p>
+                  <p>Correzioni: Le occasionali correzioni sono costituite da raschiature e riscritture di singole lettere o da aggiunte nell'interlinea e, in un caso, a margine (f. 61v); verosimilmente sono coeve e dello stesso amanuense del testo, perché anch'esse in inchiostro argentato. Non tutti gli errori sono stati corretti.</p>
+                  <p>Glosse: Sono presenti 15 glosse marginali, anch'esse in inchiostro argentato e nella tipologia di scrittura verticale, forse aggiunte nello stesso scriptorium dove è stato prodotto il manoscritto. Incorniciate in alto da un segno di rimando e in basso, occasionalmente, da un ghirigoro decrescente.</p>
+               </additions>
+               <sealDesc>
+                  <seal>
+                     <p>Nel manoscritto sono usati inchiostri di due colori diversi. Sono scritti con l'inchiostro argentato la parte principale del testo, i titoli dei Vangeli, i titoli correnti, i segni di citazione (diplai), i numeri delle sezioni eusebiane, le tavole dei canoni. Sono scritti con l'inchiostro dorato le prime tre righe dei Vangeli (come si desume da quelli rimasti, di Luca e Marco), l'inizio di ogni sezione eusebiana, fino alla fine della riga, il segno di paragrafo, le abbreviazioni dei nomi degli evangelisti nelle tavole dei canoni e la prima riga del Padre Nostro (Mt 6:9). In alcuni punti sia l'inchiostro sia la pergamena risultano danneggiati, particolarità che può indicare la presenza di una sostanza acida o corrosiva nell'inchiostro.</p>
+                  </seal>
+               </sealDesc>
+            </physDesc>
+            <history>
+               <origin>
+                  <origDate notBefore="0500" notAfter="0525">Primo quarto del VI secolo</origDate>
+                  <origPlace>È verosimile che il manoscritto sia stato copiato a Ravenna, capitale del regno ostrogoto e rilevante centro culturale.</origPlace>
+                  <p>Il Codex Argenteus è il principale testimone della traduzione gotica dei Vangeli attribuita al vescovo visigoto Vulfila. La raffinatezza del codice suggerisce una committenza di rilievo, identificabile con Teoderico il Grande (†526) e la chiesa palatina.</p>
+                  <p>È stato spesso ipotizzato che l'Argenteus costituisse la parte gotica di un evangeliario bilingue gotico-latino in volumi separati, la cui controparte latina sarebbe il Codex Brixianus (Brescia, Biblioteca Queriniana, s.n.). I due manoscritti presentano infatti affinità codicologiche e decorative non casuali, tra cui l'uso della pergamena purpurea, dell'inchiostro argentato e delle arcate a piè di pagina. Alcune differenze codicologiche suggeriscono però che la loro realizzazione non sia avvenuta in parallelo (Falluomini 2024).</p>
+               </origin>
+               <provenance notBefore="1550" notAfter="1569">
+                  <p>La storia del Codex Argenteus è nota solo a partire dalla metà del XVI secolo, quando ne viene attestata la presenza nel monastero tedesco di Werden, vicino ad Essen, da parte di Georg Cassander e Cornelius Wouters. Mancano notizie su quando e attraverso quali vie il manoscritto vi sia arrivato.</p>
+               </provenance>
+               <provenance notBefore="1597" notAfter="1648">
+                  <p>Per volere dell'imperatore Rodolfo II il codice passò – in modo poco chiaro – da Werden a Praga e successivamente in mano svedese, come bottino di guerra (1648), per essere poi incluso tra i tesori librari di Cristina di Svezia.</p>
+               </provenance>
+               <provenance notBefore="1648" notAfter="1662">
+                  <p>Donato al bibliotecario della regina (Isaac Vossius), finì in Olanda, dove venne dato alle stampe per la prima volta dallo zio di Vossius, Franciscus Junius (Quattuor […] evangeliorum versiones perantiquae duae, Gotica scilicet et Anglosaxonica, […], Dordrecht, 1665).</p>
+               </provenance>
+               <acquisition when="1662">
+                  <p>Nel 1662 il conte svedese Magnus Gabriel De la Gardie comprò il manoscritto e lo riportò in Svezia; lo donò nel 1669 all'Università di Uppsala, dove è tuttora conservato.</p>
+               </acquisition>
+               <provenance when="1970">
+                  <p>L'ultimo foglio del Codex Argenteus, con la fine del Vangelo di Marco, è venuto alla luce nell'ottobre del 1970 a Spira, durante i lavori di restauro della cappella di Sant'Afra; era conservato all'interno di un cofanetto contenente anche delle reliquie attribuite al vescovo Erasmo di Antiochia (Haffner 1971). I fori causati dai tarli nel f. 187 e nel frammento di Spira combaciano perfettamente. L'umanista Filippo Melantone ebbe il foglio tra le mani nel 1518-1519.</p>
+               </provenance>
+            </history>
+            <additional>
+               <surrogates>
+                  <p>La riproduzione fotografica, del 1927, è stata curata da Otto von Friesen e Anders Grape. Una digitalizzazione a colori, a cura di Lars Munkhammar, Magnús Snædal e David Landau, è ora disponibile nel sito https://www.ub.uu.se/about-the-library/exhibitions/codex-argenteus/.</p>
+               </surrogates>
+               <listBibl>
+                  <head>Bibliografia principale (selezione)</head>
+                  <bibl xml:id="bibl_Aceto2019" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Aceto</surname>
+                           <forename>Maurizio</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Calà</surname>
+                           <forename>Elisa</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Agostino</surname>
+                           <forename>Angelo</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Fenoglio</surname>
+                           <forename>Gaia</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Gulmini</surname>
+                           <forename>Monica</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Idone</surname>
+                           <forename>Ambra</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Porter</surname>
+                           <forename>Cheryl</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Hofmann</surname>
+                           <forename>Christa</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Rabitsch</surname>
+                           <forename>Sophie</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Denoël</surname>
+                           <forename>Charlotte</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Förstel</surname>
+                           <forename>Christian</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Quandt</surname>
+                           <forename>Abigail</forename>
+                        </persName>
+                     </author>
+                     <date>2019</date>
+                     <title level="a">Mythic Dyes or Mythic Colour? New Insight into the Use of Purple Dyes on Codices</title>
+                     <title level="j">Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy</title>
+                     <biblScope unit="volume">215</biblScope>
+                     <biblScope unit="page">133-141</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_AnderssonSchmitt1975" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Andersson-Schmitt</surname>
+                           <forename>Margarete</forename>
+                        </persName>
+                     </author>
+                     <date>1975-1976</date>
+                     <title level="a">Anmerkungen zur Bedeutung des Haffner-Blattes für die Geschichte des Codex Argenteus</title>
+                     <title level="j">Nordisk tidskrift för bok- och biblioteksväsen</title>
+                     <biblScope unit="volume">62/63</biblScope>
+                     <biblScope unit="page">16-21</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Falluomini2024" type="bookSection">
+                     <author>
+                        <persName>
+                           <surname>Falluomini</surname>
+                           <forename>Carla</forename>
+                        </persName>
+                     </author>
+                     <date>2024</date>
+                     <title level="a">Codex Brixianus e Codex Argenteus: un confronto codicologico e testuale</title>
+                     <title level="m">Nuove ricerche sul Codex Brixianus</title>
+                     <editor role="editor">a cura di C. Falluomini e P. Stoppacci</editor>
+                     <imprint>
+                        <pubPlace>Spoleto</pubPlace>
+                     </imprint>
+                     <biblScope unit="page">149-169</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_FriesenGrape1928" type="book">
+                     <author>
+                        <persName>
+                           <surname>von Friesen</surname>
+                           <forename>Otto</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Grape</surname>
+                           <forename>Anders</forename>
+                        </persName>
+                     </author>
+                     <date>1928</date>
+                     <title level="m">Om Codex Argenteus: dess tid, hem och öden</title>
+                     <imprint>
+                        <pubPlace>Uppsala</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_Haffner1971" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Haffner</surname>
+                           <forename>Franz</forename>
+                        </persName>
+                     </author>
+                     <date>1971</date>
+                     <title level="a">Fragment der Ulfilas-Bibel in Speyer</title>
+                     <title level="j">Pfälzer Heimat</title>
+                     <biblScope unit="volume">22</biblScope>
+                     <biblScope unit="page">1-5</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Munkhammar1998" type="book">
+                     <author>
+                        <persName>
+                           <surname>Munkhammar</surname>
+                           <forename>Lars</forename>
+                        </persName>
+                     </author>
+                     <date>1998</date>
+                     <title level="m">Silverbibeln - Theoderiks bok</title>
+                     <imprint>
+                        <pubPlace>Stockholm</pubPlace>
+                     </imprint>
+                  </bibl>
+                  <bibl xml:id="bibl_PossnertMunkhammar2002" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Possnert</surname>
+                           <forename>Göran</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Munkhammar</surname>
+                           <forename>Lars</forename>
+                        </persName>
+                     </author>
+                     <date>1999 [= 2001]</date>
+                     <title level="a">Silverbibelns ölder och bindningshistoria i ljuset av C14-analys</title>
+                     <title level="j">Annales Academiae Regiae Scientarum Upsaliensis</title>
+                     <biblScope unit="volume">33</biblScope>
+                     <biblScope unit="page">53-65</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Scardigli1971" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Scardigli</surname>
+                           <forename>Piergiuseppe</forename>
+                        </persName>
+                     </author>
+                     <date>1971</date>
+                     <title level="a">Unum redivivum folium</title>
+                     <title level="j">Studi Germanici</title>
+                     <note type="series">n.s.</note>
+                     <biblScope unit="volume">9</biblScope>
+                     <biblScope unit="page">5-19</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Stutz1971" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Stutz</surname>
+                           <forename>Elfriede</forename>
+                        </persName>
+                     </author>
+                     <date>1971</date>
+                     <title level="a">Ein gotisches Evangelienfragment in Speyer</title>
+                     <title level="j">Zeitschrift für vergleichende Sprachforschung</title>
+                     <biblScope unit="volume">85</biblScope>
+                     <biblScope unit="page">85-95</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Stutz1973" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Stutz</surname>
+                           <forename>Elfriede</forename>
+                        </persName>
+                     </author>
+                     <date>1973</date>
+                     <title level="a">Fragmentum Spirense - Verso</title>
+                     <title level="j">Zeitschrift für vergleichende Sprachforschung</title>
+                     <biblScope unit="volume">87</biblScope>
+                     <biblScope unit="page">1-15</biblScope>
+                  </bibl>
+                  <bibl xml:id="bibl_Tjaeder1974" type="journalArticle">
+                     <author>
+                        <persName>
+                           <surname>Tjäder</surname>
+                           <forename>Jan-Olof</forename>
+                        </persName>
+                     </author>
+                     <date>1974</date>
+                     <title level="a">Studier till Codex Argenteus' historia</title>
+                     <title level="j">Nordisk tidskrift för bok- och biblioteksväsen</title>
+                     <biblScope unit="volume">61</biblScope>
+                     <biblScope unit="page">51-99</biblScope>
+                  </bibl>
+               </listBibl>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+   </teiHeader>
+</TEI>
