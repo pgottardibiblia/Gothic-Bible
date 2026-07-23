@@ -55,6 +55,486 @@
                      xpointer="CCar_sDesc_IT"/>
          
       </fileDesc>
+
+      <encodingDesc>
+         <projectDesc>
+            <p>Progetto PRIN 2022 PNRR - Missione 4 "Istruzione e Ricerca" del Piano Nazionale di Ripresa e Resilienza; missione 4, componente 1 – investimento 1.1, Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante Interesse Nazionale (PRIN), dal titolo <title>The textual legacy of the Ostrogoths in Italy: The Bible version and other texts (Acronym: LegOst)</title> - CUP J53D23013530006 - finanziato dall'Unione Europea-Next Generation EU.</p>
+            <p>Il progetto si compone di due unità di ricerca e di un consulente esterno:
+               <list>
+                  <item>Unità di Perugia: prof.ssa Carla Falluomini (PI), dott. Pierandrea Gottardi, dott. John Gallagher</item>
+                  <item>Unità di Cagliari: prof. Antonio Piras, dott. Giacomo Bucci</item>
+                  <item>consulente esterno: prof. Roberto Rosselli Del Turco (Università di Torino)</item>
+               </list>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <hyphenation eol="all">
+               <p>Physical line breaks are preserved in the encoded text.</p>
+            </hyphenation>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="img" matchPattern="([a-zA-Z0-9_]+\.jpg)" replacementPattern="assets/data/images/single">
+               <p>Nel testo, i riferimenti con prefisso "img:" vengono espansi nel percorso completo delle immagini.</p>
+            </prefixDef>
+            <prefixDef ident="xml" matchPattern="([a-zA-Z0-9_]+\.jpg)" replacementPattern="assets/data/schema">
+               <p>Nel testo, i riferimenti con prefisso "xml:" vengono espansi nel percorso completo degli xml.</p>
+            </prefixDef>
+         </listPrefixDef>
+
+         <charDecl>
+
+         <!-- regular letters -->
+
+         <glyph xml:id="þairhtachi">
+          <localProp name='Name' value='TACHIGRAPHIC ÞAIRH'/>
+          <mapping subtype='composite' type='codepoint'>0000FE+000101+000069+000072+000304+000068</mapping>
+          <mapping type="diplomatic">þāir̄h</mapping>
+          <mapping type="normalized">þairh</mapping>
+        </glyph>
+
+        <char xml:id="amacr">
+          <localProp name='Name' value='A WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>000101</mapping>
+          <mapping type="diplomatic">ā</mapping>
+          <mapping type="normalized">a(m)</mapping>
+        </char>
+
+        <glyph xml:id="markutachi">
+          <localProp name='Name' value='TACHIGRAPHIC MARKU'/>
+          <mapping subtype='composite' type='codepoint'>00006D+00035E+000061+00035E+000072</mapping>
+          <mapping type="diplomatic">m͞a͞r</mapping>
+          <mapping type="normalized">mar(ku)</mapping>
+        </glyph>
+
+        <char xml:id="atild">
+          <localProp name='Name' value='A WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>0000E3</mapping>
+          <mapping type="diplomatic">ã</mapping>
+          <mapping type="normalized">a(n)</mapping>
+        </char>
+
+        <char xml:id="emacr">
+          <localProp name='Name' value='E WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>000113</mapping>
+          <mapping type="diplomatic">ē</mapping>
+          <mapping type="normalized">e(m)</mapping>
+        </char>
+
+        <char xml:id="etild">
+          <localProp name='Name' value='E WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>001EBD</mapping>
+          <mapping type="diplomatic">ẽ</mapping>
+          <mapping type="normalized">e(n)</mapping>
+        </char>
+
+        <char xml:id="fraujantachi">
+          <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
+          <mapping subtype='composite' type='codepoint'>000066+00035E+000061+00035E+00006E</mapping>
+          <mapping type="diplomatic">f͞a͞n</mapping>
+          <mapping type="normalized">f(rauj)an</mapping>
+        </char>
+
+        <char xml:id="fraujatachi">
+          <localProp name='Name' value='TACHIGRAPHIC FRAUJA'/>
+          <mapping subtype='composite' type='codepoint'>000066+00035E+000061</mapping>
+          <mapping type="diplomatic">f͞a</mapping>
+          <mapping type="normalized">f(rauj)a</mapping>
+        </char>
+
+        <char xml:id="fraujinstachi">
+          <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
+          <mapping subtype='composite' type='codepoint'>000066+00035E+000061+00035E+00006E+000073</mapping>
+          <mapping type="diplomatic">f͞i͞ns</mapping>
+          <mapping type="normalized">f(rauj)ins</mapping>
+        </char>
+
+        <char xml:id="fraujintachi">
+          <localProp name='Name' value='TACHIGRAPHIC FRAUJAN'/>
+          <mapping subtype='composite' type='codepoint'>000066+00035E+000061+00035E+00006E</mapping>
+          <mapping type="diplomatic">f͞i͞n</mapping>
+          <mapping type="normalized">f(rauj)in</mapping>
+        </char>
+
+        <char xml:id="guþatachi">
+          <localProp name='Name' value='TACHIGRAPHIC GUÞA'/>
+          <mapping subtype='composite' type='codepoint'>000067+000305+0000FE+000305+000061</mapping>
+          <mapping type="diplomatic">g͞þ͞a</mapping>
+          <mapping type="normalized">g(u)þa</mapping>
+        </char>
+
+        <char xml:id="guþblostreistachi">
+          <localProp name='Name' value='TACHIGRAPHIC GUÞBLOSTREIS'/>
+          <mapping subtype='composite' type='codepoint'>000067+000305+0000FE+000062+00006C+00006F+000073+000074+000072+000065+uni1E89</mapping>
+          <mapping type="diplomatic">g͞þblostreis</mapping>
+          <mapping type="normalized">g(u)þblostreis</mapping>
+        </char>
+
+        <char xml:id="guþistachi">
+          <localProp name='Name' value='TACHIGRAPHIC GUÞIS'/>
+          <mapping subtype='composite' type='codepoint'>000067+000305+0000FE+000305+000073</mapping>
+          <mapping type="diplomatic">g͞þ͞s</mapping>
+          <mapping type="normalized">g(u)þ(i)s</mapping>
+        </char>
+
+        <char xml:id="guþtachi">
+          <localProp name='Name' value='TACHIGRAPHIC GUÞ'/>
+          <mapping subtype='composite' type='codepoint'>000067+000305+0000FE</mapping>
+          <mapping type="diplomatic">g͞þ</mapping>
+          <mapping type="normalized">g(u)þ</mapping>
+        </char>
+
+        <char xml:id="htlig">
+          <localProp name='Name' value='NEXUS OF H AND T'/>
+          <mapping type='codepoint'>000068+00035F+000074</mapping>
+          <mapping type="diplomatic">h͟t</mapping>
+          <mapping type="normalized">ht</mapping>
+        </char>
+
+        <char xml:id="iesuatachi">
+          <localProp name='Name' value='TACHIGRAPHIC IESUA'/>
+          <mapping subtype='composite' type='codepoint'>000069+000305+000075+000305+000061</mapping>
+          <mapping type="diplomatic">i͞u͞a</mapping>
+          <mapping type="normalized">i(es)ua</mapping>
+        </char>
+
+        <char xml:id="iesuistachi">
+          <localProp name='Name' value='TACHIGRAPHIC IESUIS'/>
+          <mapping subtype='composite' type='codepoint'>000069+000305+000075+000305+000069+000305+000061</mapping>
+          <mapping type="diplomatic">i͞u͞i͞s</mapping>
+          <mapping type="normalized">i(es)uis</mapping>
+        </char>
+
+        <char xml:id="iesustachi">
+          <localProp name='Name' value='TACHIGRAPHIC IESUS'/>
+          <mapping subtype='composite' type='codepoint'>000069+000305+000075+000305+000061</mapping>
+          <mapping type="diplomatic">i͞u͞s</mapping>
+          <mapping type="normalized">i(es)us</mapping>
+        </char>
+
+        <char xml:id="iesutachi">
+          <localProp name='Name' value='TACHIGRAPHIC IESU'/>
+          <mapping subtype='composite' type='codepoint'>000069+000305+000075</mapping>
+          <mapping type="diplomatic">i͞u</mapping>
+          <mapping type="normalized">i(es)u</mapping>
+        </char>
+
+        <char xml:id="imacr">
+          <localProp name='Name' value='I WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>00012A</mapping>
+          <mapping type="diplomatic">ī</mapping>
+          <mapping type="normalized">i(m)</mapping>
+        </char>
+
+        <char xml:id="itild">
+          <localProp name='Name' value='I WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>000129</mapping>
+          <mapping type="diplomatic">ĩ</mapping>
+          <mapping type="normalized">i(n)</mapping>
+        </char>
+
+        <char xml:id="ktild">
+          <localProp name='Name' value='K WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>00006B+000303</mapping>
+          <mapping type="diplomatic"> ̃k</mapping>
+          <mapping type="normalized">k(n)</mapping>
+        </char>
+
+        <char xml:id="mmacr">
+          <localProp name='Name' value='M WITH TITULUS FOR M'/>
+          <mapping subtype='composite' type='codepoint'>00006D+000305</mapping>
+          <mapping type="diplomatic">͞m</mapping>
+          <mapping type="normalized">m(m)</mapping>
+        </char>
+
+        <char xml:id="mulig">
+          <localProp name='Name' value='NEXUS OF M AND U'/>
+          <mapping type='codepoint'>00006D+00035F+000075</mapping>
+          <mapping type="diplomatic">m͟u</mapping>
+          <mapping type="normalized">mu</mapping>
+        </char>
+
+        <char xml:id="ntild">
+          <localProp name='Name' value='N WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>00006E+000303</mapping>
+          <mapping type="diplomatic"> ̃n</mapping>
+          <mapping type="normalized">n(n)</mapping>
+        </char>
+
+        <char xml:id="omacr">
+          <localProp name='Name' value='O WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>00014D</mapping>
+          <mapping type="diplomatic">ō</mapping>
+          <mapping type="normalized">o(m)</mapping>
+        </char>
+
+        <char xml:id="otild">
+          <localProp name='Name' value='O WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>0000F5</mapping>
+          <mapping type="diplomatic">õ</mapping>
+          <mapping type="normalized">o(n)</mapping>
+        </char>
+
+        <char xml:id="rtild">
+          <localProp name='Name' value='R WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>000072+000303</mapping>
+          <mapping type="diplomatic"> ̃r</mapping>
+          <mapping type="normalized">r(n)</mapping>
+        </char>
+
+        <char xml:id="rþlig">
+          <localProp name='Name' value='NEXUS OF r AND Þ'/>
+          <mapping type='codepoint'>000072+00035F+0000FE</mapping>
+          <mapping type="diplomatic">r͟þ</mapping>
+          <mapping type="normalized">rþ</mapping>
+        </char>
+
+        <char xml:id="stild">
+          <localProp name='Name' value='S WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>000073+000303</mapping>
+          <mapping type="diplomatic"> ̃s</mapping>
+          <mapping type="normalized">s(n)</mapping>
+        </char>
+
+        <char xml:id="umacr">
+          <localProp name='Name' value='U WITH TITULUS FOR M'/>
+          <mapping type='codepoint'>00016B</mapping>
+          <mapping type="diplomatic">ū</mapping>
+          <mapping type="normalized">u(m)</mapping>
+        </char>
+
+        <char xml:id="utild">
+          <localProp name='Name' value='U WITH TITULUS FOR N'/>
+          <mapping type='codepoint'>000169</mapping>
+          <mapping type="diplomatic">ũ</mapping>
+          <mapping type="normalized">u(n)</mapping>
+        </char>
+
+        <char xml:id="xristaustachi">
+          <localProp name='Name' value='TACHIGRAPHIC XRISTAUS'/>
+          <mapping subtype='composite' type='codepoint'>000078+000305+000061+000305+000075+000305+000073</mapping>
+          <mapping type="diplomatic">x͞a͞u͞s</mapping>
+          <mapping type="normalized">x(rist)aus</mapping>
+        </char>
+
+        <char xml:id="xristustachi">
+          <localProp name='Name' value='TACHIGRAPHIC XRISTUS'/>
+          <mapping subtype='composite' type='codepoint'>000078+000305+000075+000305+000073</mapping>
+          <mapping type="diplomatic">x͞u͞s</mapping>
+          <mapping type="normalized">x(rist)us</mapping>
+        </char>
+
+        <char xml:id="xristutachi">
+          <localProp name='Name' value='TACHIGRAPHIC XRISTU'/>
+          <mapping subtype='composite' type='codepoint'>000078+000305+000075</mapping>
+          <mapping type="diplomatic">x͞u</mapping>
+          <mapping type="normalized">x(rist)u</mapping>
+        </char>
+
+        <char xml:id="ztild">
+          <localProp name='Name' value='Z WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>00007A+000303</mapping>
+          <mapping type="diplomatic"> ̃z</mapping>
+          <mapping type="normalized">z(n)</mapping>
+        </char>
+
+        <char xml:id="ïmacr">
+          <localProp name='Name' value='Ï WITH TITULUS FOR M'/>
+          <mapping subtype='composite' type='codepoint'>0000EF+000305</mapping>
+          <mapping type="diplomatic">ï̅</mapping>
+          <mapping type="normalized">ï(m)</mapping>
+        </char>
+
+        <glyph xml:id="þrlig">
+          <localProp name='Name' value='NEXUS OF Þ AND R'/>
+          <mapping type='codepoint'>0000FE+00035F+000072</mapping>
+          <mapping type="diplomatic">þ͟r</mapping>
+          <mapping type="normalized">þr</mapping>
+        </glyph>
+
+        <char xml:id="þtild">
+          <localProp name='Name' value='Þ WITH TITULUS FOR N'/>
+          <mapping subtype='composite' type='codepoint'>0000FE+000303</mapping>
+          <mapping type="diplomatic"> ̃þ</mapping>
+          <mapping type="normalized">þ(n)</mapping>
+        </char>
+
+         <!-- latin letters -->
+
+         <glyph xml:id="sanctamtachi">
+            <localProp name='Name' value='TACHIGRAPHIC SANCTAM'/>
+            <mapping subtype='composite' type='codepoint'>000073+000305+000063+000305+000061+000305+00006D</mapping>
+            <mapping type="diplomatic">s̅c̅a̅m</mapping>
+            <mapping type="normalized">s(an)c(t)am</mapping>
+         </glyph>
+
+         <glyph xml:id="sanctotachi">
+            <localProp name='Name' value='TACHIGRAPHIC SANCTO'/>
+            <mapping subtype='composite' type='codepoint'>000073+000305+000063+000305+00006F</mapping>
+            <mapping type="diplomatic">s̅c̅o</mapping>
+            <mapping type="normalized">s(an)c(t)o</mapping>
+         </glyph>
+
+         <glyph xml:id="quaetachi">
+            <localProp name='Name' value='TACHIGRAPHIC QUAE'/>
+            <mapping subtype='composite' type='codepoint'>000071+00003A+000061</mapping>
+            <mapping type="diplomatic">q:a</mapping>
+            <mapping type="normalized">q(u)a(e)</mapping>
+         </glyph>
+
+         <glyph xml:id="christitachi">
+            <localProp name='Name' value='TACHIGRAPHIC CHRISTI'/>
+            <mapping subtype='composite' type='codepoint'>0003C7+0003C1+000069</mapping>
+            <mapping type="diplomatic">xpi</mapping>
+            <mapping type="normalized">(christ)i</mapping>
+         </glyph>
+
+         <glyph xml:id="christotachi">
+            <localProp name='Name' value='TACHIGRAPHIC CHRISTO'/>
+            <mapping subtype='composite' type='codepoint'>0003C7+0003C1+00006F</mapping>
+            <mapping type="diplomatic">xpo</mapping>
+            <mapping type="normalized">(christ)o</mapping>
+         </glyph>
+
+         <glyph xml:id="christumtachi">
+            <localProp name='Name' value='TACHIGRAPHIC CHRISTUM'/>
+            <mapping subtype='composite' type='codepoint'>0003C7+0003C1+00006D</mapping>
+            <mapping type="diplomatic">xpm</mapping>
+            <mapping type="normalized">(christu)m</mapping>
+         </glyph>
+
+         <glyph xml:id="christustachi">
+            <localProp name='Name' value='TACHIGRAPHIC CHRISTUM'/>
+            <mapping subtype='composite' type='codepoint'>0003C7+0003C1+000073</mapping>
+            <mapping type="diplomatic">xps</mapping>
+            <mapping type="normalized">(christu)s</mapping>
+         </glyph>
+
+         <glyph xml:id="deitachi">
+            <localProp name='Name' value='TACHIGRAPHIC DEI'/>
+            <mapping subtype='composite' type='codepoint'>000064+000305+000069</mapping>
+            <mapping type="diplomatic">d̅i</mapping>
+            <mapping type="normalized">d(e)i</mapping>
+         </glyph>
+
+         <glyph xml:id="deotachi">
+            <localProp name='Name' value='TACHIGRAPHIC DEO'/>
+            <mapping subtype='composite' type='codepoint'>000064+000305+00006F</mapping>
+            <mapping type="diplomatic">d̅o</mapping>
+            <mapping type="normalized">d(e)o</mapping>
+         </glyph>
+
+         <glyph xml:id="deumtachi">
+            <localProp name='Name' value='TACHIGRAPHIC DEUS'/>
+            <mapping subtype='composite' type='codepoint'>000064+000305+00006D</mapping>
+            <mapping type="diplomatic">d̅m</mapping>
+            <mapping type="normalized">d(eu)m</mapping>
+         </glyph>
+
+         <glyph xml:id="Deustachi">
+            <localProp name='Name' value='TACHIGRAPHIC DEUS WITH CAPITAL'/>
+            <mapping subtype='composite' type='codepoint'>000044+000305+000073</mapping>
+            <mapping type="diplomatic">D̅s</mapping>
+            <mapping type="normalized">D(eu)s</mapping>
+         </glyph>
+
+         <glyph xml:id="deustachi">
+            <localProp name='Name' value='TACHIGRAPHIC DEUS'/>
+            <mapping subtype='composite' type='codepoint'>000064+000305+000073</mapping>
+            <mapping type="diplomatic">d̅s</mapping>
+            <mapping type="normalized">d(eu)s</mapping>
+         </glyph>
+
+         <glyph xml:id="iesumtachi">
+            <localProp name='Name' value='TACHIGRAPHIC IESUM'/>
+            <mapping subtype='composite' type='codepoint'>000069+000305+000075+000305+00006D</mapping>
+            <mapping type="diplomatic">i̅u̅m</mapping>
+            <mapping type="normalized">i(es)um</mapping>
+         </glyph>
+
+         <glyph xml:id="spiritutachi">
+            <localProp name='Name' value='TACHIGRAPHIC SPIRITU'/>
+            <mapping subtype='composite' type='codepoint'>000073+000305+000070+000305+000075</mapping>
+            <mapping type="diplomatic">s̅p̅u</mapping>
+            <mapping type="normalized">sp(irit)u</mapping>
+         </glyph>
+
+         <glyph xml:id="dominustachi">
+            <localProp name='Name' value='TACHIGRAPHIC DOMINUS'/>
+            <mapping subtype='composite' type='codepoint'>000064+000305+00006E+000305+000073</mapping>
+            <mapping type="diplomatic">d̅n̅s</mapping>
+            <mapping type="normalized">d(omi)n(u)s</mapping>
+         </glyph>
+
+         <glyph xml:id="dominotachi">
+            <localProp name='Name' value='TACHIGRAPHIC DOMINO'/>
+            <mapping subtype='composite' type='codepoint'>000064+000305+00006E+000305+00006F</mapping>
+            <mapping type="diplomatic">d̅n̅o</mapping>
+            <mapping type="normalized">d(omi)no</mapping>
+         </glyph>
+
+         <glyph xml:id="dominetachi">
+            <localProp name='Name' value='TACHIGRAPHIC DOMINE'/>
+            <mapping subtype='composite' type='codepoint'>000064+000305+00006E+000305+000065</mapping>
+            <mapping type="diplomatic">d̅n̅e</mapping>
+            <mapping type="normalized">d(omi)ne</mapping>
+         </glyph>
+
+         <glyph xml:id="dominitachi">
+            <localProp name='Name' value='TACHIGRAPHIC DOMINI'/>
+            <mapping subtype='composite' type='codepoint'>000064+000305+00006E+000305+000069</mapping>
+            <mapping type="diplomatic">d̅n̅i</mapping>
+            <mapping type="normalized">d(omi)ni</mapping>
+         </glyph>
+
+         <glyph xml:id="nostritachi">
+            <localProp name='Name' value='TACHIGRAPHIC NOSTRI'/>
+            <mapping subtype='composite' type='codepoint'>00006E+000305+000069</mapping>
+            <mapping type="diplomatic">n̅i</mapping>
+            <mapping type="normalized">n(ostr)i</mapping>
+         </glyph>
+
+         <glyph xml:id="umacr">
+            <localProp name='Name' value='U WITH MACRON'/>
+            <mapping type='codepoint'>00016B</mapping>
+            <mapping type="diplomatic">ū</mapping>
+            <mapping type="normalized">u(m)</mapping>
+         </glyph>
+
+         <glyph xml:id="ueverq">
+            <localProp name='Name' value='ABBREVIATION OF UE OVER Q'/>
+            <mapping subtype='composite' type='codepoint'>000071+00003A</mapping>
+            <mapping type="diplomatic">q:</mapping>
+            <mapping type="normalized">q(ue)</mapping>
+         </glyph>
+
+         <glyph xml:id="usoverb">
+            <localProp name='Name' value='ABBREVIATION FOR US OVER B'/>
+            <mapping subtype='composite' type='codepoint'>000062+001DD2</mapping>
+            <mapping type="diplomatic">b᷒</mapping>
+            <mapping type="normalized">b(us)</mapping>
+         </glyph>
+                  
+         
+         </charDecl>
+      </encodingDesc>
+
+      <profileDesc>
+         <langUsage>
+            <language ident="got">Gothic</language>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term type="form">Prose</term>
+               <term type="source">Sacred literature</term>
+               <term type="genre">Biblical text</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+
+      <revisionDesc status="draft">
+         <change when="2024-06-01" who="#Pierandrea Gottardi">Iniziale composizione del file unificato CArg_TEI.xml che include i singoli file dei Vangeli.</change>
+      </revisionDesc>
+
    </teiHeader>
    
    <facsimile xml:id="CCar_facs_Rm">
@@ -215,7 +695,7 @@
                <ab type="verse" n="33" xml:id="CCar_Rm_11_verse_33_bis">
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_1">et</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_2">scientiae</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_3"><choice xml:id="CCar_abbr_277rb_1_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_1_3"><choice xml:id="CCar_abbr_277rb_1_3"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <lb n="2" xml:id="CCar_lb_277rb_2" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_2_1">quam</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_2_2">scrutabilia</w>
@@ -240,7 +720,7 @@
                   <lb n="7" xml:id="CCar_lb_277rb_7" />
                   <space xml:id="CCar_space_277rb_7_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_7_1">sensum</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_7_2"><choice xml:id="CCar_abbr_277rb_7_2"><abbr><am><g ref="#omioverd" /></am>ni</abbr><expan>d<ex>omi</ex>ni</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_7_2"><choice xml:id="CCar_abbr_277rb_7_2"><abbr><am><g ref="#dominitachi" /></am></abbr><expan><ex>domini</ex></expan></choice></w>
                   <lb n="8" xml:id="CCar_lb_277rb_8" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_8_1">aut</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_8_2">quis</w>
@@ -299,7 +779,7 @@
                   <lb n="19" xml:id="CCar_lb_277rb_19" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_19_1">per</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_19_2">misericordiam</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_19_3"><choice xml:id="CCar_abbr_277rb_19_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_19_3"><choice xml:id="CCar_abbr_277rb_19_3"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <lb n="20" xml:id="CCar_lb_277rb_20" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_20_1">ut</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_20_2">exhibeatis</w>
@@ -309,10 +789,10 @@
                   <space xml:id="CCar_space_277rb_21_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_21_1">hostiam</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_21_2">vivam</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_21_3"><choice xml:id="CCar_abbr_277rb_21_3"><abbr><am><g ref="#anovers" /></am><am><g ref="#toverc" /></am>am</abbr><expan>s<ex>an</ex>c<ex>t</ex>am</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_21_3"><choice xml:id="CCar_abbr_277rb_21_3"><abbr><am><g ref="#sanctamtachi" /></am></abbr><expan><ex>sanctam</ex></expan></choice></w>
                   <lb n="22" xml:id="CCar_lb_277rb_22" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_22_1">placentem</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_22_2"><choice xml:id="CCar_abbr_277rb_22_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_22_2"><choice xml:id="CCar_abbr_277rb_22_2"><abbr><am><g ref="#deotachi" /></am>o</abbr><expan><ex>deo</ex></expan></choice></w>
                   <lb n="23" xml:id="CCar_lb_277rb_23" />
                   <space xml:id="CCar_space_277rb_23_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277rb_23_1">obsequium</w>
@@ -436,7 +916,7 @@
                   <space xml:id="CCar_space_277va_23_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_23_1">sijum</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_23_2">ïn</w>
-                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_23_3"><choice xml:id="CCar_abbr_277va_23_3"><abbr><am><g ref="#ristoverx" /></am>au</abbr><expan>x<ex>rist</ex>au</expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_23_3"><choice xml:id="CCar_abbr_277va_23_3"><abbr><am><g ref="#xristautachi" /></am>au</abbr><expan>x<ex>rist</ex>au</expan></choice></w>
                   <lb n="24" xml:id="CCar_lb_277va_24" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_1">aþþan</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_277va_24_2">ainƕarjizuh</w>
@@ -463,7 +943,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_1">quae</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_2">sit</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_3">volumtas</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_4"><choice xml:id="CCar_abbr_277vb_5_4"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_5_4"><choice xml:id="CCar_abbr_277vb_5_4"><abbr><am><g ref="#deitachi" /></am>i</abbr><expan><ex>dei</ex></expan></choice></w>
                   <lb n="6" xml:id="CCar_lb_277vb_6" />
                   <space xml:id="CCar_space_277vb_6_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_6_1">quod</w>
@@ -482,7 +962,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_2">enim</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_3">per</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_4">gratiam</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_5"><choice xml:id="CCar_abbr_277vb_9_5"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_9_5"><choice xml:id="CCar_abbr_277vb_9_5"><abbr><am><g ref="#deitachi" /></am>i</abbr><expan><ex>dei</ex></expan></choice></w>
                   <lb n="10" xml:id="CCar_lb_277vb_10" />
                   <space xml:id="CCar_space_277vb_10_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_10_1">quae</w>
@@ -516,7 +996,7 @@
                   <space xml:id="CCar_space_277vb_16_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_16_1">sicut</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_16_2">divisit</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_16_3"><choice xml:id="CCar_abbr_277vb_16_3"><abbr><am><g ref="#euoverd" /></am>s</abbr><expan>d<ex>eu</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_16_3"><choice xml:id="CCar_abbr_277vb_16_3"><abbr><am><g ref="#deustachi" /></am>s</abbr><expan><ex>deus</ex></expan></choice></w>
                   <lb n="17" xml:id="CCar_lb_277vb_17" />
                   <space xml:id="CCar_space_277vb_17_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_17_1">mensuram</w>
@@ -558,7 +1038,7 @@
                   <space xml:id="CCar_space_277vb_25_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_25_1">sumus</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_25_2">in</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_25_3"><choice xml:id="CCar_abbr_277vb_25_3"><abbr><am><g ref="#christovero" /></am>o</abbr><expan><ex>christ</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_25_3"><choice xml:id="CCar_abbr_277vb_25_3"><abbr><am><g ref="#christotachi" /></am>o</abbr><expan><ex>christ</ex>o</expan></choice></w>
                   <lb n="26" xml:id="CCar_lb_277vb_26" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_1">singuli</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_277vb_26_2">autem</w>
@@ -698,7 +1178,7 @@
             <div type="chapter" n="12" xml:id="CCar_Rm_chapter_12_3">
                <ab type="verse" n="17" xml:id="CCar_Rm_12_verse_17_bis">
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_1_1">co<gap unit="char" extent="1" /><supplied resp="Streitberg,Snædal" xml:id="CCar_em_256vb_1_1">r</supplied>am</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_1_2"><choice xml:id="CCar_abbr_256vb_1_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_1_2"><choice xml:id="CCar_abbr_256vb_1_2"><abbr><am><g ref="#deotachi" /></am></abbr><expan><ex>deo</ex></expan></choice></w>
                   <lb n="2" xml:id="CCar_lb_256vb_2" />
                   <space xml:id="CCar_space_256vb_2_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_2_1">sed</w>
@@ -747,7 +1227,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_1">ego</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_2">retribuam</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_3">dicit</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_4"><choice xml:id="CCar_abbr_256vb_11_4"><abbr><am><g ref="#omioverd" /></am><am><g ref="#uovern" /></am>s</abbr><expan>d<ex>omi</ex>n<ex>u</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_11_4"><choice xml:id="CCar_abbr_256vb_11_4"><abbr><am><g ref="#dominustachi" /></am></abbr><expan><ex>dominus</ex></expan></choice></w>
                   <lb n="12" xml:id="CCar_lb_256vb_12" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_12_1">Si</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256vb_12_2">esurierit</w>
@@ -938,14 +1418,14 @@
                   <lb n="2" xml:id="CCar_lb_256rb_2" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_2_1">nisi</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_2_2">a</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_2_3"><choice xml:id="CCar_abbr_256rb_2_3"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_2_3"><choice xml:id="CCar_abbr_256rb_2_3"><abbr><am><g ref="#deotachi" /></am></abbr><expan><ex>deo</ex></expan></choice></w>
                   <lb n="3" xml:id="CCar_lb_256rb_3" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_3_1">quae</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_3_2">autem</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_3_3">sunt</w>
                   <lb n="4" xml:id="CCar_lb_256rb_4" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_1">a</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_2"><choice xml:id="CCar_abbr_256rb_4_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_2"><choice xml:id="CCar_abbr_256rb_4_2"><abbr><am><g ref="#deotachi" /></am></abbr><expan><ex>deo</ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_3">ordinatae</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_4_4">sunt</w>
                   <lb n="5" xml:id="CCar_lb_256rb_5" />
@@ -955,7 +1435,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_5_2">qui</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_5_3">resistit</w>
                   <lb n="6" xml:id="CCar_lb_256rb_6" />
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_6_1"><choice xml:id="CCar_abbr_256rb_6_1"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_6_1"><choice xml:id="CCar_abbr_256rb_6_1"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_6_2">ornationi</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_6_3">resistit</w>
                   <lb n="7" xml:id="CCar_lb_256rb_7" />
@@ -1004,7 +1484,7 @@
                   <lb n="17" xml:id="CCar_lb_256rb_17" />
                </ab>
                <ab type="verse" n="4" xml:id="CCar_Rm_13_verse_4_bis">
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_1"><choice xml:id="CCar_abbr_256rb_17_1"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_1"><choice xml:id="CCar_abbr_256rb_17_1"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_2">enim</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_3">minister</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_17_4">est</w>
@@ -1029,7 +1509,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_21_1">gladium</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_21_2">portat</w>
                   <lb n="22" xml:id="CCar_lb_256rb_22" />
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_1"><choice xml:id="CCar_abbr_256rb_22_1"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_1"><choice xml:id="CCar_abbr_256rb_22_1"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_2">enim</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_3">minister</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_256rb_22_4">est</w>
@@ -1224,7 +1704,7 @@
                   <space xml:id="CCar_space_255vb_8_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_8_1">ante</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_8_2">tribunal</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_8_3"><choice xml:id="CCar_abbr_255vb_8_3"><abbr><am><g ref="#christoveri" /></am>i</abbr><expan><ex>christ</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_8_3"><choice xml:id="CCar_abbr_255vb_8_3"><abbr><am><g ref="#christitachi" /></am></abbr><expan><ex>christi</ex></expan></choice></w>
                   <lb n="9" xml:id="CCar_lb_255vb_9" />
                </ab>
                <ab type="verse" n="11" xml:id="CCar_Rm_14_verse_11_bis">
@@ -1235,7 +1715,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_1">vivo</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_2">ego</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_3">dicit</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_4"><choice xml:id="CCar_abbr_255vb_10_4"><abbr><am><g ref="#omioverd" /></am><am><g ref="#uovern" /></am>s</abbr><expan>d<ex>omi</ex>n<ex>u</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_10_4"><choice xml:id="CCar_abbr_255vb_10_4"><abbr><am><g ref="#dominustachi" /></am></abbr><expan><ex>dominus</ex></expan></choice></w>
                   <lb n="11" xml:id="CCar_lb_255vb_11" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_11_1">quoniam</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_11_2">mihi</w>
@@ -1249,7 +1729,7 @@
                   <space xml:id="CCar_space_255vb_13_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_13_1">omnis</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_13_2">lingua</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_13_3"><choice xml:id="CCar_abbr_255vb_13_3"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_13_3"><choice xml:id="CCar_abbr_255vb_13_3"><abbr><am><g ref="#deotachi" /></am></abbr><expan><ex>deo</ex></expan></choice></w>
                   <lb n="14" xml:id="CCar_lb_255vb_14" />
                </ab>
                <ab type="verse" n="12" xml:id="CCar_Rm_14_verse_12_bis">
@@ -1264,7 +1744,7 @@
                   <lb n="16" xml:id="CCar_lb_255vb_16" />
                   <space xml:id="CCar_space_255vb_16_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_16_1">reddet</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_16_2"><choice xml:id="CCar_abbr_255vb_16_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_16_2"><choice xml:id="CCar_abbr_255vb_16_2"><abbr><am><g ref="#deotachi" /></am></abbr><expan><ex>deo</ex></expan></choice></w>
                   <lb n="17" xml:id="CCar_lb_255vb_17" />
                </ab>
                <ab type="verse" n="13" xml:id="CCar_Rm_14_verse_13_bis">
@@ -1298,8 +1778,8 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_2">et</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_3">confido</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_4">in</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_5"><choice xml:id="CCar_abbr_255vb_23_5"><abbr><am><g ref="#omioverd" /></am>no</abbr><expan>d<ex>omi</ex>no</expan></choice></w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_6"><choice xml:id="CCar_abbr_255vb_23_6"><abbr><am><g ref="#iesoveru" /></am>u</abbr><expan><ex>ies</ex>u</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_5"><choice xml:id="CCar_abbr_255vb_23_5"><abbr><am><g ref="#dominotachi" /></am></abbr><expan><ex>domino</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_23_6"><choice xml:id="CCar_abbr_255vb_23_6"><abbr><am><g ref="#iesutachi" /></am></abbr><expan><ex>iesu</ex></expan></choice></w>
                   <lb n="24" xml:id="CCar_lb_255vb_24" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_24_1">quia</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255vb_24_2">nihil</w>
@@ -1401,7 +1881,7 @@
                   <lb n="17" xml:id="CCar_lb_255ra_17" />
                   <space xml:id="CCar_space_255ra_17_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_17_1">skalkinoþ</w>
-                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_17_2"><choice xml:id="CCar_abbr_255ra_17_2"><abbr><am><g ref="#ristoverx" /></am>au</abbr><expan>x<ex>rist</ex>au</expan></choice></w>
+                  <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_17_2"><choice xml:id="CCar_abbr_255ra_17_2"><abbr><am><g ref="#xristautachi" /></am>au</abbr><expan>x<ex>rist</ex>au</expan></choice></w>
                   <lb n="18" xml:id="CCar_lb_255ra_18" />
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_18_1">waila</w>
                   <w rend="black_ink" xml:lang="got" xml:id="CCar_w_255ra_18_2">galeikaiþ</w>
@@ -1483,7 +1963,7 @@
                   <lb n="8" xml:id="CCar_lb_255rb_8" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_1">pro</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_2">quo</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_3"><choice xml:id="CCar_abbr_255rb_8_3"><abbr><am><g ref="#christuovers" /></am>s</abbr><expan><ex>christu</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_3"><choice xml:id="CCar_abbr_255rb_8_3"><abbr><am><g ref="#christustachi" /></am></abbr><expan><ex>christus</ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_4">mortuus</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_8_5">est</w>
                   <lb n="9" xml:id="CCar_lb_255rb_9" />
@@ -1503,7 +1983,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_2">est</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_3">enim</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_4">regnum</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_5"><choice xml:id="CCar_abbr_255rb_11_5"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_11_5"><choice xml:id="CCar_abbr_255rb_11_5"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <lb n="12" xml:id="CCar_lb_255rb_12" />
                   <space xml:id="CCar_space_255rb_12_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_12_1">aesca</w>
@@ -1521,8 +2001,8 @@
                   <lb n="15" xml:id="CCar_lb_255rb_15" />
                   <space xml:id="CCar_space_255rb_15_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_15_1">in</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_15_2"><choice xml:id="CCar_abbr_255rb_15_2"><abbr>s<am><g ref="#iritoverp" /></am>u</abbr><expan>sp<ex>irit</ex>u</expan></choice></w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_15_3"><choice xml:id="CCar_abbr_255rb_15_3"><abbr><am><g ref="#anovers" /></am><am><g ref="#toverc" /></am>o</abbr><expan>s<ex>an</ex>c<ex>t</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_15_2"><choice xml:id="CCar_abbr_255rb_15_2"><abbr><am><g ref="#spiritutachi" /></am></abbr><expan><ex>spiritu</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_15_3"><choice xml:id="CCar_abbr_255rb_15_3"><abbr><am><g ref="#sanctotachi" /></am></abbr><expan><ex>sancto</ex></expan></choice></w>
                   <lb n="16" xml:id="CCar_lb_255rb_16" />
                </ab>
                <ab type="verse" n="18" xml:id="CCar_Rm_14_verse_18_bis">
@@ -1534,10 +2014,10 @@
                   <space xml:id="CCar_space_255rb_17_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_17_1">servit</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_17_2">in</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_17_3"><choice xml:id="CCar_abbr_255rb_17_3"><abbr><am><g ref="#christovero" /></am>o</abbr><expan><ex>christ</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_17_3"><choice xml:id="CCar_abbr_255rb_17_3"><abbr><am><g ref="#christotachi" /></am></abbr><expan><ex>christo</ex></expan></choice></w>
                   <lb n="18" xml:id="CCar_lb_255rb_18" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_18_1">placet</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_18_2"><choice xml:id="CCar_abbr_255rb_18_2"><abbr><am><g ref="#eoverd" /></am>o</abbr><expan>d<ex>e</ex>o</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_18_2"><choice xml:id="CCar_abbr_255rb_18_2"><abbr><am><g ref="#deotachi" /></am></abbr><expan><ex>deo</ex></expan></choice></w>
                   <lb n="19" xml:id="CCar_lb_255rb_19" />
                   <space xml:id="CCar_space_255rb_19_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_19_1">et</w>
@@ -1550,7 +2030,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_20_3">sunt</w>
                   <lb n="21" xml:id="CCar_lb_255rb_21" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_1">et</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_2"><choice xml:id="CCar_abbr_255rb_21_2"><abbr><am><g ref="#uaeoverq" /></am></abbr><expan>q<ex>uae</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_2"><choice xml:id="CCar_abbr_255rb_21_2"><abbr><am><g ref="#quaetachi" /></am></abbr><expan>quae<ex></ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_3">aedificationis</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_21_4">sunt</w>
                   <lb n="22" xml:id="CCar_lb_255rb_22" />
@@ -1569,7 +2049,7 @@
                   <space xml:id="CCar_space_255rb_24_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_1">destruere</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_2">opus</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_3"><choice xml:id="CCar_abbr_255rb_24_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_255rb_24_3"><choice xml:id="CCar_abbr_255rb_24_3"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <pb n="280r" xml:id="CCar_pb_7_280r" facs="#CCar_facs_7_280r" />
                   <cb n="1" xml:id="CCar_cb_7_280r_a" />
                   <lb n="1" xml:id="CCar_lb_280ra_1" />
@@ -1732,7 +2212,7 @@
                   <lb n="9" xml:id="CCar_lb_280rb_9" />
                </ab>
                <ab type="verse" n="5" xml:id="CCar_Rm_15_verse_5_bis">
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_9_1"><choice xml:id="CCar_abbr_280rb_9_1"><abbr><am><g ref="#euoverd" /></am>s</abbr><expan>d<ex>eu</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_9_1"><choice xml:id="CCar_abbr_280rb_9_1"><abbr><am><g ref="#deustachi" /></am></abbr><expan><ex>deus</ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_9_2">autem</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_9_3">patientiae</w>
                   <lb n="10" xml:id="CCar_lb_280rb_10" />
@@ -1752,8 +2232,8 @@
                   <lb n="13" xml:id="CCar_lb_280rb_13" />
                   <space xml:id="CCar_space_280rb_13_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_13_1">secundum</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_13_2"><choice xml:id="CCar_abbr_280rb_13_2"><abbr><am><g ref="#christuoverm" /></am>m</abbr><expan><ex>christu</ex>m</expan></choice></w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_13_3"><choice xml:id="CCar_abbr_280rb_13_3"><abbr><am><g ref="#iesuoverm" /></am>m</abbr><expan><ex>iesu</ex>m</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_13_2"><choice xml:id="CCar_abbr_280rb_13_2"><abbr><am><g ref="#christumtachi" /></am></abbr><expan><ex>christum</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_13_3"><choice xml:id="CCar_abbr_280rb_13_3"><abbr><am><g ref="#iesumtachi" /></am></abbr><expan><ex>iesum</ex></expan></choice></w>
                   <lb n="14" xml:id="CCar_lb_280rb_14" />
                </ab>
                <ab type="verse" n="6" xml:id="CCar_Rm_15_verse_6_bis">
@@ -1765,17 +2245,17 @@
                   <lb n="15" xml:id="CCar_lb_280rb_15" />
                   <space xml:id="CCar_space_280rb_15_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_15_1">honorificetis</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_15_2"><choice xml:id="CCar_abbr_280rb_15_2"><abbr><am><g ref="#euoverd" /></am>m</abbr><expan>d<ex>eu</ex>m</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_15_2"><choice xml:id="CCar_abbr_280rb_15_2"><abbr><am><g ref="#deumtachi" /></am></abbr><expan><ex>deum</ex></expan></choice></w>
                   <lb n="16" xml:id="CCar_lb_280rb_16" />
                   <space xml:id="CCar_space_280rb_16_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_16_1">et</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_16_2">patrem</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_16_3"><choice xml:id="CCar_abbr_280rb_16_3"><abbr><am><g ref="#omioverd" /></am>ni</abbr><expan>d<ex>omi</ex>ni</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_16_3"><choice xml:id="CCar_abbr_280rb_16_3"><abbr><am><g ref="#dominitachi" /></am></abbr><expan><ex>domini</ex></expan></choice></w>
                   <lb n="17" xml:id="CCar_lb_280rb_17" />
                   <space xml:id="CCar_space_280rb_17_1" dim="horizontal" />
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_1"><choice xml:id="CCar_abbr_280rb_17_1"><abbr><am><g ref="#ostrovern" /></am>i</abbr><expan>n<ex>ostr</ex>i</expan></choice></w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_2"><choice xml:id="CCar_abbr_280rb_17_2"><abbr><am><g ref="#iesoveru" /></am>u</abbr><expan><ex>ies</ex>u</expan></choice></w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_3"><choice xml:id="CCar_abbr_280rb_17_3"><abbr><am><g ref="#christoveri" /></am>i</abbr><expan><ex>christ</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_1"><choice xml:id="CCar_abbr_280rb_17_1"><abbr><am><g ref="#nostritachi" /></am></abbr><expan>n<ex>ostr</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_2"><choice xml:id="CCar_abbr_280rb_17_2"><abbr><am><g ref="#iesutachi" /></am></abbr><expan><ex>iesu</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_17_3"><choice xml:id="CCar_abbr_280rb_17_3"><abbr><am><g ref="#christitachi" /></am></abbr><expan><ex>christi</ex></expan></choice></w>
                   <lb n="18" xml:id="CCar_lb_280rb_18" />
                </ab>
                <ab type="verse" n="7" xml:id="CCar_Rm_15_verse_7_bis">
@@ -1785,7 +2265,7 @@
                   <lb n="19" xml:id="CCar_lb_280rb_19" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_19_1">sicut</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_19_2">et</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_19_3"><choice xml:id="CCar_abbr_280rb_19_3"><abbr><am><g ref="#christuovers" /></am>s</abbr><expan><ex>christu</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_19_3"><choice xml:id="CCar_abbr_280rb_19_3"><abbr><am><g ref="#christustachi" /></am></abbr><expan><ex>christus</ex></expan></choice></w>
                   <lb n="20" xml:id="CCar_lb_280rb_20" />
                   <space xml:id="CCar_space_280rb_20_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_20_1">suscepit</w>
@@ -1794,14 +2274,14 @@
                   <space xml:id="CCar_space_280rb_21_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_21_1">in</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_21_2">gloriam</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_21_3"><choice xml:id="CCar_abbr_280rb_21_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_21_3"><choice xml:id="CCar_abbr_280rb_21_3"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <lb n="22" xml:id="CCar_lb_280rb_22" />
                </ab>
                <ab type="verse" n="8" xml:id="CCar_Rm_15_verse_8_bis">
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_1">Dico</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_2">enim</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_3"><choice xml:id="CCar_abbr_280rb_22_3"><abbr><am><g ref="#christuoverm" /></am>m</abbr><expan><ex>christu</ex>m</expan></choice></w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_4"><choice xml:id="CCar_abbr_280rb_22_4"><abbr><am><g ref="#iesuoverm" /></am>m</abbr><expan><ex>iesu</ex>m</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_3"><choice xml:id="CCar_abbr_280rb_22_3"><abbr><am><g ref="#christumtachi" /></am></abbr><expan><ex>christum</ex></expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_22_4"><choice xml:id="CCar_abbr_280rb_22_4"><abbr><am><g ref="#iesumtachi" /></am></abbr><expan><ex>iesum</ex></expan></choice></w>
                   <lb n="23" xml:id="CCar_lb_280rb_23" />
                   <space xml:id="CCar_space_280rb_23_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280rb_23_1">ministrum</w>
@@ -1923,7 +2403,7 @@
                   <lb n="1" xml:id="CCar_lb_280vb_1" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_1">propter</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_2">veritatem</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_3"><choice xml:id="CCar_abbr_280vb_1_3"><abbr><am><g ref="#eoverd" /></am>i</abbr><expan>d<ex>e</ex>i</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_1_3"><choice xml:id="CCar_abbr_280vb_1_3"><abbr><am><g ref="#deitachi" /></am></abbr><expan><ex>dei</ex></expan></choice></w>
                   <lb n="2" xml:id="CCar_lb_280vb_2" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_2_1">ad</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_2_2">confirmandas</w>
@@ -1943,7 +2423,7 @@
                   <lb n="6" xml:id="CCar_lb_280vb_6" />
                   <space xml:id="CCar_space_280vb_6_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_6_1">honorare</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_6_2"><choice xml:id="CCar_abbr_280vb_6_2"><abbr><am><g ref="#euoverd" /></am>m</abbr><expan>d<ex>eu</ex>m</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_6_2"><choice xml:id="CCar_abbr_280vb_6_2"><abbr><am><g ref="#deumtachi" /></am></abbr><expan><ex>deum</ex></expan></choice></w>
                   <lb n="7" xml:id="CCar_lb_280vb_7" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_7_1">Sicut</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_7_2">scribtum</w>
@@ -1957,7 +2437,7 @@
                   <space xml:id="CCar_space_280vb_9_1" dim="horizontal" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_9_1">in</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_9_2">gentibus</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_9_3"><choice xml:id="CCar_abbr_280vb_9_3"><abbr><am><g ref="#omioverd" /></am>ne</abbr><expan>d<ex>omi</ex>ne</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_9_3"><choice xml:id="CCar_abbr_280vb_9_3"><abbr><am><g ref="#dominetachi" /></am></abbr><expan><ex>domine</ex></expan></choice></w>
                   <lb n="10" xml:id="CCar_lb_280vb_10" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_10_1">et</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_10_2">nomini</w>
@@ -1986,7 +2466,7 @@
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_1">laudate</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_2">omnes</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_3">gentes</w>
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_4"><choice xml:id="CCar_abbr_280vb_15_4"><abbr><am><g ref="#omioverd" /></am><am><g ref="#uovern" /></am>m</abbr><expan>d<ex>omi</ex>n<ex>u</ex>m</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_15_4"><choice xml:id="CCar_abbr_280vb_15_4"><abbr><am><g ref="#dominumtachi" /></am></abbr><expan><ex>dominum</ex></expan></choice></w>
                   <lb n="16" xml:id="CCar_lb_280vb_16" />
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_16_1">et</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_16_2">magnificate</w>
@@ -2022,7 +2502,7 @@
                   <lb n="23" xml:id="CCar_lb_280vb_23" />
                </ab>
                <ab type="verse" n="13" xml:id="CCar_Rm_15_verse_13_bis">
-                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_23_1"><choice xml:id="CCar_abbr_280vb_23_1"><abbr><am><g ref="#euoverD" /></am>s</abbr><expan>D<ex>eu</ex>s</expan></choice></w>
+                  <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_23_1"><choice xml:id="CCar_abbr_280vb_23_1"><abbr><am><g ref="#Deustachi" /></am></abbr><expan><ex>Deus</ex></expan></choice></w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_23_2">autem</w>
                   <w rend="black_ink" xml:lang="lat" xml:id="CCar_w_280vb_23_3">spei</w>
                   <lb n="24" xml:id="CCar_lb_280vb_24" />
